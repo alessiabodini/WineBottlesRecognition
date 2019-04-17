@@ -1,0 +1,20 @@
+CastelloDeiRampolla.png: 
+Cavalleri.png: 
+CodiceBortolotti.png: 1094 
+CosteAPreola.png: 
+DonnaWalda.png: 
+IlRamato.png: AMATO 
+Lamole.png: 
+LangheChardonnay.png: 
+MorellinodiScansano.png: 
+Ollympus.png: 
+Panascio.png: 
+SellaMosca.png: 
+Tenzone.png: 
+ToscanaBianco.png: 
+Trebbianino.png: TREBBIANINO VAL TREBBIA 
+Tyur.png: 
+VernacciaOristano.png: CARTA 
+Vidussi.png: 
+VillaCaplet.png: 
+Zefiro.png: 

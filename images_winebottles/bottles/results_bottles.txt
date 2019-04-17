@@ -1,0 +1,17 @@
+Antinori.png: 
+Cadelbosco.png: DEL 
+Cadelbosco.1.png: CADEL 
+Colvendra.png: 
+CorteGiara.png: 
+Ferrari.png: 
+Ferrari.1.png: FERRARI 
+Fongaro.png: 
+Jorche.png: 
+LaSala.png: SALA VAL 
+Lungarotti.png: TORALCO 
+Lvnae.png: LVNAE NICCOLO 
+PraSoave.png: OTTO 
+Rinaldi.png: 
+TelosRed.png: 
+TelosWhite.png: 
+Valiano.png: RISERVA DELLA 

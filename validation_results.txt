@@ -1,0 +1,48 @@
+Antinori.png:
+
+Cadelbosco.png:
+	BOSCO not found
+
+Cadelbosco.1.png:
+	BOSCO not found
+
+Colvendra.png:
+
+CorteGiara.png:
+
+Ferrari.png:
+
+Ferrari.1.png:
+	FERRARI not found
+
+Fongaro.png:
+	FONGARO not found
+
+Jorche.png:
+
+LaSala.png:
+	SALA correct!
+	SALA found similar
+
+Lungarotti.png:
+	TORALCO correct!
+
+Lvnae.png:
+	LVNAE correct!
+	LVNAE not found
+
+PraSoave.png:
+	SOAVE not found
+
+Rinaldi.png:
+
+TelosRed.png:
+	TELOS not found
+	TELOS not found
+
+TelosWhite.png:
+
+Valiano.png:
+	VALIANO not found
+	VALIANO not found
+
