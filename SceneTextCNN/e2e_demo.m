@@ -25,14 +25,13 @@ switch lextype
     case '50',
         THRESH=-0.3;
 end
-
 % test on icdar dataset
 [icdar_precision, icdar_recall, icdar_fscore] = getFScore('icdarTest',model, icdarTestStruct, icdarTestLex, std_cost, narrow_cost, split_cost, lextype,THRESH);
 
 % hyperparameters obtained with grid search on svtTrain
-%std_cost = 0.12; narrow_cost = 0.3; split_cost = 4; 
+std_cost = 0.12; narrow_cost = 0.3; split_cost = 4; 
 % this is the threshold that gives best fscore
-%THRESH=0.2;
+THRESH=0.2;
 % test on svt dataset
-%[svt_precision, svt_recall, svt_fscore] = getFScore('svtTest', model, svtTestStruct, {}, std_cost, narrow_cost, split_cost, lextype, THRESH);
+[svt_precision, svt_recall, svt_fscore] = getFScore('svtTest', model, svtTestStruct, {}, std_cost, narrow_cost, split_cost, lextype, THRESH);
 

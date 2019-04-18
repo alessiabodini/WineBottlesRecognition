@@ -1,8 +1,9 @@
-function runDetectorNew(outputDir)
+function runDetector()
 
-addpath ../.
-data_dir = '../images_winebottles/raw/';
-tot_images = 14;
+addpath(genpath('.')); % '.' or pwd?
+data_dir = 'images_winebottles/bottles/labels/';
+output_dir = 'winebottles_bottles_labels/';
+tot_images = 17;
 
 if ~exist('num2ndLayerUnits', 'var')
     num2ndLayerUnits=256;
@@ -27,15 +28,15 @@ end
 fclose(fid);
 fprintf('File names loaded.\n');
 
-if ~exist(['../precomputedLineBboxes/', outputDir])
-    mkdir(['../precomputedLineBboxes/', outputDir])
+if ~exist(['../precomputedLineBoxes/', output_dir])
+    mkdir(['../precomputedLineBoxes/', output_dir])
 end
-outputDir = ['../precomputedLineBboxes/', outputDir];
+output_dir = ['../precomputedLineBoxes/', output_dir];
 
 for i = 1:length(filenames)-1
     img = imread([data_dir, filenames{i}]);
     
-    saveName = [outputDir, '/', filenames{i}];
+    saveName = [output_dir, '/', filenames{i}];
     saveName(end-3:end)='.mat';
     fprintf('bbox filename is %s\n', saveName);
     if ~exist(saveName,'file') % only recompute if file does not exist

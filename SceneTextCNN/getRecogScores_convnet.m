@@ -3,6 +3,7 @@
 function scores =  getRecogScores_convnet(img, D1, M1, P1, mu,sig, params, netconfig)
 % compute sliding window classifier scores on a cropped line segment using 
 % the character classifier model provided.
+
     height0 = 32;
     if size(img,3)>1
     img = rgb2gray(img);

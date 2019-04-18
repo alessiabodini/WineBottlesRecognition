@@ -7,8 +7,7 @@ addpath(genpath('.'))
 load detectorDemo/models/detectorCentroids_96.mat
 % load detector model
 load detectorDemo/models/CNN-B256.mat
-% img = imread('detectorDemo/models/sampleImage.jpg');
-img = imread('images_winebottles/bottles/Valiano.png');
+img = imread('detectorDemo/models/sampleImage.jpg');
 fprintf('Constructing filter stack...\n');
 filterStack = cstackToFilterStack(params, netconfig, centroids, P, M, [2,2,256]);
 fprintf('Computing responses, this can take quite long...\n');
@@ -74,9 +73,7 @@ for bidx = 1:numbbox % for every line-level bounding box
         [orig_sorted_locations sortidx]= sort(locations(:),'ascend');
         spacescores = spacescores(sortidx);
         % resize and pad the line-level bbox
-        longimg = rgb2gray(img(aa(1): cc(1), aa(2):bb(2), :)); % already a
-        %gray image
-        %longimg = img(aa(1): cc(1), aa(2):bb(2), :);
+        longimg = rgb2gray(img(aa(1): cc(1), aa(2):bb(2), :));
         stdimg = imresize(longimg, [32, NaN]);
         [subheight subwidth] = size(longimg);
         [stdheight stdwidth] = size(stdimg);

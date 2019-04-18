@@ -21,28 +21,3 @@ Fongaro.png:
 Jorche.png:
 
 LaSala.png:
-	SALA correct!
-	SALA found similar
-
-Lungarotti.png:
-	TORALCO correct!
-
-Lvnae.png:
-	LVNAE correct!
-	LVNAE not found
-
-PraSoave.png:
-	SOAVE not found
-
-Rinaldi.png:
-
-TelosRed.png:
-	TELOS not found
-	TELOS not found
-
-TelosWhite.png:
-
-Valiano.png:
-	VALIANO not found
-	VALIANO not found
-

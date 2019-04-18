@@ -1,4 +1,6 @@
 %% Search for the results of bottles and gt and put them in cell array
+
+addpath(genpath('.'));
 dir_bottles = 'images_winebottles/bottles/labels/';
 dir_gt = 'images_winebottles/gt/labels/';
 tot_bottles = 17;
@@ -71,11 +73,15 @@ for i = 1:tot_bottles
     % Extract corresponding image in gt dataset
     index = find(contains(words_gt_names, imgname));
     fprintf(fid, '%s\n', words_bottles{i,1});
+    fprintf('%s\n', words_bottles{i,1});
     % if there is at least one word in results_gt for this bottle
     if ~isempty(words_gt{index,2})
+        matches = cell(1,col_bottles);
+        matches_text = cell(1,col_bottles);
         j = 2;
         while j <= col_bottles & ~isempty(words_bottles{i,j})
             z = 2;
+            fprintf('Analysing %s\n', words_bottles{i,j});
             while z <= col_gt & ~isempty(words_gt{index,z})
                 % Compare every word in results_bottles with every word in
                 % results_gt
@@ -84,18 +90,26 @@ for i = 1:tot_bottles
             end
             % Detect best word score (minimum score)
             [minscore, minindex] = min(word_score(i));
-            matches{j} = words_gt{index, minindex+1};
+            % PER OGNI PAROLA DELL'IMMAGINE WORD_SCORE VIENE RISCRITTO:
+            % UTILIZZARE UNA MATRICE 3D?? COME CAMBIA SOTTO??
+            matches{j-1} = words_gt{index, minindex+1};
+            matches = deleteDuplicates(matches);
+            if isempty(matches{j-1})
+                j = j + 1;
+                continue;
+            end
             if minscore == 0
-                matches{j} = sprintf('\t%s correct!\n', matches{j});
+                matches_text{j-1} = sprintf('\t%s correct!\n', matches{j-1});
             elseif minscore <= 2
-                matches{j} = sprintf('\t%s found similar\n', matches{j});
+                matches_text{j-1} = sprintf('\t%s found similar\n', matches{j-1});
             else
-                matches{j} = sprintf('\t%s not found\n', matches{j});
+                matches_text{j-1} = sprintf('\t%s not found\n', matches{j-1});
             end
             j = j + 1;
         end
-        [~,tot_matches] = size(matches);
-        fprintf(fid, '%s', matches{:});
+        [~,tot_matches] = size(matches_text);
+        fprintf(fid, '%s', matches_text{:});
+        fprintf('%s', matches_text{:});
     end
     fprintf(fid, '\n');
 end
@@ -115,6 +129,7 @@ for i = 1:tot_gt
     fprintf(fid, '%s ', words_gt{i,1});
     if ~isempty(index) % if bottles called 'imgname' are in bottles dataset
         % Sort all words' scores for images in 'index' (return an array) 
+        % RIVEDERE LE DIMENSIONI DI WORD_SCORE!!
         tot_word_score = (col_word_score) * length(index);
         score_per_name = reshape(word_score(index,:), 1, tot_word_score);
         [sortout, sortidx] = sort(score_per_name);

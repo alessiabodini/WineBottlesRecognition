@@ -85,10 +85,6 @@ if strcmp(benchMark,'icdar') % icdar word recognition benchmark
             end
             totalStrings = totalStrings+1;
             
-            txtname = ['Outputs/' imgname '.txt'];
-            fid = fopen(txtname,'w');
-            fprintf(fid,predword\n);
-            fclose(fid);
             disp(['true label: ' trueTag ',  predicted label: ' predword ',  accuracy so far: '  num2str(totalCorrect)  '/' num2str(totalStrings)]);
         end
         bboxCnt = bboxCnt+1;
@@ -140,11 +136,7 @@ elseif strcmp(benchMark,'svt')
             end
             totalStrings = totalStrings+1;
             
-            fid = fopen(lexfile,'r');
-            str = textscan(fid, '%s');
-            lex = str{1};
-            fclose(fid);
-            disp(['true label: ' trueTag ',  predicted label: ' predword ',  accuracy so far: '  num2str(totalCorrect)  '/' num2str(totalStrings)]);
+           disp(['true label: ' trueTag ',  predicted label: ' predword ',  accuracy so far: '  num2str(totalCorrect)  '/' num2str(totalStrings)]);
         end
     end
     if computeScore

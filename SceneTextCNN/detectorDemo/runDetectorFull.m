@@ -28,18 +28,7 @@ switch dataset
 	system(['mkdir ' out_dir 'ryoungt_05.08.2002']);
         data_dir = '../SceneTrialTrain/';
     case 'icdarTest',
-        out_dir = '../precomputedLineBboxes/ICDARTestsaveName = [out_dir, imgNames{i}];
-    saveName(end-3:end)='.mat';
-    fprintf('bbox filename is %s\n', saveName);
-    if ~exist(saveName,'file') % only recompute if file does not exist
-        fprintf('Computing responses...for img %s\n', [data_dir, imgNames{i}]);
-        responses = computeResponses(img, filterStack);
-        
-        fprintf('Finding lines...\n');
-        response = findBoxesFull(responses);
-        fprintf('saving to %s\n', saveName);
-        save(saveName, 'response');
-    end/';
+        out_dir = '../precomputedLineBboxes/ICDARTest/';
 	
 	system(['mkdir ' out_dir 'ryoungt_05.08.2002']);
 	system(['mkdir ' out_dir 'ryoungt_13.08.2002']);
