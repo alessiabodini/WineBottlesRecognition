@@ -1,15 +1,1 @@
 Antinori.png: 
-Cadelbosco.png: BOSCO BOSCO 
-Colvendra.png: 
-Cortegiara.png: 
-Ferrari.png: PERLE FERRARI PERLE 
-Fongaro.png: FONGARO 
-Jorche.png: MANDURIA PRIMITIVO JORCHE 
-LaSala.png: SALA SALA 
-Lungarotti.png: TORALCO 
-Lvnae.png: NICCOLO LVNAE 
-PraSoave.png: SOAVE PRA 
-Rinaldi.png: IMPERIALE METODO CLASSICO 
-TelosRed.png: TELOS 
-TelosWhite.png: TELOS 
-Valiano.png: VALIANO RISERVA 

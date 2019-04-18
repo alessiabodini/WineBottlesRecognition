@@ -64,7 +64,6 @@ end
 word_score = ones(tot_bottles,col_bottles)*100;
 fid = fopen('validation_results.txt', 'w');
 for i = 1:tot_bottles
-    matches = cell(1,col_bottles);
     % Extract image name
     name = split(words_bottles{i,1},'.');
     imgname = name(1);
@@ -86,21 +85,20 @@ for i = 1:tot_bottles
             [minscore, minindex] = min(word_score(i));
             matches{j} = words_gt{index, minindex+1};
             if minscore == 0
-                matches{j} = sprintf('\t%s correct!\n', matches{j});
+                fprintf(matches{j}, '\t%s correct!\n', matches{j});
             elseif minscore <= 2
-                matches{j} = sprintf('\t%s found similar\n', matches{j});
+                fprintf(matches{j}, '\t%s found similar\n', matches{j});
             else
-                matches{j} = sprintf('\t%s not found\n', matches{j});
+                fprintf(matches{j}, '\t%s not found\n', matches{j});
             end
             j = j + 1;
         end
-        [~,tot_matches] = size(matches);
-        fprintf(fid, '%s', matches{:});
+        [~,tot_matches
+        fprintf(fid, '%s', matches{j});
     end
     fprintf(fid, '\n');
 end
 fclose(fid);
-fprintf('New validation_results.txt!\n');
 
 % Create a sort results_gt for most similar word found in
 % results_bottles
@@ -129,17 +127,19 @@ for i = 1:tot_gt
         % If there are no words in gt for this bottle
         if isempty(sorted_words_gt)
             fprintf(fid, '\n');
-            %fprintf('%s empty\n', words_gt{i,1});
+            fprintf('%s empty\n', words_gt{i,1});
             continue;
         end
         [~,tot_sorted_words] = size(sorted_words_gt);
         % If a cell array contains an empy string [] o a duplicate, delete it
         sorted_words_gt = deleteDuplicates(sorted_words_gt);
+        [~,tot_sorted_words] = size(sorted_words_gt);
         % Print non duplicates in sorted_words_gt.txt
-        fprintf(fid, '%s ', sorted_words_gt{:});
-        %fprintf('%s printed\n', words_gt{i,1});
+        for j = 1:tot_sorted_words
+            fprintf(fid, '%s ', sorted_words_gt{j});
+            fprintf('%s printed\n', words_gt{i,1});
+        end
     end
     fprintf(fid, '\n');
 end    
 fclose(fid);
-fprintf('New sorted_words_gt.txt!\n');

@@ -1,7 +1,7 @@
 Antinori.png: 
 Cadelbosco.png: BOSCO 
 Colvendra.png: 
-Cortegiara.png: AMARONE ILR 
+CorteGiara.png: AMARONE ILR 
 Ferrari.png: PRA 
 Fongaro.png: FONGARO 
 Jorche.png: PAS 
