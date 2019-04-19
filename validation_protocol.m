@@ -44,7 +44,9 @@ end
 fclose(fid);
 fprintf('GT results loaded.\n');
 
-%% Create two cell array containing images' names from words_gt and 
+%% Find if words in results_gt are also in results_bottles (and in wich position)
+
+% Create two cell array containing images' names from words_gt and  
 % words_bottles
 words_gt_names = cell(tot_gt,1);
 for i = 1:tot_gt
@@ -60,22 +62,21 @@ end
 [~,col_bottles] = size(words_bottles);
 [~,col_gt] = size(words_gt);
 
-% Determine correct word found in results_bottles
 word_score = ones(tot_bottles,col_bottles,col_gt)*100;
 final_index = zeros(tot_gt,col_gt-1);
+matches = cell(tot_bottles,0);
 fid = fopen('validation_results.txt', 'w');
 for i = 1:tot_bottles
-    matches = cell(1,col_bottles);
+    m = 1;
     % Extract image name
     name = split(words_bottles{i,1},'.');
-    imgname = name(1);
+    imgname = name{1};
     % Extract corresponding image in gt dataset
     index = find(contains(words_gt_names, imgname));
     fprintf(fid, '%s\n', words_bottles{i,1});
     % if there is at least one word in results_gt for this bottle
     if ~isempty(words_gt{index,2})
-        matches = cell(1,col_bottles);
-        matches_text = cell(1,col_bottles);
+        matched_bottles = [1,col_bottles-1];
         final_scores = ones(col_bottles,col_gt-1)*100;
         j = 2;
         while j <= col_bottles & ~isempty(words_bottles{i,j})
@@ -89,8 +90,9 @@ for i = 1:tot_bottles
             % Detect best word score (minimum score) and add the result to
             % the other scores for words found in the same image
             [min_score, min_index] = min(word_score(i,j,:));
-            if min_score == 0 % change according to precision
+            if min_score < 100
                 final_index(index,min_index) = final_index(min_index) + 1;
+                matched_bottles(min_index) = j;
             end
             final_scores(j,min_index) = min_score;
             %disp(final_index)
@@ -106,11 +108,13 @@ for i = 1:tot_bottles
             end
             [score,~] = min(final_scores(:,j));
             if score == 0
-            	fprintf(fid, '\t%s correct!\n', match);
-            elseif score <= 2
-                fprintf(fid, '\t%s found similar...\n', match);
+            	fprintf(fid, '\t%s found at position %i!\n', match, matched_bottles(j)-1);
+                matches{i,m} = match;
+                m = m + 1;
+            elseif score <= 3 % change according to precision
+                fprintf(fid, '\t%s found similar (score = %i).\n', match, score);
             else
-                fprintf(fid, '\t%s not found.\n', match);
+                fprintf(fid, '\t%s not found (score > 3).\n', match);
             end
         end
     end
@@ -119,36 +123,31 @@ end
 fclose(fid);
 fprintf('New validation_results.txt!\n');
 
-%% Create a sort results_gt for most similar word found in results_bottles
+%% Determine where there is a match with a bottle
 
-[~,col_word_score,prof_word_score] = size(word_score);
-fid = fopen('sorted_words_gt.txt', 'w');
-for i = 1:tot_gt
+fid = fopen('matches.txt', 'w');
+for i = 1:tot_bottles
     % Extract image name
-    name = split(words_gt{i,1},'.');
-    imgname = name(1);
-    % Find corresponding images in bottles dataset
-    index = find(contains(words_bottles_names, imgname));
-    fprintf(fid, '%s ', words_gt{i,1});
-    sort_words_gt = [1,col_gt-1];
-    if ~isempty(index) % if bottles called 'imgname' are in bottles dataset
-        % Sort all words' scores for images in 'index' (return an array) 
-        total_score = zeros(1,col_gt-1);
-        % Sort words in results_gt given the indexes of the words matching
-        % in the last part of the code
-        [~,sort_index] = sort(final_index(i,:),'descend');
-        sorted_words_gt = words_gt(i,sort_index+1);
-        % Delete empty cell
-        sorted_words_gt = sorted_words_gt(~cellfun('isempty',sorted_words_gt));
-        % If there are no words in gt for this bottle
-        if isempty(sorted_words_gt)
-            fprintf(fid, '\n');
-            continue;
+    name = split(words_bottles{i,1},'.');
+    imgname = name{1};
+    % Search for every word in results_bottles before the corrisponding bottle
+    rank_score = zeros(1,tot_gt);
+    for name = words_bottles(i,2:end) % for only perfect matches use '= matches(i)'
+        if ~isempty(name)
+            for j = 1:tot_gt
+                if ~isempty(find(strcmp(words_gt(j,:),name)))
+                    rank_score(j) = rank_score(j) + 1;
+                end
+            end
         end
-        % Print in sorted_words_gt.txt
-        fprintf(fid, '%s ', sorted_words_gt{:});
     end
-    fprintf(fid, '\n');
-end    
+    [score,index] = max(rank_score);
+    bottle = words_gt_names{index};
+    if score > 0
+        fprintf(fid, '%s match to %s bottle!\n', imgname, bottle(1:end-5));
+    else
+        fprintf(fid, '%s doesn''t match with any bottle.\n', imgname);
+    end
+end
 fclose(fid);
-fprintf('New sorted_words_gt.txt!\n');
+fprintf('New matches.txt!\n');

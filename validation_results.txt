@@ -1,59 +1,59 @@
 Antinori.png:
 
 Cadelbosco.png:
-	BOSCO not found.
+	BOSCO not found (score > 3).
 
 Cadelbosco.1.png:
-	BOSCO not found.
+	BOSCO not found (score > 3).
 
 Colvendra.png:
 
 CorteGiara.png:
-	AMARONE not found.
+	AMARONE not found (score > 3).
 
 Ferrari.png:
-	FERRARI not found.
-	PERLE not found.
+	FERRARI not found (score > 3).
+	PERLE not found (score > 3).
 
 Ferrari.1.png:
-	FERRARI not found.
-	PERLE correct!
+	FERRARI not found (score > 3).
+	PERLE found at position 1!
 
 Fongaro.png:
-	FONGARO not found.
+	FONGARO not found (score > 3).
 
 Jorche.png:
-	MANDURIA not found.
-	PRIMITIVO not found.
-	JORCHE not found.
+	MANDURIA not found (score > 3).
+	PRIMITIVO not found (score > 3).
+	JORCHE not found (score > 3).
 
 LaSala.png:
-	SALA correct!
-	SALA not found.
+	SALA found at position 2!
+	SALA not found (score > 3).
 
 Lungarotti.png:
-	TORALCO correct!
+	TORALCO found at position 1!
 
 Lvnae.png:
-	LVNAE correct!
-	NICCOLO correct!
+	LVNAE found at position 1!
+	NICCOLO found at position 2!
 
 PraSoave.png:
-	SOAVE not found.
-	PRA not found.
+	SOAVE not found (score > 3).
+	PRA not found (score > 3).
 
 Rinaldi.png:
-	IMPERIALE not found.
-	METODO not found.
-	CLASSICO not found.
+	IMPERIALE not found (score > 3).
+	METODO not found (score > 3).
+	CLASSICO not found (score > 3).
 
 TelosRed.png:
-	TELOS not found.
+	TELOS found similar (score = 3).
 
 TelosWhite.png:
-	TELOS not found.
+	TELOS not found (score > 3).
 
 Valiano.png:
-	VALIANO not found.
-	RISERVA correct!
+	VALIANO not found (score > 3).
+	RISERVA found at position 1!
 
