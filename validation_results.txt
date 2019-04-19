@@ -1,23 +1,59 @@
 Antinori.png:
 
 Cadelbosco.png:
-	BOSCO not found
+	BOSCO not found.
 
 Cadelbosco.1.png:
-	BOSCO not found
+	BOSCO not found.
 
 Colvendra.png:
 
 CorteGiara.png:
+	AMARONE not found.
 
 Ferrari.png:
+	FERRARI not found.
+	PERLE not found.
 
 Ferrari.1.png:
-	FERRARI not found
+	FERRARI not found.
+	PERLE correct!
 
 Fongaro.png:
-	FONGARO not found
+	FONGARO not found.
 
 Jorche.png:
+	MANDURIA not found.
+	PRIMITIVO not found.
+	JORCHE not found.
 
 LaSala.png:
+	SALA correct!
+	SALA not found.
+
+Lungarotti.png:
+	TORALCO correct!
+
+Lvnae.png:
+	LVNAE correct!
+	NICCOLO correct!
+
+PraSoave.png:
+	SOAVE not found.
+	PRA not found.
+
+Rinaldi.png:
+	IMPERIALE not found.
+	METODO not found.
+	CLASSICO not found.
+
+TelosRed.png:
+	TELOS not found.
+
+TelosWhite.png:
+	TELOS not found.
+
+Valiano.png:
+	VALIANO not found.
+	RISERVA correct!
+
