@@ -1,3 +1,6 @@
+clear all;
+close all;
+
 %% Search for the results of bottles and gt and put them in cell array
 
 addpath(genpath('.'));
@@ -125,6 +128,7 @@ fprintf('New validation_results.txt!\n');
 
 %% Determine where there is a match with a bottle
 
+tot_matches = zeros(1,tot_gt);
 fid = fopen('matches.txt', 'w');
 for i = 1:tot_bottles
     % Extract image name
@@ -141,6 +145,15 @@ for i = 1:tot_bottles
             end
         end
     end
+    % Get all matches
+    % AGGIUNGENDO 'FONGARO' ALLA RELATIVA BOTTIGLIA NON VEDE PIU' IL 
+    % MATCH CON 'PRA'
+    for j = 1:length(rank_score)
+        if rank_score(j) > 0
+            tot_matches(j) = tot_matches(j) + 1; 
+        end
+    end
+    % Extract and print best rank score
     [score,index] = max(rank_score);
     bottle = words_gt_names{index};
     if score > 0
@@ -151,3 +164,20 @@ for i = 1:tot_bottles
 end
 fclose(fid);
 fprintf('New matches.txt!\n');
+
+% Draw plot 
+figure;
+x = 1:1:length(tot_matches);
+scatter(x,tot_matches); % plot for displaying data distributions
+xlim([0 16]);
+ylim([-1 9]);
+xticks(1:1:15);
+xticklabels({'Antinori','Cadelbosco','Colvendra','CorteGiara', ...
+    'Ferrari','Fongaro','Jorche','LaSala','Lungarotti','Lvnae', ...
+    'PraSoave','Rinaldi','TelosRed','TelosWhite','Valiano'});
+yticks(0:1:8);
+grid on
+xlabel('Bottles');
+ylabel('Images matched');
+
+
