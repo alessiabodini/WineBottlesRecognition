@@ -163,42 +163,37 @@ for i = 1:tot_bottles
     end
     
     % Draw plot 
-    %figure;
-    %x = 1:1:length(tot_matches);
-    %scatter(x,tot_matches); % plot for displaying data distributions
-    %xlim([0 18]);
-    %ylim([0 2]);
-    %xticks(0:1:17);
-    %xticklabels(words_gt_names);
-    %yticks(0:1);
-    %grid on
-    %xlabel('Bottles');
-    %ylabel('Matches');
+    figure;
+    x = 1:1:length(tot_matches);
+    scatter(x,tot_matches); % plot for displaying data distributions
+    xlim([0 16]);
+    ylim([0 2]);
+    xticks(1:1:15);
+    xticklabels(words_gt_names);
+    yticks(0:1);
+    grid on
+    xlabel('Bottles');
+    ylabel('Matches');
     
-    % Calculate CMC
+    % Create cmc
     if sum(tot_matches) ~= 0
         cmc(i) = sum(tot_matches);
     else
         cmc(i) = 8;
     end
+    plot(cmc);
+    xlim([0 16]);
+    ylim([0 9]);
+    xticks(1:1:15);
+    %xticklabels(words_bottles_names);
+    yticks(0:1:8);
+    grid on
+    xlabel('Bottles names');
+    ylabel('Matches');
 end
 fclose(fid);
 fprintf('New matches.txt!\n');
 
-% Plot CMC
-figure('Name','CMC plot','NumberTitle','off')
-plot(cmc);
-xlim([0 18]);
-ylim([0 9]);
-xticks(0:1:17);
-%xticklabels(words_bottles_names);
-yticks(0:1:8);
-grid on
-xlabel('Bottles names');
-ylabel('Matches');
 
-% Calculate accurancy of the system (low score = high accurency)
-auc = trapz(cmc)/tot_bottles;
-fprintf('Accurancy is %.3f.\n', auc);
 
 

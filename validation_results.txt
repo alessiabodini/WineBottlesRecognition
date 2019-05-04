@@ -20,7 +20,7 @@ Ferrari.1.png:
 	PERLE found at position 1!
 
 Fongaro.png:
-	FONGARO found at position 2!
+	FONGARO not found (score > 3).
 
 Jorche.png:
 	MANDURIA not found (score > 3).
