@@ -146,8 +146,6 @@ for i = 1:tot_bottles
         end
     end
     % Get all matches
-    % AGGIUNGENDO 'FONGARO' ALLA RELATIVA BOTTIGLIA NON VEDE PIU' IL 
-    % MATCH CON 'PRA'
     for j = 1:length(rank_score)
         if rank_score(j) > 0
             tot_matches(j) = tot_matches(j) + 1; 
