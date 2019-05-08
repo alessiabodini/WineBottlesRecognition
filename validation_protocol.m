@@ -4,12 +4,10 @@ close all;
 %% Search for the results of bottles and gt and put them in cell array
 
 addpath(genpath('.'));
-dir_bottles = 'images_winebottles/bottles/labels/';
-dir_gt = 'images_winebottles/gt/labels/';
-tot_bottles = 17;
-tot_gt = 15;
+dir_bottles = 'images_winebottles/bottles/';
+dir_gt = 'images_winebottles/gt/';
 
-fid = fopen([dir_bottles, 'results_bottles_labels.txt']);
+fid = fopen([dir_bottles, 'results.txt']);
 if fid == -1
     error('Cannot open file.\n')
 end
@@ -28,7 +26,7 @@ end
 fclose(fid);
 fprintf('Bottles results loaded.\n');
 
-fid = fopen([dir_gt, 'results_gt_labels.txt']);
+fid = fopen([dir_gt, 'results.txt']);
 if fid == -1
     error('Cannot open file.\n')
 end
@@ -48,6 +46,7 @@ fclose(fid);
 fprintf('GT results loaded.\n');
 
 %% Find if words in results_gt are also in results_bottles (and in wich position)
+% THIS PART NEED TO BE UPDATED WITH CORRECT NAMES IF USED
 
 % Create two cell array containing images' names from words_gt and  
 % words_bottles

@@ -27,11 +27,12 @@ tot_gt = numel(gt_names);
 files = [];
 for i = 1:length(gt_names)
     name = gt_names{i}(1:end-4)
-    files1 = dir(fullfile(bottles_dir, name, '/*.jpg'));
-    files2 = dir(fullfile(bottles_dir, name, '/*.png'));
+    files1 = dir(fullfile(bottles_dir,name,'/*.jpg'));
+    files2 = dir(fullfile(bottles_dir,name,'/*.png'));
     files = [files;files1;files2];
 end
-bottles_names = {files.name};
+subdir = files.folder(
+bottles_names = {[files.name, files.folder};
 tot_bottles = numel(bottles_names);
 fprintf('Loaded file names.\n');
 
@@ -51,8 +52,9 @@ end
 output_dir = ['precomputedLineBoxes/winebottles_', dataset];
 
 for i = 1:length(filenames)-1
-    path = fileparts(which(filenames{i}));
-    img = imread([path '\' filenames{i}]);
+    
+    img = imread([data_dir, filenames{i}]);
+    
     saveName = [output_dir, '/', filenames{i}];
     saveName(end-3:end)='.mat';
     fprintf('bbox filename is %s\n', saveName);
