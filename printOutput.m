@@ -77,9 +77,9 @@ for THRESHidx = 1:length(THRESH)
     totalPredBbox = 0;
     totalGoodBbox = 0;
     thresh = THRESH(THRESHidx);
-    for i = 1:length(filenames)
+    for i = 1:tot_images
         imgname = filenames{i}; 
-        fprintf('Reading %s.\n', imgname);
+        fprintf('Reading %s (-%d).\n', imgname, tot_images-i);
         fprintf(fid, '%s: ', imgname); 
         pathimg = fileparts(which(imgname));
         img = imread([pathimg '\' imgname]);
@@ -158,8 +158,8 @@ for THRESHidx = 1:length(THRESH)
                     [newstates curr]= beam_search_step(states, curr, origscores, segs, spacescores, numbeams, lex, thresh, c_split);
                     states = newstates;
                 end
-                fprintf('prediction: ')
-                states{1}
+                %fprintf('prediction: ')
+                %states{1}
 
                 if length(states{1}.path)==1 && states{1}.path(1)==2
                     states{1}.path(1) = 5;
@@ -223,7 +223,7 @@ for THRESHidx = 1:length(THRESH)
                 bb = [max(y,1), min(x+w, width)];% upper right corner
                 cc = [min(y+h, height), max(x,1)];% lower left corner
 
-                fprintf('predword  %s, Recog Score  %2.3f\n', predwords{bidx}, wbboxes(bidx,end));
+                %fprintf('predword  %s, Recog Score  %2.3f\n', predwords{bidx}, wbboxes(bidx,end));
                 fprintf(fid, '%s ', predwords{bidx});
                 
                 % eliminate all worse wbboxes that overlap with the current one

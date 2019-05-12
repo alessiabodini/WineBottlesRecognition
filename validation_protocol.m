@@ -26,7 +26,7 @@ bottles_names = {files.name};
 tot_bottles = numel(bottles_names);
 fprintf('Loaded file names.\n');
 
-fid = fopen('results_bottles.txt');
+fid = fopen('results_bottles_okay.txt');
 if fid == -1
     error('Cannot open file.\n')
 end
@@ -45,7 +45,7 @@ end
 fclose(fid);
 fprintf('Bottles results loaded.\n');
 
-fid = fopen('results_gt.txt');
+fid = fopen('results_gt_okay.txt');
 if fid == -1
     error('Cannot open file.\n')
 end
