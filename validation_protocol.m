@@ -4,10 +4,29 @@ close all;
 %% Search for the results of bottles and gt and put them in cell array
 
 addpath(genpath('.'));
-dir_bottles = 'images_winebottles/bottles/';
-dir_gt = 'images_winebottles/gt/';
+bottles_dir = 'images_winebottles/bottles/';
+gt_dir = 'images_winebottles/gt/';
 
-fid = fopen([dir_bottles, 'results.txt']);
+% load images gt
+files1 = dir(fullfile(gt_dir,'*.jpg'));
+files2 = dir(fullfile(gt_dir,'*.png'));
+files = [files1;files2];
+gt_names = {files.name};
+tot_gt = numel(gt_names);
+
+% load images bottles
+files = [];
+for i = 1:length(gt_names)
+    name = gt_names{i}(1:end-4);
+    files1 = dir(fullfile(bottles_dir, name, '/*.jpg'));
+    files2 = dir(fullfile(bottles_dir, name, '/*.png'));
+    files = [files;files1;files2];
+end
+bottles_names = {files.name};
+tot_bottles = numel(bottles_names);
+fprintf('Loaded file names.\n');
+
+fid = fopen('results_bottles.txt');
 if fid == -1
     error('Cannot open file.\n')
 end
@@ -26,7 +45,7 @@ end
 fclose(fid);
 fprintf('Bottles results loaded.\n');
 
-fid = fopen([dir_gt, 'results.txt']);
+fid = fopen('results_gt.txt');
 if fid == -1
     error('Cannot open file.\n')
 end
@@ -46,23 +65,17 @@ fclose(fid);
 fprintf('GT results loaded.\n');
 
 %% Find if words in results_gt are also in results_bottles (and in wich position)
-% THIS PART NEED TO BE UPDATED WITH CORRECT NAMES IF USED
-
-% Create two cell array containing images' names from words_gt and  
-% words_bottles
-words_gt_names = cell(tot_gt,1);
-for i = 1:tot_gt
-    words_gt_names{i} = words_gt{i,1}(1:end-5);
-end
-
-words_bottles_names = cell(tot_bottles,1);
-for i = 1:tot_bottles
-    words_bottles_names{i} = words_bottles{i,1};
-end
 
 % Determine number of columns for words_bottles and words_gt
 [~,col_bottles] = size(words_bottles);
 [~,col_gt] = size(words_gt);
+
+% Create list of gt_names without extension to match the folders in which
+% bottles images are contained 
+for i = 1:tot_gt
+    gt_names_without_ext{i} = gt_names{i}(1:end-4);
+end
+
 
 word_score = ones(tot_bottles,col_bottles,col_gt)*100;
 final_index = zeros(tot_gt,col_gt-1);
@@ -71,10 +84,13 @@ fid = fopen('validation_results.txt', 'w');
 for i = 1:tot_bottles
     m = 1;
     % Extract image name
-    name = split(words_bottles{i,1},'.');
+    name = split(words_bottles{i,1},':');
     imgname = name{1};
     % Extract corresponding image in gt dataset
-    index = find(contains(words_gt_names, imgname));
+    path = fileparts(which(imgname));
+    gtname = split(path,'\');
+    gtname = gtname{end};
+    index = find(strcmp(gt_names_without_ext, gtname));
     fprintf(fid, '%s\n', words_bottles{i,1});
     % if there is at least one word in results_gt for this bottle
     if ~isempty(words_gt{index,2})
@@ -132,7 +148,7 @@ fid = fopen('matches.txt', 'w');
 for i = 1:tot_bottles
     tot_matches = zeros(1,tot_gt);
     % Extract image name
-    imgname = words_bottles_names{i};
+    imgname = bottles_names{i};
     % Search for every word in results_bottles before the corrisponding bottle
     rank_score = zeros(1,tot_gt);
     for name = words_bottles(i,2:end) % for only perfect matches use '= matches(i)'
@@ -152,7 +168,7 @@ for i = 1:tot_bottles
     end
     % Extract and print best rank score
     [score,index] = max(rank_score);
-    bottle = words_gt_names{index};
+    bottle = gt_names{index};
     if score > 0
         fprintf(fid, '%s matches to %s bottle!\n', imgname, bottle);
     else
@@ -166,7 +182,7 @@ for i = 1:tot_bottles
     %xlim([0 18]);
     %ylim([0 2]);
     %xticks(0:1:17);
-    %xticklabels(words_gt_names);
+    %xticklabels(gt_names);
     %yticks(0:1);
     %grid on
     %xlabel('Bottles');
@@ -188,7 +204,7 @@ plot(cmc);
 xlim([0 18]);
 ylim([0 9]);
 xticks(0:1:17);
-%xticklabels(words_bottles_names);
+%xticklabels(bottles_names);
 yticks(0:1:8);
 grid on
 xlabel('Bottles names');

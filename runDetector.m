@@ -3,7 +3,7 @@ function runDetector()
 addpath(genpath('.')); % '.' or pwd?
 gt_dir = 'images_winebottles/gt/';
 bottles_dir = 'images_winebottles/bottles/';
-dataset = 'bottles';
+dataset = 'gt';
 
 if ~exist('num2ndLayerUnits', 'var')
     num2ndLayerUnits=256;
@@ -26,7 +26,7 @@ tot_gt = numel(gt_names);
 % load images bottles
 files = [];
 for i = 1:length(gt_names)
-    name = gt_names{i}(1:end-4)
+    name = gt_names{i}(1:end-4);
     files1 = dir(fullfile(bottles_dir, name, '/*.jpg'));
     files2 = dir(fullfile(bottles_dir, name, '/*.png'));
     files = [files;files1;files2];
@@ -50,7 +50,7 @@ if ~exist(['precomputedLineBoxes/winebottles_', dataset])
 end
 output_dir = ['precomputedLineBoxes/winebottles_', dataset];
 
-for i = 1:length(filenames)-1
+for i = 1:length(filenames)
     path = fileparts(which(filenames{i}));
     img = imread([path '\' filenames{i}]);
     saveName = [output_dir, '/', filenames{i}];
