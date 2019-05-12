@@ -149,6 +149,9 @@ for i = 1:tot_bottles
     tot_matches = zeros(1,tot_gt);
     % Extract image name
     imgname = bottles_names{i};
+    path = fileparts(which(imgname));
+    gtname = split(path,'\');
+    gtname = gtname{end};
     % Search for every word in results_bottles before the corrisponding bottle
     rank_score = zeros(1,tot_gt);
     for name = words_bottles(i,2:end) % for only perfect matches use '= matches(i)'
@@ -170,9 +173,9 @@ for i = 1:tot_bottles
     [score,index] = max(rank_score);
     bottle = gt_names{index};
     if score > 0
-        fprintf(fid, '%s matches to %s bottle!\n', imgname, bottle);
+        fprintf(fid, '%s in %s matches to %s bottle!\n', imgname, gtname, bottle);
     else
-        fprintf(fid, '%s doesn''t match with any bottle.\n', imgname);
+        fprintf(fid, '%s in %s doesn''t match with any bottle.\n', imgname, gtname);
     end
     
     % Draw plot 

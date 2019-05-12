@@ -1,46 +1,62 @@
 56291093_677740149347415_6941991809136632140_n_0.jpg:
+	MONTALCINO found at position 3!
 
 56314865_127440661751624_647045646384567193_n_0.jpg:
+	MONTALCINO found at position 2!
 
 57004946_421542578647927_1838267734667741922_n_0.jpg:
+	MONTALCINO not found (score > 3).
 
 57583277_2704411082933817_855338773281350897_n_0.jpg:
+	MONTALCINO not found (score > 3).
 
 57678303_1314960725323832_2327190501506720241_n_3.jpg:
+	MONTALCINO not found (score > 3).
 
 000936000_3777_0.jpg:
 	CORTE found at position 2!
 	GIARA not found (score > 3).
+	AMARONE not found (score > 3).
 
 43914692_2573388449338796_5610888611689566743_n_0.jpg:
 	CORTE not found (score > 3).
 	GIARA found at position 5!
+	AMARONE found at position 1!
 
 49564978_380271202806858_3483388903230833581_n_0.jpg:
 	CORTE not found (score > 3).
 	GIARA found at position 5!
+	AMARONE found at position 2!
 
 51177602_297664914269725_645980671277512222_n_0.jpg:
 	CORTE found at position 8!
 	GIARA found at position 5!
+	AMARONE found at position 7!
 
 52482139_2468544499885232_4016441915212433304_n_0.jpg:
 	CORTE not found (score > 3).
 	GIARA not found (score > 3).
+	AMARONE not found (score > 3).
 
 CorteGiara.png:
 	CORTE not found (score > 3).
 	GIARA not found (score > 3).
+	AMARONE not found (score > 3).
 
 51917137_222505885388250_7483195934392591096_n_0.jpg:
+	PASSO found similar (score = 2).
 
 53599203_1904339609676761_4832946545241908079_n_0.jpg:
+	PASSO found similar (score = 2).
 
 57194670_778526905860159_1840265834544443352_n_0.jpg:
+	PASSO found at position 1!
 
 cgrip17_art800_0.jpg:
+	PASSO found at position 7!
 
 pagina-vini-ripasso_0.png:
+	PASSO not found (score > 3).
 
 1157156_0.jpg:
 
