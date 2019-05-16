@@ -1,0 +1,232 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    30,
+                    45,
+                    143,
+                    35,
+                    146,
+                    65,
+                    33,
+                    74
+                ],
+                "text": "Le Fonti",
+                "words": [
+                    {
+                        "boundingBox": [
+                            35,
+                            45,
+                            62,
+                            43,
+                            64,
+                            72,
+                            37,
+                            74
+                        ],
+                        "confidence": "Low",
+                        "text": "Le"
+                    },
+                    {
+                        "boundingBox": [
+                            68,
+                            43,
+                            143,
+                            36,
+                            145,
+                            66,
+                            70,
+                            72
+                        ],
+                        "confidence": "Low",
+                        "text": "Fonti"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    32,
+                    66,
+                    208,
+                    67,
+                    207,
+                    97,
+                    31,
+                    96
+                ],
+                "text": "a San Giorgio",
+                "words": [
+                    {
+                        "boundingBox": [
+                            35,
+                            71,
+                            46,
+                            70,
+                            47,
+                            94,
+                            36,
+                            94
+                        ],
+                        "text": "a"
+                    },
+                    {
+                        "boundingBox": [
+                            50,
+                            70,
+                            97,
+                            67,
+                            97,
+                            94,
+                            52,
+                            94
+                        ],
+                        "text": "San"
+                    },
+                    {
+                        "boundingBox": [
+                            107,
+                            67,
+                            208,
+                            69,
+                            207,
+                            97,
+                            108,
+                            94
+                        ],
+                        "confidence": "Low",
+                        "text": "Giorgio"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    52,
+                    439,
+                    189,
+                    443,
+                    188,
+                    473,
+                    51,
+                    469
+                ],
+                "text": "CHIANTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            54,
+                            440,
+                            187,
+                            443,
+                            187,
+                            473,
+                            54,
+                            470
+                        ],
+                        "text": "CHIANTI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    30,
+                    466,
+                    205,
+                    466,
+                    205,
+                    487,
+                    31,
+                    488
+                ],
+                "text": "DENOMINATIONE IN ORIGINE CONTROLLATA E GARANTERA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            33,
+                            469,
+                            79,
+                            477,
+                            78,
+                            486,
+                            31,
+                            479
+                        ],
+                        "confidence": "Low",
+                        "text": "DENOMINATIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            81,
+                            477,
+                            89,
+                            478,
+                            87,
+                            487,
+                            80,
+                            486
+                        ],
+                        "confidence": "Low",
+                        "text": "IN"
+                    },
+                    {
+                        "boundingBox": [
+                            91,
+                            478,
+                            120,
+                            478,
+                            119,
+                            488,
+                            89,
+                            487
+                        ],
+                        "confidence": "Low",
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            122,
+                            478,
+                            167,
+                            474,
+                            167,
+                            486,
+                            121,
+                            488
+                        ],
+                        "confidence": "Low",
+                        "text": "CONTROLLATA"
+                    },
+                    {
+                        "boundingBox": [
+                            169,
+                            474,
+                            173,
+                            473,
+                            173,
+                            486,
+                            169,
+                            486
+                        ],
+                        "confidence": "Low",
+                        "text": "E"
+                    },
+                    {
+                        "boundingBox": [
+                            175,
+                            473,
+                            205,
+                            466,
+                            205,
+                            481,
+                            175,
+                            486
+                        ],
+                        "confidence": "Low",
+                        "text": "GARANTERA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

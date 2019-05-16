@@ -1,0 +1,148 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    48,
+                    409,
+                    111,
+                    409,
+                    111,
+                    418,
+                    49,
+                    419
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            49,
+                            410,
+                            77,
+                            410,
+                            77,
+                            419,
+                            49,
+                            418
+                        ],
+                        "confidence": "Low",
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            78,
+                            410,
+                            110,
+                            409,
+                            111,
+                            418,
+                            78,
+                            419
+                        ],
+                        "confidence": "Low",
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    70,
+                    424,
+                    89,
+                    425,
+                    89,
+                    433,
+                    70,
+                    433
+                ],
+                "text": "2071",
+                "words": [
+                    {
+                        "boundingBox": [
+                            72,
+                            423,
+                            88,
+                            423,
+                            88,
+                            432,
+                            72,
+                            432
+                        ],
+                        "confidence": "Low",
+                        "text": "2071"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    46,
+                    439,
+                    111,
+                    439,
+                    111,
+                    450,
+                    47,
+                    451
+                ],
+                "text": "AMARONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            52,
+                            440,
+                            109,
+                            439,
+                            109,
+                            451,
+                            52,
+                            450
+                        ],
+                        "text": "AMARONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    29,
+                    450,
+                    128,
+                    449,
+                    129,
+                    462,
+                    30,
+                    463
+                ],
+                "text": "della VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            32,
+                            450,
+                            50,
+                            451,
+                            49,
+                            463,
+                            32,
+                            462
+                        ],
+                        "text": "della"
+                    },
+                    {
+                        "boundingBox": [
+                            52,
+                            451,
+                            128,
+                            450,
+                            128,
+                            462,
+                            52,
+                            463
+                        ],
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

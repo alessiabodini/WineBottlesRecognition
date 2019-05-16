@@ -1,0 +1,163 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    126,
+                    14,
+                    161,
+                    11,
+                    162,
+                    22,
+                    127,
+                    25
+                ],
+                "text": "WOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            128,
+                            14,
+                            162,
+                            12,
+                            162,
+                            23,
+                            128,
+                            25
+                        ],
+                        "confidence": "Low",
+                        "text": "WOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    195,
+                    14,
+                    245,
+                    15,
+                    244,
+                    29,
+                    194,
+                    28
+                ],
+                "text": "CORTES",
+                "words": [
+                    {
+                        "boundingBox": [
+                            197,
+                            15,
+                            244,
+                            15,
+                            244,
+                            29,
+                            197,
+                            28
+                        ],
+                        "confidence": "Low",
+                        "text": "CORTES"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    81,
+                    549,
+                    241,
+                    559,
+                    239,
+                    581,
+                    79,
+                    571
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            85,
+                            550,
+                            153,
+                            556,
+                            151,
+                            576,
+                            82,
+                            569
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            157,
+                            557,
+                            242,
+                            559,
+                            241,
+                            580,
+                            155,
+                            576
+                        ],
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    138,
+                    598,
+                    185,
+                    600,
+                    184,
+                    621,
+                    138,
+                    619
+                ],
+                "text": "2011",
+                "words": [
+                    {
+                        "boundingBox": [
+                            142,
+                            598,
+                            184,
+                            599,
+                            183,
+                            620,
+                            141,
+                            619
+                        ],
+                        "text": "2011"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    60,
+                    622,
+                    265,
+                    633,
+                    263,
+                    666,
+                    58,
+                    655
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            65,
+                            624,
+                            262,
+                            633,
+                            263,
+                            661,
+                            62,
+                            650
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

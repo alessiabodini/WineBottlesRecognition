@@ -1,0 +1,115 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    23,
+                    294,
+                    106,
+                    295,
+                    105,
+                    305,
+                    22,
+                    304
+                ],
+                "text": "DUCA DI SALAPARUTA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            23,
+                            295,
+                            46,
+                            295,
+                            46,
+                            305,
+                            24,
+                            305
+                        ],
+                        "text": "DUCA"
+                    },
+                    {
+                        "boundingBox": [
+                            48,
+                            295,
+                            56,
+                            295,
+                            56,
+                            305,
+                            48,
+                            305
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            58,
+                            295,
+                            106,
+                            295,
+                            105,
+                            305,
+                            58,
+                            305
+                        ],
+                        "text": "SALAPARUTA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    16,
+                    327,
+                    114,
+                    327,
+                    114,
+                    337,
+                    16,
+                    337
+                ],
+                "text": "PASSO DELLE MULE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            16,
+                            327,
+                            44,
+                            327,
+                            44,
+                            337,
+                            16,
+                            337
+                        ],
+                        "text": "PASSO"
+                    },
+                    {
+                        "boundingBox": [
+                            48,
+                            327,
+                            81,
+                            327,
+                            81,
+                            337,
+                            48,
+                            337
+                        ],
+                        "text": "DELLE"
+                    },
+                    {
+                        "boundingBox": [
+                            83,
+                            327,
+                            113,
+                            327,
+                            113,
+                            338,
+                            83,
+                            337
+                        ],
+                        "text": "MULE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

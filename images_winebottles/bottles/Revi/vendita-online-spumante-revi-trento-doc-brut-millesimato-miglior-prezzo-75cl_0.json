@@ -1,0 +1,92 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    21,
+                    247,
+                    79,
+                    249,
+                    78,
+                    277,
+                    19,
+                    277
+                ],
+                "text": "Revi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            24,
+                            247,
+                            78,
+                            247,
+                            78,
+                            277,
+                            24,
+                            277
+                        ],
+                        "text": "Revi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    25,
+                    285,
+                    72,
+                    285,
+                    72,
+                    293,
+                    26,
+                    294
+                ],
+                "text": "TRENTODOC",
+                "words": [
+                    {
+                        "boundingBox": [
+                            27,
+                            286,
+                            72,
+                            285,
+                            71,
+                            294,
+                            27,
+                            294
+                        ],
+                        "text": "TRENTODOC"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    33,
+                    302,
+                    61,
+                    302,
+                    61,
+                    312,
+                    33,
+                    313
+                ],
+                "text": "Bud",
+                "words": [
+                    {
+                        "boundingBox": [
+                            40,
+                            301,
+                            59,
+                            301,
+                            60,
+                            312,
+                            41,
+                            312
+                        ],
+                        "confidence": "Low",
+                        "text": "Bud"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

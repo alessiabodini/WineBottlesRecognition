@@ -1,0 +1,176 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    36,
+                    136,
+                    136,
+                    135,
+                    137,
+                    148,
+                    37,
+                    149
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            37,
+                            137,
+                            81,
+                            136,
+                            81,
+                            149,
+                            37,
+                            148
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            84,
+                            136,
+                            136,
+                            136,
+                            136,
+                            149,
+                            83,
+                            149
+                        ],
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    69,
+                    160,
+                    101,
+                    160,
+                    100,
+                    173,
+                    68,
+                    174
+                ],
+                "text": "2014",
+                "words": [
+                    {
+                        "boundingBox": [
+                            71,
+                            159,
+                            100,
+                            159,
+                            100,
+                            173,
+                            71,
+                            173
+                        ],
+                        "text": "2014"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    26,
+                    189,
+                    150,
+                    190,
+                    149,
+                    208,
+                    25,
+                    207
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            26,
+                            190,
+                            149,
+                            191,
+                            148,
+                            208,
+                            26,
+                            206
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    23,
+                    211,
+                    152,
+                    212,
+                    151,
+                    223,
+                    22,
+                    222
+                ],
+                "text": "DENOMINAZIONE DI ORIGENE CONTROLLAT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            24,
+                            212,
+                            69,
+                            213,
+                            69,
+                            223,
+                            23,
+                            221
+                        ],
+                        "confidence": "Low",
+                        "text": "DENOMINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            71,
+                            213,
+                            77,
+                            214,
+                            77,
+                            223,
+                            71,
+                            223
+                        ],
+                        "confidence": "Low",
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            79,
+                            214,
+                            108,
+                            214,
+                            107,
+                            223,
+                            79,
+                            223
+                        ],
+                        "confidence": "Low",
+                        "text": "ORIGENE"
+                    },
+                    {
+                        "boundingBox": [
+                            110,
+                            214,
+                            151,
+                            212,
+                            151,
+                            223,
+                            109,
+                            223
+                        ],
+                        "confidence": "Low",
+                        "text": "CONTROLLAT"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

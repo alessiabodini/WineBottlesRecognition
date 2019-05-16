@@ -1,0 +1,217 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    52,
+                    364,
+                    494,
+                    363,
+                    495,
+                    428,
+                    53,
+                    430
+                ],
+                "text": "PINKFLUID",
+                "words": [
+                    {
+                        "boundingBox": [
+                            57,
+                            369,
+                            478,
+                            364,
+                            478,
+                            430,
+                            57,
+                            427
+                        ],
+                        "text": "PINKFLUID"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    123,
+                    918,
+                    464,
+                    935,
+                    462,
+                    981,
+                    121,
+                    964
+                ],
+                "text": "MARCHE ROSATO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            129,
+                            920,
+                            273,
+                            936,
+                            270,
+                            972,
+                            124,
+                            950
+                        ],
+                        "text": "MARCHE"
+                    },
+                    {
+                        "boundingBox": [
+                            297,
+                            937,
+                            457,
+                            935,
+                            459,
+                            968,
+                            295,
+                            973
+                        ],
+                        "text": "ROSATO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    132,
+                    957,
+                    461,
+                    976,
+                    459,
+                    1014,
+                    130,
+                    996
+                ],
+                "text": "INDICAZIONE GEOGRAFICA TIPICA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            135,
+                            960,
+                            239,
+                            975,
+                            237,
+                            1000,
+                            132,
+                            979
+                        ],
+                        "confidence": "Low",
+                        "text": "INDICAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            248,
+                            976,
+                            385,
+                            980,
+                            385,
+                            1006,
+                            246,
+                            1001
+                        ],
+                        "text": "GEOGRAFICA"
+                    },
+                    {
+                        "boundingBox": [
+                            396,
+                            980,
+                            458,
+                            976,
+                            459,
+                            1000,
+                            396,
+                            1006
+                        ],
+                        "text": "TIPICA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    227,
+                    1007,
+                    348,
+                    1014,
+                    346,
+                    1045,
+                    225,
+                    1038
+                ],
+                "text": "2017",
+                "words": [
+                    {
+                        "boundingBox": [
+                            229,
+                            1009,
+                            347,
+                            1016,
+                            343,
+                            1044,
+                            229,
+                            1039
+                        ],
+                        "text": "2017"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    200,
+                    1103,
+                    377,
+                    1110,
+                    375,
+                    1155,
+                    198,
+                    1148
+                ],
+                "text": "Fattaria",
+                "words": [
+                    {
+                        "boundingBox": [
+                            216,
+                            1105,
+                            376,
+                            1113,
+                            375,
+                            1153,
+                            213,
+                            1149
+                        ],
+                        "confidence": "Low",
+                        "text": "Fattaria"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    154,
+                    1137,
+                    453,
+                    1156,
+                    450,
+                    1215,
+                    150,
+                    1196
+                ],
+                "text": "LETERRAZZE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            161,
+                            1139,
+                            448,
+                            1158,
+                            449,
+                            1205,
+                            154,
+                            1189
+                        ],
+                        "confidence": "Low",
+                        "text": "LETERRAZZE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

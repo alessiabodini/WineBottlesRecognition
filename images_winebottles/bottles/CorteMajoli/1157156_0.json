@@ -1,0 +1,174 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    50,
+                    348,
+                    163,
+                    352,
+                    162,
+                    366,
+                    49,
+                    363
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            52,
+                            349,
+                            102,
+                            352,
+                            102,
+                            365,
+                            51,
+                            362
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            104,
+                            352,
+                            163,
+                            352,
+                            163,
+                            366,
+                            104,
+                            365
+                        ],
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    88,
+                    380,
+                    121,
+                    381,
+                    120,
+                    394,
+                    88,
+                    393
+                ],
+                "text": "2015",
+                "words": [
+                    {
+                        "boundingBox": [
+                            91,
+                            380,
+                            120,
+                            380,
+                            120,
+                            393,
+                            91,
+                            393
+                        ],
+                        "text": "2015"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    32,
+                    397,
+                    174,
+                    404,
+                    173,
+                    431,
+                    31,
+                    424
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            37,
+                            399,
+                            173,
+                            405,
+                            175,
+                            425,
+                            36,
+                            419
+                        ],
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    29,
+                    418,
+                    177,
+                    424,
+                    176,
+                    445,
+                    28,
+                    440
+                ],
+                "text": "DENOMINAZIONE! DI ORIGINE CONTROL.LAD",
+                "words": [
+                    {
+                        "boundingBox": [
+                            32,
+                            421,
+                            85,
+                            429,
+                            83,
+                            442,
+                            30,
+                            433
+                        ],
+                        "confidence": "Low",
+                        "text": "DENOMINAZIONE!"
+                    },
+                    {
+                        "boundingBox": [
+                            87,
+                            430,
+                            95,
+                            430,
+                            93,
+                            443,
+                            86,
+                            442
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            97,
+                            430,
+                            127,
+                            430,
+                            126,
+                            444,
+                            96,
+                            443
+                        ],
+                        "confidence": "Low",
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            130,
+                            430,
+                            177,
+                            424,
+                            176,
+                            440,
+                            129,
+                            444
+                        ],
+                        "confidence": "Low",
+                        "text": "CONTROL.LAD"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

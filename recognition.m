@@ -60,14 +60,13 @@ import matlab.net.http.*
     requestLine = matlab.net.http.RequestLine(method, requestTarget, protocolVersion);
     %contentTypeField = matlab.net.http.field.ContentTypeField('application/json');
     header = matlab.net.http.HeaderField( ...
-        'Host', 'westeurope.api.cognitive.microsoft.com', ...
         'Content-Type', 'application/json', ... 
         'Ocp-Apim-Subscription-Key', '6dc622eb5a174066aa5c56e674018b75');
     body =  matlab.net.http.MessageBody( ...
-        '{"url":"https://raw.githubusercontent.com/alessiabodini/WineBottlesRecognition/master/images_winebottles/gt/Antinori.png"}');
+        '{"url":"http://www.totalwine.com/media/sys_master/twmmedia/h0b/h5c/9299434307614.png"}');
     request = matlab.net.http.RequestMessage(requestLine, header, body);
-    show(request)
-    send(request, uri)
+    response = send(request, uri);
+    show(response)
         
     
 %end

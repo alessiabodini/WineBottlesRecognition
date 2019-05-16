@@ -1,0 +1,202 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    222,
+                    478,
+                    330,
+                    480,
+                    329,
+                    504,
+                    221,
+                    503
+                ],
+                "text": "CORT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            223,
+                            480,
+                            287,
+                            481,
+                            287,
+                            504,
+                            226,
+                            503
+                        ],
+                        "text": "CORT"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    331,
+                    480,
+                    398,
+                    481,
+                    398,
+                    504,
+                    331,
+                    504
+                ],
+                "text": "AJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            332,
+                            479,
+                            396,
+                            479,
+                            396,
+                            503,
+                            332,
+                            503
+                        ],
+                        "text": "AJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    156,
+                    1417,
+                    465,
+                    1417,
+                    466,
+                    1450,
+                    157,
+                    1451
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            162,
+                            1418,
+                            298,
+                            1418,
+                            297,
+                            1451,
+                            161,
+                            1451
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            306,
+                            1418,
+                            466,
+                            1417,
+                            467,
+                            1451,
+                            306,
+                            1451
+                        ],
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    115,
+                    1572,
+                    511,
+                    1571,
+                    512,
+                    1623,
+                    115,
+                    1624
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            118,
+                            1572,
+                            511,
+                            1572,
+                            509,
+                            1625,
+                            119,
+                            1625
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    103,
+                    1642,
+                    524,
+                    1642,
+                    523,
+                    1668,
+                    102,
+                    1668
+                ],
+                "text": "DENOMINAZIONE DI ORIGINE CONTROLLATA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            105,
+                            1642,
+                            262,
+                            1645,
+                            262,
+                            1669,
+                            104,
+                            1669
+                        ],
+                        "text": "DENOMINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            267,
+                            1645,
+                            289,
+                            1645,
+                            289,
+                            1669,
+                            267,
+                            1669
+                        ],
+                        "confidence": "Low",
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            295,
+                            1645,
+                            381,
+                            1645,
+                            381,
+                            1669,
+                            295,
+                            1669
+                        ],
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            386,
+                            1645,
+                            522,
+                            1643,
+                            523,
+                            1668,
+                            386,
+                            1669
+                        ],
+                        "confidence": "Low",
+                        "text": "CONTROLLATA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

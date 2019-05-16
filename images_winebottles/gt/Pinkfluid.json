@@ -1,0 +1,118 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    137,
+                    259,
+                    203,
+                    258,
+                    204,
+                    269,
+                    138,
+                    270
+                ],
+                "text": "PINKFLUID",
+                "words": [
+                    {
+                        "boundingBox": [
+                            139,
+                            259,
+                            203,
+                            259,
+                            203,
+                            270,
+                            139,
+                            269
+                        ],
+                        "text": "PINKFLUID"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    143,
+                    341,
+                    198,
+                    340,
+                    199,
+                    347,
+                    144,
+                    348
+                ],
+                "text": "MARCHE ROSATO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            144,
+                            341,
+                            170,
+                            342,
+                            170,
+                            348,
+                            144,
+                            347
+                        ],
+                        "confidence": "Low",
+                        "text": "MARCHE"
+                    },
+                    {
+                        "boundingBox": [
+                            173,
+                            342,
+                            197,
+                            341,
+                            197,
+                            347,
+                            173,
+                            348
+                        ],
+                        "text": "ROSATO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    144,
+                    378,
+                    195,
+                    377,
+                    196,
+                    387,
+                    145,
+                    388
+                ],
+                "text": "LE TERRAZZE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            146,
+                            379,
+                            154,
+                            379,
+                            154,
+                            388,
+                            146,
+                            388
+                        ],
+                        "text": "LE"
+                    },
+                    {
+                        "boundingBox": [
+                            156,
+                            379,
+                            196,
+                            378,
+                            196,
+                            387,
+                            156,
+                            388
+                        ],
+                        "text": "TERRAZZE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

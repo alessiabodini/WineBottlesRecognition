@@ -1,0 +1,232 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    96,
+                    298,
+                    488,
+                    266,
+                    492,
+                    315,
+                    100,
+                    347
+                ],
+                "text": "CORTE GIARA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            100,
+                            298,
+                            289,
+                            286,
+                            293,
+                            332,
+                            103,
+                            345
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            317,
+                            283,
+                            488,
+                            268,
+                            492,
+                            313,
+                            321,
+                            330
+                        ],
+                        "text": "GIARA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    208,
+                    368,
+                    400,
+                    352,
+                    403,
+                    388,
+                    211,
+                    403
+                ],
+                "text": "RIPASSO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            211,
+                            369,
+                            396,
+                            353,
+                            399,
+                            389,
+                            214,
+                            404
+                        ],
+                        "text": "RIPASSO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    160,
+                    416,
+                    453,
+                    390,
+                    456,
+                    425,
+                    163,
+                    450
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            163,
+                            416,
+                            452,
+                            391,
+                            454,
+                            424,
+                            165,
+                            449
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    289,
+                    448,
+                    338,
+                    444,
+                    340,
+                    460,
+                    291,
+                    464
+                ],
+                "text": "D.O.C.",
+                "words": [
+                    {
+                        "boundingBox": [
+                            291,
+                            449,
+                            339,
+                            445,
+                            340,
+                            460,
+                            292,
+                            464
+                        ],
+                        "confidence": "Low",
+                        "text": "D.O.C."
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    283,
+                    479,
+                    346,
+                    476,
+                    346,
+                    497,
+                    284,
+                    501
+                ],
+                "text": "2016",
+                "words": [
+                    {
+                        "boundingBox": [
+                            288,
+                            478,
+                            344,
+                            475,
+                            345,
+                            497,
+                            289,
+                            500
+                        ],
+                        "text": "2016"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    216,
+                    512,
+                    413,
+                    497,
+                    416,
+                    534,
+                    219,
+                    548
+                ],
+                "text": "LA GROLETTA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            222,
+                            512,
+                            257,
+                            512,
+                            257,
+                            543,
+                            221,
+                            541
+                        ],
+                        "text": "LA"
+                    },
+                    {
+                        "boundingBox": [
+                            269,
+                            512,
+                            413,
+                            498,
+                            416,
+                            527,
+                            269,
+                            543
+                        ],
+                        "text": "GROLETTA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    256,
+                    686,
+                    412,
+                    685,
+                    413,
+                    738,
+                    260,
+                    743
+                ],
+                "text": "Allegrimi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            301,
+                            685,
+                            411,
+                            682,
+                            412,
+                            739,
+                            302,
+                            742
+                        ],
+                        "confidence": "Low",
+                        "text": "Allegrimi"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

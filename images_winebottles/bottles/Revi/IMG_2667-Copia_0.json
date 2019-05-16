@@ -1,0 +1,92 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    558,
+                    1850,
+                    1482,
+                    1852,
+                    1481,
+                    1984,
+                    557,
+                    1982
+                ],
+                "text": "TRENTODOC",
+                "words": [
+                    {
+                        "boundingBox": [
+                            574,
+                            1857,
+                            1482,
+                            1852,
+                            1482,
+                            1973,
+                            572,
+                            1965
+                        ],
+                        "text": "TRENTODOC"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    734,
+                    2151,
+                    1285,
+                    2165,
+                    1280,
+                    2347,
+                    729,
+                    2334
+                ],
+                "text": "Brut",
+                "words": [
+                    {
+                        "boundingBox": [
+                            859,
+                            2160,
+                            1269,
+                            2165,
+                            1263,
+                            2344,
+                            858,
+                            2336
+                        ],
+                        "text": "Brut"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    755,
+                    2508,
+                    1266,
+                    2514,
+                    1265,
+                    2605,
+                    754,
+                    2600
+                ],
+                "text": "Millesimato",
+                "words": [
+                    {
+                        "boundingBox": [
+                            830,
+                            2510,
+                            1266,
+                            2514,
+                            1267,
+                            2606,
+                            828,
+                            2602
+                        ],
+                        "confidence": "Low",
+                        "text": "Millesimato"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

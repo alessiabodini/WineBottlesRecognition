@@ -1,0 +1,65 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    18,
+                    198,
+                    71,
+                    194,
+                    72,
+                    210,
+                    18,
+                    213
+                ],
+                "text": "Siclogo",
+                "words": [
+                    {
+                        "boundingBox": [
+                            21,
+                            198,
+                            71,
+                            196,
+                            72,
+                            209,
+                            22,
+                            213
+                        ],
+                        "confidence": "Low",
+                        "text": "Siclogo"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    25,
+                    305,
+                    71,
+                    301,
+                    72,
+                    312,
+                    26,
+                    315
+                ],
+                "text": "CHIANTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            29,
+                            305,
+                            71,
+                            302,
+                            72,
+                            312,
+                            29,
+                            315
+                        ],
+                        "confidence": "Low",
+                        "text": "CHIANTI"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

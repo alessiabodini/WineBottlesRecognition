@@ -1,0 +1,161 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    52,
+                    105,
+                    84,
+                    104,
+                    85,
+                    111,
+                    53,
+                    112
+                ],
+                "text": "OFFANTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            56,
+                            105,
+                            81,
+                            105,
+                            81,
+                            112,
+                            56,
+                            112
+                        ],
+                        "confidence": "Low",
+                        "text": "OFFANTI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    22,
+                    233,
+                    76,
+                    234,
+                    75,
+                    250,
+                    21,
+                    248
+                ],
+                "text": "Le Fopti",
+                "words": [
+                    {
+                        "boundingBox": [
+                            25,
+                            234,
+                            37,
+                            234,
+                            37,
+                            250,
+                            25,
+                            250
+                        ],
+                        "confidence": "Low",
+                        "text": "Le"
+                    },
+                    {
+                        "boundingBox": [
+                            40,
+                            234,
+                            75,
+                            236,
+                            76,
+                            250,
+                            40,
+                            250
+                        ],
+                        "confidence": "Low",
+                        "text": "Fopti"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    22,
+                    245,
+                    104,
+                    244,
+                    105,
+                    258,
+                    23,
+                    259
+                ],
+                "text": "a San Giorgio",
+                "words": [
+                    {
+                        "boundingBox": [
+                            25,
+                            246,
+                            29,
+                            246,
+                            30,
+                            259,
+                            25,
+                            259
+                        ],
+                        "text": "a"
+                    },
+                    {
+                        "boundingBox": [
+                            32,
+                            246,
+                            54,
+                            246,
+                            54,
+                            259,
+                            32,
+                            259
+                        ],
+                        "text": "San"
+                    },
+                    {
+                        "boundingBox": [
+                            57,
+                            246,
+                            104,
+                            245,
+                            105,
+                            258,
+                            57,
+                            259
+                        ],
+                        "text": "Giorgio"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    34,
+                    403,
+                    96,
+                    405,
+                    95,
+                    418,
+                    33,
+                    417
+                ],
+                "text": "CHIANTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            36,
+                            404,
+                            96,
+                            405,
+                            97,
+                            418,
+                            36,
+                            417
+                        ],
+                        "text": "CHIANTI"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

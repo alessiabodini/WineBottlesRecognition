@@ -1,0 +1,106 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    85,
+                    463,
+                    258,
+                    462,
+                    259,
+                    483,
+                    86,
+                    485
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            89,
+                            465,
+                            165,
+                            463,
+                            164,
+                            484,
+                            89,
+                            486
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            169,
+                            463,
+                            258,
+                            464,
+                            257,
+                            484,
+                            168,
+                            484
+                        ],
+                        "confidence": "Low",
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    149,
+                    507,
+                    199,
+                    506,
+                    200,
+                    526,
+                    150,
+                    527
+                ],
+                "text": "2011",
+                "words": [
+                    {
+                        "boundingBox": [
+                            153,
+                            506,
+                            199,
+                            505,
+                            199,
+                            525,
+                            154,
+                            526
+                        ],
+                        "text": "2011"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    61,
+                    549,
+                    286,
+                    548,
+                    287,
+                    580,
+                    62,
+                    581
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            66,
+                            552,
+                            286,
+                            549,
+                            286,
+                            582,
+                            67,
+                            581
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

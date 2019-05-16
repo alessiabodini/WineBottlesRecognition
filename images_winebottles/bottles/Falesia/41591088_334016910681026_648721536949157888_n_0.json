@@ -1,0 +1,104 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    15,
+                    547,
+                    356,
+                    458,
+                    372,
+                    517,
+                    30,
+                    607
+                ],
+                "text": "FALESIA Puglia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            29,
+                            547,
+                            269,
+                            503,
+                            281,
+                            533,
+                            28,
+                            574
+                        ],
+                        "text": "FALESIA"
+                    },
+                    {
+                        "boundingBox": [
+                            289,
+                            493,
+                            347,
+                            461,
+                            365,
+                            486,
+                            303,
+                            522
+                        ],
+                        "text": "Puglia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    43,
+                    711,
+                    155,
+                    733,
+                    150,
+                    755,
+                    39,
+                    733
+                ],
+                "text": "CANTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            48,
+                            713,
+                            154,
+                            734,
+                            150,
+                            753,
+                            44,
+                            732
+                        ],
+                        "text": "CANTINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    241,
+                    717,
+                    344,
+                    660,
+                    355,
+                    679,
+                    252,
+                    736
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            245,
+                            717,
+                            340,
+                            663,
+                            351,
+                            681,
+                            256,
+                            735
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

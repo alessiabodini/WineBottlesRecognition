@@ -1,0 +1,245 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    116,
+                    304,
+                    132,
+                    256,
+                    150,
+                    265,
+                    137,
+                    309
+                ],
+                "text": "par",
+                "words": [
+                    {
+                        "boundingBox": [
+                            115,
+                            303,
+                            130,
+                            257,
+                            151,
+                            263,
+                            136,
+                            309
+                        ],
+                        "confidence": "Low",
+                        "text": "par"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    90,
+                    312,
+                    230,
+                    307,
+                    231,
+                    328,
+                    91,
+                    332
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            92,
+                            314,
+                            154,
+                            315,
+                            155,
+                            330,
+                            92,
+                            328
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            160,
+                            314,
+                            229,
+                            308,
+                            231,
+                            324,
+                            161,
+                            330
+                        ],
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    142,
+                    345,
+                    183,
+                    343,
+                    183,
+                    359,
+                    143,
+                    360
+                ],
+                "text": "2012",
+                "words": [
+                    {
+                        "boundingBox": [
+                            145,
+                            343,
+                            181,
+                            342,
+                            182,
+                            358,
+                            146,
+                            359
+                        ],
+                        "text": "2012"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    97,
+                    375,
+                    227,
+                    369,
+                    229,
+                    395,
+                    99,
+                    402
+                ],
+                "text": "AMARONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            100,
+                            376,
+                            229,
+                            369,
+                            230,
+                            394,
+                            101,
+                            401
+                        ],
+                        "text": "AMARONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    50,
+                    391,
+                    258,
+                    380,
+                    260,
+                    420,
+                    53,
+                    431
+                ],
+                "text": "della VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            60,
+                            393,
+                            99,
+                            398,
+                            97,
+                            423,
+                            56,
+                            413
+                        ],
+                        "text": "della"
+                    },
+                    {
+                        "boundingBox": [
+                            103,
+                            399,
+                            254,
+                            381,
+                            259,
+                            403,
+                            101,
+                            423
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    43,
+                    411,
+                    263,
+                    402,
+                    264,
+                    439,
+                    44,
+                    448
+                ],
+                "text": "UNOMINATIONE DI ORIGINE CONTROL.LATAEGUCUE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            48,
+                            413,
+                            110,
+                            426,
+                            109,
+                            442,
+                            46,
+                            425
+                        ],
+                        "confidence": "Low",
+                        "text": "UNOMINATIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            112,
+                            426,
+                            121,
+                            427,
+                            120,
+                            443,
+                            111,
+                            442
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            123,
+                            427,
+                            161,
+                            427,
+                            161,
+                            444,
+                            122,
+                            443
+                        ],
+                        "confidence": "Low",
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            163,
+                            427,
+                            256,
+                            405,
+                            259,
+                            419,
+                            164,
+                            444
+                        ],
+                        "confidence": "Low",
+                        "text": "CONTROL.LATAEGUCUE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

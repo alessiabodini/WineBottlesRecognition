@@ -1,0 +1,79 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    42,
+                    294,
+                    100,
+                    295,
+                    99,
+                    303,
+                    41,
+                    302
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            43,
+                            295,
+                            69,
+                            295,
+                            68,
+                            303,
+                            43,
+                            302
+                        ],
+                        "confidence": "Low",
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            70,
+                            295,
+                            100,
+                            295,
+                            100,
+                            303,
+                            70,
+                            303
+                        ],
+                        "confidence": "Low",
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    33,
+                    322,
+                    108,
+                    322,
+                    107,
+                    334,
+                    32,
+                    333
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            34,
+                            322,
+                            108,
+                            323,
+                            108,
+                            334,
+                            34,
+                            334
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

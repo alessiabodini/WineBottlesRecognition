@@ -1,0 +1,227 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    175,
+                    64,
+                    251,
+                    59,
+                    252,
+                    88,
+                    177,
+                    93
+                ],
+                "text": "2013",
+                "words": [
+                    {
+                        "boundingBox": [
+                            180,
+                            63,
+                            250,
+                            58,
+                            252,
+                            87,
+                            182,
+                            92
+                        ],
+                        "text": "2013"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    83,
+                    149,
+                    321,
+                    136,
+                    325,
+                    210,
+                    87,
+                    222
+                ],
+                "text": "CAPARZO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            89,
+                            153,
+                            320,
+                            140,
+                            320,
+                            212,
+                            94,
+                            222
+                        ],
+                        "text": "CAPARZO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    100,
+                    426,
+                    309,
+                    425,
+                    310,
+                    470,
+                    101,
+                    471
+                ],
+                "text": "BRUNELLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            105,
+                            428,
+                            309,
+                            436,
+                            311,
+                            464,
+                            103,
+                            472
+                        ],
+                        "text": "BRUNELLO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    60,
+                    477,
+                    336,
+                    472,
+                    337,
+                    515,
+                    61,
+                    520
+                ],
+                "text": "DI MONTALCINO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            63,
+                            481,
+                            99,
+                            479,
+                            100,
+                            519,
+                            64,
+                            518
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            106,
+                            478,
+                            332,
+                            478,
+                            337,
+                            508,
+                            108,
+                            519
+                        ],
+                        "text": "MONTALCINO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    57,
+                    522,
+                    331,
+                    512,
+                    332,
+                    533,
+                    58,
+                    543
+                ],
+                "text": "DENOMINAZIONE DI ORIGINE CONTROLLATA E GARUNITE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            59,
+                            523,
+                            144,
+                            526,
+                            144,
+                            540,
+                            59,
+                            536
+                        ],
+                        "text": "DENOMINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            146,
+                            526,
+                            159,
+                            526,
+                            159,
+                            539,
+                            147,
+                            539
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            161,
+                            526,
+                            209,
+                            524,
+                            210,
+                            538,
+                            162,
+                            539
+                        ],
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            212,
+                            524,
+                            285,
+                            518,
+                            287,
+                            532,
+                            213,
+                            538
+                        ],
+                        "confidence": "Low",
+                        "text": "CONTROLLATA"
+                    },
+                    {
+                        "boundingBox": [
+                            288,
+                            518,
+                            293,
+                            518,
+                            294,
+                            531,
+                            289,
+                            532
+                        ],
+                        "text": "E"
+                    },
+                    {
+                        "boundingBox": [
+                            295,
+                            517,
+                            330,
+                            513,
+                            332,
+                            526,
+                            297,
+                            531
+                        ],
+                        "confidence": "Low",
+                        "text": "GARUNITE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

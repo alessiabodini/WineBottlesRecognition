@@ -1,0 +1,117 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    47,
+                    388,
+                    101,
+                    389,
+                    100,
+                    398,
+                    46,
+                    397
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            48,
+                            389,
+                            72,
+                            390,
+                            72,
+                            398,
+                            47,
+                            397
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            73,
+                            390,
+                            101,
+                            389,
+                            101,
+                            398,
+                            73,
+                            398
+                        ],
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    48,
+                    415,
+                    102,
+                    416,
+                    101,
+                    426,
+                    47,
+                    425
+                ],
+                "text": "AMARONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            49,
+                            416,
+                            101,
+                            416,
+                            101,
+                            426,
+                            49,
+                            426
+                        ],
+                        "text": "AMARONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    31,
+                    424,
+                    119,
+                    425,
+                    118,
+                    437,
+                    30,
+                    436
+                ],
+                "text": "della VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            32,
+                            425,
+                            47,
+                            426,
+                            47,
+                            437,
+                            32,
+                            436
+                        ],
+                        "text": "della"
+                    },
+                    {
+                        "boundingBox": [
+                            49,
+                            426,
+                            119,
+                            425,
+                            119,
+                            437,
+                            49,
+                            437
+                        ],
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,92 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    86,
+                    591,
+                    329,
+                    580,
+                    342,
+                    691,
+                    81,
+                    693
+                ],
+                "text": "Revi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            100,
+                            585,
+                            337,
+                            579,
+                            339,
+                            690,
+                            103,
+                            696
+                        ],
+                        "text": "Revi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    109,
+                    750,
+                    295,
+                    745,
+                    296,
+                    775,
+                    110,
+                    780
+                ],
+                "text": "TRENTODOC",
+                "words": [
+                    {
+                        "boundingBox": [
+                            114,
+                            752,
+                            295,
+                            746,
+                            295,
+                            775,
+                            114,
+                            779
+                        ],
+                        "text": "TRENTODOC"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    148,
+                    888,
+                    252,
+                    889,
+                    252,
+                    915,
+                    147,
+                    914
+                ],
+                "text": "Millesimalo",
+                "words": [
+                    {
+                        "boundingBox": [
+                            163,
+                            889,
+                            252,
+                            890,
+                            251,
+                            915,
+                            163,
+                            915
+                        ],
+                        "confidence": "Low",
+                        "text": "Millesimalo"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

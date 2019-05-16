@@ -1,0 +1,132 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    36,
+                    491,
+                    334,
+                    456,
+                    343,
+                    531,
+                    45,
+                    565
+                ],
+                "text": "Marchese Antina",
+                "words": [
+                    {
+                        "boundingBox": [
+                            86,
+                            491,
+                            250,
+                            476,
+                            262,
+                            540,
+                            87,
+                            555
+                        ],
+                        "confidence": "Low",
+                        "text": "Marchese"
+                    },
+                    {
+                        "boundingBox": [
+                            262,
+                            473,
+                            327,
+                            458,
+                            343,
+                            520,
+                            274,
+                            537
+                        ],
+                        "confidence": "Low",
+                        "text": "Antina"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    134,
+                    554,
+                    297,
+                    531,
+                    299,
+                    550,
+                    136,
+                    573
+                ],
+                "text": "TENUTA MONTENISA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            138,
+                            556,
+                            200,
+                            550,
+                            201,
+                            564,
+                            138,
+                            567
+                        ],
+                        "text": "TENUTA"
+                    },
+                    {
+                        "boundingBox": [
+                            210,
+                            548,
+                            296,
+                            532,
+                            299,
+                            545,
+                            212,
+                            563
+                        ],
+                        "text": "MONTENISA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    135,
+                    597,
+                    298,
+                    570,
+                    302,
+                    593,
+                    139,
+                    620
+                ],
+                "text": "CUVEE ROYALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            140,
+                            597,
+                            215,
+                            587,
+                            218,
+                            608,
+                            142,
+                            617
+                        ],
+                        "text": "CUVEE"
+                    },
+                    {
+                        "boundingBox": [
+                            223,
+                            586,
+                            298,
+                            571,
+                            302,
+                            592,
+                            226,
+                            607
+                        ],
+                        "text": "ROYALE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

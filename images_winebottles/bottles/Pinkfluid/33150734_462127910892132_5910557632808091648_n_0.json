@@ -1,0 +1,228 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    223,
+                    394,
+                    436,
+                    436,
+                    430,
+                    464,
+                    217,
+                    422
+                ],
+                "text": "PINKFLUID",
+                "words": [
+                    {
+                        "boundingBox": [
+                            225,
+                            396,
+                            432,
+                            436,
+                            426,
+                            464,
+                            220,
+                            423
+                        ],
+                        "text": "PINKFLUID"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    187,
+                    669,
+                    365,
+                    704,
+                    361,
+                    724,
+                    183,
+                    690
+                ],
+                "text": "MARCHE ROSATO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            192,
+                            672,
+                            276,
+                            689,
+                            272,
+                            707,
+                            188,
+                            689
+                        ],
+                        "text": "MARCHE"
+                    },
+                    {
+                        "boundingBox": [
+                            287,
+                            691,
+                            364,
+                            704,
+                            361,
+                            723,
+                            283,
+                            710
+                        ],
+                        "text": "ROSATO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    187,
+                    692,
+                    359,
+                    726,
+                    356,
+                    742,
+                    183,
+                    708
+                ],
+                "text": "INDICAZIONE GEOGRAFICA TIPICA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            188,
+                            693,
+                            254,
+                            708,
+                            251,
+                            721,
+                            186,
+                            707
+                        ],
+                        "text": "INDICAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            256,
+                            709,
+                            327,
+                            721,
+                            324,
+                            735,
+                            254,
+                            722
+                        ],
+                        "text": "GEOGRAFICA"
+                    },
+                    {
+                        "boundingBox": [
+                            329,
+                            722,
+                            359,
+                            726,
+                            357,
+                            740,
+                            327,
+                            735
+                        ],
+                        "text": "TIPICA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    239,
+                    723,
+                    303,
+                    735,
+                    300,
+                    751,
+                    236,
+                    739
+                ],
+                "text": "2016",
+                "words": [
+                    {
+                        "boundingBox": [
+                            242,
+                            724,
+                            300,
+                            735,
+                            297,
+                            750,
+                            239,
+                            740
+                        ],
+                        "text": "2016"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    208,
+                    777,
+                    306,
+                    788,
+                    303,
+                    817,
+                    204,
+                    805
+                ],
+                "text": "Fattaria",
+                "words": [
+                    {
+                        "boundingBox": [
+                            217,
+                            779,
+                            306,
+                            789,
+                            302,
+                            818,
+                            214,
+                            806
+                        ],
+                        "confidence": "Low",
+                        "text": "Fattaria"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    172,
+                    796,
+                    334,
+                    825,
+                    328,
+                    856,
+                    166,
+                    827
+                ],
+                "text": "LE TERRAZZE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            176,
+                            797,
+                            202,
+                            802,
+                            196,
+                            832,
+                            169,
+                            826
+                        ],
+                        "text": "LE"
+                    },
+                    {
+                        "boundingBox": [
+                            207,
+                            803,
+                            332,
+                            826,
+                            328,
+                            854,
+                            201,
+                            833
+                        ],
+                        "text": "TERRAZZE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

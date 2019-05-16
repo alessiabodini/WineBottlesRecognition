@@ -1,0 +1,120 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    76,
+                    218,
+                    143,
+                    210,
+                    145,
+                    223,
+                    78,
+                    231
+                ],
+                "text": "FERRARI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            79,
+                            218,
+                            143,
+                            211,
+                            144,
+                            223,
+                            79,
+                            231
+                        ],
+                        "text": "FERRARI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    0,
+                    418,
+                    83,
+                    404,
+                    85,
+                    418,
+                    2,
+                    431
+                ],
+                "text": "RIMITIVO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            1,
+                            419,
+                            64,
+                            410,
+                            66,
+                            420,
+                            2,
+                            429
+                        ],
+                        "text": "RIMITIVO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    1,
+                    490,
+                    22,
+                    487,
+                    22,
+                    497,
+                    2,
+                    499
+                ],
+                "text": "TINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            0,
+                            489,
+                            21,
+                            486,
+                            22,
+                            496,
+                            1,
+                            498
+                        ],
+                        "confidence": "Low",
+                        "text": "TINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    43,
+                    485,
+                    79,
+                    475,
+                    82,
+                    486,
+                    45,
+                    495
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            47,
+                            485,
+                            79,
+                            476,
+                            82,
+                            486,
+                            50,
+                            495
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

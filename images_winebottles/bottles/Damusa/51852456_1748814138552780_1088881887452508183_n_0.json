@@ -1,0 +1,243 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    44,
+                    198,
+                    180,
+                    192,
+                    181,
+                    211,
+                    45,
+                    216
+                ],
+                "text": "PALIZZI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            47,
+                            199,
+                            180,
+                            193,
+                            181,
+                            212,
+                            47,
+                            216
+                        ],
+                        "text": "PALIZZI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    57,
+                    219,
+                    170,
+                    214,
+                    171,
+                    226,
+                    58,
+                    231
+                ],
+                "text": "Indicatione Geografica Tipaa",
+                "words": [
+                    {
+                        "boundingBox": [
+                            60,
+                            220,
+                            104,
+                            218,
+                            104,
+                            229,
+                            60,
+                            231
+                        ],
+                        "confidence": "Low",
+                        "text": "Indicatione"
+                    },
+                    {
+                        "boundingBox": [
+                            106,
+                            218,
+                            147,
+                            216,
+                            147,
+                            228,
+                            106,
+                            229
+                        ],
+                        "confidence": "Low",
+                        "text": "Geografica"
+                    },
+                    {
+                        "boundingBox": [
+                            149,
+                            216,
+                            170,
+                            215,
+                            170,
+                            227,
+                            149,
+                            228
+                        ],
+                        "confidence": "Low",
+                        "text": "Tipaa"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    82,
+                    230,
+                    144,
+                    228,
+                    145,
+                    239,
+                    83,
+                    241
+                ],
+                "text": "ROSATO 2017",
+                "words": [
+                    {
+                        "boundingBox": [
+                            86,
+                            231,
+                            122,
+                            230,
+                            123,
+                            240,
+                            86,
+                            241
+                        ],
+                        "text": "ROSATO"
+                    },
+                    {
+                        "boundingBox": [
+                            126,
+                            230,
+                            145,
+                            229,
+                            145,
+                            239,
+                            127,
+                            239
+                        ],
+                        "text": "2017"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    39,
+                    243,
+                    189,
+                    237,
+                    190,
+                    249,
+                    40,
+                    256
+                ],
+                "text": "VINO BIOLOGICO . ORGANIC WINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            41,
+                            244,
+                            61,
+                            243,
+                            62,
+                            255,
+                            42,
+                            256
+                        ],
+                        "text": "VINO"
+                    },
+                    {
+                        "boundingBox": [
+                            63,
+                            243,
+                            116,
+                            241,
+                            117,
+                            252,
+                            64,
+                            255
+                        ],
+                        "confidence": "Low",
+                        "text": "BIOLOGICO"
+                    },
+                    {
+                        "boundingBox": [
+                            119,
+                            241,
+                            123,
+                            241,
+                            123,
+                            252,
+                            119,
+                            252
+                        ],
+                        "text": "."
+                    },
+                    {
+                        "boundingBox": [
+                            125,
+                            241,
+                            167,
+                            239,
+                            167,
+                            250,
+                            126,
+                            252
+                        ],
+                        "text": "ORGANIC"
+                    },
+                    {
+                        "boundingBox": [
+                            169,
+                            239,
+                            189,
+                            238,
+                            190,
+                            249,
+                            170,
+                            250
+                        ],
+                        "confidence": "Low",
+                        "text": "WINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    58,
+                    301,
+                    180,
+                    297,
+                    181,
+                    324,
+                    58,
+                    328
+                ],
+                "text": "Damusa",
+                "words": [
+                    {
+                        "boundingBox": [
+                            58,
+                            301,
+                            180,
+                            300,
+                            181,
+                            322,
+                            60,
+                            329
+                        ],
+                        "text": "Damusa"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

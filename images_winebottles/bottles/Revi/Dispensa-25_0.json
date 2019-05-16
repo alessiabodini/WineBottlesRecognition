@@ -1,0 +1,92 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    64,
+                    228,
+                    165,
+                    226,
+                    167,
+                    268,
+                    65,
+                    273
+                ],
+                "text": "Revi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            69,
+                            227,
+                            165,
+                            224,
+                            166,
+                            269,
+                            70,
+                            272
+                        ],
+                        "text": "Revi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    76,
+                    279,
+                    152,
+                    275,
+                    153,
+                    290,
+                    77,
+                    293
+                ],
+                "text": "TRENTODOC",
+                "words": [
+                    {
+                        "boundingBox": [
+                            79,
+                            280,
+                            152,
+                            276,
+                            153,
+                            289,
+                            78,
+                            292
+                        ],
+                        "text": "TRENTODOC"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    92,
+                    300,
+                    140,
+                    301,
+                    139,
+                    317,
+                    91,
+                    316
+                ],
+                "text": "But",
+                "words": [
+                    {
+                        "boundingBox": [
+                            103,
+                            301,
+                            135,
+                            301,
+                            135,
+                            317,
+                            103,
+                            316
+                        ],
+                        "confidence": "Low",
+                        "text": "But"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

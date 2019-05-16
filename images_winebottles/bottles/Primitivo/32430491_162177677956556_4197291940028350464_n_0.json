@@ -1,0 +1,105 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    97,
+                    808,
+                    372,
+                    799,
+                    373,
+                    838,
+                    98,
+                    846
+                ],
+                "text": "PRIMITIVO Puglia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            103,
+                            809,
+                            311,
+                            807,
+                            314,
+                            837,
+                            102,
+                            836
+                        ],
+                        "text": "PRIMITIVO"
+                    },
+                    {
+                        "boundingBox": [
+                            327,
+                            805,
+                            369,
+                            800,
+                            373,
+                            827,
+                            330,
+                            835
+                        ],
+                        "confidence": "Low",
+                        "text": "Puglia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    56,
+                    1002,
+                    156,
+                    1027,
+                    149,
+                    1052,
+                    49,
+                    1027
+                ],
+                "text": "CANTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            59,
+                            1004,
+                            155,
+                            1028,
+                            149,
+                            1052,
+                            55,
+                            1029
+                        ],
+                        "text": "CANTINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    234,
+                    1024,
+                    331,
+                    1002,
+                    337,
+                    1027,
+                    240,
+                    1049
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            237,
+                            1025,
+                            329,
+                            1003,
+                            335,
+                            1026,
+                            242,
+                            1048
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

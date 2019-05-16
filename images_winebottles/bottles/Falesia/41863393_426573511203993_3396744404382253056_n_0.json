@@ -1,0 +1,91 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    110,
+                    616,
+                    355,
+                    666,
+                    352,
+                    702,
+                    102,
+                    653
+                ],
+                "text": "FALESIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            118,
+                            619,
+                            354,
+                            665,
+                            354,
+                            694,
+                            109,
+                            644
+                        ],
+                        "text": "FALESIA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    42,
+                    792,
+                    150,
+                    852,
+                    139,
+                    871,
+                    31,
+                    811
+                ],
+                "text": "CANTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            48,
+                            795,
+                            150,
+                            852,
+                            139,
+                            870,
+                            36,
+                            812
+                        ],
+                        "text": "CANTINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    244,
+                    870,
+                    353,
+                    860,
+                    355,
+                    885,
+                    246,
+                    895
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            247,
+                            870,
+                            353,
+                            862,
+                            353,
+                            884,
+                            248,
+                            893
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

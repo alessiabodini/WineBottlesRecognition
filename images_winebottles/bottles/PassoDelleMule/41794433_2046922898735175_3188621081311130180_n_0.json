@@ -1,0 +1,118 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    14,
+                    354,
+                    99,
+                    368,
+                    96,
+                    383,
+                    12,
+                    370
+                ],
+                "text": "CUCA DI SALAPARUTA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            16,
+                            355,
+                            34,
+                            361,
+                            32,
+                            372,
+                            13,
+                            367
+                        ],
+                        "confidence": "Low",
+                        "text": "CUCA"
+                    },
+                    {
+                        "boundingBox": [
+                            36,
+                            361,
+                            44,
+                            363,
+                            42,
+                            374,
+                            34,
+                            372
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            46,
+                            364,
+                            99,
+                            368,
+                            97,
+                            380,
+                            44,
+                            375
+                        ],
+                        "text": "SALAPARUTA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    10,
+                    381,
+                    104,
+                    396,
+                    102,
+                    412,
+                    8,
+                    397
+                ],
+                "text": "MSO DELLE MULE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            15,
+                            383,
+                            34,
+                            389,
+                            31,
+                            400,
+                            12,
+                            394
+                        ],
+                        "confidence": "Low",
+                        "text": "MSO"
+                    },
+                    {
+                        "boundingBox": [
+                            36,
+                            390,
+                            70,
+                            396,
+                            68,
+                            407,
+                            33,
+                            400
+                        ],
+                        "text": "DELLE"
+                    },
+                    {
+                        "boundingBox": [
+                            73,
+                            396,
+                            104,
+                            396,
+                            102,
+                            409,
+                            71,
+                            407
+                        ],
+                        "confidence": "Low",
+                        "text": "MULE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

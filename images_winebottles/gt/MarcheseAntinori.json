@@ -1,0 +1,91 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    14,
+                    381,
+                    133,
+                    382,
+                    132,
+                    407,
+                    13,
+                    406
+                ],
+                "text": "Marchese Antinow",
+                "words": [
+                    {
+                        "boundingBox": [
+                            26,
+                            382,
+                            84,
+                            383,
+                            85,
+                            407,
+                            26,
+                            407
+                        ],
+                        "text": "Marchese"
+                    },
+                    {
+                        "boundingBox": [
+                            89,
+                            383,
+                            133,
+                            385,
+                            134,
+                            405,
+                            90,
+                            407
+                        ],
+                        "confidence": "Low",
+                        "text": "Antinow"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    44,
+                    420,
+                    103,
+                    420,
+                    103,
+                    428,
+                    44,
+                    428
+                ],
+                "text": "CUVEE ROYALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            45,
+                            420,
+                            71,
+                            420,
+                            71,
+                            429,
+                            45,
+                            429
+                        ],
+                        "confidence": "Low",
+                        "text": "CUVEE"
+                    },
+                    {
+                        "boundingBox": [
+                            73,
+                            420,
+                            103,
+                            420,
+                            103,
+                            429,
+                            73,
+                            429
+                        ],
+                        "text": "ROYALE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

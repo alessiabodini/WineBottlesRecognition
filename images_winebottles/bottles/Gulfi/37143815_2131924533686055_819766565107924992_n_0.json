@@ -1,0 +1,121 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    113,
+                    134,
+                    168,
+                    131,
+                    169,
+                    149,
+                    115,
+                    152
+                ],
+                "text": "ULFA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            118,
+                            133,
+                            166,
+                            131,
+                            167,
+                            148,
+                            119,
+                            151
+                        ],
+                        "confidence": "Low",
+                        "text": "ULFA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    74,
+                    476,
+                    220,
+                    479,
+                    220,
+                    532,
+                    72,
+                    526
+                ],
+                "text": "GULFI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            80,
+                            474,
+                            217,
+                            478,
+                            216,
+                            531,
+                            78,
+                            527
+                        ],
+                        "text": "GULFI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    42,
+                    868,
+                    210,
+                    870,
+                    209,
+                    903,
+                    41,
+                    901
+                ],
+                "text": "NeroMaccarj",
+                "words": [
+                    {
+                        "boundingBox": [
+                            45,
+                            874,
+                            209,
+                            873,
+                            210,
+                            902,
+                            43,
+                            897
+                        ],
+                        "confidence": "Low",
+                        "text": "NeroMaccarj"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    114,
+                    915,
+                    169,
+                    915,
+                    168,
+                    938,
+                    113,
+                    938
+                ],
+                "text": "2011",
+                "words": [
+                    {
+                        "boundingBox": [
+                            116,
+                            915,
+                            168,
+                            915,
+                            168,
+                            938,
+                            116,
+                            938
+                        ],
+                        "text": "2011"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

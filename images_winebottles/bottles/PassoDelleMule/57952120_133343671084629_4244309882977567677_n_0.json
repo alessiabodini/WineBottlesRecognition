@@ -1,0 +1,200 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    20,
+                    606,
+                    171,
+                    613,
+                    170,
+                    633,
+                    19,
+                    626
+                ],
+                "text": "DUCA DI SALAPARUTA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            23,
+                            607,
+                            58,
+                            609,
+                            56,
+                            628,
+                            21,
+                            625
+                        ],
+                        "text": "DUCA"
+                    },
+                    {
+                        "boundingBox": [
+                            61,
+                            610,
+                            77,
+                            611,
+                            75,
+                            630,
+                            60,
+                            629
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            80,
+                            611,
+                            171,
+                            613,
+                            170,
+                            632,
+                            79,
+                            630
+                        ],
+                        "text": "SALAPARUTA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    69,
+                    632,
+                    114,
+                    632,
+                    113,
+                    645,
+                    68,
+                    644
+                ],
+                "text": "DAL 1024",
+                "words": [
+                    {
+                        "boundingBox": [
+                            72,
+                            632,
+                            89,
+                            632,
+                            88,
+                            645,
+                            72,
+                            644
+                        ],
+                        "text": "DAL"
+                    },
+                    {
+                        "boundingBox": [
+                            91,
+                            633,
+                            114,
+                            633,
+                            113,
+                            645,
+                            90,
+                            645
+                        ],
+                        "confidence": "Low",
+                        "text": "1024"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    11,
+                    657,
+                    187,
+                    667,
+                    185,
+                    693,
+                    9,
+                    683
+                ],
+                "text": "PASSO DELLE MULE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            16,
+                            659,
+                            57,
+                            665,
+                            55,
+                            685,
+                            13,
+                            677
+                        ],
+                        "text": "PASSO"
+                    },
+                    {
+                        "boundingBox": [
+                            63,
+                            665,
+                            126,
+                            669,
+                            126,
+                            690,
+                            61,
+                            686
+                        ],
+                        "text": "DELLE"
+                    },
+                    {
+                        "boundingBox": [
+                            133,
+                            669,
+                            186,
+                            667,
+                            187,
+                            687,
+                            132,
+                            690
+                        ],
+                        "text": "MULE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    69,
+                    690,
+                    126,
+                    691,
+                    125,
+                    704,
+                    68,
+                    703
+                ],
+                "text": "TO D'AVCRA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            72,
+                            691,
+                            85,
+                            691,
+                            84,
+                            703,
+                            71,
+                            702
+                        ],
+                        "confidence": "Low",
+                        "text": "TO"
+                    },
+                    {
+                        "boundingBox": [
+                            87,
+                            691,
+                            126,
+                            691,
+                            125,
+                            704,
+                            86,
+                            703
+                        ],
+                        "confidence": "Low",
+                        "text": "D'AVCRA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

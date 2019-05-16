@@ -1,0 +1,262 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    45,
+                    20,
+                    87,
+                    19,
+                    88,
+                    28,
+                    46,
+                    29
+                ],
+                "text": "CORTE GLARE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            47,
+                            20,
+                            67,
+                            20,
+                            67,
+                            28,
+                            47,
+                            30
+                        ],
+                        "confidence": "Low",
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            69,
+                            20,
+                            88,
+                            20,
+                            87,
+                            28,
+                            68,
+                            28
+                        ],
+                        "confidence": "Low",
+                        "text": "GLARE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    21,
+                    348,
+                    114,
+                    347,
+                    115,
+                    360,
+                    21,
+                    361
+                ],
+                "text": "CORTE GIARA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            22,
+                            348,
+                            66,
+                            348,
+                            66,
+                            361,
+                            22,
+                            361
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            72,
+                            348,
+                            115,
+                            348,
+                            115,
+                            361,
+                            72,
+                            361
+                        ],
+                        "text": "GIARA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    40,
+                    366,
+                    95,
+                    367,
+                    94,
+                    376,
+                    39,
+                    375
+                ],
+                "text": "AMARONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            42,
+                            367,
+                            90,
+                            367,
+                            90,
+                            376,
+                            42,
+                            375
+                        ],
+                        "text": "AMARONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    31,
+                    376,
+                    100,
+                    375,
+                    101,
+                    383,
+                    32,
+                    384
+                ],
+                "text": "DELLA VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            33,
+                            376,
+                            52,
+                            377,
+                            52,
+                            384,
+                            33,
+                            384
+                        ],
+                        "text": "DELLA"
+                    },
+                    {
+                        "boundingBox": [
+                            53,
+                            377,
+                            101,
+                            377,
+                            101,
+                            383,
+                            53,
+                            384
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    55,
+                    384,
+                    76,
+                    382,
+                    77,
+                    389,
+                    55,
+                    391
+                ],
+                "text": "IRICE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            56,
+                            384,
+                            74,
+                            384,
+                            74,
+                            390,
+                            56,
+                            391
+                        ],
+                        "confidence": "Low",
+                        "text": "IRICE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    57,
+                    392,
+                    76,
+                    391,
+                    76,
+                    398,
+                    57,
+                    399
+                ],
+                "text": "2915",
+                "words": [
+                    {
+                        "boundingBox": [
+                            59,
+                            391,
+                            75,
+                            391,
+                            75,
+                            398,
+                            59,
+                            398
+                        ],
+                        "confidence": "Low",
+                        "text": "2915"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    42,
+                    399,
+                    90,
+                    399,
+                    90,
+                    408,
+                    42,
+                    408
+                ],
+                "text": "CA GROLETTA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            43,
+                            399,
+                            51,
+                            400,
+                            51,
+                            408,
+                            42,
+                            408
+                        ],
+                        "confidence": "Low",
+                        "text": "CA"
+                    },
+                    {
+                        "boundingBox": [
+                            53,
+                            400,
+                            90,
+                            399,
+                            90,
+                            407,
+                            53,
+                            408
+                        ],
+                        "confidence": "Low",
+                        "text": "GROLETTA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

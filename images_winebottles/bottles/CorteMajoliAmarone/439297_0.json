@@ -1,0 +1,242 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    67,
+                    365,
+                    212,
+                    372,
+                    212,
+                    388,
+                    66,
+                    382
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            70,
+                            366,
+                            132,
+                            370,
+                            131,
+                            385,
+                            69,
+                            381
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            137,
+                            370,
+                            213,
+                            372,
+                            212,
+                            388,
+                            137,
+                            386
+                        ],
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    115,
+                    405,
+                    159,
+                    406,
+                    158,
+                    422,
+                    114,
+                    421
+                ],
+                "text": "2010",
+                "words": [
+                    {
+                        "boundingBox": [
+                            119,
+                            405,
+                            158,
+                            405,
+                            158,
+                            421,
+                            118,
+                            421
+                        ],
+                        "text": "2010"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    70,
+                    433,
+                    206,
+                    440,
+                    204,
+                    468,
+                    68,
+                    462
+                ],
+                "text": "AMARONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            72,
+                            435,
+                            205,
+                            440,
+                            205,
+                            468,
+                            71,
+                            461
+                        ],
+                        "text": "AMARONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    27,
+                    453,
+                    247,
+                    463,
+                    245,
+                    500,
+                    25,
+                    491
+                ],
+                "text": "della VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            31,
+                            456,
+                            68,
+                            460,
+                            64,
+                            488,
+                            27,
+                            480
+                        ],
+                        "text": "della"
+                    },
+                    {
+                        "boundingBox": [
+                            72,
+                            461,
+                            244,
+                            463,
+                            245,
+                            490,
+                            69,
+                            489
+                        ],
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    18,
+                    479,
+                    256,
+                    489,
+                    255,
+                    520,
+                    17,
+                    511
+                ],
+                "text": "CHINAZIONE DI ORIGINE CONTROLATA E GARAY",
+                "words": [
+                    {
+                        "boundingBox": [
+                            25,
+                            483,
+                            77,
+                            494,
+                            75,
+                            509,
+                            22,
+                            497
+                        ],
+                        "confidence": "Low",
+                        "text": "CHINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            79,
+                            495,
+                            89,
+                            496,
+                            87,
+                            512,
+                            77,
+                            510
+                        ],
+                        "confidence": "Low",
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            92,
+                            497,
+                            132,
+                            500,
+                            131,
+                            516,
+                            90,
+                            512
+                        ],
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            134,
+                            500,
+                            204,
+                            498,
+                            205,
+                            514,
+                            134,
+                            516
+                        ],
+                        "confidence": "Low",
+                        "text": "CONTROLATA"
+                    },
+                    {
+                        "boundingBox": [
+                            207,
+                            497,
+                            211,
+                            497,
+                            213,
+                            513,
+                            208,
+                            513
+                        ],
+                        "text": "E"
+                    },
+                    {
+                        "boundingBox": [
+                            214,
+                            497,
+                            244,
+                            491,
+                            246,
+                            507,
+                            215,
+                            513
+                        ],
+                        "confidence": "Low",
+                        "text": "GARAY"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

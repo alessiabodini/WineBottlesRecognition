@@ -1,0 +1,277 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    0,
+                    121,
+                    78,
+                    126,
+                    75,
+                    164,
+                    0,
+                    157
+                ],
+                "text": "Mar",
+                "words": [
+                    {
+                        "boundingBox": [
+                            27,
+                            121,
+                            75,
+                            125,
+                            72,
+                            163,
+                            24,
+                            159
+                        ],
+                        "confidence": "Low",
+                        "text": "Mar"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    148,
+                    125,
+                    201,
+                    129,
+                    199,
+                    164,
+                    146,
+                    161
+                ],
+                "text": "Anti",
+                "words": [
+                    {
+                        "boundingBox": [
+                            157,
+                            125,
+                            200,
+                            127,
+                            198,
+                            163,
+                            155,
+                            161
+                        ],
+                        "confidence": "Low",
+                        "text": "Anti"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    49,
+                    195,
+                    75,
+                    196,
+                    74,
+                    219,
+                    48,
+                    219
+                ],
+                "text": "K",
+                "words": [
+                    {
+                        "boundingBox": [
+                            54,
+                            194,
+                            70,
+                            194,
+                            69,
+                            218,
+                            53,
+                            218
+                        ],
+                        "confidence": "Low",
+                        "text": "K"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    148,
+                    199,
+                    173,
+                    199,
+                    173,
+                    218,
+                    149,
+                    219
+                ],
+                "text": "06",
+                "words": [
+                    {
+                        "boundingBox": [
+                            150,
+                            198,
+                            171,
+                            198,
+                            171,
+                            218,
+                            150,
+                            218
+                        ],
+                        "text": "06"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    9,
+                    229,
+                    69,
+                    231,
+                    68,
+                    251,
+                    8,
+                    249
+                ],
+                "text": "6 BOT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            13,
+                            230,
+                            25,
+                            230,
+                            24,
+                            249,
+                            12,
+                            249
+                        ],
+                        "text": "6"
+                    },
+                    {
+                        "boundingBox": [
+                            31,
+                            230,
+                            68,
+                            231,
+                            67,
+                            251,
+                            30,
+                            250
+                        ],
+                        "text": "BOT"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    150,
+                    231,
+                    196,
+                    231,
+                    196,
+                    251,
+                    149,
+                    251
+                ],
+                "text": "750",
+                "words": [
+                    {
+                        "boundingBox": [
+                            154,
+                            231,
+                            191,
+                            231,
+                            191,
+                            251,
+                            154,
+                            251
+                        ],
+                        "text": "750"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    19,
+                    555,
+                    182,
+                    564,
+                    180,
+                    602,
+                    17,
+                    594
+                ],
+                "text": "Marchese Antine",
+                "words": [
+                    {
+                        "boundingBox": [
+                            39,
+                            559,
+                            118,
+                            567,
+                            117,
+                            599,
+                            35,
+                            591
+                        ],
+                        "confidence": "Low",
+                        "text": "Marchese"
+                    },
+                    {
+                        "boundingBox": [
+                            124,
+                            568,
+                            180,
+                            565,
+                            181,
+                            597,
+                            124,
+                            600
+                        ],
+                        "confidence": "Low",
+                        "text": "Antine"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    56,
+                    615,
+                    143,
+                    616,
+                    142,
+                    632,
+                    55,
+                    631
+                ],
+                "text": "CUVEE KOYALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            58,
+                            616,
+                            96,
+                            617,
+                            96,
+                            632,
+                            58,
+                            631
+                        ],
+                        "confidence": "Low",
+                        "text": "CUVEE"
+                    },
+                    {
+                        "boundingBox": [
+                            99,
+                            617,
+                            143,
+                            617,
+                            143,
+                            632,
+                            99,
+                            632
+                        ],
+                        "confidence": "Low",
+                        "text": "KOYALE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

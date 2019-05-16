@@ -1,0 +1,63 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    144,
+                    236,
+                    210,
+                    235,
+                    211,
+                    245,
+                    145,
+                    246
+                ],
+                "text": "PALIZZI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            148,
+                            237,
+                            211,
+                            237,
+                            211,
+                            245,
+                            148,
+                            246
+                        ],
+                        "text": "PALIZZI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    148,
+                    282,
+                    208,
+                    283,
+                    207,
+                    295,
+                    147,
+                    293
+                ],
+                "text": "Damusa",
+                "words": [
+                    {
+                        "boundingBox": [
+                            149,
+                            282,
+                            207,
+                            284,
+                            207,
+                            294,
+                            149,
+                            294
+                        ],
+                        "text": "Damusa"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

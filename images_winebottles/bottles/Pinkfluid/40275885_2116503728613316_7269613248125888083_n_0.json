@@ -1,0 +1,135 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    45,
+                    311,
+                    139,
+                    310,
+                    140,
+                    324,
+                    46,
+                    325
+                ],
+                "text": "PINKFLUID",
+                "words": [
+                    {
+                        "boundingBox": [
+                            48,
+                            311,
+                            139,
+                            311,
+                            138,
+                            325,
+                            48,
+                            325
+                        ],
+                        "text": "PINKFLUID"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    59,
+                    424,
+                    137,
+                    422,
+                    138,
+                    433,
+                    60,
+                    435
+                ],
+                "text": "MARCHE ROSATO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            61,
+                            424,
+                            99,
+                            425,
+                            99,
+                            434,
+                            61,
+                            434
+                        ],
+                        "confidence": "Low",
+                        "text": "MARCHE"
+                    },
+                    {
+                        "boundingBox": [
+                            101,
+                            425,
+                            136,
+                            423,
+                            137,
+                            433,
+                            101,
+                            434
+                        ],
+                        "text": "ROSATO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    84,
+                    440,
+                    114,
+                    438,
+                    115,
+                    448,
+                    85,
+                    449
+                ],
+                "text": "2617",
+                "words": [
+                    {
+                        "boundingBox": [
+                            87,
+                            441,
+                            113,
+                            440,
+                            114,
+                            448,
+                            87,
+                            449
+                        ],
+                        "confidence": "Low",
+                        "text": "2617"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    66,
+                    476,
+                    134,
+                    473,
+                    135,
+                    486,
+                    67,
+                    489
+                ],
+                "text": "LETERRAZZE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            67,
+                            477,
+                            135,
+                            474,
+                            135,
+                            486,
+                            67,
+                            489
+                        ],
+                        "confidence": "Low",
+                        "text": "LETERRAZZE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

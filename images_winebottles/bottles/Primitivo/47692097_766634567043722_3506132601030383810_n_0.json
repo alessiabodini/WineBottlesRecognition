@@ -1,0 +1,105 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    110,
+                    1,
+                    153,
+                    3,
+                    152,
+                    17,
+                    109,
+                    15
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            111,
+                            1,
+                            152,
+                            2,
+                            152,
+                            16,
+                            111,
+                            15
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    8,
+                    98,
+                    31,
+                    98,
+                    32,
+                    108,
+                    8,
+                    108
+                ],
+                "text": "Lostro",
+                "words": [
+                    {
+                        "boundingBox": [
+                            8,
+                            98,
+                            32,
+                            98,
+                            32,
+                            108,
+                            8,
+                            108
+                        ],
+                        "confidence": "Low",
+                        "text": "Lostro"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    37,
+                    604,
+                    241,
+                    578,
+                    246,
+                    615,
+                    41,
+                    640
+                ],
+                "text": "PRIMITIVO Puglia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            43,
+                            604,
+                            188,
+                            595,
+                            194,
+                            617,
+                            43,
+                            625
+                        ],
+                        "text": "PRIMITIVO"
+                    },
+                    {
+                        "boundingBox": [
+                            199,
+                            592,
+                            237,
+                            581,
+                            244,
+                            598,
+                            205,
+                            614
+                        ],
+                        "text": "Puglia"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,64 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    139,
+                    235,
+                    195,
+                    236,
+                    194,
+                    256,
+                    138,
+                    255
+                ],
+                "text": "GULFI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            140,
+                            235,
+                            193,
+                            235,
+                            193,
+                            255,
+                            140,
+                            254
+                        ],
+                        "text": "GULFI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    129,
+                    381,
+                    195,
+                    383,
+                    194,
+                    397,
+                    128,
+                    395
+                ],
+                "text": "Maccarj",
+                "words": [
+                    {
+                        "boundingBox": [
+                            142,
+                            383,
+                            195,
+                            384,
+                            194,
+                            397,
+                            141,
+                            395
+                        ],
+                        "confidence": "Low",
+                        "text": "Maccarj"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

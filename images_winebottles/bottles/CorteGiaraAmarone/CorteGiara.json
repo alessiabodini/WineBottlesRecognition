@@ -1,0 +1,301 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    90,
+                    39,
+                    129,
+                    40,
+                    128,
+                    67,
+                    89,
+                    66
+                ],
+                "text": "DOCE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            103,
+                            39,
+                            128,
+                            39,
+                            127,
+                            66,
+                            102,
+                            66
+                        ],
+                        "confidence": "Low",
+                        "text": "DOCE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    90,
+                    456,
+                    186,
+                    448,
+                    187,
+                    462,
+                    91,
+                    469
+                ],
+                "text": "CORTE GIARA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            91,
+                            456,
+                            142,
+                            453,
+                            143,
+                            466,
+                            92,
+                            469
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            147,
+                            453,
+                            186,
+                            450,
+                            187,
+                            461,
+                            148,
+                            466
+                        ],
+                        "text": "GIARA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    102,
+                    508,
+                    183,
+                    501,
+                    185,
+                    515,
+                    104,
+                    522
+                ],
+                "text": "AMARONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            105,
+                            509,
+                            182,
+                            502,
+                            183,
+                            515,
+                            106,
+                            522
+                        ],
+                        "text": "AMARONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    81,
+                    521,
+                    196,
+                    510,
+                    198,
+                    524,
+                    83,
+                    534
+                ],
+                "text": "DELLA VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            84,
+                            522,
+                            119,
+                            520,
+                            121,
+                            531,
+                            84,
+                            533
+                        ],
+                        "text": "DELLA"
+                    },
+                    {
+                        "boundingBox": [
+                            124,
+                            520,
+                            195,
+                            512,
+                            198,
+                            522,
+                            125,
+                            531
+                        ],
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    109,
+                    537,
+                    179,
+                    531,
+                    179,
+                    540,
+                    110,
+                    546
+                ],
+                "text": "DENOMINAZIONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            115,
+                            538,
+                            175,
+                            532,
+                            175,
+                            541,
+                            115,
+                            546
+                        ],
+                        "confidence": "Low",
+                        "text": "DENOMINAZIONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    95,
+                    545,
+                    188,
+                    535,
+                    189,
+                    545,
+                    96,
+                    555
+                ],
+                "text": "01 ORIGINE CONTROLLATA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            98,
+                            546,
+                            106,
+                            546,
+                            107,
+                            554,
+                            99,
+                            554
+                        ],
+                        "confidence": "Low",
+                        "text": "01"
+                    },
+                    {
+                        "boundingBox": [
+                            108,
+                            546,
+                            139,
+                            543,
+                            140,
+                            551,
+                            109,
+                            553
+                        ],
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            140,
+                            543,
+                            188,
+                            536,
+                            189,
+                            545,
+                            142,
+                            550
+                        ],
+                        "text": "CONTROLLATA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    118,
+                    551,
+                    171,
+                    546,
+                    172,
+                    555,
+                    118,
+                    560
+                ],
+                "text": "E GARANTITA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            122,
+                            551,
+                            128,
+                            551,
+                            128,
+                            559,
+                            123,
+                            559
+                        ],
+                        "confidence": "Low",
+                        "text": "E"
+                    },
+                    {
+                        "boundingBox": [
+                            130,
+                            551,
+                            169,
+                            547,
+                            169,
+                            555,
+                            131,
+                            559
+                        ],
+                        "confidence": "Low",
+                        "text": "GARANTITA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    131,
+                    564,
+                    162,
+                    561,
+                    163,
+                    571,
+                    132,
+                    574
+                ],
+                "text": "2012",
+                "words": [
+                    {
+                        "boundingBox": [
+                            135,
+                            563,
+                            161,
+                            561,
+                            162,
+                            570,
+                            136,
+                            573
+                        ],
+                        "text": "2012"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,136 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    43,
+                    267,
+                    196,
+                    275,
+                    194,
+                    330,
+                    40,
+                    319
+                ],
+                "text": "GULFI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            50,
+                            265,
+                            196,
+                            274,
+                            193,
+                            329,
+                            46,
+                            320
+                        ],
+                        "confidence": "Low",
+                        "text": "GULFI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    38,
+                    317,
+                    196,
+                    327,
+                    194,
+                    351,
+                    36,
+                    342
+                ],
+                "text": "organic wines",
+                "words": [
+                    {
+                        "boundingBox": [
+                            42,
+                            318,
+                            124,
+                            326,
+                            123,
+                            347,
+                            40,
+                            337
+                        ],
+                        "confidence": "Low",
+                        "text": "organic"
+                    },
+                    {
+                        "boundingBox": [
+                            134,
+                            327,
+                            195,
+                            327,
+                            194,
+                            347,
+                            133,
+                            348
+                        ],
+                        "text": "wines"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    26,
+                    497,
+                    165,
+                    522,
+                    160,
+                    547,
+                    21,
+                    522
+                ],
+                "text": "NewMaccar",
+                "words": [
+                    {
+                        "boundingBox": [
+                            29,
+                            500,
+                            154,
+                            521,
+                            150,
+                            543,
+                            24,
+                            517
+                        ],
+                        "confidence": "Low",
+                        "text": "NewMaccar"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    41,
+                    591,
+                    132,
+                    609,
+                    128,
+                    628,
+                    37,
+                    611
+                ],
+                "text": "2608",
+                "words": [
+                    {
+                        "boundingBox": [
+                            72,
+                            600,
+                            126,
+                            609,
+                            122,
+                            628,
+                            69,
+                            617
+                        ],
+                        "confidence": "Low",
+                        "text": "2608"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

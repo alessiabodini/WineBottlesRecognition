@@ -1,0 +1,219 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    47,
+                    21,
+                    86,
+                    20,
+                    87,
+                    29,
+                    48,
+                    30
+                ],
+                "text": "CORTE GLAM",
+                "words": [
+                    {
+                        "boundingBox": [
+                            48,
+                            21,
+                            66,
+                            21,
+                            66,
+                            30,
+                            48,
+                            30
+                        ],
+                        "confidence": "Low",
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            68,
+                            21,
+                            85,
+                            21,
+                            85,
+                            29,
+                            68,
+                            30
+                        ],
+                        "confidence": "Low",
+                        "text": "GLAM"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    21,
+                    345,
+                    112,
+                    344,
+                    113,
+                    358,
+                    22,
+                    358
+                ],
+                "text": "CORTE GIARA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            22,
+                            345,
+                            66,
+                            345,
+                            66,
+                            358,
+                            22,
+                            358
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            72,
+                            345,
+                            113,
+                            345,
+                            113,
+                            358,
+                            71,
+                            358
+                        ],
+                        "text": "GIARA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    41,
+                    362,
+                    90,
+                    362,
+                    90,
+                    372,
+                    41,
+                    372
+                ],
+                "text": "RIPASSO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            43,
+                            362,
+                            88,
+                            362,
+                            88,
+                            372,
+                            43,
+                            372
+                        ],
+                        "text": "RIPASSO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    32,
+                    373,
+                    100,
+                    372,
+                    101,
+                    381,
+                    33,
+                    382
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            33,
+                            374,
+                            100,
+                            373,
+                            101,
+                            382,
+                            33,
+                            382
+                        ],
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    57,
+                    390,
+                    78,
+                    390,
+                    77,
+                    397,
+                    57,
+                    397
+                ],
+                "text": "2016",
+                "words": [
+                    {
+                        "boundingBox": [
+                            59,
+                            390,
+                            75,
+                            390,
+                            75,
+                            397,
+                            59,
+                            397
+                        ],
+                        "confidence": "Low",
+                        "text": "2016"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    40,
+                    394,
+                    89,
+                    395,
+                    88,
+                    405,
+                    39,
+                    404
+                ],
+                "text": "LA GROLETTA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            43,
+                            396,
+                            51,
+                            396,
+                            51,
+                            405,
+                            42,
+                            405
+                        ],
+                        "confidence": "Low",
+                        "text": "LA"
+                    },
+                    {
+                        "boundingBox": [
+                            53,
+                            396,
+                            88,
+                            396,
+                            89,
+                            404,
+                            53,
+                            405
+                        ],
+                        "confidence": "Low",
+                        "text": "GROLETTA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

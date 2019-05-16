@@ -1,0 +1,92 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    149,
+                    125,
+                    147,
+                    86,
+                    167,
+                    86,
+                    169,
+                    124
+                ],
+                "text": "Peri",
+                "words": [
+                    {
+                        "boundingBox": [
+                            148,
+                            122,
+                            146,
+                            86,
+                            166,
+                            85,
+                            168,
+                            121
+                        ],
+                        "confidence": "Low",
+                        "text": "Peri"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    133,
+                    338,
+                    201,
+                    339,
+                    200,
+                    376,
+                    134,
+                    376
+                ],
+                "text": "Revi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            138,
+                            337,
+                            198,
+                            337,
+                            198,
+                            375,
+                            137,
+                            375
+                        ],
+                        "text": "Revi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    139,
+                    383,
+                    193,
+                    382,
+                    193,
+                    391,
+                    140,
+                    393
+                ],
+                "text": "TRENTODOC",
+                "words": [
+                    {
+                        "boundingBox": [
+                            142,
+                            384,
+                            192,
+                            382,
+                            192,
+                            392,
+                            141,
+                            393
+                        ],
+                        "text": "TRENTODOC"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

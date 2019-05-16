@@ -1,0 +1,232 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    200,
+                    220,
+                    332,
+                    215,
+                    334,
+                    242,
+                    202,
+                    248
+                ],
+                "text": "CANTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            207,
+                            221,
+                            332,
+                            216,
+                            333,
+                            243,
+                            208,
+                            248
+                        ],
+                        "text": "CANTINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    908,
+                    192,
+                    1068,
+                    184,
+                    1070,
+                    217,
+                    910,
+                    224
+                ],
+                "text": "CANTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            915,
+                            191,
+                            1066,
+                            185,
+                            1066,
+                            217,
+                            916,
+                            222
+                        ],
+                        "text": "CANTINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    0,
+                    264,
+                    28,
+                    263,
+                    30,
+                    298,
+                    1,
+                    299
+                ],
+                "text": "0",
+                "words": [
+                    {
+                        "boundingBox": [
+                            2,
+                            262,
+                            26,
+                            262,
+                            27,
+                            298,
+                            3,
+                            298
+                        ],
+                        "confidence": "Low",
+                        "text": "0"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    181,
+                    250,
+                    359,
+                    245,
+                    361,
+                    290,
+                    183,
+                    296
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            185,
+                            252,
+                            359,
+                            247,
+                            360,
+                            291,
+                            188,
+                            297
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    881,
+                    225,
+                    1076,
+                    218,
+                    1078,
+                    265,
+                    883,
+                    271
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            885,
+                            225,
+                            1074,
+                            219,
+                            1077,
+                            265,
+                            887,
+                            272
+                        ],
+                        "confidence": "Low",
+                        "text": "LOSITO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    617,
+                    546,
+                    618,
+                    410,
+                    635,
+                    411,
+                    634,
+                    547
+                ],
+                "text": "PRIMITIVO Puglia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            619,
+                            542,
+                            619,
+                            447,
+                            634,
+                            447,
+                            635,
+                            543
+                        ],
+                        "text": "PRIMITIVO"
+                    },
+                    {
+                        "boundingBox": [
+                            619,
+                            440,
+                            620,
+                            411,
+                            635,
+                            411,
+                            634,
+                            440
+                        ],
+                        "text": "Puglia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    715,
+                    555,
+                    714,
+                    427,
+                    733,
+                    426,
+                    734,
+                    554
+                ],
+                "text": "ANTINE LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            717,
+                            551,
+                            718,
+                            515,
+                            734,
+                            515,
+                            732,
+                            551
+                        ],
+                        "confidence": "Low",
+                        "text": "ANTINE"
+                    },
+                    {
+                        "boundingBox": [
+                            718,
+                            480,
+                            715,
+                            428,
+                            730,
+                            427,
+                            734,
+                            479
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

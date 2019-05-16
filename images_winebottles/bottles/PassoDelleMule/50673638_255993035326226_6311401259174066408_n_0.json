@@ -1,0 +1,829 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    168,
+                    103,
+                    560,
+                    69,
+                    565,
+                    125,
+                    173,
+                    159
+                ],
+                "text": "DUCA DI SALAPARUTA,",
+                "words": [
+                    {
+                        "boundingBox": [
+                            175,
+                            103,
+                            281,
+                            107,
+                            283,
+                            147,
+                            174,
+                            142
+                        ],
+                        "text": "DUCA"
+                    },
+                    {
+                        "boundingBox": [
+                            296,
+                            107,
+                            343,
+                            105,
+                            348,
+                            145,
+                            298,
+                            147
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            351,
+                            104,
+                            554,
+                            71,
+                            564,
+                            107,
+                            355,
+                            144
+                        ],
+                        "confidence": "Low",
+                        "text": "SALAPARUTA,"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    326,
+                    158,
+                    430,
+                    150,
+                    431,
+                    173,
+                    328,
+                    181
+                ],
+                "text": "DAL 1824",
+                "words": [
+                    {
+                        "boundingBox": [
+                            328,
+                            159,
+                            375,
+                            155,
+                            377,
+                            178,
+                            330,
+                            182
+                        ],
+                        "text": "DAL"
+                    },
+                    {
+                        "boundingBox": [
+                            380,
+                            155,
+                            430,
+                            150,
+                            431,
+                            173,
+                            381,
+                            177
+                        ],
+                        "text": "1824"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    147,
+                    231,
+                    572,
+                    193,
+                    579,
+                    264,
+                    154,
+                    301
+                ],
+                "text": "PASSO DELLE MULE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            159,
+                            232,
+                            274,
+                            248,
+                            276,
+                            286,
+                            156,
+                            267
+                        ],
+                        "text": "PASSO"
+                    },
+                    {
+                        "boundingBox": [
+                            302,
+                            248,
+                            449,
+                            231,
+                            459,
+                            268,
+                            305,
+                            286
+                        ],
+                        "text": "DELLE"
+                    },
+                    {
+                        "boundingBox": [
+                            462,
+                            228,
+                            562,
+                            195,
+                            576,
+                            228,
+                            473,
+                            264
+                        ],
+                        "text": "MULE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    298,
+                    297,
+                    447,
+                    280,
+                    450,
+                    305,
+                    301,
+                    322
+                ],
+                "text": "NERO D'AVOLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            301,
+                            298,
+                            357,
+                            294,
+                            358,
+                            316,
+                            301,
+                            319
+                        ],
+                        "text": "NERO"
+                    },
+                    {
+                        "boundingBox": [
+                            365,
+                            293,
+                            446,
+                            282,
+                            449,
+                            302,
+                            366,
+                            315
+                        ],
+                        "text": "D'AVOLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    0,
+                    409,
+                    100,
+                    412,
+                    99,
+                    422,
+                    0,
+                    419
+                ],
+                "text": "Hint from Fen",
+                "words": [
+                    {
+                        "boundingBox": [
+                            0,
+                            410,
+                            33,
+                            411,
+                            33,
+                            420,
+                            0,
+                            419
+                        ],
+                        "confidence": "Low",
+                        "text": "Hint"
+                    },
+                    {
+                        "boundingBox": [
+                            36,
+                            411,
+                            60,
+                            412,
+                            60,
+                            421,
+                            36,
+                            421
+                        ],
+                        "text": "from"
+                    },
+                    {
+                        "boundingBox": [
+                            70,
+                            412,
+                            89,
+                            412,
+                            88,
+                            422,
+                            70,
+                            421
+                        ],
+                        "confidence": "Low",
+                        "text": "Fen"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    0,
+                    437,
+                    110,
+                    440,
+                    109,
+                    452,
+                    0,
+                    449
+                ],
+                "text": "span wine Lake",
+                "words": [
+                    {
+                        "boundingBox": [
+                            1,
+                            439,
+                            40,
+                            439,
+                            40,
+                            449,
+                            1,
+                            448
+                        ],
+                        "confidence": "Low",
+                        "text": "span"
+                    },
+                    {
+                        "boundingBox": [
+                            51,
+                            439,
+                            81,
+                            440,
+                            81,
+                            451,
+                            51,
+                            450
+                        ],
+                        "text": "wine"
+                    },
+                    {
+                        "boundingBox": [
+                            89,
+                            440,
+                            110,
+                            440,
+                            109,
+                            452,
+                            89,
+                            451
+                        ],
+                        "confidence": "Low",
+                        "text": "Lake"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    1,
+                    447,
+                    114,
+                    450,
+                    114,
+                    461,
+                    0,
+                    458
+                ],
+                "text": "t of the bland, n",
+                "words": [
+                    {
+                        "boundingBox": [
+                            2,
+                            448,
+                            8,
+                            449,
+                            8,
+                            457,
+                            2,
+                            457
+                        ],
+                        "confidence": "Low",
+                        "text": "t"
+                    },
+                    {
+                        "boundingBox": [
+                            12,
+                            449,
+                            26,
+                            449,
+                            26,
+                            458,
+                            12,
+                            458
+                        ],
+                        "text": "of"
+                    },
+                    {
+                        "boundingBox": [
+                            29,
+                            449,
+                            48,
+                            449,
+                            48,
+                            459,
+                            29,
+                            459
+                        ],
+                        "confidence": "Low",
+                        "text": "the"
+                    },
+                    {
+                        "boundingBox": [
+                            55,
+                            450,
+                            99,
+                            450,
+                            99,
+                            461,
+                            55,
+                            460
+                        ],
+                        "confidence": "Low",
+                        "text": "bland,"
+                    },
+                    {
+                        "boundingBox": [
+                            102,
+                            450,
+                            108,
+                            450,
+                            107,
+                            461,
+                            102,
+                            461
+                        ],
+                        "confidence": "Low",
+                        "text": "n"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    3,
+                    457,
+                    119,
+                    460,
+                    119,
+                    472,
+                    2,
+                    468
+                ],
+                "text": "most planted val",
+                "words": [
+                    {
+                        "boundingBox": [
+                            5,
+                            459,
+                            40,
+                            459,
+                            40,
+                            469,
+                            5,
+                            468
+                        ],
+                        "confidence": "Low",
+                        "text": "most"
+                    },
+                    {
+                        "boundingBox": [
+                            42,
+                            460,
+                            95,
+                            460,
+                            95,
+                            471,
+                            42,
+                            469
+                        ],
+                        "confidence": "Low",
+                        "text": "planted"
+                    },
+                    {
+                        "boundingBox": [
+                            97,
+                            460,
+                            118,
+                            461,
+                            118,
+                            472,
+                            97,
+                            471
+                        ],
+                        "confidence": "Low",
+                        "text": "val"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    273,
+                    425,
+                    462,
+                    405,
+                    465,
+                    440,
+                    276,
+                    459
+                ],
+                "text": "Shortarelesa",
+                "words": [
+                    {
+                        "boundingBox": [
+                            297,
+                            424,
+                            459,
+                            406,
+                            464,
+                            434,
+                            301,
+                            454
+                        ],
+                        "confidence": "Low",
+                        "text": "Shortarelesa"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    1,
+                    468,
+                    117,
+                    471,
+                    116,
+                    482,
+                    0,
+                    479
+                ],
+                "text": "re flying winema",
+                "words": [
+                    {
+                        "boundingBox": [
+                            2,
+                            469,
+                            11,
+                            470,
+                            10,
+                            479,
+                            1,
+                            478
+                        ],
+                        "confidence": "Low",
+                        "text": "re"
+                    },
+                    {
+                        "boundingBox": [
+                            20,
+                            470,
+                            56,
+                            470,
+                            55,
+                            481,
+                            19,
+                            479
+                        ],
+                        "confidence": "Low",
+                        "text": "flying"
+                    },
+                    {
+                        "boundingBox": [
+                            65,
+                            470,
+                            115,
+                            472,
+                            115,
+                            482,
+                            64,
+                            481
+                        ],
+                        "text": "winema"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    1,
+                    478,
+                    122,
+                    482,
+                    122,
+                    494,
+                    0,
+                    490
+                ],
+                "text": "d have made con",
+                "words": [
+                    {
+                        "boundingBox": [
+                            6,
+                            480,
+                            12,
+                            480,
+                            12,
+                            490,
+                            6,
+                            490
+                        ],
+                        "text": "d"
+                    },
+                    {
+                        "boundingBox": [
+                            14,
+                            480,
+                            45,
+                            481,
+                            45,
+                            491,
+                            14,
+                            490
+                        ],
+                        "text": "have"
+                    },
+                    {
+                        "boundingBox": [
+                            51,
+                            481,
+                            87,
+                            482,
+                            86,
+                            492,
+                            51,
+                            491
+                        ],
+                        "text": "made"
+                    },
+                    {
+                        "boundingBox": [
+                            92,
+                            482,
+                            115,
+                            482,
+                            115,
+                            494,
+                            92,
+                            493
+                        ],
+                        "confidence": "Low",
+                        "text": "con"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    8,
+                    489,
+                    124,
+                    493,
+                    123,
+                    504,
+                    7,
+                    501
+                ],
+                "text": "of this grape b",
+                "words": [
+                    {
+                        "boundingBox": [
+                            13,
+                            491,
+                            28,
+                            492,
+                            27,
+                            501,
+                            12,
+                            500
+                        ],
+                        "text": "of"
+                    },
+                    {
+                        "boundingBox": [
+                            35,
+                            492,
+                            59,
+                            492,
+                            58,
+                            503,
+                            35,
+                            502
+                        ],
+                        "text": "this"
+                    },
+                    {
+                        "boundingBox": [
+                            67,
+                            492,
+                            104,
+                            493,
+                            105,
+                            504,
+                            67,
+                            503
+                        ],
+                        "confidence": "Low",
+                        "text": "grape"
+                    },
+                    {
+                        "boundingBox": [
+                            114,
+                            493,
+                            120,
+                            493,
+                            120,
+                            504,
+                            114,
+                            504
+                        ],
+                        "confidence": "Low",
+                        "text": "b"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    2,
+                    501,
+                    125,
+                    504,
+                    124,
+                    516,
+                    1,
+                    513
+                ],
+                "text": "likely macke from",
+                "words": [
+                    {
+                        "boundingBox": [
+                            5,
+                            502,
+                            44,
+                            503,
+                            44,
+                            514,
+                            5,
+                            513
+                        ],
+                        "text": "likely"
+                    },
+                    {
+                        "boundingBox": [
+                            48,
+                            503,
+                            86,
+                            504,
+                            86,
+                            515,
+                            48,
+                            514
+                        ],
+                        "confidence": "Low",
+                        "text": "macke"
+                    },
+                    {
+                        "boundingBox": [
+                            91,
+                            504,
+                            118,
+                            505,
+                            118,
+                            516,
+                            91,
+                            515
+                        ],
+                        "text": "from"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    525,
+                    528,
+                    570,
+                    523,
+                    572,
+                    534,
+                    527,
+                    539
+                ],
+                "text": "Milazzo",
+                "words": [
+                    {
+                        "boundingBox": [
+                            527,
+                            529,
+                            565,
+                            525,
+                            566,
+                            535,
+                            528,
+                            539
+                        ],
+                        "confidence": "Low",
+                        "text": "Milazzo"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    568,
+                    540,
+                    627,
+                    536,
+                    628,
+                    546,
+                    569,
+                    549
+                ],
+                "text": "Botcellong",
+                "words": [
+                    {
+                        "boundingBox": [
+                            571,
+                            540,
+                            624,
+                            537,
+                            624,
+                            547,
+                            571,
+                            549
+                        ],
+                        "confidence": "Low",
+                        "text": "Botcellong"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    571,
+                    547,
+                    630,
+                    544,
+                    630,
+                    553,
+                    572,
+                    556
+                ],
+                "text": "Pozzo dys",
+                "words": [
+                    {
+                        "boundingBox": [
+                            574,
+                            548,
+                            604,
+                            546,
+                            604,
+                            555,
+                            575,
+                            556
+                        ],
+                        "confidence": "Low",
+                        "text": "Pozzo"
+                    },
+                    {
+                        "boundingBox": [
+                            609,
+                            546,
+                            628,
+                            544,
+                            628,
+                            553,
+                            609,
+                            554
+                        ],
+                        "confidence": "Low",
+                        "text": "dys"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

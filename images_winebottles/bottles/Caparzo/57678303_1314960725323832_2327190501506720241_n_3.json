@@ -1,0 +1,176 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    35,
+                    70,
+                    95,
+                    71,
+                    94,
+                    85,
+                    34,
+                    83
+                ],
+                "text": "LAZO CAPARE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            35,
+                            72,
+                            56,
+                            71,
+                            56,
+                            84,
+                            35,
+                            84
+                        ],
+                        "confidence": "Low",
+                        "text": "LAZO"
+                    },
+                    {
+                        "boundingBox": [
+                            61,
+                            71,
+                            95,
+                            73,
+                            94,
+                            85,
+                            60,
+                            84
+                        ],
+                        "confidence": "Low",
+                        "text": "CAPARE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    92,
+                    275,
+                    120,
+                    277,
+                    118,
+                    289,
+                    91,
+                    287
+                ],
+                "text": "2014",
+                "words": [
+                    {
+                        "boundingBox": [
+                            94,
+                            275,
+                            119,
+                            276,
+                            118,
+                            288,
+                            93,
+                            286
+                        ],
+                        "text": "2014"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    57,
+                    305,
+                    141,
+                    308,
+                    139,
+                    336,
+                    55,
+                    332
+                ],
+                "text": "CAPARZO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            59,
+                            304,
+                            139,
+                            307,
+                            138,
+                            335,
+                            58,
+                            332
+                        ],
+                        "text": "CAPARZO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    64,
+                    417,
+                    138,
+                    418,
+                    137,
+                    437,
+                    63,
+                    436
+                ],
+                "text": "BRUNELLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            66,
+                            417,
+                            138,
+                            419,
+                            138,
+                            437,
+                            65,
+                            436
+                        ],
+                        "text": "BRUNELLO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    43,
+                    439,
+                    136,
+                    438,
+                    137,
+                    457,
+                    44,
+                    458
+                ],
+                "text": "DI MONTALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            46,
+                            440,
+                            64,
+                            439,
+                            65,
+                            457,
+                            46,
+                            458
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            68,
+                            439,
+                            136,
+                            441,
+                            136,
+                            457,
+                            68,
+                            457
+                        ],
+                        "confidence": "Low",
+                        "text": "MONTALE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

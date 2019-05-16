@@ -1,0 +1,312 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    158,
+                    258,
+                    241,
+                    255,
+                    242,
+                    285,
+                    158,
+                    286
+                ],
+                "text": "2013",
+                "words": [
+                    {
+                        "boundingBox": [
+                            163,
+                            256,
+                            241,
+                            254,
+                            241,
+                            284,
+                            163,
+                            286
+                        ],
+                        "text": "2013"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    68,
+                    347,
+                    344,
+                    342,
+                    346,
+                    425,
+                    70,
+                    430
+                ],
+                "text": "CAPARZO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            74,
+                            352,
+                            345,
+                            348,
+                            343,
+                            428,
+                            77,
+                            431
+                        ],
+                        "text": "CAPARZO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    53,
+                    445,
+                    404,
+                    446,
+                    403,
+                    501,
+                    52,
+                    499
+                ],
+                "text": "shethe Dcecedi Audel",
+                "words": [
+                    {
+                        "boundingBox": [
+                            53,
+                            451,
+                            144,
+                            447,
+                            145,
+                            500,
+                            55,
+                            500
+                        ],
+                        "confidence": "Low",
+                        "text": "shethe"
+                    },
+                    {
+                        "boundingBox": [
+                            154,
+                            447,
+                            294,
+                            448,
+                            293,
+                            500,
+                            155,
+                            499
+                        ],
+                        "confidence": "Low",
+                        "text": "Dcecedi"
+                    },
+                    {
+                        "boundingBox": [
+                            303,
+                            448,
+                            404,
+                            452,
+                            402,
+                            502,
+                            303,
+                            500
+                        ],
+                        "confidence": "Low",
+                        "text": "Audel"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    365,
+                    620,
+                    402,
+                    611,
+                    411,
+                    642,
+                    374,
+                    651
+                ],
+                "text": "Age",
+                "words": [
+                    {
+                        "boundingBox": [
+                            364,
+                            619,
+                            402,
+                            609,
+                            410,
+                            642,
+                            371,
+                            651
+                        ],
+                        "confidence": "Low",
+                        "text": "Age"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    79,
+                    668,
+                    332,
+                    688,
+                    328,
+                    741,
+                    75,
+                    721
+                ],
+                "text": "BRUNELLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            84,
+                            671,
+                            327,
+                            700,
+                            327,
+                            732,
+                            79,
+                            722
+                        ],
+                        "text": "BRUNELLO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    42,
+                    727,
+                    381,
+                    750,
+                    378,
+                    803,
+                    38,
+                    781
+                ],
+                "text": "DI MONTALCINO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            47,
+                            729,
+                            72,
+                            731,
+                            68,
+                            780,
+                            42,
+                            776
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            82,
+                            732,
+                            376,
+                            757,
+                            377,
+                            791,
+                            77,
+                            781
+                        ],
+                        "text": "MONTALCINO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    38,
+                    782,
+                    383,
+                    797,
+                    382,
+                    826,
+                    37,
+                    811
+                ],
+                "text": "DENOMINAZIONE DI ORIGINE CONTROLLATA E GARANTITA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            41,
+                            784,
+                            117,
+                            794,
+                            116,
+                            811,
+                            39,
+                            799
+                        ],
+                        "confidence": "Low",
+                        "text": "DENOMINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            121,
+                            795,
+                            135,
+                            796,
+                            133,
+                            814,
+                            119,
+                            812
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            138,
+                            797,
+                            194,
+                            801,
+                            193,
+                            819,
+                            136,
+                            814
+                        ],
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            197,
+                            801,
+                            299,
+                            802,
+                            299,
+                            820,
+                            196,
+                            819
+                        ],
+                        "text": "CONTROLLATA"
+                    },
+                    {
+                        "boundingBox": [
+                            302,
+                            802,
+                            311,
+                            802,
+                            312,
+                            819,
+                            302,
+                            819
+                        ],
+                        "text": "E"
+                    },
+                    {
+                        "boundingBox": [
+                            314,
+                            802,
+                            382,
+                            798,
+                            383,
+                            814,
+                            315,
+                            819
+                        ],
+                        "text": "GARANTITA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

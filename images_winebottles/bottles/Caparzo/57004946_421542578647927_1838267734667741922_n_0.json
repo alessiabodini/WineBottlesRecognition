@@ -1,0 +1,161 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    81,
+                    179,
+                    140,
+                    180,
+                    139,
+                    197,
+                    80,
+                    196
+                ],
+                "text": "CAPARZO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            86,
+                            181,
+                            140,
+                            181,
+                            140,
+                            198,
+                            86,
+                            197
+                        ],
+                        "text": "CAPARZO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    115,
+                    480,
+                    150,
+                    479,
+                    150,
+                    494,
+                    115,
+                    494
+                ],
+                "text": "2011",
+                "words": [
+                    {
+                        "boundingBox": [
+                            117,
+                            478,
+                            149,
+                            478,
+                            149,
+                            493,
+                            117,
+                            493
+                        ],
+                        "text": "2011"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    69,
+                    515,
+                    184,
+                    512,
+                    185,
+                    547,
+                    70,
+                    549
+                ],
+                "text": "CAPARZO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            73,
+                            516,
+                            185,
+                            513,
+                            185,
+                            548,
+                            74,
+                            550
+                        ],
+                        "text": "CAPARZO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    74,
+                    644,
+                    178,
+                    639,
+                    180,
+                    665,
+                    76,
+                    671
+                ],
+                "text": "BRUNELLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            77,
+                            645,
+                            178,
+                            641,
+                            179,
+                            665,
+                            78,
+                            671
+                        ],
+                        "text": "BRUNELLO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    52,
+                    670,
+                    186,
+                    658,
+                    189,
+                    685,
+                    55,
+                    696
+                ],
+                "text": "DI MONTALCINO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            55,
+                            670,
+                            73,
+                            669,
+                            75,
+                            694,
+                            57,
+                            695
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            78,
+                            669,
+                            186,
+                            659,
+                            188,
+                            683,
+                            80,
+                            694
+                        ],
+                        "confidence": "Low",
+                        "text": "MONTALCINO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

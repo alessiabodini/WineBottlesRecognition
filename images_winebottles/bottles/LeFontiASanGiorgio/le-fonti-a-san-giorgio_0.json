@@ -1,0 +1,36 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    18,
+                    252,
+                    64,
+                    254,
+                    63,
+                    263,
+                    17,
+                    261
+                ],
+                "text": "CHIANTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            21,
+                            253,
+                            61,
+                            255,
+                            61,
+                            263,
+                            21,
+                            261
+                        ],
+                        "confidence": "Low",
+                        "text": "CHIANTI"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}
