@@ -2,41 +2,7 @@ import http.client, urllib.request, urllib.parse, urllib.error, base64
 import time
 import json
 import os
-
-# Images' directories
-gtDir = 'images_winebottles/gt/'
-bottlesDir = 'images_winebottles/bottles/'
-dataset = 'gt'
-
-# Importing gt dataset
-gtImages = []
-folderNames = []
-for root, dirs, files in os.walk(gtDir):
-    for name in files:
-        if (name.endswith('.png') or name.endswith('.jpg')) and root == gtDir:
-            index = name.find('.')
-            folderName = name[:index]
-            folderNames.append(folderName)
-            name = os.path.join(root, name)
-            gtImages.append(name)
-#print(len(gtImages))
-
-# Importing bottles dataset
-bottlesImages = []
-for root, dirs, files in os.walk(bottlesDir):
-    for name in files:
-        for folderName in folderNames:
-            found = root.find(folderName)
-            if found > 0:
-                break
-        if (name.endswith('.png') or name.endswith('.jpg')) and found > 0:
-            name = os.path.join(root, name)
-            bottlesImages.append(name)
-#print(len(bottlesImages))
-
-images = gtImages + bottlesImages
-print('Images names loaded.')
-
+from util import importDataset
 
 # Defining HTTP requests
 headersPost = {
@@ -56,6 +22,7 @@ params = urllib.parse.urlencode({
 })
 
 # Connecting to API for Text-Recognition
+images = importDataset('all')
 for name in images:
     index = name.find('.')
     filename = name[:index] + '.json'
@@ -93,3 +60,5 @@ for name in images:
 
             except Exception as e:
                 print("[Errno {0}] {1}".format(e.errno, e.strerror))
+
+print('All images analyzed.')
