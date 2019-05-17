@@ -39,3 +39,12 @@ def importDataset(dataset):
     if dataset == 'bottles':
         return bottlesImages
     return gtImages + bottlesImages
+
+# Extract name from a path (part is the position from the end (negative))
+def extractFileName(path, part):
+    parts = path.split('\\')
+    name = parts[part]
+    if part == -1:
+        index = name.find('.')
+        return name[:index]
+    return name

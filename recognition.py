@@ -4,7 +4,7 @@ import json
 import os
 from util import importDataset
 
-# Defining HTTP requests
+# Define HTTP requests
 headersPost = {
     # Request headers
     'Content-Type': 'application/octet-stream',
@@ -21,7 +21,7 @@ params = urllib.parse.urlencode({
     'mode': 'Printed',
 })
 
-# Connecting to API for Text-Recognition
+# Connect to API for Text-Recognition
 images = importDataset('all')
 for name in images:
     index = name.find('.')
