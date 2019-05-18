@@ -42,7 +42,7 @@ for name in images:
                 #print(location)
                 conn.close()
 
-                time.sleep(2)
+                time.sleep(3)
                 conn = http.client.HTTPSConnection('westeurope.api.cognitive.microsoft.com')
                 conn.request('GET', location, '', headersGet)
                 response = conn.getresponse()

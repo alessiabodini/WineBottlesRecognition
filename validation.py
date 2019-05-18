@@ -40,6 +40,7 @@ for i in range(0,len(bottlesImages)):
             jsonBottle = json.load(file)
         # Copy all words found
         wordsBottles = []
+        if
         for words in jsonBottle['recognitionResult']['lines']:
             for word in words['words']:
                 if word['text'] not in wordsBottles:

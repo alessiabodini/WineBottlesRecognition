@@ -3,7 +3,7 @@ import os
 def importDataset(dataset):
     # Images' directories
     gtDir = 'images_winebottles\\gt\\'
-    bottlesDir = 'images_winebottles\\raw\\'
+    bottlesDir = 'images_winebottles\\bottles\\'
 
     # Importing gt dataset
     gtImages = []
