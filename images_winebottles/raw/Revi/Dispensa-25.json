@@ -1,0 +1,208 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    310,
+                    238,
+                    411,
+                    233,
+                    414,
+                    276,
+                    312,
+                    283
+                ],
+                "text": "Revi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            318,
+                            237,
+                            411,
+                            232,
+                            413,
+                            276,
+                            320,
+                            282
+                        ],
+                        "text": "Revi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    324,
+                    287,
+                    400,
+                    284,
+                    401,
+                    298,
+                    325,
+                    301
+                ],
+                "text": "TRENTODOC",
+                "words": [
+                    {
+                        "boundingBox": [
+                            327,
+                            288,
+                            400,
+                            285,
+                            401,
+                            298,
+                            326,
+                            300
+                        ],
+                        "text": "TRENTODOC"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    342,
+                    310,
+                    384,
+                    310,
+                    384,
+                    324,
+                    342,
+                    324
+                ],
+                "text": "But",
+                "words": [
+                    {
+                        "boundingBox": [
+                            351,
+                            310,
+                            383,
+                            310,
+                            383,
+                            324,
+                            351,
+                            324
+                        ],
+                        "confidence": "Low",
+                        "text": "But"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    179,
+                    371,
+                    221,
+                    373,
+                    220,
+                    387,
+                    178,
+                    386
+                ],
+                "text": "MENTOR",
+                "words": [
+                    {
+                        "boundingBox": [
+                            181,
+                            372,
+                            220,
+                            373,
+                            219,
+                            388,
+                            181,
+                            386
+                        ],
+                        "confidence": "Low",
+                        "text": "MENTOR"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    185,
+                    394,
+                    205,
+                    397,
+                    204,
+                    407,
+                    184,
+                    404
+                ],
+                "text": "472",
+                "words": [
+                    {
+                        "boundingBox": [
+                            188,
+                            394,
+                            204,
+                            396,
+                            203,
+                            406,
+                            187,
+                            404
+                        ],
+                        "confidence": "Low",
+                        "text": "472"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    351,
+                    466,
+                    410,
+                    450,
+                    413,
+                    461,
+                    354,
+                    477
+                ],
+                "text": "4pensa",
+                "words": [
+                    {
+                        "boundingBox": [
+                            354,
+                            466,
+                            402,
+                            454,
+                            404,
+                            464,
+                            356,
+                            475
+                        ],
+                        "confidence": "Low",
+                        "text": "4pensa"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    618,
+                    514,
+                    798,
+                    513,
+                    799,
+                    531,
+                    619,
+                    531
+                ],
+                "text": "@www.altissimoceto.it",
+                "words": [
+                    {
+                        "boundingBox": [
+                            622,
+                            516,
+                            798,
+                            514,
+                            798,
+                            531,
+                            623,
+                            531
+                        ],
+                        "confidence": "Low",
+                        "text": "@www.altissimoceto.it"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,121 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    87,
+                    591,
+                    326,
+                    583,
+                    331,
+                    716,
+                    84,
+                    710
+                ],
+                "text": "Revi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            101,
+                            583,
+                            322,
+                            582,
+                            323,
+                            715,
+                            101,
+                            716
+                        ],
+                        "text": "Revi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    109,
+                    751,
+                    295,
+                    744,
+                    296,
+                    774,
+                    110,
+                    781
+                ],
+                "text": "TRENTODOC",
+                "words": [
+                    {
+                        "boundingBox": [
+                            114,
+                            752,
+                            294,
+                            745,
+                            296,
+                            774,
+                            113,
+                            780
+                        ],
+                        "text": "TRENTODOC"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    141,
+                    812,
+                    261,
+                    809,
+                    262,
+                    851,
+                    142,
+                    854
+                ],
+                "text": "Brut",
+                "words": [
+                    {
+                        "boundingBox": [
+                            168,
+                            813,
+                            252,
+                            812,
+                            255,
+                            846,
+                            168,
+                            852
+                        ],
+                        "confidence": "Low",
+                        "text": "Brut"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    148,
+                    892,
+                    252,
+                    889,
+                    253,
+                    913,
+                    148,
+                    915
+                ],
+                "text": "Millesimato",
+                "words": [
+                    {
+                        "boundingBox": [
+                            164,
+                            892,
+                            253,
+                            890,
+                            253,
+                            913,
+                            164,
+                            915
+                        ],
+                        "confidence": "Low",
+                        "text": "Millesimato"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

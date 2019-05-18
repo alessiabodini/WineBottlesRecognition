@@ -1,0 +1,131 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    247,
+                    155,
+                    513,
+                    148,
+                    515,
+                    203,
+                    249,
+                    209
+                ],
+                "text": "archese Antinow",
+                "words": [
+                    {
+                        "boundingBox": [
+                            302,
+                            161,
+                            406,
+                            161,
+                            409,
+                            207,
+                            300,
+                            204
+                        ],
+                        "text": "archese"
+                    },
+                    {
+                        "boundingBox": [
+                            422,
+                            160,
+                            507,
+                            149,
+                            515,
+                            192,
+                            426,
+                            205
+                        ],
+                        "confidence": "Low",
+                        "text": "Antinow"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    315,
+                    207,
+                    453,
+                    203,
+                    454,
+                    219,
+                    316,
+                    223
+                ],
+                "text": "TENUTA MONTENISA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            319,
+                            208,
+                            369,
+                            209,
+                            369,
+                            222,
+                            318,
+                            219
+                        ],
+                        "text": "TENUTA"
+                    },
+                    {
+                        "boundingBox": [
+                            376,
+                            209,
+                            453,
+                            204,
+                            454,
+                            216,
+                            376,
+                            222
+                        ],
+                        "text": "MONTENISA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    318,
+                    239,
+                    456,
+                    236,
+                    456,
+                    255,
+                    319,
+                    259
+                ],
+                "text": "CUVEE ROYALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            320,
+                            240,
+                            381,
+                            239,
+                            381,
+                            258,
+                            320,
+                            257
+                        ],
+                        "text": "CUVEE"
+                    },
+                    {
+                        "boundingBox": [
+                            387,
+                            239,
+                            455,
+                            236,
+                            455,
+                            254,
+                            387,
+                            257
+                        ],
+                        "text": "ROYALE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

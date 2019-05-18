@@ -1,0 +1,203 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    318,
+                    101,
+                    355,
+                    97,
+                    356,
+                    108,
+                    319,
+                    112
+                ],
+                "text": "ANICHE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            321,
+                            103,
+                            350,
+                            99,
+                            350,
+                            109,
+                            321,
+                            112
+                        ],
+                        "text": "ANICHE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    297,
+                    279,
+                    389,
+                    278,
+                    390,
+                    289,
+                    297,
+                    290
+                ],
+                "text": "PALIZZI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            297,
+                            279,
+                            390,
+                            279,
+                            389,
+                            289,
+                            298,
+                            290
+                        ],
+                        "text": "PALIZZI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    316,
+                    300,
+                    371,
+                    299,
+                    371,
+                    307,
+                    317,
+                    309
+                ],
+                "text": "ROSATO 2017",
+                "words": [
+                    {
+                        "boundingBox": [
+                            322,
+                            301,
+                            347,
+                            300,
+                            347,
+                            308,
+                            322,
+                            308
+                        ],
+                        "text": "ROSATO"
+                    },
+                    {
+                        "boundingBox": [
+                            350,
+                            300,
+                            365,
+                            299,
+                            365,
+                            307,
+                            350,
+                            308
+                        ],
+                        "text": "2017"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    290,
+                    308,
+                    393,
+                    307,
+                    394,
+                    315,
+                    291,
+                    316
+                ],
+                "text": "VINO BIOLOGICO . ORGANICUNE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            291,
+                            308,
+                            304,
+                            308,
+                            304,
+                            316,
+                            291,
+                            316
+                        ],
+                        "confidence": "Low",
+                        "text": "VINO"
+                    },
+                    {
+                        "boundingBox": [
+                            306,
+                            308,
+                            343,
+                            308,
+                            342,
+                            316,
+                            306,
+                            316
+                        ],
+                        "confidence": "Low",
+                        "text": "BIOLOGICO"
+                    },
+                    {
+                        "boundingBox": [
+                            344,
+                            308,
+                            347,
+                            308,
+                            347,
+                            316,
+                            344,
+                            316
+                        ],
+                        "confidence": "Low",
+                        "text": "."
+                    },
+                    {
+                        "boundingBox": [
+                            348,
+                            308,
+                            394,
+                            308,
+                            394,
+                            316,
+                            348,
+                            316
+                        ],
+                        "confidence": "Low",
+                        "text": "ORGANICUNE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    298,
+                    345,
+                    386,
+                    349,
+                    385,
+                    368,
+                    297,
+                    364
+                ],
+                "text": "Damusa",
+                "words": [
+                    {
+                        "boundingBox": [
+                            299,
+                            346,
+                            386,
+                            350,
+                            386,
+                            367,
+                            299,
+                            365
+                        ],
+                        "text": "Damusa"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

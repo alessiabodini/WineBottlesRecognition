@@ -1,0 +1,117 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    529,
+                    380,
+                    615,
+                    393,
+                    613,
+                    409,
+                    527,
+                    397
+                ],
+                "text": "BUCA DI SALAPARUTA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            533,
+                            381,
+                            550,
+                            387,
+                            548,
+                            399,
+                            530,
+                            394
+                        ],
+                        "confidence": "Low",
+                        "text": "BUCA"
+                    },
+                    {
+                        "boundingBox": [
+                            553,
+                            387,
+                            561,
+                            389,
+                            559,
+                            401,
+                            551,
+                            400
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            563,
+                            390,
+                            615,
+                            394,
+                            614,
+                            405,
+                            561,
+                            402
+                        ],
+                        "text": "SALAPARUTA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    529,
+                    407,
+                    622,
+                    422,
+                    620,
+                    439,
+                    527,
+                    424
+                ],
+                "text": "ASSO DELLE MULE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            532,
+                            409,
+                            551,
+                            415,
+                            549,
+                            427,
+                            530,
+                            421
+                        ],
+                        "confidence": "Low",
+                        "text": "ASSO"
+                    },
+                    {
+                        "boundingBox": [
+                            553,
+                            416,
+                            587,
+                            422,
+                            586,
+                            433,
+                            551,
+                            427
+                        ],
+                        "text": "DELLE"
+                    },
+                    {
+                        "boundingBox": [
+                            589,
+                            422,
+                            622,
+                            422,
+                            621,
+                            434,
+                            588,
+                            434
+                        ],
+                        "text": "MULE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

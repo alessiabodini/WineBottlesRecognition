@@ -1,0 +1,76 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    73,
+                    189,
+                    109,
+                    188,
+                    110,
+                    199,
+                    74,
+                    201
+                ],
+                "text": "BRUT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            75,
+                            190,
+                            110,
+                            189,
+                            110,
+                            199,
+                            75,
+                            201
+                        ],
+                        "text": "BRUT"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    31,
+                    546,
+                    152,
+                    547,
+                    151,
+                    572,
+                    30,
+                    571
+                ],
+                "text": "Ca'del Bosco",
+                "words": [
+                    {
+                        "boundingBox": [
+                            34,
+                            547,
+                            87,
+                            548,
+                            86,
+                            573,
+                            33,
+                            572
+                        ],
+                        "text": "Ca'del"
+                    },
+                    {
+                        "boundingBox": [
+                            92,
+                            548,
+                            151,
+                            547,
+                            151,
+                            573,
+                            91,
+                            573
+                        ],
+                        "text": "Bosco"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

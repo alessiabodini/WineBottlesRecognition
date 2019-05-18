@@ -1,0 +1,164 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    71,
+                    101,
+                    118,
+                    102,
+                    118,
+                    117,
+                    70,
+                    116
+                ],
+                "text": "PAT AL.E.",
+                "words": [
+                    {
+                        "boundingBox": [
+                            72,
+                            101,
+                            93,
+                            101,
+                            93,
+                            116,
+                            72,
+                            116
+                        ],
+                        "confidence": "Low",
+                        "text": "PAT"
+                    },
+                    {
+                        "boundingBox": [
+                            96,
+                            101,
+                            117,
+                            101,
+                            117,
+                            116,
+                            96,
+                            116
+                        ],
+                        "confidence": "Low",
+                        "text": "AL.E."
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    29,
+                    387,
+                    99,
+                    399,
+                    94,
+                    424,
+                    25,
+                    411
+                ],
+                "text": "Etna",
+                "words": [
+                    {
+                        "boundingBox": [
+                            32,
+                            386,
+                            97,
+                            398,
+                            93,
+                            423,
+                            27,
+                            411
+                        ],
+                        "confidence": "Low",
+                        "text": "Etna"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    35,
+                    411,
+                    112,
+                    422,
+                    108,
+                    446,
+                    32,
+                    436
+                ],
+                "text": "Rosso",
+                "words": [
+                    {
+                        "boundingBox": [
+                            38,
+                            410,
+                            111,
+                            420,
+                            107,
+                            445,
+                            34,
+                            435
+                        ],
+                        "text": "Rosso"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    28,
+                    435,
+                    94,
+                    444,
+                    92,
+                    455,
+                    26,
+                    446
+                ],
+                "text": "IMPOSION",
+                "words": [
+                    {
+                        "boundingBox": [
+                            31,
+                            436,
+                            93,
+                            445,
+                            92,
+                            455,
+                            29,
+                            447
+                        ],
+                        "confidence": "Low",
+                        "text": "IMPOSION"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    58,
+                    515,
+                    107,
+                    517,
+                    106,
+                    529,
+                    57,
+                    527
+                ],
+                "text": "PAPALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            60,
+                            516,
+                            105,
+                            518,
+                            105,
+                            529,
+                            60,
+                            527
+                        ],
+                        "text": "PAPALE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

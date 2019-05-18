@@ -1,0 +1,92 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    466,
+                    507,
+                    609,
+                    511,
+                    609,
+                    564,
+                    466,
+                    560
+                ],
+                "text": "GULFI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            473,
+                            507,
+                            607,
+                            510,
+                            605,
+                            563,
+                            471,
+                            560
+                        ],
+                        "text": "GULFI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    436,
+                    900,
+                    604,
+                    901,
+                    603,
+                    936,
+                    435,
+                    935
+                ],
+                "text": "NeroMaccarj",
+                "words": [
+                    {
+                        "boundingBox": [
+                            439,
+                            904,
+                            604,
+                            901,
+                            604,
+                            937,
+                            438,
+                            931
+                        ],
+                        "confidence": "Low",
+                        "text": "NeroMaccarj"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    505,
+                    948,
+                    561,
+                    947,
+                    561,
+                    971,
+                    504,
+                    972
+                ],
+                "text": "2011",
+                "words": [
+                    {
+                        "boundingBox": [
+                            508,
+                            947,
+                            559,
+                            947,
+                            559,
+                            971,
+                            508,
+                            971
+                        ],
+                        "text": "2011"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

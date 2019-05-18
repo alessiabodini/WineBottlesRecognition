@@ -1,0 +1,131 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    86,
+                    68,
+                    208,
+                    67,
+                    209,
+                    97,
+                    87,
+                    99
+                ],
+                "text": "Le Forti",
+                "words": [
+                    {
+                        "boundingBox": [
+                            87,
+                            69,
+                            120,
+                            68,
+                            121,
+                            99,
+                            88,
+                            100
+                        ],
+                        "text": "Le"
+                    },
+                    {
+                        "boundingBox": [
+                            126,
+                            68,
+                            207,
+                            68,
+                            208,
+                            97,
+                            127,
+                            99
+                        ],
+                        "confidence": "Low",
+                        "text": "Forti"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    89,
+                    94,
+                    271,
+                    94,
+                    271,
+                    125,
+                    90,
+                    126
+                ],
+                "text": "a San Giorgio",
+                "words": [
+                    {
+                        "boundingBox": [
+                            92,
+                            95,
+                            102,
+                            95,
+                            102,
+                            125,
+                            92,
+                            125
+                        ],
+                        "text": "a"
+                    },
+                    {
+                        "boundingBox": [
+                            108,
+                            95,
+                            160,
+                            95,
+                            159,
+                            127,
+                            107,
+                            126
+                        ],
+                        "text": "San"
+                    },
+                    {
+                        "boundingBox": [
+                            168,
+                            95,
+                            271,
+                            94,
+                            270,
+                            126,
+                            167,
+                            127
+                        ],
+                        "text": "Giorgio"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    130,
+                    421,
+                    242,
+                    420,
+                    243,
+                    448,
+                    131,
+                    449
+                ],
+                "text": "CHIANTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            133,
+                            421,
+                            242,
+                            422,
+                            243,
+                            442,
+                            132,
+                            443
+                        ],
+                        "text": "CHIANTI"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

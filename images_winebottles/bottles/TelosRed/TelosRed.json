@@ -1,0 +1,344 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    45,
+                    302,
+                    237,
+                    347,
+                    228,
+                    382,
+                    37,
+                    337
+                ],
+                "text": "Jenula San Antonio",
+                "words": [
+                    {
+                        "boundingBox": [
+                            55,
+                            309,
+                            105,
+                            330,
+                            99,
+                            349,
+                            48,
+                            323
+                        ],
+                        "confidence": "Low",
+                        "text": "Jenula"
+                    },
+                    {
+                        "boundingBox": [
+                            113,
+                            333,
+                            145,
+                            341,
+                            140,
+                            362,
+                            108,
+                            352
+                        ],
+                        "confidence": "Low",
+                        "text": "San"
+                    },
+                    {
+                        "boundingBox": [
+                            171,
+                            346,
+                            235,
+                            347,
+                            233,
+                            366,
+                            167,
+                            367
+                        ],
+                        "text": "Antonio"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    53,
+                    324,
+                    170,
+                    365,
+                    163,
+                    384,
+                    46,
+                    343
+                ],
+                "text": "FAMIGLIA CAST",
+                "words": [
+                    {
+                        "boundingBox": [
+                            56,
+                            326,
+                            120,
+                            356,
+                            117,
+                            368,
+                            50,
+                            339
+                        ],
+                        "confidence": "Low",
+                        "text": "FAMIGLIA"
+                    },
+                    {
+                        "boundingBox": [
+                            125,
+                            357,
+                            165,
+                            365,
+                            163,
+                            377,
+                            122,
+                            369
+                        ],
+                        "text": "CAST"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    139,
+                    357,
+                    226,
+                    363,
+                    224,
+                    380,
+                    138,
+                    375
+                ],
+                "text": "STAGNEDI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            146,
+                            359,
+                            226,
+                            364,
+                            225,
+                            378,
+                            143,
+                            373
+                        ],
+                        "text": "STAGNEDI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    46,
+                    384,
+                    222,
+                    430,
+                    212,
+                    467,
+                    36,
+                    421
+                ],
+                "text": "TELOS / IL ROSSO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            55,
+                            388,
+                            140,
+                            423,
+                            134,
+                            447,
+                            45,
+                            407
+                        ],
+                        "confidence": "Low",
+                        "text": "TELOS"
+                    },
+                    {
+                        "boundingBox": [
+                            150,
+                            426,
+                            158,
+                            427,
+                            153,
+                            450,
+                            145,
+                            449
+                        ],
+                        "text": "/"
+                    },
+                    {
+                        "boundingBox": [
+                            162,
+                            428,
+                            175,
+                            430,
+                            170,
+                            452,
+                            158,
+                            451
+                        ],
+                        "text": "IL"
+                    },
+                    {
+                        "boundingBox": [
+                            179,
+                            430,
+                            219,
+                            430,
+                            217,
+                            449,
+                            175,
+                            452
+                        ],
+                        "text": "ROSSO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    73,
+                    507,
+                    167,
+                    533,
+                    163,
+                    546,
+                    69,
+                    521
+                ],
+                "text": "SENZA SOLFITI AGGIUNTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            74,
+                            508,
+                            96,
+                            517,
+                            93,
+                            526,
+                            72,
+                            517
+                        ],
+                        "confidence": "Low",
+                        "text": "SENZA"
+                    },
+                    {
+                        "boundingBox": [
+                            97,
+                            518,
+                            127,
+                            527,
+                            124,
+                            536,
+                            95,
+                            527
+                        ],
+                        "text": "SOLFITI"
+                    },
+                    {
+                        "boundingBox": [
+                            129,
+                            527,
+                            166,
+                            533,
+                            163,
+                            543,
+                            126,
+                            536
+                        ],
+                        "confidence": "Low",
+                        "text": "AGGIUNTI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    102,
+                    534,
+                    140,
+                    543,
+                    137,
+                    553,
+                    99,
+                    544
+                ],
+                "text": "2015",
+                "words": [
+                    {
+                        "boundingBox": [
+                            103,
+                            536,
+                            139,
+                            544,
+                            136,
+                            553,
+                            101,
+                            544
+                        ],
+                        "confidence": "Low",
+                        "text": "2015"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    85,
+                    539,
+                    151,
+                    558,
+                    148,
+                    569,
+                    82,
+                    550
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            86,
+                            541,
+                            148,
+                            557,
+                            145,
+                            567,
+                            84,
+                            549
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    90,
+                    555,
+                    139,
+                    569,
+                    136,
+                    578,
+                    87,
+                    564
+                ],
+                "text": "SUPERIORE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            92,
+                            556,
+                            139,
+                            569,
+                            137,
+                            577,
+                            90,
+                            564
+                        ],
+                        "confidence": "Low",
+                        "text": "SUPERIORE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,160 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    49,
+                    253,
+                    312,
+                    318,
+                    299,
+                    372,
+                    36,
+                    307
+                ],
+                "text": "Marchese Antinow",
+                "words": [
+                    {
+                        "boundingBox": [
+                            76,
+                            262,
+                            198,
+                            290,
+                            185,
+                            344,
+                            63,
+                            313
+                        ],
+                        "text": "Marchese"
+                    },
+                    {
+                        "boundingBox": [
+                            208,
+                            293,
+                            309,
+                            319,
+                            296,
+                            373,
+                            195,
+                            346
+                        ],
+                        "confidence": "Low",
+                        "text": "Antinow"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    97,
+                    317,
+                    229,
+                    351,
+                    226,
+                    363,
+                    94,
+                    329
+                ],
+                "text": "TENUTA MONTENISA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            99,
+                            318,
+                            145,
+                            330,
+                            142,
+                            342,
+                            96,
+                            329
+                        ],
+                        "text": "TENUTA"
+                    },
+                    {
+                        "boundingBox": [
+                            152,
+                            332,
+                            229,
+                            352,
+                            226,
+                            363,
+                            149,
+                            343
+                        ],
+                        "text": "MONTENISA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    88,
+                    351,
+                    220,
+                    386,
+                    215,
+                    403,
+                    83,
+                    367
+                ],
+                "text": "CUVEE ROYALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            89,
+                            351,
+                            146,
+                            366,
+                            142,
+                            381,
+                            86,
+                            368
+                        ],
+                        "text": "CUVEE"
+                    },
+                    {
+                        "boundingBox": [
+                            151,
+                            368,
+                            220,
+                            387,
+                            215,
+                            402,
+                            147,
+                            382
+                        ],
+                        "text": "ROYALE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    132,
+                    397,
+                    215,
+                    398,
+                    214,
+                    418,
+                    131,
+                    417
+                ],
+                "text": "PROFICIS",
+                "words": [
+                    {
+                        "boundingBox": [
+                            145,
+                            399,
+                            216,
+                            399,
+                            215,
+                            416,
+                            143,
+                            416
+                        ],
+                        "confidence": "Low",
+                        "text": "PROFICIS"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

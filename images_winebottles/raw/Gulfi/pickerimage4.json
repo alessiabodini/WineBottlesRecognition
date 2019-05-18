@@ -1,0 +1,164 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    358,
+                    275,
+                    403,
+                    281,
+                    398,
+                    323,
+                    354,
+                    317
+                ],
+                "text": "G",
+                "words": [
+                    {
+                        "boundingBox": [
+                            360,
+                            275,
+                            388,
+                            278,
+                            382,
+                            320,
+                            355,
+                            316
+                        ],
+                        "text": "G"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    403,
+                    292,
+                    504,
+                    297,
+                    502,
+                    329,
+                    400,
+                    326
+                ],
+                "text": "ULFI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            407,
+                            292,
+                            502,
+                            295,
+                            501,
+                            329,
+                            406,
+                            326
+                        ],
+                        "confidence": "Low",
+                        "text": "ULFI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    346,
+                    320,
+                    503,
+                    330,
+                    501,
+                    355,
+                    344,
+                    345
+                ],
+                "text": "organic wines",
+                "words": [
+                    {
+                        "boundingBox": [
+                            350,
+                            322,
+                            432,
+                            331,
+                            431,
+                            351,
+                            348,
+                            341
+                        ],
+                        "confidence": "Low",
+                        "text": "organic"
+                    },
+                    {
+                        "boundingBox": [
+                            442,
+                            332,
+                            503,
+                            331,
+                            502,
+                            350,
+                            441,
+                            351
+                        ],
+                        "text": "wines"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    329,
+                    499,
+                    474,
+                    525,
+                    469,
+                    552,
+                    324,
+                    526
+                ],
+                "text": "NextMaccar)",
+                "words": [
+                    {
+                        "boundingBox": [
+                            338,
+                            504,
+                            473,
+                            525,
+                            469,
+                            548,
+                            332,
+                            522
+                        ],
+                        "confidence": "Low",
+                        "text": "NextMaccar)"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    356,
+                    597,
+                    433,
+                    613,
+                    429,
+                    632,
+                    352,
+                    616
+                ],
+                "text": "2008",
+                "words": [
+                    {
+                        "boundingBox": [
+                            380,
+                            605,
+                            433,
+                            613,
+                            430,
+                            630,
+                            377,
+                            621
+                        ],
+                        "confidence": "Low",
+                        "text": "2008"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

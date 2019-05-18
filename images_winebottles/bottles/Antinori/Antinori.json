@@ -1,0 +1,93 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    44,
+                    401,
+                    186,
+                    405,
+                    185,
+                    465,
+                    44,
+                    463
+                ],
+                "text": "TIGVANELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            43,
+                            400,
+                            184,
+                            403,
+                            183,
+                            465,
+                            42,
+                            462
+                        ],
+                        "confidence": "Low",
+                        "text": "TIGVANELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    99,
+                    470,
+                    130,
+                    469,
+                    131,
+                    483,
+                    99,
+                    483
+                ],
+                "text": "2015",
+                "words": [
+                    {
+                        "boundingBox": [
+                            101,
+                            468,
+                            130,
+                            468,
+                            130,
+                            482,
+                            101,
+                            482
+                        ],
+                        "text": "2015"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    73,
+                    696,
+                    147,
+                    695,
+                    148,
+                    707,
+                    74,
+                    708
+                ],
+                "text": "ANTINORI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            77,
+                            696,
+                            148,
+                            696,
+                            147,
+                            707,
+                            77,
+                            707
+                        ],
+                        "confidence": "Low",
+                        "text": "ANTINORI"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

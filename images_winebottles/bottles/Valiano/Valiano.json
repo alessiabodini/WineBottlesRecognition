@@ -1,0 +1,396 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    96,
+                    84,
+                    143,
+                    83,
+                    144,
+                    93,
+                    97,
+                    94
+                ],
+                "text": "UPTO, 750",
+                "words": [
+                    {
+                        "boundingBox": [
+                            100,
+                            85,
+                            127,
+                            84,
+                            126,
+                            93,
+                            100,
+                            94
+                        ],
+                        "confidence": "Low",
+                        "text": "UPTO,"
+                    },
+                    {
+                        "boundingBox": [
+                            128,
+                            84,
+                            144,
+                            85,
+                            143,
+                            94,
+                            128,
+                            93
+                        ],
+                        "text": "750"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    114,
+                    92,
+                    163,
+                    95,
+                    162,
+                    105,
+                    113,
+                    101
+                ],
+                "text": "09766439",
+                "words": [
+                    {
+                        "boundingBox": [
+                            117,
+                            92,
+                            163,
+                            96,
+                            162,
+                            105,
+                            117,
+                            102
+                        ],
+                        "text": "09766439"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    91,
+                    100,
+                    175,
+                    107,
+                    173,
+                    123,
+                    89,
+                    115
+                ],
+                "text": "ANTI CLASSICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            95,
+                            104,
+                            121,
+                            104,
+                            120,
+                            117,
+                            95,
+                            117
+                        ],
+                        "confidence": "Low",
+                        "text": "ANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            123,
+                            104,
+                            174,
+                            111,
+                            172,
+                            123,
+                            122,
+                            117
+                        ],
+                        "confidence": "Low",
+                        "text": "CLASSICO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    28,
+                    458,
+                    180,
+                    458,
+                    179,
+                    538,
+                    31,
+                    535
+                ],
+                "text": "My aliana",
+                "words": [
+                    {
+                        "boundingBox": [
+                            28,
+                            456,
+                            54,
+                            456,
+                            53,
+                            536,
+                            27,
+                            536
+                        ],
+                        "confidence": "Low",
+                        "text": "My"
+                    },
+                    {
+                        "boundingBox": [
+                            70,
+                            456,
+                            177,
+                            457,
+                            176,
+                            537,
+                            69,
+                            536
+                        ],
+                        "confidence": "Low",
+                        "text": "aliana"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    20,
+                    628,
+                    190,
+                    629,
+                    189,
+                    655,
+                    19,
+                    654
+                ],
+                "text": "CHIANTI CLASSICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            23,
+                            629,
+                            84,
+                            631,
+                            84,
+                            655,
+                            22,
+                            651
+                        ],
+                        "text": "CHIANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            88,
+                            631,
+                            188,
+                            630,
+                            190,
+                            650,
+                            88,
+                            655
+                        ],
+                        "text": "CLASSICO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    22,
+                    649,
+                    193,
+                    649,
+                    194,
+                    665,
+                    23,
+                    666
+                ],
+                "text": "MINE DI ORIGINE CONTROLLATA E GARANTITA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            34,
+                            651,
+                            54,
+                            653,
+                            54,
+                            665,
+                            34,
+                            663
+                        ],
+                        "confidence": "Low",
+                        "text": "MINE"
+                    },
+                    {
+                        "boundingBox": [
+                            56,
+                            653,
+                            63,
+                            653,
+                            63,
+                            665,
+                            56,
+                            665
+                        ],
+                        "confidence": "Low",
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            65,
+                            654,
+                            93,
+                            654,
+                            93,
+                            666,
+                            65,
+                            665
+                        ],
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            96,
+                            655,
+                            146,
+                            653,
+                            146,
+                            665,
+                            96,
+                            666
+                        ],
+                        "text": "CONTROLLATA"
+                    },
+                    {
+                        "boundingBox": [
+                            148,
+                            653,
+                            153,
+                            653,
+                            154,
+                            665,
+                            148,
+                            665
+                        ],
+                        "text": "E"
+                    },
+                    {
+                        "boundingBox": [
+                            156,
+                            653,
+                            194,
+                            649,
+                            194,
+                            661,
+                            156,
+                            665
+                        ],
+                        "text": "GARANTITA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    49,
+                    675,
+                    141,
+                    676,
+                    140,
+                    695,
+                    48,
+                    694
+                ],
+                "text": "RISERVA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            51,
+                            676,
+                            141,
+                            677,
+                            140,
+                            695,
+                            52,
+                            695
+                        ],
+                        "text": "RISERVA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    71,
+                    694,
+                    113,
+                    694,
+                    113,
+                    709,
+                    71,
+                    710
+                ],
+                "text": "2005",
+                "words": [
+                    {
+                        "boundingBox": [
+                            73,
+                            693,
+                            112,
+                            693,
+                            112,
+                            709,
+                            74,
+                            709
+                        ],
+                        "text": "2005"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    28,
+                    711,
+                    172,
+                    713,
+                    171,
+                    732,
+                    27,
+                    731
+                ],
+                "text": "CASTELNUOVO BERARDENGA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            30,
+                            712,
+                            93,
+                            715,
+                            92,
+                            732,
+                            29,
+                            726
+                        ],
+                        "text": "CASTELNUOVO"
+                    },
+                    {
+                        "boundingBox": [
+                            96,
+                            715,
+                            173,
+                            713,
+                            172,
+                            729,
+                            95,
+                            732
+                        ],
+                        "text": "BERARDENGA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

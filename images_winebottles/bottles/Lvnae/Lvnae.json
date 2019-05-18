@@ -1,0 +1,177 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    65,
+                    313,
+                    140,
+                    315,
+                    139,
+                    333,
+                    64,
+                    331
+                ],
+                "text": "NICCOLO V",
+                "words": [
+                    {
+                        "boundingBox": [
+                            66,
+                            314,
+                            126,
+                            315,
+                            126,
+                            333,
+                            65,
+                            331
+                        ],
+                        "text": "NICCOLO"
+                    },
+                    {
+                        "boundingBox": [
+                            131,
+                            316,
+                            140,
+                            316,
+                            139,
+                            333,
+                            130,
+                            333
+                        ],
+                        "confidence": "Low",
+                        "text": "V"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    75,
+                    353,
+                    125,
+                    351,
+                    126,
+                    365,
+                    76,
+                    367
+                ],
+                "text": "ENTEN",
+                "words": [
+                    {
+                        "boundingBox": [
+                            81,
+                            354,
+                            121,
+                            354,
+                            120,
+                            365,
+                            80,
+                            366
+                        ],
+                        "text": "ENTEN"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    75,
+                    405,
+                    130,
+                    406,
+                    129,
+                    417,
+                    74,
+                    416
+                ],
+                "text": "97-19",
+                "words": [
+                    {
+                        "boundingBox": [
+                            84,
+                            406,
+                            116,
+                            407,
+                            115,
+                            417,
+                            83,
+                            416
+                        ],
+                        "confidence": "Low",
+                        "text": "97-19"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    61,
+                    492,
+                    131,
+                    494,
+                    131,
+                    514,
+                    60,
+                    512
+                ],
+                "text": "LVNAE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            62,
+                            493,
+                            131,
+                            495,
+                            130,
+                            514,
+                            61,
+                            512
+                        ],
+                        "text": "LVNAE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    68,
+                    524,
+                    125,
+                    525,
+                    124,
+                    535,
+                    67,
+                    534
+                ],
+                "text": "Paolo Boxont",
+                "words": [
+                    {
+                        "boundingBox": [
+                            69,
+                            525,
+                            95,
+                            525,
+                            94,
+                            535,
+                            69,
+                            534
+                        ],
+                        "confidence": "Low",
+                        "text": "Paolo"
+                    },
+                    {
+                        "boundingBox": [
+                            98,
+                            525,
+                            125,
+                            526,
+                            124,
+                            535,
+                            98,
+                            535
+                        ],
+                        "confidence": "Low",
+                        "text": "Boxont"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

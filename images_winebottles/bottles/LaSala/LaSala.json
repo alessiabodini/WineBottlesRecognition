@@ -1,0 +1,347 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    126,
+                    119,
+                    121,
+                    92,
+                    135,
+                    89,
+                    139,
+                    118
+                ],
+                "text": "ODIS",
+                "words": [
+                    {
+                        "boundingBox": [
+                            124,
+                            115,
+                            120,
+                            91,
+                            134,
+                            89,
+                            138,
+                            113
+                        ],
+                        "confidence": "Low",
+                        "text": "ODIS"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    103,
+                    177,
+                    164,
+                    176,
+                    165,
+                    186,
+                    104,
+                    188
+                ],
+                "text": "AAUX052414",
+                "words": [
+                    {
+                        "boundingBox": [
+                            105,
+                            179,
+                            164,
+                            178,
+                            163,
+                            187,
+                            105,
+                            188
+                        ],
+                        "confidence": "Low",
+                        "text": "AAUX052414"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    96,
+                    187,
+                    163,
+                    185,
+                    164,
+                    193,
+                    97,
+                    196
+                ],
+                "text": "SAQUGKEE743! (",
+                "words": [
+                    {
+                        "boundingBox": [
+                            105,
+                            188,
+                            154,
+                            186,
+                            154,
+                            194,
+                            105,
+                            196
+                        ],
+                        "confidence": "Low",
+                        "text": "SAQUGKEE743!"
+                    },
+                    {
+                        "boundingBox": [
+                            155,
+                            186,
+                            160,
+                            186,
+                            160,
+                            194,
+                            155,
+                            194
+                        ],
+                        "confidence": "Low",
+                        "text": "("
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    38,
+                    561,
+                    189,
+                    565,
+                    188,
+                    596,
+                    37,
+                    592
+                ],
+                "text": "LA SALA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            41,
+                            562,
+                            81,
+                            564,
+                            79,
+                            594,
+                            38,
+                            592
+                        ],
+                        "text": "LA"
+                    },
+                    {
+                        "boundingBox": [
+                            91,
+                            564,
+                            188,
+                            566,
+                            187,
+                            596,
+                            89,
+                            594
+                        ],
+                        "text": "SALA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    29,
+                    624,
+                    207,
+                    632,
+                    206,
+                    652,
+                    28,
+                    644
+                ],
+                "text": "CHIANTI CLASSICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            32,
+                            625,
+                            104,
+                            628,
+                            102,
+                            648,
+                            30,
+                            642
+                        ],
+                        "text": "CHIANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            107,
+                            628,
+                            205,
+                            632,
+                            204,
+                            651,
+                            106,
+                            649
+                        ],
+                        "text": "CLASSICO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    30,
+                    644,
+                    178,
+                    653,
+                    177,
+                    669,
+                    29,
+                    661
+                ],
+                "text": "BRAINAZIONE DIORIGINE CON TIL",
+                "words": [
+                    {
+                        "boundingBox": [
+                            35,
+                            647,
+                            89,
+                            653,
+                            88,
+                            664,
+                            33,
+                            659
+                        ],
+                        "confidence": "Low",
+                        "text": "BRAINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            92,
+                            653,
+                            140,
+                            654,
+                            139,
+                            668,
+                            90,
+                            665
+                        ],
+                        "confidence": "Low",
+                        "text": "DIORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            143,
+                            654,
+                            163,
+                            654,
+                            162,
+                            669,
+                            141,
+                            668
+                        ],
+                        "confidence": "Low",
+                        "text": "CON"
+                    },
+                    {
+                        "boundingBox": [
+                            165,
+                            654,
+                            177,
+                            653,
+                            176,
+                            669,
+                            164,
+                            669
+                        ],
+                        "confidence": "Low",
+                        "text": "TIL"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    78,
+                    664,
+                    143,
+                    668,
+                    142,
+                    679,
+                    77,
+                    675
+                ],
+                "text": "EGARANTITA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            81,
+                            665,
+                            142,
+                            669,
+                            141,
+                            680,
+                            80,
+                            676
+                        ],
+                        "confidence": "Low",
+                        "text": "EGARANTITA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    64,
+                    692,
+                    165,
+                    706,
+                    162,
+                    728,
+                    61,
+                    714
+                ],
+                "text": "Vendemmia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            69,
+                            694,
+                            164,
+                            706,
+                            161,
+                            727,
+                            66,
+                            715
+                        ],
+                        "confidence": "Low",
+                        "text": "Vendemmia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    93,
+                    724,
+                    132,
+                    728,
+                    131,
+                    742,
+                    91,
+                    739
+                ],
+                "text": "2014",
+                "words": [
+                    {
+                        "boundingBox": [
+                            96,
+                            723,
+                            131,
+                            726,
+                            130,
+                            741,
+                            94,
+                            738
+                        ],
+                        "text": "2014"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

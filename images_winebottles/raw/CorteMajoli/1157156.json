@@ -1,0 +1,217 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    197,
+                    20,
+                    199,
+                    0,
+                    213,
+                    2,
+                    211,
+                    23
+                ],
+                "text": "W",
+                "words": [
+                    {
+                        "boundingBox": [
+                            195,
+                            20,
+                            196,
+                            10,
+                            211,
+                            12,
+                            210,
+                            22
+                        ],
+                        "text": "W"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    162,
+                    348,
+                    274,
+                    351,
+                    273,
+                    367,
+                    161,
+                    364
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            164,
+                            349,
+                            213,
+                            351,
+                            213,
+                            366,
+                            163,
+                            363
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            216,
+                            351,
+                            273,
+                            351,
+                            273,
+                            366,
+                            216,
+                            366
+                        ],
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    200,
+                    381,
+                    234,
+                    382,
+                    232,
+                    395,
+                    199,
+                    394
+                ],
+                "text": "2015",
+                "words": [
+                    {
+                        "boundingBox": [
+                            203,
+                            381,
+                            233,
+                            381,
+                            233,
+                            394,
+                            202,
+                            394
+                        ],
+                        "text": "2015"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    145,
+                    398,
+                    285,
+                    405,
+                    283,
+                    431,
+                    143,
+                    424
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            148,
+                            399,
+                            284,
+                            405,
+                            283,
+                            430,
+                            148,
+                            424
+                        ],
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    142,
+                    418,
+                    289,
+                    424,
+                    288,
+                    446,
+                    141,
+                    440
+                ],
+                "text": "DENOMINAZIONE DI ORSCENE CONTROL LAB",
+                "words": [
+                    {
+                        "boundingBox": [
+                            144,
+                            420,
+                            197,
+                            430,
+                            196,
+                            442,
+                            142,
+                            431
+                        ],
+                        "confidence": "Low",
+                        "text": "DENOMINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            199,
+                            430,
+                            207,
+                            430,
+                            206,
+                            443,
+                            198,
+                            442
+                        ],
+                        "confidence": "Low",
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            209,
+                            430,
+                            240,
+                            430,
+                            239,
+                            444,
+                            208,
+                            443
+                        ],
+                        "confidence": "Low",
+                        "text": "ORSCENE"
+                    },
+                    {
+                        "boundingBox": [
+                            242,
+                            430,
+                            271,
+                            427,
+                            271,
+                            441,
+                            241,
+                            444
+                        ],
+                        "confidence": "Low",
+                        "text": "CONTROL"
+                    },
+                    {
+                        "boundingBox": [
+                            273,
+                            427,
+                            289,
+                            424,
+                            288,
+                            438,
+                            273,
+                            441
+                        ],
+                        "confidence": "Low",
+                        "text": "LAB"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

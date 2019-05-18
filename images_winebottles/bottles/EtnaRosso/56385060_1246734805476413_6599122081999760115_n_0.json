@@ -1,0 +1,217 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    79,
+                    294,
+                    471,
+                    292,
+                    480,
+                    455,
+                    64,
+                    438
+                ],
+                "text": "Etna",
+                "words": [
+                    {
+                        "boundingBox": [
+                            76,
+                            284,
+                            468,
+                            291,
+                            465,
+                            454,
+                            74,
+                            447
+                        ],
+                        "text": "Etna"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    116,
+                    436,
+                    537,
+                    471,
+                    526,
+                    606,
+                    104,
+                    570
+                ],
+                "text": "Rosso",
+                "words": [
+                    {
+                        "boundingBox": [
+                            125,
+                            438,
+                            526,
+                            487,
+                            526,
+                            588,
+                            114,
+                            573
+                        ],
+                        "text": "Rosso"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    84,
+                    586,
+                    439,
+                    608,
+                    436,
+                    654,
+                    81,
+                    632
+                ],
+                "text": "SYMPOSIAN",
+                "words": [
+                    {
+                        "boundingBox": [
+                            91,
+                            588,
+                            438,
+                            608,
+                            437,
+                            647,
+                            87,
+                            627
+                        ],
+                        "confidence": "Low",
+                        "text": "SYMPOSIAN"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    88,
+                    628,
+                    442,
+                    652,
+                    440,
+                    689,
+                    86,
+                    665
+                ],
+                "text": "Denominazione di Origine Controllata",
+                "words": [
+                    {
+                        "boundingBox": [
+                            94,
+                            629,
+                            213,
+                            645,
+                            210,
+                            673,
+                            89,
+                            656
+                        ],
+                        "confidence": "Low",
+                        "text": "Denominazione"
+                    },
+                    {
+                        "boundingBox": [
+                            219,
+                            645,
+                            235,
+                            647,
+                            232,
+                            675,
+                            216,
+                            673
+                        ],
+                        "text": "di"
+                    },
+                    {
+                        "boundingBox": [
+                            240,
+                            648,
+                            316,
+                            652,
+                            314,
+                            680,
+                            237,
+                            676
+                        ],
+                        "text": "Origine"
+                    },
+                    {
+                        "boundingBox": [
+                            321,
+                            653,
+                            440,
+                            654,
+                            440,
+                            679,
+                            319,
+                            680
+                        ],
+                        "text": "Controllata"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    341,
+                    897,
+                    451,
+                    893,
+                    452,
+                    924,
+                    342,
+                    927
+                ],
+                "text": "Tenuta",
+                "words": [
+                    {
+                        "boundingBox": [
+                            347,
+                            898,
+                            451,
+                            894,
+                            452,
+                            924,
+                            348,
+                            927
+                        ],
+                        "confidence": "Low",
+                        "text": "Tenuta"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    280,
+                    1022,
+                    513,
+                    1014,
+                    515,
+                    1061,
+                    282,
+                    1068
+                ],
+                "text": "PAPALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            286,
+                            1023,
+                            511,
+                            1015,
+                            514,
+                            1056,
+                            284,
+                            1062
+                        ],
+                        "text": "PAPALE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

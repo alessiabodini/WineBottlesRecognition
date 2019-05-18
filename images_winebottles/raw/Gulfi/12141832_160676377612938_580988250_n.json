@@ -1,0 +1,93 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    1076,
+                    635,
+                    1065,
+                    712,
+                    1042,
+                    708,
+                    1053,
+                    631
+                ],
+                "text": "France",
+                "words": [
+                    {
+                        "boundingBox": [
+                            1075,
+                            648,
+                            1065,
+                            712,
+                            1043,
+                            708,
+                            1052,
+                            644
+                        ],
+                        "text": "France"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    1007,
+                    622,
+                    987,
+                    694,
+                    960,
+                    687,
+                    978,
+                    616
+                ],
+                "text": "After",
+                "words": [
+                    {
+                        "boundingBox": [
+                            1005,
+                            627,
+                            987,
+                            694,
+                            958,
+                            686,
+                            976,
+                            619
+                        ],
+                        "confidence": "Low",
+                        "text": "After"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    325,
+                    501,
+                    307,
+                    554,
+                    286,
+                    547,
+                    304,
+                    494
+                ],
+                "text": "Cast",
+                "words": [
+                    {
+                        "boundingBox": [
+                            320,
+                            511,
+                            306,
+                            554,
+                            285,
+                            547,
+                            300,
+                            504
+                        ],
+                        "confidence": "Low",
+                        "text": "Cast"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,146 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    94,
+                    180,
+                    115,
+                    178,
+                    117,
+                    201,
+                    95,
+                    203
+                ],
+                "text": "y",
+                "words": [
+                    {
+                        "boundingBox": [
+                            99,
+                            178,
+                            113,
+                            177,
+                            115,
+                            201,
+                            101,
+                            202
+                        ],
+                        "text": "y"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    281,
+                    309,
+                    375,
+                    309,
+                    375,
+                    325,
+                    282,
+                    326
+                ],
+                "text": "PINKFLUID",
+                "words": [
+                    {
+                        "boundingBox": [
+                            283,
+                            310,
+                            375,
+                            309,
+                            375,
+                            325,
+                            284,
+                            326
+                        ],
+                        "text": "PINKFLUID"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    297,
+                    425,
+                    371,
+                    422,
+                    372,
+                    433,
+                    298,
+                    436
+                ],
+                "text": "MARCHE ROSATO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            298,
+                            425,
+                            333,
+                            425,
+                            333,
+                            435,
+                            298,
+                            435
+                        ],
+                        "confidence": "Low",
+                        "text": "MARCHE"
+                    },
+                    {
+                        "boundingBox": [
+                            336,
+                            425,
+                            372,
+                            423,
+                            372,
+                            433,
+                            337,
+                            435
+                        ],
+                        "text": "ROSATO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    300,
+                    476,
+                    372,
+                    473,
+                    372,
+                    486,
+                    301,
+                    489
+                ],
+                "text": "LE TERRAZZE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            302,
+                            477,
+                            313,
+                            477,
+                            313,
+                            489,
+                            302,
+                            489
+                        ],
+                        "text": "LE"
+                    },
+                    {
+                        "boundingBox": [
+                            316,
+                            477,
+                            371,
+                            473,
+                            371,
+                            486,
+                            316,
+                            489
+                        ],
+                        "text": "TERRAZZE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

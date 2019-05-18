@@ -1,0 +1,149 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    75,
+                    187,
+                    77,
+                    109,
+                    90,
+                    109,
+                    89,
+                    188
+                ],
+                "text": "FERRARI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            76,
+                            184,
+                            77,
+                            110,
+                            90,
+                            110,
+                            89,
+                            184
+                        ],
+                        "text": "FERRARI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    22,
+                    501,
+                    140,
+                    500,
+                    140,
+                    521,
+                    23,
+                    523
+                ],
+                "text": "FERRARI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            25,
+                            502,
+                            140,
+                            500,
+                            139,
+                            522,
+                            25,
+                            522
+                        ],
+                        "text": "FERRARI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    53,
+                    525,
+                    107,
+                    524,
+                    108,
+                    537,
+                    54,
+                    538
+                ],
+                "text": "PERLE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            54,
+                            526,
+                            105,
+                            525,
+                            105,
+                            537,
+                            55,
+                            538
+                        ],
+                        "text": "PERLE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    58,
+                    549,
+                    102,
+                    548,
+                    103,
+                    557,
+                    59,
+                    558
+                ],
+                "text": "TRENTODOC",
+                "words": [
+                    {
+                        "boundingBox": [
+                            59,
+                            550,
+                            103,
+                            549,
+                            103,
+                            558,
+                            60,
+                            558
+                        ],
+                        "confidence": "Low",
+                        "text": "TRENTODOC"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    59,
+                    568,
+                    103,
+                    569,
+                    102,
+                    579,
+                    58,
+                    578
+                ],
+                "text": "VIVINO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            70,
+                            569,
+                            101,
+                            569,
+                            101,
+                            579,
+                            70,
+                            579
+                        ],
+                        "confidence": "Low",
+                        "text": "VIVINO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

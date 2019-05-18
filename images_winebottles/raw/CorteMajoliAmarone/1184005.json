@@ -1,0 +1,214 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    163,
+                    314,
+                    303,
+                    309,
+                    304,
+                    330,
+                    164,
+                    334
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            165,
+                            316,
+                            228,
+                            317,
+                            229,
+                            332,
+                            165,
+                            330
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            234,
+                            316,
+                            301,
+                            311,
+                            303,
+                            327,
+                            235,
+                            332
+                        ],
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    216,
+                    347,
+                    258,
+                    345,
+                    259,
+                    360,
+                    216,
+                    361
+                ],
+                "text": "2012",
+                "words": [
+                    {
+                        "boundingBox": [
+                            219,
+                            345,
+                            258,
+                            344,
+                            258,
+                            359,
+                            219,
+                            360
+                        ],
+                        "text": "2012"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    169,
+                    376,
+                    298,
+                    370,
+                    300,
+                    400,
+                    171,
+                    405
+                ],
+                "text": "AMARONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            175,
+                            377,
+                            298,
+                            371,
+                            300,
+                            396,
+                            175,
+                            402
+                        ],
+                        "text": "AMARONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    125,
+                    393,
+                    331,
+                    382,
+                    333,
+                    421,
+                    127,
+                    431
+                ],
+                "text": "della VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            134,
+                            394,
+                            172,
+                            399,
+                            170,
+                            424,
+                            130,
+                            416
+                        ],
+                        "text": "della"
+                    },
+                    {
+                        "boundingBox": [
+                            177,
+                            400,
+                            328,
+                            383,
+                            333,
+                            407,
+                            175,
+                            425
+                        ],
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    117,
+                    411,
+                    337,
+                    402,
+                    338,
+                    441,
+                    118,
+                    450
+                ],
+                "text": "UPONINAZIONE DI ORIGINE CONTROLLATAEGUCLE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            123,
+                            414,
+                            182,
+                            429,
+                            182,
+                            443,
+                            120,
+                            427
+                        ],
+                        "confidence": "Low",
+                        "text": "UPONINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            185,
+                            429,
+                            194,
+                            430,
+                            194,
+                            444,
+                            185,
+                            444
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            196,
+                            430,
+                            234,
+                            430,
+                            235,
+                            445,
+                            196,
+                            445
+                        ],
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            236,
+                            430,
+                            329,
+                            405,
+                            333,
+                            420,
+                            238,
+                            445
+                        ],
+                        "confidence": "Low",
+                        "text": "CONTROLLATAEGUCLE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,207 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    166,
+                    185,
+                    195,
+                    196,
+                    189,
+                    213,
+                    159,
+                    201
+                ],
+                "text": "272",
+                "words": [
+                    {
+                        "boundingBox": [
+                            169,
+                            185,
+                            195,
+                            195,
+                            188,
+                            211,
+                            162,
+                            201
+                        ],
+                        "confidence": "Low",
+                        "text": "272"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    374,
+                    155,
+                    376,
+                    110,
+                    399,
+                    112,
+                    397,
+                    157
+                ],
+                "text": "Feet",
+                "words": [
+                    {
+                        "boundingBox": [
+                            374,
+                            149,
+                            375,
+                            110,
+                            398,
+                            111,
+                            397,
+                            150
+                        ],
+                        "confidence": "Low",
+                        "text": "Feet"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    396,
+                    392,
+                    514,
+                    254,
+                    576,
+                    309,
+                    465,
+                    450
+                ],
+                "text": "Revi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            401,
+                            383,
+                            508,
+                            253,
+                            578,
+                            310,
+                            471,
+                            440
+                        ],
+                        "text": "Revi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    509,
+                    455,
+                    604,
+                    329,
+                    625,
+                    344,
+                    530,
+                    471
+                ],
+                "text": "TRENTODOC",
+                "words": [
+                    {
+                        "boundingBox": [
+                            511,
+                            455,
+                            604,
+                            330,
+                            624,
+                            347,
+                            532,
+                            469
+                        ],
+                        "text": "TRENTODOC"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    732,
+                    104,
+                    744,
+                    41,
+                    781,
+                    48,
+                    769,
+                    109
+                ],
+                "text": "Revi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            731,
+                            99,
+                            742,
+                            42,
+                            780,
+                            49,
+                            769,
+                            107
+                        ],
+                        "text": "Revi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    574,
+                    463,
+                    634,
+                    384,
+                    665,
+                    407,
+                    603,
+                    485
+                ],
+                "text": "Brut",
+                "words": [
+                    {
+                        "boundingBox": [
+                            590,
+                            439,
+                            633,
+                            384,
+                            663,
+                            408,
+                            620,
+                            463
+                        ],
+                        "confidence": "Low",
+                        "text": "Brut"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    648,
+                    504,
+                    705,
+                    422,
+                    726,
+                    437,
+                    669,
+                    519
+                ],
+                "text": "Millesimato",
+                "words": [
+                    {
+                        "boundingBox": [
+                            658,
+                            492,
+                            706,
+                            423,
+                            726,
+                            439,
+                            677,
+                            507
+                        ],
+                        "confidence": "Low",
+                        "text": "Millesimato"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

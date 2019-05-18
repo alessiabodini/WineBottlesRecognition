@@ -1,0 +1,148 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    126,
+                    41,
+                    179,
+                    42,
+                    179,
+                    57,
+                    125,
+                    56
+                ],
+                "text": "BRUT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            126,
+                            43,
+                            178,
+                            42,
+                            178,
+                            57,
+                            127,
+                            57
+                        ],
+                        "text": "BRUT"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    120,
+                    536,
+                    253,
+                    509,
+                    257,
+                    527,
+                    124,
+                    554
+                ],
+                "text": "FRANCIACORTA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            124,
+                            536,
+                            252,
+                            510,
+                            256,
+                            521,
+                            125,
+                            547
+                        ],
+                        "text": "FRANCIACORTA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    99,
+                    551,
+                    268,
+                    520,
+                    274,
+                    553,
+                    104,
+                    584
+                ],
+                "text": "Ca'del Bosco",
+                "words": [
+                    {
+                        "boundingBox": [
+                            103,
+                            551,
+                            192,
+                            537,
+                            197,
+                            568,
+                            106,
+                            580
+                        ],
+                        "confidence": "Low",
+                        "text": "Ca'del"
+                    },
+                    {
+                        "boundingBox": [
+                            198,
+                            535,
+                            267,
+                            520,
+                            274,
+                            549,
+                            203,
+                            566
+                        ],
+                        "text": "Bosco"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    137,
+                    605,
+                    243,
+                    582,
+                    246,
+                    597,
+                    141,
+                    621
+                ],
+                "text": "CUNET PRESTIGE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            140,
+                            606,
+                            184,
+                            599,
+                            188,
+                            611,
+                            144,
+                            618
+                        ],
+                        "confidence": "Low",
+                        "text": "CUNET"
+                    },
+                    {
+                        "boundingBox": [
+                            186,
+                            599,
+                            241,
+                            583,
+                            245,
+                            595,
+                            191,
+                            610
+                        ],
+                        "confidence": "Low",
+                        "text": "PRESTIGE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

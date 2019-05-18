@@ -1,0 +1,104 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    135,
+                    355,
+                    220,
+                    327,
+                    227,
+                    346,
+                    142,
+                    374
+                ],
+                "text": "JORCHE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            138,
+                            355,
+                            220,
+                            328,
+                            227,
+                            346,
+                            145,
+                            374
+                        ],
+                        "text": "JORCHE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    156,
+                    504,
+                    280,
+                    462,
+                    288,
+                    487,
+                    164,
+                    529
+                ],
+                "text": "PRIMITIVE DIMANYEA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            160,
+                            504,
+                            213,
+                            501,
+                            218,
+                            511,
+                            162,
+                            516
+                        ],
+                        "text": "PRIMITIVE"
+                    },
+                    {
+                        "boundingBox": [
+                            217,
+                            500,
+                            277,
+                            465,
+                            283,
+                            475,
+                            221,
+                            510
+                        ],
+                        "text": "DIMANYEA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    205,
+                    517,
+                    248,
+                    501,
+                    252,
+                    512,
+                    209,
+                    527
+                ],
+                "text": "RISERVA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            207,
+                            517,
+                            247,
+                            503,
+                            252,
+                            512,
+                            212,
+                            527
+                        ],
+                        "text": "RISERVA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

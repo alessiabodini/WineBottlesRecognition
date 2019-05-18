@@ -1,0 +1,386 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    340,
+                    147,
+                    466,
+                    154,
+                    464,
+                    176,
+                    338,
+                    170
+                ],
+                "text": "PALIZZI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            343,
+                            148,
+                            466,
+                            154,
+                            465,
+                            174,
+                            341,
+                            168
+                        ],
+                        "text": "PALIZZI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    339,
+                    219,
+                    454,
+                    230,
+                    451,
+                    256,
+                    336,
+                    245
+                ],
+                "text": "Damusa",
+                "words": [
+                    {
+                        "boundingBox": [
+                            341,
+                            220,
+                            453,
+                            230,
+                            452,
+                            254,
+                            338,
+                            243
+                        ],
+                        "text": "Damusa"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    704,
+                    439,
+                    703,
+                    246,
+                    723,
+                    245,
+                    725,
+                    438
+                ],
+                "text": "MALVASIA E SAUVIGNON",
+                "words": [
+                    {
+                        "boundingBox": [
+                            706,
+                            435,
+                            705,
+                            362,
+                            724,
+                            363,
+                            724,
+                            436
+                        ],
+                        "text": "MALVASIA"
+                    },
+                    {
+                        "boundingBox": [
+                            705,
+                            359,
+                            705,
+                            349,
+                            724,
+                            349,
+                            724,
+                            359
+                        ],
+                        "text": "E"
+                    },
+                    {
+                        "boundingBox": [
+                            705,
+                            345,
+                            703,
+                            246,
+                            724,
+                            246,
+                            724,
+                            346
+                        ],
+                        "text": "SAUVIGNON"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    721,
+                    441,
+                    721,
+                    294,
+                    737,
+                    293,
+                    738,
+                    440
+                ],
+                "text": "CALABRIA INDICATIONE GEOGHADI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            723,
+                            437,
+                            723,
+                            398,
+                            738,
+                            397,
+                            737,
+                            436
+                        ],
+                        "text": "CALABRIA"
+                    },
+                    {
+                        "boundingBox": [
+                            723,
+                            395,
+                            722,
+                            340,
+                            738,
+                            339,
+                            738,
+                            395
+                        ],
+                        "confidence": "Low",
+                        "text": "INDICATIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            722,
+                            337,
+                            721,
+                            294,
+                            737,
+                            294,
+                            738,
+                            337
+                        ],
+                        "confidence": "Low",
+                        "text": "GEOGHADI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    204,
+                    447,
+                    294,
+                    443,
+                    295,
+                    463,
+                    205,
+                    467
+                ],
+                "text": "3NOZZVIn",
+                "words": [
+                    {
+                        "boundingBox": [
+                            211,
+                            448,
+                            290,
+                            445,
+                            289,
+                            464,
+                            210,
+                            467
+                        ],
+                        "confidence": "Low",
+                        "text": "3NOZZVIn"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    903,
+                    853,
+                    974,
+                    856,
+                    974,
+                    876,
+                    902,
+                    873
+                ],
+                "text": "NESCI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            907,
+                            854,
+                            974,
+                            856,
+                            973,
+                            876,
+                            905,
+                            873
+                        ],
+                        "text": "NESCI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    329,
+                    937,
+                    423,
+                    934,
+                    424,
+                    959,
+                    330,
+                    962
+                ],
+                "text": "EFESO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            331,
+                            937,
+                            416,
+                            936,
+                            416,
+                            959,
+                            331,
+                            961
+                        ],
+                        "text": "EFESO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    319,
+                    964,
+                    424,
+                    966,
+                    423,
+                    983,
+                    318,
+                    982
+                ],
+                "text": "YAL DI NETOF WAR",
+                "words": [
+                    {
+                        "boundingBox": [
+                            321,
+                            965,
+                            339,
+                            966,
+                            338,
+                            982,
+                            320,
+                            981
+                        ],
+                        "confidence": "Low",
+                        "text": "YAL"
+                    },
+                    {
+                        "boundingBox": [
+                            343,
+                            966,
+                            353,
+                            967,
+                            352,
+                            983,
+                            341,
+                            983
+                        ],
+                        "confidence": "Low",
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            356,
+                            967,
+                            388,
+                            967,
+                            387,
+                            984,
+                            355,
+                            983
+                        ],
+                        "confidence": "Low",
+                        "text": "NETOF"
+                    },
+                    {
+                        "boundingBox": [
+                            391,
+                            967,
+                            417,
+                            967,
+                            416,
+                            983,
+                            390,
+                            984
+                        ],
+                        "confidence": "Low",
+                        "text": "WAR"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    309,
+                    1024,
+                    420,
+                    1026,
+                    419,
+                    1048,
+                    308,
+                    1047
+                ],
+                "text": "LIBRANDI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            323,
+                            1026,
+                            420,
+                            1026,
+                            420,
+                            1044,
+                            321,
+                            1044
+                        ],
+                        "text": "LIBRANDI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    866,
+                    1022,
+                    950,
+                    1041,
+                    945,
+                    1063,
+                    861,
+                    1044
+                ],
+                "text": "Conte",
+                "words": [
+                    {
+                        "boundingBox": [
+                            886,
+                            1029,
+                            949,
+                            1042,
+                            946,
+                            1061,
+                            881,
+                            1048
+                        ],
+                        "confidence": "Low",
+                        "text": "Conte"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

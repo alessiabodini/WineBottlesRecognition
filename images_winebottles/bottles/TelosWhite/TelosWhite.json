@@ -1,0 +1,289 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    73,
+                    345,
+                    266,
+                    334,
+                    268,
+                    368,
+                    74,
+                    378
+                ],
+                "text": "Januta San Antonio",
+                "words": [
+                    {
+                        "boundingBox": [
+                            82,
+                            346,
+                            139,
+                            354,
+                            139,
+                            374,
+                            80,
+                            363
+                        ],
+                        "confidence": "Low",
+                        "text": "Januta"
+                    },
+                    {
+                        "boundingBox": [
+                            148,
+                            355,
+                            181,
+                            354,
+                            183,
+                            373,
+                            149,
+                            374
+                        ],
+                        "confidence": "Low",
+                        "text": "San"
+                    },
+                    {
+                        "boundingBox": [
+                            202,
+                            351,
+                            262,
+                            336,
+                            267,
+                            350,
+                            205,
+                            370
+                        ],
+                        "confidence": "Low",
+                        "text": "Antonio"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    84,
+                    361,
+                    261,
+                    350,
+                    262,
+                    379,
+                    85,
+                    390
+                ],
+                "text": "VAMICLIA CASTAGNEDI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            89,
+                            361,
+                            162,
+                            373,
+                            162,
+                            386,
+                            88,
+                            377
+                        ],
+                        "text": "VAMICLIA"
+                    },
+                    {
+                        "boundingBox": [
+                            166,
+                            372,
+                            259,
+                            352,
+                            262,
+                            364,
+                            167,
+                            386
+                        ],
+                        "confidence": "Low",
+                        "text": "CASTAGNEDI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    95,
+                    421,
+                    272,
+                    412,
+                    274,
+                    450,
+                    97,
+                    459
+                ],
+                "text": "TELOS / IL BLANCO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            102,
+                            423,
+                            197,
+                            426,
+                            199,
+                            455,
+                            101,
+                            450
+                        ],
+                        "text": "TELOS"
+                    },
+                    {
+                        "boundingBox": [
+                            202,
+                            426,
+                            211,
+                            425,
+                            214,
+                            453,
+                            205,
+                            454
+                        ],
+                        "text": "/"
+                    },
+                    {
+                        "boundingBox": [
+                            216,
+                            424,
+                            226,
+                            422,
+                            230,
+                            451,
+                            219,
+                            452
+                        ],
+                        "confidence": "Low",
+                        "text": "IL"
+                    },
+                    {
+                        "boundingBox": [
+                            231,
+                            422,
+                            269,
+                            413,
+                            274,
+                            441,
+                            235,
+                            450
+                        ],
+                        "confidence": "Low",
+                        "text": "BLANCO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    155,
+                    530,
+                    248,
+                    525,
+                    249,
+                    538,
+                    156,
+                    543
+                ],
+                "text": "NEKZA LOLFITE AGGIUNTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            156,
+                            530,
+                            180,
+                            532,
+                            180,
+                            542,
+                            157,
+                            541
+                        ],
+                        "confidence": "Low",
+                        "text": "NEKZA"
+                    },
+                    {
+                        "boundingBox": [
+                            181,
+                            532,
+                            212,
+                            531,
+                            213,
+                            541,
+                            182,
+                            542
+                        ],
+                        "confidence": "Low",
+                        "text": "LOLFITE"
+                    },
+                    {
+                        "boundingBox": [
+                            214,
+                            531,
+                            248,
+                            526,
+                            249,
+                            535,
+                            215,
+                            540
+                        ],
+                        "confidence": "Low",
+                        "text": "AGGIUNTI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    187,
+                    546,
+                    225,
+                    543,
+                    226,
+                    554,
+                    188,
+                    557
+                ],
+                "text": "2017",
+                "words": [
+                    {
+                        "boundingBox": [
+                            190,
+                            547,
+                            226,
+                            545,
+                            226,
+                            554,
+                            191,
+                            557
+                        ],
+                        "text": "2017"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    186,
+                    558,
+                    231,
+                    556,
+                    232,
+                    566,
+                    187,
+                    569
+                ],
+                "text": "VENETO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            190,
+                            559,
+                            225,
+                            557,
+                            225,
+                            567,
+                            191,
+                            569
+                        ],
+                        "confidence": "Low",
+                        "text": "VENETO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,176 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    36,
+                    137,
+                    138,
+                    136,
+                    139,
+                    149,
+                    37,
+                    150
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            38,
+                            138,
+                            82,
+                            138,
+                            82,
+                            150,
+                            38,
+                            150
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            85,
+                            138,
+                            138,
+                            137,
+                            138,
+                            150,
+                            85,
+                            150
+                        ],
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    69,
+                    161,
+                    101,
+                    162,
+                    100,
+                    174,
+                    69,
+                    174
+                ],
+                "text": "2014",
+                "words": [
+                    {
+                        "boundingBox": [
+                            73,
+                            160,
+                            100,
+                            160,
+                            99,
+                            173,
+                            73,
+                            173
+                        ],
+                        "text": "2014"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    27,
+                    190,
+                    151,
+                    191,
+                    150,
+                    209,
+                    26,
+                    208
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            27,
+                            191,
+                            151,
+                            191,
+                            150,
+                            209,
+                            27,
+                            207
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    24,
+                    212,
+                    153,
+                    213,
+                    152,
+                    224,
+                    23,
+                    223
+                ],
+                "text": "DENOMINAZIONE DI ORIGINE CONTROLLAZY",
+                "words": [
+                    {
+                        "boundingBox": [
+                            25,
+                            213,
+                            70,
+                            215,
+                            70,
+                            224,
+                            24,
+                            222
+                        ],
+                        "confidence": "Low",
+                        "text": "DENOMINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            72,
+                            215,
+                            78,
+                            215,
+                            78,
+                            224,
+                            71,
+                            224
+                        ],
+                        "confidence": "Low",
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            80,
+                            215,
+                            108,
+                            215,
+                            108,
+                            224,
+                            80,
+                            224
+                        ],
+                        "confidence": "Low",
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            110,
+                            215,
+                            152,
+                            213,
+                            152,
+                            224,
+                            110,
+                            224
+                        ],
+                        "confidence": "Low",
+                        "text": "CONTROLLAZY"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

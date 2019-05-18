@@ -1,0 +1,273 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    34,
+                    264,
+                    132,
+                    265,
+                    131,
+                    279,
+                    33,
+                    278
+                ],
+                "text": "Tenuta Sant Antonio",
+                "words": [
+                    {
+                        "boundingBox": [
+                            38,
+                            265,
+                            69,
+                            265,
+                            68,
+                            279,
+                            38,
+                            278
+                        ],
+                        "confidence": "Low",
+                        "text": "Tenuta"
+                    },
+                    {
+                        "boundingBox": [
+                            71,
+                            265,
+                            96,
+                            266,
+                            96,
+                            279,
+                            71,
+                            279
+                        ],
+                        "confidence": "Low",
+                        "text": "Sant"
+                    },
+                    {
+                        "boundingBox": [
+                            98,
+                            266,
+                            131,
+                            266,
+                            131,
+                            278,
+                            98,
+                            279
+                        ],
+                        "confidence": "Low",
+                        "text": "Antonio"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    34,
+                    322,
+                    133,
+                    325,
+                    132,
+                    343,
+                    33,
+                    339
+                ],
+                "text": "TELOS / IL ROSSO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            36,
+                            323,
+                            90,
+                            324,
+                            90,
+                            341,
+                            36,
+                            340
+                        ],
+                        "text": "TELOS"
+                    },
+                    {
+                        "boundingBox": [
+                            93,
+                            324,
+                            97,
+                            325,
+                            96,
+                            341,
+                            93,
+                            341
+                        ],
+                        "text": "/"
+                    },
+                    {
+                        "boundingBox": [
+                            100,
+                            325,
+                            106,
+                            325,
+                            105,
+                            341,
+                            100,
+                            341
+                        ],
+                        "text": "IL"
+                    },
+                    {
+                        "boundingBox": [
+                            109,
+                            325,
+                            132,
+                            327,
+                            131,
+                            342,
+                            109,
+                            341
+                        ],
+                        "text": "ROSSO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    53,
+                    420,
+                    112,
+                    419,
+                    113,
+                    426,
+                    54,
+                    427
+                ],
+                "text": "SENZA SOLFITI ACCIONTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            55,
+                            420,
+                            69,
+                            420,
+                            69,
+                            427,
+                            55,
+                            427
+                        ],
+                        "confidence": "Low",
+                        "text": "SENZA"
+                    },
+                    {
+                        "boundingBox": [
+                            70,
+                            420,
+                            88,
+                            420,
+                            88,
+                            427,
+                            70,
+                            427
+                        ],
+                        "confidence": "Low",
+                        "text": "SOLFITI"
+                    },
+                    {
+                        "boundingBox": [
+                            89,
+                            420,
+                            113,
+                            420,
+                            112,
+                            427,
+                            89,
+                            427
+                        ],
+                        "confidence": "Low",
+                        "text": "ACCIONTI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    65,
+                    446,
+                    104,
+                    447,
+                    103,
+                    454,
+                    64,
+                    453
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            65,
+                            447,
+                            103,
+                            447,
+                            103,
+                            454,
+                            65,
+                            454
+                        ],
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    67,
+                    463,
+                    99,
+                    463,
+                    99,
+                    469,
+                    67,
+                    469
+                ],
+                "text": "SUPERIORE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            68,
+                            463,
+                            99,
+                            463,
+                            99,
+                            469,
+                            68,
+                            469
+                        ],
+                        "text": "SUPERIORE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    61,
+                    568,
+                    103,
+                    567,
+                    104,
+                    579,
+                    62,
+                    580
+                ],
+                "text": "vivino",
+                "words": [
+                    {
+                        "boundingBox": [
+                            72,
+                            568,
+                            104,
+                            568,
+                            104,
+                            579,
+                            72,
+                            580
+                        ],
+                        "confidence": "Low",
+                        "text": "vivino"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

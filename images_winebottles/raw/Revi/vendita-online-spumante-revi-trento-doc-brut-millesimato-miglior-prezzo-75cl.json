@@ -1,0 +1,63 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    118,
+                    251,
+                    175,
+                    252,
+                    176,
+                    281,
+                    116,
+                    283
+                ],
+                "text": "Revi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            122,
+                            250,
+                            175,
+                            250,
+                            175,
+                            282,
+                            122,
+                            282
+                        ],
+                        "text": "Revi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    121,
+                    289,
+                    167,
+                    289,
+                    166,
+                    299,
+                    120,
+                    298
+                ],
+                "text": "TRENTODOC",
+                "words": [
+                    {
+                        "boundingBox": [
+                            123,
+                            289,
+                            167,
+                            290,
+                            166,
+                            299,
+                            122,
+                            299
+                        ],
+                        "text": "TRENTODOC"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

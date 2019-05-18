@@ -1,0 +1,119 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    258,
+                    410,
+                    359,
+                    409,
+                    360,
+                    422,
+                    259,
+                    423
+                ],
+                "text": "FALESIA Pugz",
+                "words": [
+                    {
+                        "boundingBox": [
+                            260,
+                            411,
+                            336,
+                            410,
+                            335,
+                            422,
+                            260,
+                            423
+                        ],
+                        "text": "FALESIA"
+                    },
+                    {
+                        "boundingBox": [
+                            339,
+                            410,
+                            360,
+                            410,
+                            359,
+                            422,
+                            339,
+                            422
+                        ],
+                        "confidence": "Low",
+                        "text": "Pugz"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    245,
+                    487,
+                    287,
+                    490,
+                    286,
+                    502,
+                    244,
+                    499
+                ],
+                "text": "CANTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            248,
+                            488,
+                            285,
+                            490,
+                            285,
+                            502,
+                            248,
+                            499
+                        ],
+                        "text": "CANTINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    282,
+                    488,
+                    350,
+                    483,
+                    351,
+                    499,
+                    284,
+                    504
+                ],
+                "text": "WA LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            287,
+                            488,
+                            306,
+                            489,
+                            306,
+                            503,
+                            286,
+                            504
+                        ],
+                        "confidence": "Low",
+                        "text": "WA"
+                    },
+                    {
+                        "boundingBox": [
+                            314,
+                            489,
+                            351,
+                            487,
+                            351,
+                            497,
+                            313,
+                            502
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

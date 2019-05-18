@@ -1,0 +1,191 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    57,
+                    404,
+                    111,
+                    405,
+                    110,
+                    419,
+                    56,
+                    418
+                ],
+                "text": "PRA +",
+                "words": [
+                    {
+                        "boundingBox": [
+                            70,
+                            405,
+                            99,
+                            406,
+                            99,
+                            419,
+                            70,
+                            418
+                        ],
+                        "confidence": "Low",
+                        "text": "PRA"
+                    },
+                    {
+                        "boundingBox": [
+                            105,
+                            406,
+                            111,
+                            406,
+                            111,
+                            419,
+                            105,
+                            419
+                        ],
+                        "confidence": "Low",
+                        "text": "+"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    67,
+                    434,
+                    100,
+                    432,
+                    101,
+                    442,
+                    68,
+                    444
+                ],
+                "text": "Soave",
+                "words": [
+                    {
+                        "boundingBox": [
+                            69,
+                            434,
+                            100,
+                            433,
+                            99,
+                            443,
+                            69,
+                            443
+                        ],
+                        "text": "Soave"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    69,
+                    454,
+                    99,
+                    454,
+                    99,
+                    463,
+                    69,
+                    463
+                ],
+                "text": "classico",
+                "words": [
+                    {
+                        "boundingBox": [
+                            70,
+                            455,
+                            98,
+                            454,
+                            98,
+                            463,
+                            70,
+                            462
+                        ],
+                        "text": "classico"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    12,
+                    535,
+                    36,
+                    539,
+                    34,
+                    549,
+                    11,
+                    545
+                ],
+                "text": "Te",
+                "words": [
+                    {
+                        "boundingBox": [
+                            14,
+                            535,
+                            35,
+                            538,
+                            33,
+                            548,
+                            12,
+                            545
+                        ],
+                        "confidence": "Low",
+                        "text": "Te"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    72,
+                    542,
+                    96,
+                    541,
+                    96,
+                    552,
+                    73,
+                    552
+                ],
+                "text": "ITALIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            73,
+                            540,
+                            95,
+                            540,
+                            95,
+                            551,
+                            73,
+                            551
+                        ],
+                        "text": "ITALIA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    62,
+                    567,
+                    105,
+                    568,
+                    104,
+                    579,
+                    61,
+                    580
+                ],
+                "text": "VIVIno",
+                "words": [
+                    {
+                        "boundingBox": [
+                            73,
+                            567,
+                            104,
+                            567,
+                            104,
+                            580,
+                            73,
+                            580
+                        ],
+                        "text": "VIVIno"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

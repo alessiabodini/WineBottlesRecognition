@@ -1,0 +1,245 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    405,
+                    200,
+                    540,
+                    193,
+                    541,
+                    211,
+                    407,
+                    219
+                ],
+                "text": "PALIZZI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            406,
+                            201,
+                            541,
+                            194,
+                            541,
+                            212,
+                            407,
+                            219
+                        ],
+                        "text": "PALIZZI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    412,
+                    218,
+                    527,
+                    214,
+                    528,
+                    227,
+                    413,
+                    231
+                ],
+                "text": "Indicatione Geografica Tipa",
+                "words": [
+                    {
+                        "boundingBox": [
+                            418,
+                            219,
+                            463,
+                            217,
+                            463,
+                            230,
+                            418,
+                            231
+                        ],
+                        "confidence": "Low",
+                        "text": "Indicatione"
+                    },
+                    {
+                        "boundingBox": [
+                            465,
+                            217,
+                            506,
+                            216,
+                            506,
+                            228,
+                            465,
+                            230
+                        ],
+                        "confidence": "Low",
+                        "text": "Geografica"
+                    },
+                    {
+                        "boundingBox": [
+                            508,
+                            216,
+                            528,
+                            215,
+                            528,
+                            227,
+                            508,
+                            228
+                        ],
+                        "confidence": "Low",
+                        "text": "Tipa"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    440,
+                    232,
+                    515,
+                    229,
+                    516,
+                    242,
+                    441,
+                    245
+                ],
+                "text": "ROMTO 2017",
+                "words": [
+                    {
+                        "boundingBox": [
+                            445,
+                            233,
+                            483,
+                            231,
+                            484,
+                            243,
+                            446,
+                            244
+                        ],
+                        "text": "ROMTO"
+                    },
+                    {
+                        "boundingBox": [
+                            486,
+                            231,
+                            507,
+                            230,
+                            508,
+                            242,
+                            487,
+                            243
+                        ],
+                        "confidence": "Low",
+                        "text": "2017"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    395,
+                    244,
+                    550,
+                    236,
+                    551,
+                    250,
+                    396,
+                    258
+                ],
+                "text": "VINO BIOLOGICO - ORGANIC WIST",
+                "words": [
+                    {
+                        "boundingBox": [
+                            400,
+                            245,
+                            419,
+                            244,
+                            420,
+                            256,
+                            400,
+                            258
+                        ],
+                        "text": "VINO"
+                    },
+                    {
+                        "boundingBox": [
+                            422,
+                            244,
+                            476,
+                            241,
+                            476,
+                            253,
+                            423,
+                            256
+                        ],
+                        "confidence": "Low",
+                        "text": "BIOLOGICO"
+                    },
+                    {
+                        "boundingBox": [
+                            478,
+                            241,
+                            482,
+                            241,
+                            482,
+                            253,
+                            479,
+                            253
+                        ],
+                        "confidence": "Low",
+                        "text": "-"
+                    },
+                    {
+                        "boundingBox": [
+                            484,
+                            241,
+                            526,
+                            238,
+                            526,
+                            251,
+                            485,
+                            253
+                        ],
+                        "text": "ORGANIC"
+                    },
+                    {
+                        "boundingBox": [
+                            528,
+                            238,
+                            550,
+                            237,
+                            550,
+                            250,
+                            529,
+                            251
+                        ],
+                        "confidence": "Low",
+                        "text": "WIST"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    416,
+                    301,
+                    541,
+                    296,
+                    542,
+                    324,
+                    417,
+                    328
+                ],
+                "text": "Damusa",
+                "words": [
+                    {
+                        "boundingBox": [
+                            417,
+                            301,
+                            540,
+                            298,
+                            541,
+                            323,
+                            417,
+                            329
+                        ],
+                        "text": "Damusa"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

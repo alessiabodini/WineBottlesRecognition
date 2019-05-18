@@ -1,0 +1,240 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    247,
+                    334,
+                    430,
+                    336,
+                    429,
+                    357,
+                    246,
+                    355
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            250,
+                            334,
+                            328,
+                            336,
+                            328,
+                            356,
+                            250,
+                            354
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            334,
+                            336,
+                            431,
+                            337,
+                            430,
+                            355,
+                            334,
+                            356
+                        ],
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    305,
+                    378,
+                    361,
+                    379,
+                    360,
+                    399,
+                    305,
+                    398
+                ],
+                "text": "2013",
+                "words": [
+                    {
+                        "boundingBox": [
+                            310,
+                            378,
+                            360,
+                            378,
+                            360,
+                            398,
+                            309,
+                            398
+                        ],
+                        "text": "2013"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    252,
+                    415,
+                    422,
+                    416,
+                    421,
+                    449,
+                    251,
+                    448
+                ],
+                "text": "AMARONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            254,
+                            416,
+                            421,
+                            417,
+                            419,
+                            450,
+                            254,
+                            449
+                        ],
+                        "text": "AMARONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    201,
+                    445,
+                    478,
+                    446,
+                    477,
+                    487,
+                    200,
+                    486
+                ],
+                "text": "della VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            209,
+                            446,
+                            251,
+                            448,
+                            248,
+                            482,
+                            205,
+                            476
+                        ],
+                        "text": "della"
+                    },
+                    {
+                        "boundingBox": [
+                            257,
+                            449,
+                            476,
+                            446,
+                            477,
+                            477,
+                            254,
+                            482
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    194,
+                    480,
+                    493,
+                    481,
+                    492,
+                    512,
+                    193,
+                    511
+                ],
+                "text": "DENOMINAZIONE DI ORIGINE CONTROLLATA E GARANTITA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            197,
+                            482,
+                            263,
+                            490,
+                            263,
+                            507,
+                            195,
+                            497
+                        ],
+                        "confidence": "Low",
+                        "text": "DENOMINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            266,
+                            491,
+                            279,
+                            492,
+                            278,
+                            509,
+                            265,
+                            508
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            282,
+                            492,
+                            332,
+                            494,
+                            332,
+                            512,
+                            281,
+                            509
+                        ],
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            335,
+                            494,
+                            424,
+                            490,
+                            425,
+                            508,
+                            335,
+                            512
+                        ],
+                        "text": "CONTROLLATA"
+                    },
+                    {
+                        "boundingBox": [
+                            427,
+                            489,
+                            433,
+                            489,
+                            435,
+                            507,
+                            428,
+                            508
+                        ],
+                        "text": "E"
+                    },
+                    {
+                        "boundingBox": [
+                            436,
+                            488,
+                            490,
+                            481,
+                            492,
+                            498,
+                            438,
+                            507
+                        ],
+                        "text": "GARANTITA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

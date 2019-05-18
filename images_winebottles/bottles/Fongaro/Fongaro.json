@@ -1,0 +1,148 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    84,
+                    223,
+                    75,
+                    102,
+                    93,
+                    100,
+                    103,
+                    221
+                ],
+                "text": "O>ZOM",
+                "words": [
+                    {
+                        "boundingBox": [
+                            85,
+                            220,
+                            76,
+                            104,
+                            94,
+                            103,
+                            103,
+                            218
+                        ],
+                        "confidence": "Low",
+                        "text": "O>ZOM"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    15,
+                    621,
+                    202,
+                    601,
+                    206,
+                    643,
+                    19,
+                    662
+                ],
+                "text": "FONGARO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            22,
+                            621,
+                            194,
+                            603,
+                            202,
+                            631,
+                            20,
+                            650
+                        ],
+                        "text": "FONGARO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    74,
+                    662,
+                    154,
+                    651,
+                    157,
+                    669,
+                    77,
+                    680
+                ],
+                "text": "PAS DOSE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            76,
+                            663,
+                            109,
+                            658,
+                            112,
+                            676,
+                            80,
+                            680
+                        ],
+                        "text": "PAS"
+                    },
+                    {
+                        "boundingBox": [
+                            112,
+                            658,
+                            155,
+                            652,
+                            157,
+                            669,
+                            116,
+                            676
+                        ],
+                        "text": "DOSE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    78,
+                    683,
+                    149,
+                    674,
+                    151,
+                    684,
+                    80,
+                    693
+                ],
+                "text": "HETODO CLASICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            81,
+                            683,
+                            113,
+                            679,
+                            115,
+                            689,
+                            84,
+                            693
+                        ],
+                        "confidence": "Low",
+                        "text": "HETODO"
+                    },
+                    {
+                        "boundingBox": [
+                            116,
+                            679,
+                            150,
+                            675,
+                            151,
+                            684,
+                            117,
+                            689
+                        ],
+                        "confidence": "Low",
+                        "text": "CLASICO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

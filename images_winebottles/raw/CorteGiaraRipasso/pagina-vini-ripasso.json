@@ -1,0 +1,176 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    231,
+                    249,
+                    251,
+                    251,
+                    250,
+                    274,
+                    230,
+                    272
+                ],
+                "text": "O",
+                "words": [
+                    {
+                        "boundingBox": [
+                            232,
+                            249,
+                            247,
+                            250,
+                            245,
+                            273,
+                            230,
+                            271
+                        ],
+                        "text": "O"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    201,
+                    281,
+                    276,
+                    280,
+                    277,
+                    291,
+                    202,
+                    292
+                ],
+                "text": "CORTE GIARA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            204,
+                            281,
+                            238,
+                            281,
+                            238,
+                            292,
+                            203,
+                            292
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            242,
+                            281,
+                            277,
+                            281,
+                            277,
+                            292,
+                            242,
+                            292
+                        ],
+                        "text": "GIARA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    219,
+                    295,
+                    259,
+                    295,
+                    259,
+                    303,
+                    219,
+                    303
+                ],
+                "text": "RIPASSO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            222,
+                            295,
+                            256,
+                            295,
+                            257,
+                            304,
+                            222,
+                            303
+                        ],
+                        "text": "RIPASSO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    211,
+                    303,
+                    268,
+                    303,
+                    268,
+                    310,
+                    212,
+                    311
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            213,
+                            304,
+                            267,
+                            303,
+                            267,
+                            311,
+                            212,
+                            311
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    219,
+                    322,
+                    256,
+                    321,
+                    257,
+                    329,
+                    220,
+                    330
+                ],
+                "text": "CA GROLETTA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            221,
+                            322,
+                            228,
+                            322,
+                            227,
+                            330,
+                            221,
+                            329
+                        ],
+                        "confidence": "Low",
+                        "text": "CA"
+                    },
+                    {
+                        "boundingBox": [
+                            229,
+                            322,
+                            257,
+                            322,
+                            257,
+                            329,
+                            229,
+                            330
+                        ],
+                        "confidence": "Low",
+                        "text": "GROLETTA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

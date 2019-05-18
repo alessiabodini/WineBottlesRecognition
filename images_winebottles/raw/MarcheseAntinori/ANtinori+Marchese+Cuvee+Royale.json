@@ -1,0 +1,332 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    445,
+                    261,
+                    522,
+                    258,
+                    521,
+                    303,
+                    451,
+                    310
+                ],
+                "text": "ISE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            447,
+                            260,
+                            519,
+                            255,
+                            522,
+                            304,
+                            451,
+                            309
+                        ],
+                        "confidence": "Low",
+                        "text": "ISE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    590,
+                    276,
+                    676,
+                    322,
+                    665,
+                    343,
+                    580,
+                    298
+                ],
+                "text": "ORVITORI DI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            592,
+                            278,
+                            658,
+                            314,
+                            649,
+                            333,
+                            582,
+                            299
+                        ],
+                        "confidence": "Low",
+                        "text": "ORVITORI"
+                    },
+                    {
+                        "boundingBox": [
+                            662,
+                            316,
+                            675,
+                            323,
+                            667,
+                            341,
+                            654,
+                            335
+                        ],
+                        "confidence": "Low",
+                        "text": "DI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    733,
+                    321,
+                    827,
+                    295,
+                    834,
+                    320,
+                    740,
+                    346
+                ],
+                "text": "RE D'ITALL",
+                "words": [
+                    {
+                        "boundingBox": [
+                            746,
+                            321,
+                            767,
+                            319,
+                            769,
+                            337,
+                            746,
+                            339
+                        ],
+                        "text": "RE"
+                    },
+                    {
+                        "boundingBox": [
+                            771,
+                            318,
+                            822,
+                            298,
+                            830,
+                            317,
+                            773,
+                            336
+                        ],
+                        "confidence": "Low",
+                        "text": "D'ITALL"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    894,
+                    301,
+                    978,
+                    324,
+                    966,
+                    367,
+                    882,
+                    344
+                ],
+                "text": "AN",
+                "words": [
+                    {
+                        "boundingBox": [
+                            902,
+                            302,
+                            965,
+                            320,
+                            953,
+                            363,
+                            890,
+                            346
+                        ],
+                        "text": "AN"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    568,
+                    328,
+                    676,
+                    397,
+                    652,
+                    436,
+                    543,
+                    370
+                ],
+                "text": "CUVEE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            570,
+                            328,
+                            676,
+                            394,
+                            650,
+                            436,
+                            544,
+                            370
+                        ],
+                        "confidence": "Low",
+                        "text": "CUVEE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    682,
+                    404,
+                    832,
+                    350,
+                    848,
+                    394,
+                    698,
+                    449
+                ],
+                "text": "ROYALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            689,
+                            403,
+                            830,
+                            351,
+                            845,
+                            385,
+                            696,
+                            436
+                        ],
+                        "confidence": "Low",
+                        "text": "ROYALE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    64,
+                    1871,
+                    1013,
+                    1966,
+                    992,
+                    2182,
+                    43,
+                    2087
+                ],
+                "text": "Marchese Antinori",
+                "words": [
+                    {
+                        "boundingBox": [
+                            180,
+                            1906,
+                            610,
+                            1971,
+                            594,
+                            2145,
+                            140,
+                            2058
+                        ],
+                        "confidence": "Low",
+                        "text": "Marchese"
+                    },
+                    {
+                        "boundingBox": [
+                            650,
+                            1973,
+                            986,
+                            1964,
+                            990,
+                            2139,
+                            635,
+                            2148
+                        ],
+                        "confidence": "Low",
+                        "text": "Antinori"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    266,
+                    2104,
+                    755,
+                    2158,
+                    750,
+                    2206,
+                    261,
+                    2152
+                ],
+                "text": "TENUTA MONTENISA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            271,
+                            2105,
+                            441,
+                            2134,
+                            436,
+                            2171,
+                            265,
+                            2137
+                        ],
+                        "text": "TENUTA"
+                    },
+                    {
+                        "boundingBox": [
+                            470,
+                            2138,
+                            754,
+                            2158,
+                            752,
+                            2190,
+                            466,
+                            2175
+                        ],
+                        "text": "MONTENISA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    254,
+                    2224,
+                    743,
+                    2282,
+                    736,
+                    2345,
+                    246,
+                    2288
+                ],
+                "text": "CUVEE ROYALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            261,
+                            2228,
+                            467,
+                            2258,
+                            458,
+                            2314,
+                            251,
+                            2279
+                        ],
+                        "text": "CUVEE"
+                    },
+                    {
+                        "boundingBox": [
+                            494,
+                            2261,
+                            741,
+                            2282,
+                            735,
+                            2339,
+                            486,
+                            2317
+                        ],
+                        "text": "ROYALE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

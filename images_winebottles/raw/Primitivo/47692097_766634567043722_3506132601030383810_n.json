@@ -1,0 +1,389 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    165,
+                    41,
+                    203,
+                    42,
+                    202,
+                    54,
+                    164,
+                    52
+                ],
+                "text": "CANTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            168,
+                            42,
+                            200,
+                            43,
+                            200,
+                            54,
+                            168,
+                            53
+                        ],
+                        "text": "CANTINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    161,
+                    47,
+                    206,
+                    50,
+                    205,
+                    65,
+                    160,
+                    62
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            162,
+                            48,
+                            206,
+                            51,
+                            205,
+                            65,
+                            162,
+                            63
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    497,
+                    0,
+                    558,
+                    28,
+                    548,
+                    48,
+                    486,
+                    22
+                ],
+                "text": "ZIELONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            498,
+                            0,
+                            557,
+                            26,
+                            547,
+                            48,
+                            489,
+                            22
+                        ],
+                        "text": "ZIELONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    499,
+                    27,
+                    554,
+                    56,
+                    547,
+                    73,
+                    490,
+                    46
+                ],
+                "text": "TELL",
+                "words": [
+                    {
+                        "boundingBox": [
+                            518,
+                            36,
+                            552,
+                            53,
+                            543,
+                            72,
+                            509,
+                            55
+                        ],
+                        "confidence": "Low",
+                        "text": "TELL"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    26,
+                    503,
+                    60,
+                    505,
+                    59,
+                    519,
+                    25,
+                    515
+                ],
+                "text": "PRIN",
+                "words": [
+                    {
+                        "boundingBox": [
+                            28,
+                            502,
+                            59,
+                            504,
+                            58,
+                            518,
+                            27,
+                            516
+                        ],
+                        "text": "PRIN"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    25,
+                    586,
+                    57,
+                    590,
+                    56,
+                    601,
+                    23,
+                    597
+                ],
+                "text": "ANTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            24,
+                            585,
+                            56,
+                            589,
+                            55,
+                            600,
+                            23,
+                            596
+                        ],
+                        "confidence": "Low",
+                        "text": "ANTINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    298,
+                    569,
+                    331,
+                    560,
+                    334,
+                    569,
+                    301,
+                    577
+                ],
+                "text": "CIELONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            300,
+                            569,
+                            331,
+                            562,
+                            332,
+                            570,
+                            301,
+                            577
+                        ],
+                        "confidence": "Low",
+                        "text": "CIELONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    299,
+                    576,
+                    333,
+                    567,
+                    336,
+                    575,
+                    302,
+                    584
+                ],
+                "text": "BUTELKI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            300,
+                            576,
+                            334,
+                            568,
+                            334,
+                            576,
+                            302,
+                            584
+                        ],
+                        "text": "BUTELKI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    426,
+                    574,
+                    462,
+                    566,
+                    464,
+                    575,
+                    427,
+                    582
+                ],
+                "text": "ZIELONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            428,
+                            574,
+                            462,
+                            567,
+                            463,
+                            575,
+                            430,
+                            582
+                        ],
+                        "text": "ZIELONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    428,
+                    581,
+                    464,
+                    574,
+                    466,
+                    583,
+                    430,
+                    590
+                ],
+                "text": "BUTELK!",
+                "words": [
+                    {
+                        "boundingBox": [
+                            430,
+                            581,
+                            465,
+                            575,
+                            466,
+                            583,
+                            431,
+                            589
+                        ],
+                        "confidence": "Low",
+                        "text": "BUTELK!"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    546,
+                    575,
+                    579,
+                    567,
+                    582,
+                    577,
+                    548,
+                    584
+                ],
+                "text": "ZIELONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            547,
+                            575,
+                            580,
+                            568,
+                            581,
+                            577,
+                            548,
+                            584
+                        ],
+                        "text": "ZIELONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    546,
+                    583,
+                    582,
+                    575,
+                    584,
+                    585,
+                    548,
+                    592
+                ],
+                "text": "BUTELK!",
+                "words": [
+                    {
+                        "boundingBox": [
+                            547,
+                            583,
+                            583,
+                            576,
+                            583,
+                            585,
+                            548,
+                            592
+                        ],
+                        "confidence": "Low",
+                        "text": "BUTELK!"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    91,
+                    651,
+                    293,
+                    627,
+                    297,
+                    662,
+                    95,
+                    686
+                ],
+                "text": "PRIMITIVO Puglia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            95,
+                            651,
+                            241,
+                            641,
+                            246,
+                            666,
+                            96,
+                            673
+                        ],
+                        "text": "PRIMITIVO"
+                    },
+                    {
+                        "boundingBox": [
+                            252,
+                            639,
+                            290,
+                            628,
+                            296,
+                            649,
+                            257,
+                            662
+                        ],
+                        "text": "Puglia"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

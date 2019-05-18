@@ -1,0 +1,622 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    49,
+                    511,
+                    114,
+                    512,
+                    113,
+                    525,
+                    48,
+                    524
+                ],
+                "text": "colv. adro",
+                "words": [
+                    {
+                        "boundingBox": [
+                            51,
+                            512,
+                            83,
+                            513,
+                            83,
+                            525,
+                            51,
+                            525
+                        ],
+                        "confidence": "Low",
+                        "text": "colv."
+                    },
+                    {
+                        "boundingBox": [
+                            85,
+                            513,
+                            113,
+                            512,
+                            114,
+                            525,
+                            85,
+                            525
+                        ],
+                        "text": "adro"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    37,
+                    529,
+                    130,
+                    528,
+                    131,
+                    538,
+                    38,
+                    539
+                ],
+                "text": "az. agricolo colvendra",
+                "words": [
+                    {
+                        "boundingBox": [
+                            40,
+                            530,
+                            53,
+                            529,
+                            53,
+                            540,
+                            40,
+                            540
+                        ],
+                        "text": "az."
+                    },
+                    {
+                        "boundingBox": [
+                            55,
+                            529,
+                            91,
+                            529,
+                            90,
+                            539,
+                            55,
+                            539
+                        ],
+                        "confidence": "Low",
+                        "text": "agricolo"
+                    },
+                    {
+                        "boundingBox": [
+                            93,
+                            529,
+                            131,
+                            529,
+                            131,
+                            539,
+                            92,
+                            539
+                        ],
+                        "confidence": "Low",
+                        "text": "colvendra"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    31,
+                    539,
+                    135,
+                    540,
+                    134,
+                    552,
+                    30,
+                    550
+                ],
+                "text": "delia colletta narciso e fight",
+                "words": [
+                    {
+                        "boundingBox": [
+                            34,
+                            540,
+                            51,
+                            540,
+                            51,
+                            551,
+                            34,
+                            551
+                        ],
+                        "confidence": "Low",
+                        "text": "delia"
+                    },
+                    {
+                        "boundingBox": [
+                            53,
+                            540,
+                            83,
+                            540,
+                            83,
+                            551,
+                            53,
+                            551
+                        ],
+                        "confidence": "Low",
+                        "text": "colletta"
+                    },
+                    {
+                        "boundingBox": [
+                            85,
+                            541,
+                            115,
+                            541,
+                            115,
+                            551,
+                            85,
+                            551
+                        ],
+                        "confidence": "Low",
+                        "text": "narciso"
+                    },
+                    {
+                        "boundingBox": [
+                            117,
+                            541,
+                            121,
+                            541,
+                            121,
+                            552,
+                            117,
+                            551
+                        ],
+                        "text": "e"
+                    },
+                    {
+                        "boundingBox": [
+                            123,
+                            541,
+                            135,
+                            541,
+                            135,
+                            552,
+                            123,
+                            552
+                        ],
+                        "confidence": "Low",
+                        "text": "fight"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    50,
+                    552,
+                    120,
+                    552,
+                    120,
+                    562,
+                    50,
+                    562
+                ],
+                "text": "refrontalo - italia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            51,
+                            552,
+                            91,
+                            552,
+                            91,
+                            563,
+                            51,
+                            562
+                        ],
+                        "confidence": "Low",
+                        "text": "refrontalo"
+                    },
+                    {
+                        "boundingBox": [
+                            93,
+                            552,
+                            96,
+                            552,
+                            96,
+                            562,
+                            93,
+                            563
+                        ],
+                        "confidence": "Low",
+                        "text": "-"
+                    },
+                    {
+                        "boundingBox": [
+                            98,
+                            552,
+                            120,
+                            552,
+                            120,
+                            562,
+                            98,
+                            562
+                        ],
+                        "text": "italia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    28,
+                    728,
+                    138,
+                    734,
+                    136,
+                    765,
+                    26,
+                    758
+                ],
+                "text": "Ominenza",
+                "words": [
+                    {
+                        "boundingBox": [
+                            38,
+                            729,
+                            136,
+                            740,
+                            136,
+                            760,
+                            37,
+                            759
+                        ],
+                        "confidence": "Low",
+                        "text": "Ominenza"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    37,
+                    768,
+                    129,
+                    769,
+                    128,
+                    783,
+                    36,
+                    782
+                ],
+                "text": "BIANCO PASSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            37,
+                            769,
+                            81,
+                            770,
+                            80,
+                            783,
+                            37,
+                            782
+                        ],
+                        "text": "BIANCO"
+                    },
+                    {
+                        "boundingBox": [
+                            86,
+                            770,
+                            127,
+                            770,
+                            127,
+                            783,
+                            85,
+                            783
+                        ],
+                        "text": "PASSITO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    35,
+                    789,
+                    130,
+                    790,
+                    129,
+                    800,
+                    34,
+                    799
+                ],
+                "text": "no vino oftenuto secondo",
+                "words": [
+                    {
+                        "boundingBox": [
+                            37,
+                            790,
+                            46,
+                            790,
+                            46,
+                            799,
+                            37,
+                            799
+                        ],
+                        "confidence": "Low",
+                        "text": "no"
+                    },
+                    {
+                        "boundingBox": [
+                            48,
+                            790,
+                            64,
+                            790,
+                            64,
+                            799,
+                            48,
+                            799
+                        ],
+                        "text": "vino"
+                    },
+                    {
+                        "boundingBox": [
+                            66,
+                            790,
+                            99,
+                            790,
+                            98,
+                            799,
+                            65,
+                            799
+                        ],
+                        "confidence": "Low",
+                        "text": "oftenuto"
+                    },
+                    {
+                        "boundingBox": [
+                            100,
+                            790,
+                            130,
+                            790,
+                            130,
+                            800,
+                            100,
+                            799
+                        ],
+                        "confidence": "Low",
+                        "text": "secondo"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    49,
+                    798,
+                    116,
+                    799,
+                    115,
+                    809,
+                    48,
+                    807
+                ],
+                "text": "bradzione da uve",
+                "words": [
+                    {
+                        "boundingBox": [
+                            50,
+                            799,
+                            87,
+                            800,
+                            87,
+                            808,
+                            50,
+                            807
+                        ],
+                        "confidence": "Low",
+                        "text": "bradzione"
+                    },
+                    {
+                        "boundingBox": [
+                            90,
+                            800,
+                            99,
+                            800,
+                            99,
+                            808,
+                            89,
+                            808
+                        ],
+                        "text": "da"
+                    },
+                    {
+                        "boundingBox": [
+                            101,
+                            800,
+                            115,
+                            800,
+                            115,
+                            809,
+                            101,
+                            809
+                        ],
+                        "confidence": "Low",
+                        "text": "uve"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    50,
+                    807,
+                    116,
+                    808,
+                    115,
+                    818,
+                    49,
+                    817
+                ],
+                "text": "al Glera di coling",
+                "words": [
+                    {
+                        "boundingBox": [
+                            50,
+                            808,
+                            57,
+                            808,
+                            58,
+                            817,
+                            51,
+                            817
+                        ],
+                        "confidence": "Low",
+                        "text": "al"
+                    },
+                    {
+                        "boundingBox": [
+                            59,
+                            808,
+                            80,
+                            808,
+                            80,
+                            817,
+                            59,
+                            817
+                        ],
+                        "confidence": "Low",
+                        "text": "Glera"
+                    },
+                    {
+                        "boundingBox": [
+                            82,
+                            808,
+                            89,
+                            808,
+                            89,
+                            817,
+                            82,
+                            817
+                        ],
+                        "confidence": "Low",
+                        "text": "di"
+                    },
+                    {
+                        "boundingBox": [
+                            91,
+                            808,
+                            115,
+                            809,
+                            114,
+                            818,
+                            91,
+                            817
+                        ],
+                        "confidence": "Low",
+                        "text": "coling"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    46,
+                    816,
+                    119,
+                    817,
+                    118,
+                    826,
+                    45,
+                    825
+                ],
+                "text": "opposte sul graticel",
+                "words": [
+                    {
+                        "boundingBox": [
+                            46,
+                            817,
+                            77,
+                            817,
+                            77,
+                            826,
+                            46,
+                            825
+                        ],
+                        "confidence": "Low",
+                        "text": "opposte"
+                    },
+                    {
+                        "boundingBox": [
+                            79,
+                            817,
+                            90,
+                            817,
+                            89,
+                            826,
+                            79,
+                            826
+                        ],
+                        "text": "sul"
+                    },
+                    {
+                        "boundingBox": [
+                            91,
+                            817,
+                            119,
+                            817,
+                            119,
+                            826,
+                            91,
+                            826
+                        ],
+                        "confidence": "Low",
+                        "text": "graticel"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    42,
+                    826,
+                    122,
+                    825,
+                    123,
+                    834,
+                    43,
+                    834
+                ],
+                "text": "vinificate a gonnalo",
+                "words": [
+                    {
+                        "boundingBox": [
+                            48,
+                            826,
+                            83,
+                            826,
+                            83,
+                            834,
+                            48,
+                            834
+                        ],
+                        "text": "vinificate"
+                    },
+                    {
+                        "boundingBox": [
+                            85,
+                            826,
+                            90,
+                            826,
+                            90,
+                            834,
+                            85,
+                            834
+                        ],
+                        "text": "a"
+                    },
+                    {
+                        "boundingBox": [
+                            92,
+                            826,
+                            122,
+                            826,
+                            122,
+                            834,
+                            92,
+                            834
+                        ],
+                        "text": "gonnalo"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

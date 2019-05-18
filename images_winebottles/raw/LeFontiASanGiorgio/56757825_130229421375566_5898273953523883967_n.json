@@ -1,0 +1,512 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    0,
+                    27,
+                    59,
+                    28,
+                    58,
+                    43,
+                    0,
+                    42
+                ],
+                "text": "DERE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            3,
+                            28,
+                            55,
+                            28,
+                            55,
+                            43,
+                            3,
+                            43
+                        ],
+                        "text": "DERE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    354,
+                    28,
+                    441,
+                    29,
+                    440,
+                    44,
+                    353,
+                    43
+                ],
+                "text": "LE FONTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            356,
+                            30,
+                            376,
+                            30,
+                            376,
+                            44,
+                            356,
+                            43
+                        ],
+                        "text": "LE"
+                    },
+                    {
+                        "boundingBox": [
+                            384,
+                            30,
+                            440,
+                            29,
+                            440,
+                            44,
+                            385,
+                            44
+                        ],
+                        "text": "FONTI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    4,
+                    44,
+                    62,
+                    44,
+                    61,
+                    59,
+                    3,
+                    58
+                ],
+                "text": "PACE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            6,
+                            44,
+                            57,
+                            45,
+                            57,
+                            58,
+                            6,
+                            58
+                        ],
+                        "text": "PACE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    323,
+                    46,
+                    469,
+                    44,
+                    470,
+                    59,
+                    324,
+                    61
+                ],
+                "text": "A SAN GIORGIO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            327,
+                            47,
+                            337,
+                            47,
+                            337,
+                            61,
+                            327,
+                            62
+                        ],
+                        "text": "A"
+                    },
+                    {
+                        "boundingBox": [
+                            346,
+                            47,
+                            382,
+                            47,
+                            382,
+                            60,
+                            346,
+                            61
+                        ],
+                        "text": "SAN"
+                    },
+                    {
+                        "boundingBox": [
+                            393,
+                            46,
+                            466,
+                            45,
+                            467,
+                            60,
+                            393,
+                            60
+                        ],
+                        "text": "GIORGIO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    717,
+                    36,
+                    767,
+                    36,
+                    767,
+                    52,
+                    717,
+                    52
+                ],
+                "text": "ARRIG",
+                "words": [
+                    {
+                        "boundingBox": [
+                            719,
+                            37,
+                            766,
+                            36,
+                            766,
+                            52,
+                            719,
+                            52
+                        ],
+                        "confidence": "Low",
+                        "text": "ARRIG"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    0,
+                    80,
+                    79,
+                    81,
+                    78,
+                    93,
+                    0,
+                    92
+                ],
+                "text": "ma Toscana",
+                "words": [
+                    {
+                        "boundingBox": [
+                            2,
+                            81,
+                            23,
+                            81,
+                            23,
+                            93,
+                            2,
+                            93
+                        ],
+                        "text": "ma"
+                    },
+                    {
+                        "boundingBox": [
+                            28,
+                            81,
+                            78,
+                            81,
+                            79,
+                            92,
+                            28,
+                            93
+                        ],
+                        "text": "Toscana"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    356,
+                    78,
+                    441,
+                    79,
+                    440,
+                    92,
+                    355,
+                    91
+                ],
+                "text": "Montespertoli",
+                "words": [
+                    {
+                        "boundingBox": [
+                            356,
+                            80,
+                            440,
+                            79,
+                            440,
+                            92,
+                            357,
+                            91
+                        ],
+                        "text": "Montespertoli"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    717,
+                    75,
+                    763,
+                    76,
+                    762,
+                    89,
+                    716,
+                    88
+                ],
+                "text": "Isola d'E",
+                "words": [
+                    {
+                        "boundingBox": [
+                            718,
+                            76,
+                            747,
+                            76,
+                            747,
+                            89,
+                            717,
+                            89
+                        ],
+                        "text": "Isola"
+                    },
+                    {
+                        "boundingBox": [
+                            750,
+                            76,
+                            762,
+                            76,
+                            762,
+                            89,
+                            750,
+                            89
+                        ],
+                        "confidence": "Low",
+                        "text": "d'E"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    52,
+                    477,
+                    79,
+                    479,
+                    78,
+                    489,
+                    52,
+                    487
+                ],
+                "text": "91",
+                "words": [
+                    {
+                        "boundingBox": [
+                            54,
+                            477,
+                            72,
+                            478,
+                            71,
+                            488,
+                            53,
+                            487
+                        ],
+                        "confidence": "Low",
+                        "text": "91"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    165,
+                    487,
+                    208,
+                    481,
+                    210,
+                    492,
+                    167,
+                    497
+                ],
+                "text": "CHANT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            172,
+                            487,
+                            208,
+                            483,
+                            208,
+                            492,
+                            172,
+                            497
+                        ],
+                        "confidence": "Low",
+                        "text": "CHANT"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    506,
+                    476,
+                    544,
+                    476,
+                    545,
+                    493,
+                    506,
+                    493
+                ],
+                "text": "Janesie",
+                "words": [
+                    {
+                        "boundingBox": [
+                            511,
+                            476,
+                            544,
+                            476,
+                            544,
+                            493,
+                            511,
+                            493
+                        ],
+                        "confidence": "Low",
+                        "text": "Janesie"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    682,
+                    543,
+                    767,
+                    573,
+                    763,
+                    584,
+                    678,
+                    555
+                ],
+                "text": "LE FONTIA SAN GIORGIO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            682,
+                            544,
+                            689,
+                            546,
+                            687,
+                            558,
+                            679,
+                            555
+                        ],
+                        "text": "LE"
+                    },
+                    {
+                        "boundingBox": [
+                            692,
+                            547,
+                            717,
+                            556,
+                            715,
+                            568,
+                            689,
+                            559
+                        ],
+                        "confidence": "Low",
+                        "text": "FONTIA"
+                    },
+                    {
+                        "boundingBox": [
+                            720,
+                            557,
+                            734,
+                            562,
+                            732,
+                            574,
+                            717,
+                            569
+                        ],
+                        "text": "SAN"
+                    },
+                    {
+                        "boundingBox": [
+                            737,
+                            563,
+                            766,
+                            573,
+                            764,
+                            584,
+                            734,
+                            575
+                        ],
+                        "confidence": "Low",
+                        "text": "GIORGIO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    50,
+                    584,
+                    111,
+                    569,
+                    115,
+                    585,
+                    54,
+                    601
+                ],
+                "text": "FossIni",
+                "words": [
+                    {
+                        "boundingBox": [
+                            59,
+                            583,
+                            107,
+                            570,
+                            111,
+                            587,
+                            62,
+                            599
+                        ],
+                        "confidence": "Low",
+                        "text": "FossIni"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    164,
+                    664,
+                    207,
+                    659,
+                    209,
+                    669,
+                    166,
+                    674
+                ],
+                "text": "CHIANTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            166,
+                            665,
+                            208,
+                            660,
+                            208,
+                            669,
+                            167,
+                            674
+                        ],
+                        "confidence": "Low",
+                        "text": "CHIANTI"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

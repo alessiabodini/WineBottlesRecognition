@@ -1,0 +1,122 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    532,
+                    187,
+                    549,
+                    187,
+                    549,
+                    203,
+                    533,
+                    203
+                ],
+                "text": "ER",
+                "words": [
+                    {
+                        "boundingBox": [
+                            534,
+                            187,
+                            548,
+                            187,
+                            548,
+                            203,
+                            534,
+                            203
+                        ],
+                        "confidence": "Low",
+                        "text": "ER"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    351,
+                    249,
+                    366,
+                    250,
+                    366,
+                    265,
+                    350,
+                    264
+                ],
+                "text": "18",
+                "words": [
+                    {
+                        "boundingBox": [
+                            349,
+                            248,
+                            365,
+                            249,
+                            364,
+                            264,
+                            349,
+                            263
+                        ],
+                        "confidence": "Low",
+                        "text": "18"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    325,
+                    279,
+                    368,
+                    279,
+                    367,
+                    289,
+                    324,
+                    288
+                ],
+                "text": "CHIANTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            327,
+                            279,
+                            367,
+                            280,
+                            367,
+                            289,
+                            326,
+                            288
+                        ],
+                        "text": "CHIANTI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    339,
+                    292,
+                    354,
+                    292,
+                    353,
+                    299,
+                    339,
+                    299
+                ],
+                "text": "Pete",
+                "words": [
+                    {
+                        "boundingBox": [
+                            340,
+                            292,
+                            353,
+                            292,
+                            353,
+                            299,
+                            340,
+                            299
+                        ],
+                        "confidence": "Low",
+                        "text": "Pete"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

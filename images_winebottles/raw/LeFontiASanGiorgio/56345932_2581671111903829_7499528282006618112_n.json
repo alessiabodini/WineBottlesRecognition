@@ -1,0 +1,454 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    866,
+                    0,
+                    960,
+                    47,
+                    945,
+                    73,
+                    851,
+                    20
+                ],
+                "text": "CHIAN",
+                "words": [
+                    {
+                        "boundingBox": [
+                            868,
+                            0,
+                            958,
+                            49,
+                            944,
+                            73,
+                            853,
+                            18
+                        ],
+                        "text": "CHIAN"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    194,
+                    20,
+                    402,
+                    118,
+                    368,
+                    189,
+                    161,
+                    91
+                ],
+                "text": "FOSSILI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            208,
+                            34,
+                            399,
+                            117,
+                            368,
+                            191,
+                            179,
+                            97
+                        ],
+                        "text": "FOSSILI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    612,
+                    197,
+                    737,
+                    289,
+                    713,
+                    322,
+                    588,
+                    230
+                ],
+                "text": "Le Fonti",
+                "words": [
+                    {
+                        "boundingBox": [
+                            614,
+                            201,
+                            651,
+                            228,
+                            628,
+                            260,
+                            592,
+                            231
+                        ],
+                        "text": "Le"
+                    },
+                    {
+                        "boundingBox": [
+                            657,
+                            233,
+                            735,
+                            288,
+                            712,
+                            321,
+                            634,
+                            265
+                        ],
+                        "text": "Fonti"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    594,
+                    223,
+                    784,
+                    344,
+                    761,
+                    380,
+                    571,
+                    259
+                ],
+                "text": "a San Giorgio",
+                "words": [
+                    {
+                        "boundingBox": [
+                            597,
+                            230,
+                            612,
+                            239,
+                            592,
+                            268,
+                            578,
+                            257
+                        ],
+                        "text": "a"
+                    },
+                    {
+                        "boundingBox": [
+                            617,
+                            243,
+                            670,
+                            277,
+                            650,
+                            310,
+                            598,
+                            272
+                        ],
+                        "text": "San"
+                    },
+                    {
+                        "boundingBox": [
+                            681,
+                            284,
+                            784,
+                            344,
+                            762,
+                            379,
+                            661,
+                            317
+                        ],
+                        "confidence": "Low",
+                        "text": "Giorgio"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    150,
+                    207,
+                    262,
+                    263,
+                    252,
+                    283,
+                    140,
+                    226
+                ],
+                "text": "CHIANTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            152,
+                            210,
+                            261,
+                            266,
+                            252,
+                            284,
+                            143,
+                            228
+                        ],
+                        "confidence": "Low",
+                        "text": "CHIANTI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    140,
+                    226,
+                    340,
+                    301,
+                    329,
+                    329,
+                    129,
+                    254
+                ],
+                "text": "MONTESPERTOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            145,
+                            229,
+                            338,
+                            303,
+                            334,
+                            320,
+                            135,
+                            248
+                        ],
+                        "text": "MONTESPERTOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    133,
+                    253,
+                    252,
+                    309,
+                    246,
+                    323,
+                    127,
+                    267
+                ],
+                "text": "DENOMINAZIONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            135,
+                            255,
+                            252,
+                            311,
+                            247,
+                            321,
+                            129,
+                            267
+                        ],
+                        "text": "DENOMINAZIONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    157,
+                    280,
+                    234,
+                    314,
+                    228,
+                    327,
+                    152,
+                    294
+                ],
+                "text": "ORIGIN",
+                "words": [
+                    {
+                        "boundingBox": [
+                            171,
+                            287,
+                            233,
+                            316,
+                            228,
+                            327,
+                            163,
+                            299
+                        ],
+                        "text": "ORIGIN"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    126,
+                    272,
+                    223,
+                    323,
+                    216,
+                    336,
+                    118,
+                    285
+                ],
+                "text": "CONTROLLATA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            129,
+                            273,
+                            222,
+                            323,
+                            216,
+                            335,
+                            122,
+                            287
+                        ],
+                        "text": "CONTROLLATA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    113,
+                    299,
+                    231,
+                    354,
+                    223,
+                    372,
+                    104,
+                    317
+                ],
+                "text": "RISERVA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            117,
+                            302,
+                            227,
+                            354,
+                            221,
+                            368,
+                            109,
+                            317
+                        ],
+                        "confidence": "Low",
+                        "text": "RISERVA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    68,
+                    346,
+                    165,
+                    407,
+                    152,
+                    427,
+                    55,
+                    366
+                ],
+                "text": "Lo Fopil",
+                "words": [
+                    {
+                        "boundingBox": [
+                            73,
+                            349,
+                            99,
+                            367,
+                            87,
+                            387,
+                            59,
+                            369
+                        ],
+                        "confidence": "Low",
+                        "text": "Lo"
+                    },
+                    {
+                        "boundingBox": [
+                            104,
+                            369,
+                            165,
+                            407,
+                            153,
+                            427,
+                            91,
+                            389
+                        ],
+                        "confidence": "Low",
+                        "text": "Fopil"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    62,
+                    363,
+                    223,
+                    433,
+                    210,
+                    462,
+                    49,
+                    392
+                ],
+                "text": "a San Giorgio",
+                "words": [
+                    {
+                        "boundingBox": [
+                            66,
+                            364,
+                            78,
+                            373,
+                            67,
+                            392,
+                            55,
+                            384
+                        ],
+                        "text": "a"
+                    },
+                    {
+                        "boundingBox": [
+                            81,
+                            375,
+                            118,
+                            399,
+                            108,
+                            417,
+                            71,
+                            395
+                        ],
+                        "text": "San"
+                    },
+                    {
+                        "boundingBox": [
+                            131,
+                            405,
+                            220,
+                            433,
+                            212,
+                            451,
+                            121,
+                            424
+                        ],
+                        "text": "Giorgio"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    402,
+                    561,
+                    527,
+                    636,
+                    511,
+                    663,
+                    386,
+                    588
+                ],
+                "text": "CHIANTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            407,
+                            565,
+                            524,
+                            635,
+                            512,
+                            660,
+                            391,
+                            587
+                        ],
+                        "text": "CHIANTI"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,63 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    53,
+                    479,
+                    97,
+                    478,
+                    97,
+                    493,
+                    53,
+                    494
+                ],
+                "text": "PRA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            55,
+                            478,
+                            94,
+                            478,
+                            94,
+                            493,
+                            55,
+                            493
+                        ],
+                        "text": "PRA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    44,
+                    530,
+                    104,
+                    527,
+                    105,
+                    543,
+                    45,
+                    546
+                ],
+                "text": "OTTO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            46,
+                            530,
+                            100,
+                            529,
+                            101,
+                            544,
+                            46,
+                            546
+                        ],
+                        "text": "OTTO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -2,7 +2,6 @@ import json
 import os
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn import metrics
 from util import importDataset
 from util import extractFileName
 

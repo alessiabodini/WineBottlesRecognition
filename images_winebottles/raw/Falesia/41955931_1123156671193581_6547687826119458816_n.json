@@ -1,0 +1,106 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    592,
+                    253,
+                    874,
+                    292,
+                    868,
+                    336,
+                    586,
+                    297
+                ],
+                "text": "FALESIA Puglia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            600,
+                            258,
+                            802,
+                            290,
+                            797,
+                            325,
+                            594,
+                            286
+                        ],
+                        "text": "FALESIA"
+                    },
+                    {
+                        "boundingBox": [
+                            817,
+                            291,
+                            874,
+                            292,
+                            870,
+                            327,
+                            813,
+                            326
+                        ],
+                        "confidence": "Low",
+                        "text": "Puglia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    534,
+                    402,
+                    684,
+                    469,
+                    668,
+                    506,
+                    518,
+                    439
+                ],
+                "text": "CANTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            537,
+                            411,
+                            618,
+                            451,
+                            610,
+                            481,
+                            525,
+                            433
+                        ],
+                        "confidence": "Low",
+                        "text": "CANTINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    684,
+                    470,
+                    780,
+                    465,
+                    782,
+                    491,
+                    686,
+                    496
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            685,
+                            471,
+                            779,
+                            466,
+                            779,
+                            493,
+                            686,
+                            495
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

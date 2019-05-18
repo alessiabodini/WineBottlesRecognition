@@ -1,0 +1,220 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    228,
+                    491,
+                    316,
+                    490,
+                    316,
+                    512,
+                    229,
+                    514
+                ],
+                "text": "CORTE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            230,
+                            492,
+                            308,
+                            490,
+                            309,
+                            512,
+                            231,
+                            513
+                        ],
+                        "confidence": "Low",
+                        "text": "CORTE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    318,
+                    488,
+                    405,
+                    489,
+                    404,
+                    514,
+                    317,
+                    513
+                ],
+                "text": "AJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            340,
+                            489,
+                            404,
+                            491,
+                            404,
+                            514,
+                            339,
+                            514
+                        ],
+                        "confidence": "Low",
+                        "text": "AJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    193,
+                    1257,
+                    237,
+                    1248,
+                    251,
+                    1297,
+                    206,
+                    1307
+                ],
+                "text": "S",
+                "words": [
+                    {
+                        "boundingBox": [
+                            198,
+                            1254,
+                            232,
+                            1247,
+                            243,
+                            1298,
+                            209,
+                            1305
+                        ],
+                        "confidence": "Low",
+                        "text": "S"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    163,
+                    1427,
+                    471,
+                    1426,
+                    471,
+                    1459,
+                    164,
+                    1460
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            168,
+                            1428,
+                            301,
+                            1427,
+                            300,
+                            1460,
+                            168,
+                            1458
+                        ],
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            313,
+                            1427,
+                            470,
+                            1427,
+                            469,
+                            1460,
+                            312,
+                            1460
+                        ],
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    120,
+                    1581,
+                    516,
+                    1581,
+                    515,
+                    1634,
+                    119,
+                    1633
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            126,
+                            1581,
+                            516,
+                            1582,
+                            514,
+                            1634,
+                            128,
+                            1633
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    107,
+                    1651,
+                    528,
+                    1650,
+                    528,
+                    1677,
+                    108,
+                    1678
+                ],
+                "text": "DENOMINAZIONE DLORIGINE CONTROLLATA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            110,
+                            1651,
+                            269,
+                            1653,
+                            269,
+                            1678,
+                            110,
+                            1677
+                        ],
+                        "text": "DENOMINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            274,
+                            1653,
+                            387,
+                            1653,
+                            387,
+                            1678,
+                            274,
+                            1678
+                        ],
+                        "confidence": "Low",
+                        "text": "DLORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            392,
+                            1653,
+                            528,
+                            1652,
+                            527,
+                            1676,
+                            392,
+                            1678
+                        ],
+                        "confidence": "Low",
+                        "text": "CONTROLLATA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

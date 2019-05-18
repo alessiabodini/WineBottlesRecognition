@@ -1,0 +1,160 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    98,
+                    491,
+                    396,
+                    457,
+                    404,
+                    531,
+                    107,
+                    565
+                ],
+                "text": "Marchese Antonio",
+                "words": [
+                    {
+                        "boundingBox": [
+                            144,
+                            491,
+                            311,
+                            476,
+                            319,
+                            541,
+                            145,
+                            556
+                        ],
+                        "confidence": "Low",
+                        "text": "Marchese"
+                    },
+                    {
+                        "boundingBox": [
+                            324,
+                            473,
+                            394,
+                            458,
+                            404,
+                            525,
+                            332,
+                            539
+                        ],
+                        "confidence": "Low",
+                        "text": "Antonio"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    197,
+                    554,
+                    359,
+                    531,
+                    361,
+                    552,
+                    199,
+                    574
+                ],
+                "text": "TENUTA MONTENISA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            199,
+                            554,
+                            264,
+                            550,
+                            266,
+                            565,
+                            200,
+                            568
+                        ],
+                        "text": "TENUTA"
+                    },
+                    {
+                        "boundingBox": [
+                            272,
+                            549,
+                            358,
+                            532,
+                            361,
+                            546,
+                            274,
+                            564
+                        ],
+                        "text": "MONTENISA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    440,
+                    517,
+                    545,
+                    506,
+                    547,
+                    523,
+                    442,
+                    534
+                ],
+                "text": "ANTINOR",
+                "words": [
+                    {
+                        "boundingBox": [
+                            442,
+                            517,
+                            544,
+                            507,
+                            545,
+                            524,
+                            443,
+                            533
+                        ],
+                        "text": "ANTINOR"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    198,
+                    596,
+                    360,
+                    570,
+                    364,
+                    595,
+                    202,
+                    620
+                ],
+                "text": "CUVEE ROYALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            201,
+                            597,
+                            276,
+                            587,
+                            281,
+                            608,
+                            204,
+                            618
+                        ],
+                        "text": "CUVEE"
+                    },
+                    {
+                        "boundingBox": [
+                            283,
+                            586,
+                            358,
+                            571,
+                            363,
+                            593,
+                            288,
+                            607
+                        ],
+                        "text": "ROYALE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

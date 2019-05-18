@@ -1,0 +1,4870 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    422,
+                    115,
+                    817,
+                    81,
+                    822,
+                    141,
+                    427,
+                    175
+                ],
+                "text": "DUCA DI SALAPARUTA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            429,
+                            116,
+                            541,
+                            115,
+                            542,
+                            163,
+                            428,
+                            158
+                        ],
+                        "text": "DUCA"
+                    },
+                    {
+                        "boundingBox": [
+                            551,
+                            115,
+                            598,
+                            112,
+                            600,
+                            161,
+                            553,
+                            163
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            606,
+                            111,
+                            812,
+                            82,
+                            819,
+                            125,
+                            608,
+                            160
+                        ],
+                        "confidence": "Low",
+                        "text": "SALAPARUTA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    852,
+                    111,
+                    896,
+                    93,
+                    902,
+                    107,
+                    858,
+                    126
+                ],
+                "text": "nia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            851,
+                            110,
+                            887,
+                            95,
+                            893,
+                            109,
+                            857,
+                            125
+                        ],
+                        "confidence": "Low",
+                        "text": "nia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    55,
+                    176,
+                    137,
+                    181,
+                    135,
+                    199,
+                    53,
+                    194
+                ],
+                "text": "Sicily",
+                "words": [
+                    {
+                        "boundingBox": [
+                            59,
+                            176,
+                            135,
+                            182,
+                            133,
+                            200,
+                            57,
+                            194
+                        ],
+                        "text": "Sicily"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    580,
+                    167,
+                    687,
+                    158,
+                    690,
+                    188,
+                    583,
+                    197
+                ],
+                "text": "DAL 1824",
+                "words": [
+                    {
+                        "boundingBox": [
+                            583,
+                            168,
+                            629,
+                            164,
+                            629,
+                            194,
+                            585,
+                            197
+                        ],
+                        "text": "DAL"
+                    },
+                    {
+                        "boundingBox": [
+                            634,
+                            164,
+                            687,
+                            159,
+                            687,
+                            190,
+                            635,
+                            193
+                        ],
+                        "text": "1824"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    402,
+                    245,
+                    824,
+                    206,
+                    831,
+                    278,
+                    409,
+                    318
+                ],
+                "text": "PASSO DELLE MULE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            414,
+                            246,
+                            534,
+                            257,
+                            536,
+                            302,
+                            411,
+                            286
+                        ],
+                        "text": "PASSO"
+                    },
+                    {
+                        "boundingBox": [
+                            558,
+                            256,
+                            708,
+                            238,
+                            717,
+                            283,
+                            560,
+                            302
+                        ],
+                        "text": "DELLE"
+                    },
+                    {
+                        "boundingBox": [
+                            718,
+                            236,
+                            816,
+                            207,
+                            829,
+                            247,
+                            727,
+                            280
+                        ],
+                        "text": "MULE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    554,
+                    307,
+                    706,
+                    291,
+                    709,
+                    319,
+                    557,
+                    335
+                ],
+                "text": "NERO D'AVOLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            556,
+                            309,
+                            615,
+                            304,
+                            617,
+                            330,
+                            558,
+                            334
+                        ],
+                        "text": "NERO"
+                    },
+                    {
+                        "boundingBox": [
+                            620,
+                            303,
+                            705,
+                            291,
+                            707,
+                            320,
+                            622,
+                            329
+                        ],
+                        "text": "D'AVOLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    920,
+                    385,
+                    1063,
+                    304,
+                    1073,
+                    321,
+                    930,
+                    403
+                ],
+                "text": "whole of the island, as ta",
+                "words": [
+                    {
+                        "boundingBox": [
+                            926,
+                            391,
+                            958,
+                            367,
+                            964,
+                            379,
+                            932,
+                            402
+                        ],
+                        "confidence": "Low",
+                        "text": "whole"
+                    },
+                    {
+                        "boundingBox": [
+                            960,
+                            366,
+                            972,
+                            358,
+                            978,
+                            369,
+                            967,
+                            377
+                        ],
+                        "confidence": "Low",
+                        "text": "of"
+                    },
+                    {
+                        "boundingBox": [
+                            974,
+                            356,
+                            993,
+                            345,
+                            999,
+                            356,
+                            980,
+                            368
+                        ],
+                        "text": "the"
+                    },
+                    {
+                        "boundingBox": [
+                            996,
+                            343,
+                            1037,
+                            322,
+                            1042,
+                            335,
+                            1002,
+                            355
+                        ],
+                        "confidence": "Low",
+                        "text": "island,"
+                    },
+                    {
+                        "boundingBox": [
+                            1039,
+                            321,
+                            1053,
+                            316,
+                            1058,
+                            329,
+                            1044,
+                            334
+                        ],
+                        "text": "as"
+                    },
+                    {
+                        "boundingBox": [
+                            1055,
+                            315,
+                            1066,
+                            310,
+                            1072,
+                            323,
+                            1060,
+                            328
+                        ],
+                        "confidence": "Low",
+                        "text": "ta"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    917,
+                    380,
+                    1010,
+                    323,
+                    1018,
+                    335,
+                    924,
+                    393
+                ],
+                "text": "has generaly b",
+                "words": [
+                    {
+                        "boundingBox": [
+                            919,
+                            381,
+                            937,
+                            370,
+                            943,
+                            380,
+                            926,
+                            392
+                        ],
+                        "confidence": "Low",
+                        "text": "has"
+                    },
+                    {
+                        "boundingBox": [
+                            939,
+                            368,
+                            1000,
+                            331,
+                            1006,
+                            342,
+                            945,
+                            379
+                        ],
+                        "confidence": "Low",
+                        "text": "generaly"
+                    },
+                    {
+                        "boundingBox": [
+                            1002,
+                            330,
+                            1010,
+                            326,
+                            1015,
+                            337,
+                            1008,
+                            341
+                        ],
+                        "confidence": "Low",
+                        "text": "b"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    927,
+                    396,
+                    1068,
+                    313,
+                    1076,
+                    328,
+                    936,
+                    411
+                ],
+                "text": "Hardogni which may in",
+                "words": [
+                    {
+                        "boundingBox": [
+                            931,
+                            400,
+                            981,
+                            366,
+                            987,
+                            378,
+                            937,
+                            411
+                        ],
+                        "confidence": "Low",
+                        "text": "Hardogni"
+                    },
+                    {
+                        "boundingBox": [
+                            989,
+                            361,
+                            1024,
+                            340,
+                            1030,
+                            353,
+                            995,
+                            373
+                        ],
+                        "text": "which"
+                    },
+                    {
+                        "boundingBox": [
+                            1030,
+                            338,
+                            1057,
+                            324,
+                            1062,
+                            336,
+                            1035,
+                            350
+                        ],
+                        "text": "may"
+                    },
+                    {
+                        "boundingBox": [
+                            1060,
+                            322,
+                            1070,
+                            317,
+                            1075,
+                            330,
+                            1065,
+                            335
+                        ],
+                        "confidence": "Low",
+                        "text": "in"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    932,
+                    408,
+                    1063,
+                    328,
+                    1072,
+                    343,
+                    942,
+                    423
+                ],
+                "text": "high us 1 10 h ha and",
+                "words": [
+                    {
+                        "boundingBox": [
+                            937,
+                            411,
+                            960,
+                            394,
+                            967,
+                            405,
+                            944,
+                            422
+                        ],
+                        "confidence": "Low",
+                        "text": "high"
+                    },
+                    {
+                        "boundingBox": [
+                            964,
+                            392,
+                            977,
+                            382,
+                            984,
+                            394,
+                            971,
+                            403
+                        ],
+                        "confidence": "Low",
+                        "text": "us"
+                    },
+                    {
+                        "boundingBox": [
+                            980,
+                            380,
+                            986,
+                            377,
+                            992,
+                            389,
+                            987,
+                            392
+                        ],
+                        "text": "1"
+                    },
+                    {
+                        "boundingBox": [
+                            988,
+                            375,
+                            999,
+                            368,
+                            1006,
+                            380,
+                            994,
+                            387
+                        ],
+                        "confidence": "Low",
+                        "text": "10"
+                    },
+                    {
+                        "boundingBox": [
+                            1002,
+                            366,
+                            1010,
+                            362,
+                            1016,
+                            374,
+                            1009,
+                            378
+                        ],
+                        "confidence": "Low",
+                        "text": "h"
+                    },
+                    {
+                        "boundingBox": [
+                            1019,
+                            356,
+                            1035,
+                            348,
+                            1041,
+                            360,
+                            1025,
+                            368
+                        ],
+                        "confidence": "Low",
+                        "text": "ha"
+                    },
+                    {
+                        "boundingBox": [
+                            1038,
+                            346,
+                            1063,
+                            334,
+                            1069,
+                            345,
+                            1044,
+                            358
+                        ],
+                        "text": "and"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    945,
+                    410,
+                    1067,
+                    341,
+                    1076,
+                    355,
+                    954,
+                    425
+                ],
+                "text": "\". The light, lemon",
+                "words": [
+                    {
+                        "boundingBox": [
+                            949,
+                            413,
+                            965,
+                            402,
+                            971,
+                            414,
+                            956,
+                            424
+                        ],
+                        "confidence": "Low",
+                        "text": "\"."
+                    },
+                    {
+                        "boundingBox": [
+                            967,
+                            401,
+                            988,
+                            387,
+                            994,
+                            400,
+                            974,
+                            412
+                        ],
+                        "text": "The"
+                    },
+                    {
+                        "boundingBox": [
+                            993,
+                            385,
+                            1027,
+                            366,
+                            1032,
+                            378,
+                            999,
+                            397
+                        ],
+                        "confidence": "Low",
+                        "text": "light,"
+                    },
+                    {
+                        "boundingBox": [
+                            1029,
+                            365,
+                            1069,
+                            346,
+                            1073,
+                            357,
+                            1034,
+                            377
+                        ],
+                        "text": "lemon"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    267,
+                    437,
+                    332,
+                    441,
+                    331,
+                    453,
+                    266,
+                    450
+                ],
+                "text": "Marsala.",
+                "words": [
+                    {
+                        "boundingBox": [
+                            276,
+                            439,
+                            332,
+                            442,
+                            330,
+                            453,
+                            274,
+                            451
+                        ],
+                        "confidence": "Low",
+                        "text": "Marsala."
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    945,
+                    427,
+                    1064,
+                    355,
+                    1074,
+                    370,
+                    955,
+                    443
+                ],
+                "text": "most characteristic",
+                "words": [
+                    {
+                        "boundingBox": [
+                            950,
+                            430,
+                            980,
+                            408,
+                            987,
+                            420,
+                            956,
+                            442
+                        ],
+                        "confidence": "Low",
+                        "text": "most"
+                    },
+                    {
+                        "boundingBox": [
+                            982,
+                            406,
+                            1066,
+                            360,
+                            1072,
+                            371,
+                            989,
+                            419
+                        ],
+                        "confidence": "Low",
+                        "text": "characteristic"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    233,
+                    449,
+                    344,
+                    452,
+                    343,
+                    465,
+                    232,
+                    462
+                ],
+                "text": "European wine",
+                "words": [
+                    {
+                        "boundingBox": [
+                            237,
+                            451,
+                            298,
+                            452,
+                            296,
+                            464,
+                            235,
+                            461
+                        ],
+                        "confidence": "Low",
+                        "text": "European"
+                    },
+                    {
+                        "boundingBox": [
+                            307,
+                            452,
+                            338,
+                            453,
+                            336,
+                            465,
+                            305,
+                            464
+                        ],
+                        "text": "wine"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    532,
+                    441,
+                    718,
+                    419,
+                    722,
+                    453,
+                    535,
+                    474
+                ],
+                "text": "SuorMarchesa",
+                "words": [
+                    {
+                        "boundingBox": [
+                            549,
+                            441,
+                            717,
+                            420,
+                            721,
+                            445,
+                            552,
+                            467
+                        ],
+                        "confidence": "Low",
+                        "text": "SuorMarchesa"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    951,
+                    438,
+                    1072,
+                    366,
+                    1080,
+                    380,
+                    960,
+                    452
+                ],
+                "text": "found on the Ligur",
+                "words": [
+                    {
+                        "boundingBox": [
+                            956,
+                            439,
+                            992,
+                            415,
+                            997,
+                            427,
+                            962,
+                            451
+                        ],
+                        "confidence": "Low",
+                        "text": "found"
+                    },
+                    {
+                        "boundingBox": [
+                            995,
+                            413,
+                            1010,
+                            403,
+                            1016,
+                            415,
+                            1000,
+                            425
+                        ],
+                        "text": "on"
+                    },
+                    {
+                        "boundingBox": [
+                            1016,
+                            400,
+                            1037,
+                            388,
+                            1042,
+                            400,
+                            1021,
+                            412
+                        ],
+                        "text": "the"
+                    },
+                    {
+                        "boundingBox": [
+                            1043,
+                            385,
+                            1074,
+                            370,
+                            1078,
+                            382,
+                            1048,
+                            397
+                        ],
+                        "text": "Ligur"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    81,
+                    473,
+                    192,
+                    474,
+                    191,
+                    488,
+                    80,
+                    487
+                ],
+                "text": "ssion of mulbers",
+                "words": [
+                    {
+                        "boundingBox": [
+                            82,
+                            474,
+                            114,
+                            474,
+                            112,
+                            487,
+                            81,
+                            487
+                        ],
+                        "confidence": "Low",
+                        "text": "ssion"
+                    },
+                    {
+                        "boundingBox": [
+                            119,
+                            474,
+                            136,
+                            474,
+                            135,
+                            487,
+                            118,
+                            487
+                        ],
+                        "text": "of"
+                    },
+                    {
+                        "boundingBox": [
+                            139,
+                            474,
+                            192,
+                            475,
+                            190,
+                            488,
+                            137,
+                            487
+                        ],
+                        "confidence": "Low",
+                        "text": "mulbers"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    227,
+                    461,
+                    353,
+                    462,
+                    352,
+                    475,
+                    226,
+                    474
+                ],
+                "text": "went of the island.",
+                "words": [
+                    {
+                        "boundingBox": [
+                            233,
+                            462,
+                            266,
+                            462,
+                            264,
+                            474,
+                            231,
+                            473
+                        ],
+                        "confidence": "Low",
+                        "text": "went"
+                    },
+                    {
+                        "boundingBox": [
+                            268,
+                            462,
+                            283,
+                            462,
+                            281,
+                            475,
+                            266,
+                            474
+                        ],
+                        "text": "of"
+                    },
+                    {
+                        "boundingBox": [
+                            285,
+                            462,
+                            307,
+                            462,
+                            305,
+                            475,
+                            283,
+                            475
+                        ],
+                        "text": "the"
+                    },
+                    {
+                        "boundingBox": [
+                            312,
+                            462,
+                            353,
+                            463,
+                            351,
+                            475,
+                            310,
+                            475
+                        ],
+                        "confidence": "Low",
+                        "text": "island."
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    958,
+                    449,
+                    1075,
+                    378,
+                    1080,
+                    391,
+                    966,
+                    463
+                ],
+                "text": "over southern Fran",
+                "words": [
+                    {
+                        "boundingBox": [
+                            963,
+                            450,
+                            989,
+                            431,
+                            994,
+                            444,
+                            968,
+                            461
+                        ],
+                        "confidence": "Low",
+                        "text": "over"
+                    },
+                    {
+                        "boundingBox": [
+                            991,
+                            430,
+                            1045,
+                            397,
+                            1048,
+                            411,
+                            996,
+                            443
+                        ],
+                        "confidence": "Low",
+                        "text": "southern"
+                    },
+                    {
+                        "boundingBox": [
+                            1051,
+                            394,
+                            1077,
+                            381,
+                            1078,
+                            395,
+                            1053,
+                            408
+                        ],
+                        "text": "Fran"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    976,
+                    453,
+                    1072,
+                    395,
+                    1079,
+                    407,
+                    983,
+                    464
+                ],
+                "text": "Carignano de",
+                "words": [
+                    {
+                        "boundingBox": [
+                            987,
+                            448,
+                            1049,
+                            410,
+                            1055,
+                            422,
+                            992,
+                            459
+                        ],
+                        "text": "Carignano"
+                    },
+                    {
+                        "boundingBox": [
+                            1060,
+                            404,
+                            1073,
+                            397,
+                            1078,
+                            409,
+                            1065,
+                            416
+                        ],
+                        "text": "de"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    154,
+                    484,
+                    207,
+                    485,
+                    206,
+                    499,
+                    153,
+                    497
+                ],
+                "text": "ture 19",
+                "words": [
+                    {
+                        "boundingBox": [
+                            157,
+                            485,
+                            184,
+                            485,
+                            183,
+                            497,
+                            155,
+                            497
+                        ],
+                        "text": "ture"
+                    },
+                    {
+                        "boundingBox": [
+                            190,
+                            485,
+                            202,
+                            487,
+                            200,
+                            498,
+                            188,
+                            497
+                        ],
+                        "confidence": "Low",
+                        "text": "19"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    224,
+                    474,
+                    358,
+                    472,
+                    359,
+                    485,
+                    225,
+                    488
+                ],
+                "text": "of the planted v",
+                "words": [
+                    {
+                        "boundingBox": [
+                            228,
+                            476,
+                            246,
+                            475,
+                            244,
+                            487,
+                            226,
+                            488
+                        ],
+                        "confidence": "Low",
+                        "text": "of"
+                    },
+                    {
+                        "boundingBox": [
+                            249,
+                            475,
+                            270,
+                            474,
+                            268,
+                            487,
+                            247,
+                            487
+                        ],
+                        "confidence": "Low",
+                        "text": "the"
+                    },
+                    {
+                        "boundingBox": [
+                            299,
+                            474,
+                            351,
+                            475,
+                            349,
+                            486,
+                            297,
+                            487
+                        ],
+                        "confidence": "Low",
+                        "text": "planted"
+                    },
+                    {
+                        "boundingBox": [
+                            354,
+                            475,
+                            359,
+                            475,
+                            357,
+                            485,
+                            352,
+                            486
+                        ],
+                        "text": "v"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    58,
+                    496,
+                    208,
+                    497,
+                    207,
+                    510,
+                    57,
+                    509
+                ],
+                "text": "vas once fermented",
+                "words": [
+                    {
+                        "boundingBox": [
+                            60,
+                            497,
+                            83,
+                            497,
+                            82,
+                            509,
+                            59,
+                            508
+                        ],
+                        "confidence": "Low",
+                        "text": "vas"
+                    },
+                    {
+                        "boundingBox": [
+                            89,
+                            497,
+                            122,
+                            497,
+                            120,
+                            510,
+                            87,
+                            509
+                        ],
+                        "text": "once"
+                    },
+                    {
+                        "boundingBox": [
+                            128,
+                            497,
+                            199,
+                            498,
+                            198,
+                            510,
+                            127,
+                            510
+                        ],
+                        "text": "fermented"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    239,
+                    481,
+                    379,
+                    484,
+                    378,
+                    497,
+                    238,
+                    495
+                ],
+                "text": "the hymns winema",
+                "words": [
+                    {
+                        "boundingBox": [
+                            247,
+                            483,
+                            270,
+                            483,
+                            268,
+                            496,
+                            245,
+                            495
+                        ],
+                        "text": "the"
+                    },
+                    {
+                        "boundingBox": [
+                            276,
+                            483,
+                            315,
+                            484,
+                            313,
+                            497,
+                            274,
+                            496
+                        ],
+                        "confidence": "Low",
+                        "text": "hymns"
+                    },
+                    {
+                        "boundingBox": [
+                            321,
+                            485,
+                            374,
+                            486,
+                            372,
+                            497,
+                            319,
+                            497
+                        ],
+                        "confidence": "Low",
+                        "text": "winema"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    220,
+                    487,
+                    275,
+                    491,
+                    274,
+                    504,
+                    219,
+                    500
+                ],
+                "text": "island I",
+                "words": [
+                    {
+                        "boundingBox": [
+                            226,
+                            489,
+                            269,
+                            492,
+                            267,
+                            504,
+                            225,
+                            501
+                        ],
+                        "confidence": "Low",
+                        "text": "island"
+                    },
+                    {
+                        "boundingBox": [
+                            271,
+                            492,
+                            276,
+                            492,
+                            274,
+                            504,
+                            270,
+                            504
+                        ],
+                        "confidence": "Low",
+                        "text": "I"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    972,
+                    472,
+                    1062,
+                    415,
+                    1070,
+                    427,
+                    980,
+                    485
+                ],
+                "text": "more specific",
+                "words": [
+                    {
+                        "boundingBox": [
+                            976,
+                            473,
+                            1006,
+                            452,
+                            1012,
+                            462,
+                            982,
+                            484
+                        ],
+                        "text": "more"
+                    },
+                    {
+                        "boundingBox": [
+                            1016,
+                            446,
+                            1063,
+                            418,
+                            1070,
+                            428,
+                            1022,
+                            456
+                        ],
+                        "confidence": "Low",
+                        "text": "specific"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    4,
+                    505,
+                    199,
+                    509,
+                    198,
+                    522,
+                    3,
+                    518
+                ],
+                "text": "I off for blending but early",
+                "words": [
+                    {
+                        "boundingBox": [
+                            5,
+                            507,
+                            11,
+                            507,
+                            10,
+                            518,
+                            4,
+                            518
+                        ],
+                        "confidence": "Low",
+                        "text": "I"
+                    },
+                    {
+                        "boundingBox": [
+                            13,
+                            507,
+                            36,
+                            507,
+                            35,
+                            519,
+                            13,
+                            518
+                        ],
+                        "text": "off"
+                    },
+                    {
+                        "boundingBox": [
+                            39,
+                            507,
+                            60,
+                            508,
+                            59,
+                            519,
+                            38,
+                            519
+                        ],
+                        "text": "for"
+                    },
+                    {
+                        "boundingBox": [
+                            65,
+                            508,
+                            127,
+                            509,
+                            126,
+                            521,
+                            64,
+                            520
+                        ],
+                        "text": "blending"
+                    },
+                    {
+                        "boundingBox": [
+                            134,
+                            509,
+                            159,
+                            509,
+                            158,
+                            522,
+                            133,
+                            521
+                        ],
+                        "text": "but"
+                    },
+                    {
+                        "boundingBox": [
+                            163,
+                            509,
+                            196,
+                            510,
+                            195,
+                            522,
+                            162,
+                            522
+                        ],
+                        "confidence": "Low",
+                        "text": "early"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    328,
+                    493,
+                    382,
+                    497,
+                    381,
+                    509,
+                    327,
+                    505
+                ],
+                "text": "de con",
+                "words": [
+                    {
+                        "boundingBox": [
+                            333,
+                            494,
+                            345,
+                            495,
+                            343,
+                            506,
+                            331,
+                            505
+                        ],
+                        "text": "de"
+                    },
+                    {
+                        "boundingBox": [
+                            348,
+                            495,
+                            373,
+                            497,
+                            371,
+                            508,
+                            347,
+                            507
+                        ],
+                        "confidence": "Low",
+                        "text": "con"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    219,
+                    498,
+                    384,
+                    506,
+                    383,
+                    519,
+                    219,
+                    512
+                ],
+                "text": "things of this grape bi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            223,
+                            499,
+                            264,
+                            501,
+                            262,
+                            513,
+                            221,
+                            512
+                        ],
+                        "confidence": "Low",
+                        "text": "things"
+                    },
+                    {
+                        "boundingBox": [
+                            269,
+                            501,
+                            287,
+                            502,
+                            285,
+                            514,
+                            267,
+                            514
+                        ],
+                        "text": "of"
+                    },
+                    {
+                        "boundingBox": [
+                            291,
+                            502,
+                            319,
+                            504,
+                            317,
+                            516,
+                            289,
+                            515
+                        ],
+                        "text": "this"
+                    },
+                    {
+                        "boundingBox": [
+                            323,
+                            504,
+                            364,
+                            506,
+                            362,
+                            518,
+                            321,
+                            516
+                        ],
+                        "text": "grape"
+                    },
+                    {
+                        "boundingBox": [
+                            371,
+                            506,
+                            384,
+                            507,
+                            381,
+                            519,
+                            369,
+                            519
+                        ],
+                        "confidence": "Low",
+                        "text": "bi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    980,
+                    482,
+                    1073,
+                    423,
+                    1080,
+                    436,
+                    988,
+                    495
+                ],
+                "text": "senior Carignan",
+                "words": [
+                    {
+                        "boundingBox": [
+                            983,
+                            483,
+                            1021,
+                            457,
+                            1026,
+                            469,
+                            989,
+                            494
+                        ],
+                        "text": "senior"
+                    },
+                    {
+                        "boundingBox": [
+                            1023,
+                            456,
+                            1075,
+                            426,
+                            1078,
+                            439,
+                            1028,
+                            468
+                        ],
+                        "confidence": "Low",
+                        "text": "Carignan"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    217,
+                    511,
+                    383,
+                    516,
+                    382,
+                    529,
+                    216,
+                    524
+                ],
+                "text": "more likely made from",
+                "words": [
+                    {
+                        "boundingBox": [
+                            219,
+                            512,
+                            257,
+                            513,
+                            256,
+                            525,
+                            218,
+                            524
+                        ],
+                        "text": "more"
+                    },
+                    {
+                        "boundingBox": [
+                            262,
+                            513,
+                            301,
+                            514,
+                            300,
+                            527,
+                            260,
+                            525
+                        ],
+                        "text": "likely"
+                    },
+                    {
+                        "boundingBox": [
+                            305,
+                            514,
+                            344,
+                            516,
+                            342,
+                            528,
+                            303,
+                            527
+                        ],
+                        "confidence": "Low",
+                        "text": "made"
+                    },
+                    {
+                        "boundingBox": [
+                            348,
+                            516,
+                            376,
+                            517,
+                            374,
+                            529,
+                            346,
+                            528
+                        ],
+                        "text": "from"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    986,
+                    494,
+                    1073,
+                    438,
+                    1080,
+                    451,
+                    994,
+                    507
+                ],
+                "text": "the southwest",
+                "words": [
+                    {
+                        "boundingBox": [
+                            989,
+                            496,
+                            1008,
+                            482,
+                            1014,
+                            493,
+                            997,
+                            506
+                        ],
+                        "text": "the"
+                    },
+                    {
+                        "boundingBox": [
+                            1012,
+                            479,
+                            1075,
+                            441,
+                            1078,
+                            454,
+                            1018,
+                            491
+                        ],
+                        "text": "southwest"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    993,
+                    507,
+                    1071,
+                    454,
+                    1080,
+                    467,
+                    1002,
+                    520
+                ],
+                "text": "of 105 hi/h",
+                "words": [
+                    {
+                        "boundingBox": [
+                            997,
+                            507,
+                            1011,
+                            496,
+                            1018,
+                            508,
+                            1004,
+                            518
+                        ],
+                        "text": "of"
+                    },
+                    {
+                        "boundingBox": [
+                            1017,
+                            492,
+                            1038,
+                            478,
+                            1044,
+                            490,
+                            1024,
+                            504
+                        ],
+                        "text": "105"
+                    },
+                    {
+                        "boundingBox": [
+                            1044,
+                            474,
+                            1070,
+                            458,
+                            1075,
+                            471,
+                            1050,
+                            486
+                        ],
+                        "confidence": "Low",
+                        "text": "hi/h"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    1002,
+                    518,
+                    1076,
+                    466,
+                    1080,
+                    479,
+                    1011,
+                    531
+                ],
+                "text": "Bovale, bor",
+                "words": [
+                    {
+                        "boundingBox": [
+                            1005,
+                            519,
+                            1054,
+                            483,
+                            1057,
+                            498,
+                            1012,
+                            530
+                        ],
+                        "confidence": "Low",
+                        "text": "Bovale,"
+                    },
+                    {
+                        "boundingBox": [
+                            1056,
+                            482,
+                            1078,
+                            469,
+                            1078,
+                            486,
+                            1059,
+                            497
+                        ],
+                        "confidence": "Low",
+                        "text": "bor"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    776,
+                    540,
+                    833,
+                    532,
+                    835,
+                    545,
+                    778,
+                    553
+                ],
+                "text": "Milazzo!",
+                "words": [
+                    {
+                        "boundingBox": [
+                            783,
+                            540,
+                            829,
+                            534,
+                            830,
+                            547,
+                            783,
+                            552
+                        ],
+                        "confidence": "Low",
+                        "text": "Milazzo!"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    1009,
+                    532,
+                    1069,
+                    491,
+                    1077,
+                    503,
+                    1018,
+                    544
+                ],
+                "text": "(Sardinia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            1013,
+                            531,
+                            1068,
+                            494,
+                            1076,
+                            505,
+                            1019,
+                            543
+                        ],
+                        "confidence": "Low",
+                        "text": "(Sardinia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    1019,
+                    541,
+                    1075,
+                    503,
+                    1080,
+                    515,
+                    1027,
+                    553
+                ],
+                "text": "full-bodi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            1020,
+                            541,
+                            1077,
+                            505,
+                            1078,
+                            520,
+                            1027,
+                            553
+                        ],
+                        "confidence": "Low",
+                        "text": "full-bodi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    147,
+                    600,
+                    225,
+                    602,
+                    224,
+                    616,
+                    146,
+                    615
+                ],
+                "text": "Trapanion",
+                "words": [
+                    {
+                        "boundingBox": [
+                            149,
+                            601,
+                            225,
+                            602,
+                            225,
+                            615,
+                            149,
+                            615
+                        ],
+                        "confidence": "Low",
+                        "text": "Trapanion"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    184,
+                    609,
+                    395,
+                    588,
+                    396,
+                    603,
+                    186,
+                    625
+                ],
+                "text": "Erice del Golfs Partin SPORT'S",
+                "words": [
+                    {
+                        "boundingBox": [
+                            211,
+                            608,
+                            239,
+                            606,
+                            238,
+                            619,
+                            210,
+                            621
+                        ],
+                        "confidence": "Low",
+                        "text": "Erice"
+                    },
+                    {
+                        "boundingBox": [
+                            244,
+                            605,
+                            259,
+                            604,
+                            259,
+                            618,
+                            243,
+                            619
+                        ],
+                        "confidence": "Low",
+                        "text": "del"
+                    },
+                    {
+                        "boundingBox": [
+                            262,
+                            604,
+                            288,
+                            601,
+                            288,
+                            615,
+                            261,
+                            618
+                        ],
+                        "confidence": "Low",
+                        "text": "Golfs"
+                    },
+                    {
+                        "boundingBox": [
+                            291,
+                            600,
+                            323,
+                            597,
+                            322,
+                            612,
+                            290,
+                            615
+                        ],
+                        "confidence": "Low",
+                        "text": "Partin"
+                    },
+                    {
+                        "boundingBox": [
+                            330,
+                            596,
+                            391,
+                            588,
+                            390,
+                            603,
+                            329,
+                            611
+                        ],
+                        "confidence": "Low",
+                        "text": "SPORT'S"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    391,
+                    580,
+                    474,
+                    577,
+                    475,
+                    594,
+                    392,
+                    597
+                ],
+                "text": "Palermo",
+                "words": [
+                    {
+                        "boundingBox": [
+                            403,
+                            580,
+                            475,
+                            578,
+                            474,
+                            594,
+                            403,
+                            597
+                        ],
+                        "text": "Palermo"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    1028,
+                    556,
+                    1070,
+                    526,
+                    1078,
+                    537,
+                    1036,
+                    567
+                ],
+                "text": "Spanish",
+                "words": [
+                    {
+                        "boundingBox": [
+                            1030,
+                            556,
+                            1071,
+                            527,
+                            1078,
+                            539,
+                            1036,
+                            567
+                        ],
+                        "confidence": "Low",
+                        "text": "Spanish"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    411,
+                    596,
+                    488,
+                    587,
+                    490,
+                    602,
+                    413,
+                    611
+                ],
+                "text": "Bagheria",
+                "words": [
+                    {
+                        "boundingBox": [
+                            433,
+                            594,
+                            482,
+                            590,
+                            482,
+                            604,
+                            433,
+                            608
+                        ],
+                        "confidence": "Low",
+                        "text": "Bagheria"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    1052,
+                    559,
+                    1072,
+                    548,
+                    1078,
+                    557,
+                    1059,
+                    568
+                ],
+                "text": "Re",
+                "words": [
+                    {
+                        "boundingBox": [
+                            1057,
+                            555,
+                            1071,
+                            547,
+                            1076,
+                            557,
+                            1063,
+                            565
+                        ],
+                        "text": "Re"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    352,
+                    603,
+                    461,
+                    599,
+                    462,
+                    613,
+                    353,
+                    617
+                ],
+                "text": "casteldaccion",
+                "words": [
+                    {
+                        "boundingBox": [
+                            372,
+                            603,
+                            442,
+                            601,
+                            441,
+                            615,
+                            371,
+                            617
+                        ],
+                        "confidence": "Low",
+                        "text": "casteldaccion"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    200,
+                    622,
+                    416,
+                    608,
+                    417,
+                    626,
+                    202,
+                    640
+                ],
+                "text": "4390 . Alcanlog Marie Sap Capirello DI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            219,
+                            623,
+                            243,
+                            621,
+                            243,
+                            635,
+                            219,
+                            638
+                        ],
+                        "confidence": "Low",
+                        "text": "4390"
+                    },
+                    {
+                        "boundingBox": [
+                            246,
+                            620,
+                            253,
+                            620,
+                            253,
+                            634,
+                            246,
+                            635
+                        ],
+                        "confidence": "Low",
+                        "text": "."
+                    },
+                    {
+                        "boundingBox": [
+                            256,
+                            620,
+                            301,
+                            616,
+                            301,
+                            630,
+                            256,
+                            634
+                        ],
+                        "confidence": "Low",
+                        "text": "Alcanlog"
+                    },
+                    {
+                        "boundingBox": [
+                            304,
+                            616,
+                            336,
+                            614,
+                            336,
+                            627,
+                            304,
+                            629
+                        ],
+                        "confidence": "Low",
+                        "text": "Marie"
+                    },
+                    {
+                        "boundingBox": [
+                            339,
+                            614,
+                            358,
+                            614,
+                            358,
+                            626,
+                            339,
+                            627
+                        ],
+                        "confidence": "Low",
+                        "text": "Sap"
+                    },
+                    {
+                        "boundingBox": [
+                            361,
+                            613,
+                            404,
+                            613,
+                            403,
+                            626,
+                            361,
+                            626
+                        ],
+                        "confidence": "Low",
+                        "text": "Capirello"
+                    },
+                    {
+                        "boundingBox": [
+                            407,
+                            613,
+                            416,
+                            613,
+                            416,
+                            626,
+                            406,
+                            626
+                        ],
+                        "confidence": "Low",
+                        "text": "DI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    168,
+                    636,
+                    305,
+                    633,
+                    306,
+                    648,
+                    169,
+                    651
+                ],
+                "text": "Marsala Calatatimir",
+                "words": [
+                    {
+                        "boundingBox": [
+                            190,
+                            637,
+                            241,
+                            636,
+                            241,
+                            650,
+                            190,
+                            650
+                        ],
+                        "confidence": "Low",
+                        "text": "Marsala"
+                    },
+                    {
+                        "boundingBox": [
+                            244,
+                            636,
+                            306,
+                            634,
+                            306,
+                            648,
+                            244,
+                            650
+                        ],
+                        "confidence": "Low",
+                        "text": "Calatatimir"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    110,
+                    645,
+                    267,
+                    645,
+                    267,
+                    663,
+                    111,
+                    664
+                ],
+                "text": "Marsala/DE BARTOL Solegis",
+                "words": [
+                    {
+                        "boundingBox": [
+                            112,
+                            648,
+                            184,
+                            651,
+                            184,
+                            664,
+                            112,
+                            660
+                        ],
+                        "confidence": "Low",
+                        "text": "Marsala/DE"
+                    },
+                    {
+                        "boundingBox": [
+                            186,
+                            651,
+                            227,
+                            649,
+                            227,
+                            664,
+                            186,
+                            664
+                        ],
+                        "confidence": "Low",
+                        "text": "BARTOL"
+                    },
+                    {
+                        "boundingBox": [
+                            232,
+                            649,
+                            267,
+                            645,
+                            267,
+                            661,
+                            232,
+                            663
+                        ],
+                        "confidence": "Low",
+                        "text": "Solegis"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    267,
+                    629,
+                    475,
+                    617,
+                    476,
+                    633,
+                    268,
+                    645
+                ],
+                "text": "CALLCMC HINESTRI SALAPARUIN",
+                "words": [
+                    {
+                        "boundingBox": [
+                            271,
+                            631,
+                            339,
+                            626,
+                            339,
+                            639,
+                            271,
+                            644
+                        ],
+                        "confidence": "Low",
+                        "text": "CALLCMC"
+                    },
+                    {
+                        "boundingBox": [
+                            353,
+                            625,
+                            395,
+                            623,
+                            395,
+                            636,
+                            353,
+                            638
+                        ],
+                        "confidence": "Low",
+                        "text": "HINESTRI"
+                    },
+                    {
+                        "boundingBox": [
+                            398,
+                            622,
+                            457,
+                            620,
+                            457,
+                            634,
+                            398,
+                            636
+                        ],
+                        "confidence": "Low",
+                        "text": "SALAPARUIN"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    322,
+                    638,
+                    403,
+                    635,
+                    404,
+                    648,
+                    323,
+                    651
+                ],
+                "text": "2 Camporgale",
+                "words": [
+                    {
+                        "boundingBox": [
+                            330,
+                            639,
+                            336,
+                            638,
+                            336,
+                            650,
+                            330,
+                            651
+                        ],
+                        "confidence": "Low",
+                        "text": "2"
+                    },
+                    {
+                        "boundingBox": [
+                            339,
+                            638,
+                            402,
+                            636,
+                            401,
+                            649,
+                            338,
+                            650
+                        ],
+                        "confidence": "Low",
+                        "text": "Camporgale"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    474,
+                    621,
+                    620,
+                    606,
+                    622,
+                    620,
+                    476,
+                    636
+                ],
+                "text": "Castelbuona!S",
+                "words": [
+                    {
+                        "boundingBox": [
+                            511,
+                            619,
+                            588,
+                            611,
+                            587,
+                            623,
+                            510,
+                            632
+                        ],
+                        "confidence": "Low",
+                        "text": "Castelbuona!S"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    155,
+                    660,
+                    237,
+                    663,
+                    236,
+                    677,
+                    154,
+                    674
+                ],
+                "text": "DONNAFUGATA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            165,
+                            662,
+                            237,
+                            663,
+                            237,
+                            676,
+                            165,
+                            674
+                        ],
+                        "text": "DONNAFUGATA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    476,
+                    644,
+                    618,
+                    626,
+                    620,
+                    640,
+                    478,
+                    658
+                ],
+                "text": "Montemaggiore Magazis",
+                "words": [
+                    {
+                        "boundingBox": [
+                            481,
+                            645,
+                            562,
+                            635,
+                            562,
+                            647,
+                            482,
+                            658
+                        ],
+                        "confidence": "Low",
+                        "text": "Montemaggiore"
+                    },
+                    {
+                        "boundingBox": [
+                            567,
+                            634,
+                            617,
+                            629,
+                            616,
+                            640,
+                            568,
+                            647
+                        ],
+                        "confidence": "Low",
+                        "text": "Magazis"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    874,
+                    613,
+                    914,
+                    611,
+                    915,
+                    621,
+                    875,
+                    624
+                ],
+                "text": "ormina",
+                "words": [
+                    {
+                        "boundingBox": [
+                            880,
+                            613,
+                            915,
+                            612,
+                            914,
+                            623,
+                            879,
+                            624
+                        ],
+                        "confidence": "Low",
+                        "text": "ormina"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    1052,
+                    597,
+                    1072,
+                    588,
+                    1078,
+                    598,
+                    1058,
+                    607
+                ],
+                "text": "ob",
+                "words": [
+                    {
+                        "boundingBox": [
+                            1054,
+                            595,
+                            1070,
+                            588,
+                            1075,
+                            598,
+                            1059,
+                            605
+                        ],
+                        "text": "ob"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    733,
+                    613,
+                    829,
+                    626,
+                    826,
+                    641,
+                    731,
+                    627
+                ],
+                "text": "condoLinguaEma",
+                "words": [
+                    {
+                        "boundingBox": [
+                            733,
+                            615,
+                            825,
+                            627,
+                            824,
+                            641,
+                            733,
+                            628
+                        ],
+                        "confidence": "Low",
+                        "text": "condoLinguaEma"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    162,
+                    677,
+                    250,
+                    676,
+                    251,
+                    690,
+                    163,
+                    691
+                ],
+                "text": "Castelvetrano",
+                "words": [
+                    {
+                        "boundingBox": [
+                            165,
+                            678,
+                            248,
+                            677,
+                            247,
+                            691,
+                            164,
+                            691
+                        ],
+                        "text": "Castelvetrano"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    276,
+                    665,
+                    356,
+                    661,
+                    357,
+                    673,
+                    277,
+                    678
+                ],
+                "text": "Gibelkina",
+                "words": [
+                    {
+                        "boundingBox": [
+                            300,
+                            665,
+                            347,
+                            663,
+                            347,
+                            674,
+                            300,
+                            677
+                        ],
+                        "confidence": "Low",
+                        "text": "Gibelkina"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    348,
+                    658,
+                    414,
+                    657,
+                    415,
+                    670,
+                    349,
+                    672
+                ],
+                "text": "Corleone",
+                "words": [
+                    {
+                        "boundingBox": [
+                            356,
+                            658,
+                            405,
+                            658,
+                            404,
+                            671,
+                            356,
+                            672
+                        ],
+                        "text": "Corleone"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    751,
+                    634,
+                    808,
+                    631,
+                    809,
+                    644,
+                    752,
+                    646
+                ],
+                "text": "Bronte",
+                "words": [
+                    {
+                        "boundingBox": [
+                            761,
+                            634,
+                            796,
+                            633,
+                            795,
+                            645,
+                            761,
+                            647
+                        ],
+                        "confidence": "Low",
+                        "text": "Bronte"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    302,
+                    674,
+                    368,
+                    675,
+                    367,
+                    688,
+                    301,
+                    687
+                ],
+                "text": "Sambuca",
+                "words": [
+                    {
+                        "boundingBox": [
+                            318,
+                            676,
+                            367,
+                            675,
+                            367,
+                            688,
+                            319,
+                            688
+                        ],
+                        "text": "Sambuca"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    412,
+                    663,
+                    585,
+                    660,
+                    586,
+                    677,
+                    413,
+                    680
+                ],
+                "text": "Lorearab Valledoinge,",
+                "words": [
+                    {
+                        "boundingBox": [
+                            416,
+                            663,
+                            466,
+                            663,
+                            465,
+                            679,
+                            416,
+                            680
+                        ],
+                        "confidence": "Low",
+                        "text": "Lorearab"
+                    },
+                    {
+                        "boundingBox": [
+                            518,
+                            663,
+                            586,
+                            662,
+                            586,
+                            676,
+                            517,
+                            678
+                        ],
+                        "confidence": "Low",
+                        "text": "Valledoinge,"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    645,
+                    648,
+                    708,
+                    646,
+                    708,
+                    660,
+                    646,
+                    662
+                ],
+                "text": "Nicosia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            657,
+                            648,
+                            699,
+                            646,
+                            699,
+                            660,
+                            658,
+                            662
+                        ],
+                        "confidence": "Low",
+                        "text": "Nicosia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    852,
+                    631,
+                    891,
+                    632,
+                    890,
+                    646,
+                    851,
+                    645
+                ],
+                "text": "Giarre",
+                "words": [
+                    {
+                        "boundingBox": [
+                            859,
+                            634,
+                            891,
+                            636,
+                            890,
+                            646,
+                            858,
+                            645
+                        ],
+                        "confidence": "Low",
+                        "text": "Giarre"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    141,
+                    694,
+                    253,
+                    692,
+                    254,
+                    706,
+                    142,
+                    708
+                ],
+                "text": "Mazara",
+                "words": [
+                    {
+                        "boundingBox": [
+                            143,
+                            695,
+                            190,
+                            694,
+                            190,
+                            707,
+                            143,
+                            707
+                        ],
+                        "text": "Mazara"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    140,
+                    705,
+                    577,
+                    683,
+                    578,
+                    699,
+                    141,
+                    721
+                ],
+                "text": "Del Vallo CampobelloI' oMenfi PLANETX? S DMMERITA Protomeno",
+                "words": [
+                    {
+                        "boundingBox": [
+                            142,
+                            710,
+                            161,
+                            708,
+                            160,
+                            720,
+                            141,
+                            721
+                        ],
+                        "text": "Del"
+                    },
+                    {
+                        "boundingBox": [
+                            164,
+                            708,
+                            193,
+                            705,
+                            192,
+                            719,
+                            162,
+                            720
+                        ],
+                        "text": "Vallo"
+                    },
+                    {
+                        "boundingBox": [
+                            198,
+                            705,
+                            283,
+                            699,
+                            282,
+                            715,
+                            197,
+                            719
+                        ],
+                        "text": "CampobelloI'"
+                    },
+                    {
+                        "boundingBox": [
+                            287,
+                            698,
+                            333,
+                            696,
+                            332,
+                            712,
+                            286,
+                            715
+                        ],
+                        "text": "oMenfi"
+                    },
+                    {
+                        "boundingBox": [
+                            340,
+                            695,
+                            391,
+                            693,
+                            390,
+                            710,
+                            340,
+                            712
+                        ],
+                        "text": "PLANETX?"
+                    },
+                    {
+                        "boundingBox": [
+                            400,
+                            692,
+                            408,
+                            692,
+                            407,
+                            709,
+                            400,
+                            709
+                        ],
+                        "text": "S"
+                    },
+                    {
+                        "boundingBox": [
+                            448,
+                            691,
+                            507,
+                            689,
+                            507,
+                            704,
+                            447,
+                            707
+                        ],
+                        "text": "DMMERITA"
+                    },
+                    {
+                        "boundingBox": [
+                            517,
+                            689,
+                            574,
+                            688,
+                            573,
+                            700,
+                            517,
+                            703
+                        ],
+                        "text": "Protomeno"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    583,
+                    665,
+                    683,
+                    658,
+                    685,
+                    675,
+                    585,
+                    683
+                ],
+                "text": "SICIL",
+                "words": [
+                    {
+                        "boundingBox": [
+                            593,
+                            667,
+                            684,
+                            660,
+                            685,
+                            676,
+                            594,
+                            683
+                        ],
+                        "confidence": "Low",
+                        "text": "SICIL"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    722,
+                    662,
+                    777,
+                    664,
+                    776,
+                    679,
+                    721,
+                    678
+                ],
+                "text": "Adreing",
+                "words": [
+                    {
+                        "boundingBox": [
+                            733,
+                            664,
+                            775,
+                            665,
+                            774,
+                            679,
+                            733,
+                            678
+                        ],
+                        "confidence": "Low",
+                        "text": "Adreing"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    189,
+                    712,
+                    260,
+                    714,
+                    259,
+                    729,
+                    188,
+                    728
+                ],
+                "text": "di Mazara",
+                "words": [
+                    {
+                        "boundingBox": [
+                            198,
+                            714,
+                            207,
+                            714,
+                            207,
+                            728,
+                            197,
+                            728
+                        ],
+                        "confidence": "Low",
+                        "text": "di"
+                    },
+                    {
+                        "boundingBox": [
+                            210,
+                            714,
+                            259,
+                            714,
+                            258,
+                            729,
+                            209,
+                            728
+                        ],
+                        "text": "Mazara"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    743,
+                    669,
+                    805,
+                    674,
+                    804,
+                    688,
+                    742,
+                    684
+                ],
+                "text": "paterno",
+                "words": [
+                    {
+                        "boundingBox": [
+                            760,
+                            672,
+                            804,
+                            674,
+                            803,
+                            688,
+                            758,
+                            685
+                        ],
+                        "confidence": "Low",
+                        "text": "paterno"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    852,
+                    655,
+                    908,
+                    652,
+                    909,
+                    664,
+                    853,
+                    667
+                ],
+                "text": "SAcireale",
+                "words": [
+                    {
+                        "boundingBox": [
+                            854,
+                            656,
+                            906,
+                            653,
+                            906,
+                            665,
+                            855,
+                            667
+                        ],
+                        "confidence": "Low",
+                        "text": "SAcireale"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    293,
+                    719,
+                    365,
+                    715,
+                    366,
+                    732,
+                    293,
+                    736
+                ],
+                "text": "Sciacca",
+                "words": [
+                    {
+                        "boundingBox": [
+                            320,
+                            719,
+                            364,
+                            716,
+                            365,
+                            732,
+                            320,
+                            735
+                        ],
+                        "confidence": "Low",
+                        "text": "Sciacca"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    374,
+                    727,
+                    443,
+                    721,
+                    445,
+                    737,
+                    376,
+                    743
+                ],
+                "text": "platoni",
+                "words": [
+                    {
+                        "boundingBox": [
+                            403,
+                            725,
+                            444,
+                            722,
+                            443,
+                            738,
+                            403,
+                            741
+                        ],
+                        "confidence": "Low",
+                        "text": "platoni"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    464,
+                    705,
+                    566,
+                    701,
+                    567,
+                    719,
+                    465,
+                    723
+                ],
+                "text": "Mussomeli",
+                "words": [
+                    {
+                        "boundingBox": [
+                            484,
+                            706,
+                            546,
+                            705,
+                            546,
+                            719,
+                            484,
+                            721
+                        ],
+                        "text": "Mussomeli"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    739,
+                    691,
+                    908,
+                    685,
+                    909,
+                    700,
+                    740,
+                    707
+                ],
+                "text": "Misterbianco Catania",
+                "words": [
+                    {
+                        "boundingBox": [
+                            755,
+                            691,
+                            826,
+                            688,
+                            826,
+                            703,
+                            755,
+                            706
+                        ],
+                        "confidence": "Low",
+                        "text": "Misterbianco"
+                    },
+                    {
+                        "boundingBox": [
+                            853,
+                            687,
+                            909,
+                            686,
+                            908,
+                            700,
+                            853,
+                            701
+                        ],
+                        "confidence": "Low",
+                        "text": "Catania"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    386,
+                    742,
+                    456,
+                    741,
+                    457,
+                    759,
+                    387,
+                    760
+                ],
+                "text": "Raffadali",
+                "words": [
+                    {
+                        "boundingBox": [
+                            402,
+                            743,
+                            456,
+                            742,
+                            456,
+                            760,
+                            402,
+                            759
+                        ],
+                        "text": "Raffadali"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    478,
+                    727,
+                    562,
+                    721,
+                    564,
+                    736,
+                    480,
+                    742
+                ],
+                "text": "MORGANTE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            490,
+                            727,
+                            548,
+                            723,
+                            548,
+                            739,
+                            490,
+                            742
+                        ],
+                        "text": "MORGANTE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    575,
+                    719,
+                    672,
+                    713,
+                    673,
+                    728,
+                    575,
+                    734
+                ],
+                "text": "OCaltanissetta",
+                "words": [
+                    {
+                        "boundingBox": [
+                            576,
+                            719,
+                            666,
+                            714,
+                            666,
+                            729,
+                            577,
+                            734
+                        ],
+                        "confidence": "Low",
+                        "text": "OCaltanissetta"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    869,
+                    702,
+                    905,
+                    702,
+                    905,
+                    713,
+                    869,
+                    713
+                ],
+                "text": "Golfo",
+                "words": [
+                    {
+                        "boundingBox": [
+                            872,
+                            702,
+                            900,
+                            702,
+                            900,
+                            713,
+                            872,
+                            713
+                        ],
+                        "confidence": "Low",
+                        "text": "Golfo"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    573,
+                    738,
+                    721,
+                    726,
+                    723,
+                    742,
+                    575,
+                    755
+                ],
+                "text": "Pietraperzia Piazza",
+                "words": [
+                    {
+                        "boundingBox": [
+                            587,
+                            738,
+                            657,
+                            733,
+                            658,
+                            748,
+                            588,
+                            754
+                        ],
+                        "text": "Pietraperzia"
+                    },
+                    {
+                        "boundingBox": [
+                            671,
+                            732,
+                            714,
+                            729,
+                            714,
+                            742,
+                            671,
+                            746
+                        ],
+                        "confidence": "Low",
+                        "text": "Piazza"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    661,
+                    743,
+                    728,
+                    737,
+                    730,
+                    751,
+                    663,
+                    756
+                ],
+                "text": "Armerina",
+                "words": [
+                    {
+                        "boundingBox": [
+                            674,
+                            743,
+                            729,
+                            738,
+                            728,
+                            750,
+                            673,
+                            755
+                        ],
+                        "text": "Armerina"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    869,
+                    719,
+                    913,
+                    718,
+                    914,
+                    729,
+                    870,
+                    731
+                ],
+                "text": "Catania",
+                "words": [
+                    {
+                        "boundingBox": [
+                            872,
+                            720,
+                            912,
+                            719,
+                            911,
+                            730,
+                            872,
+                            731
+                        ],
+                        "confidence": "Low",
+                        "text": "Catania"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    486,
+                    754,
+                    603,
+                    747,
+                    604,
+                    763,
+                    488,
+                    771
+                ],
+                "text": "Canicatti",
+                "words": [
+                    {
+                        "boundingBox": [
+                            531,
+                            753,
+                            589,
+                            749,
+                            588,
+                            765,
+                            531,
+                            768
+                        ],
+                        "confidence": "Low",
+                        "text": "Canicatti"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    375,
+                    765,
+                    549,
+                    769,
+                    548,
+                    786,
+                    374,
+                    782
+                ],
+                "text": "Agrigento FavaroNaro",
+                "words": [
+                    {
+                        "boundingBox": [
+                            383,
+                            765,
+                            451,
+                            767,
+                            451,
+                            784,
+                            383,
+                            783
+                        ],
+                        "text": "Agrigento"
+                    },
+                    {
+                        "boundingBox": [
+                            476,
+                            768,
+                            547,
+                            772,
+                            548,
+                            784,
+                            476,
+                            784
+                        ],
+                        "confidence": "Low",
+                        "text": "FavaroNaro"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    740,
+                    760,
+                    823,
+                    756,
+                    823,
+                    770,
+                    741,
+                    774
+                ],
+                "text": "Francotonig",
+                "words": [
+                    {
+                        "boundingBox": [
+                            753,
+                            760,
+                            821,
+                            756,
+                            821,
+                            771,
+                            753,
+                            774
+                        ],
+                        "confidence": "Low",
+                        "text": "Francotonig"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    838,
+                    752,
+                    884,
+                    750,
+                    885,
+                    765,
+                    839,
+                    766
+                ],
+                "text": "Lentini",
+                "words": [
+                    {
+                        "boundingBox": [
+                            842,
+                            752,
+                            884,
+                            751,
+                            884,
+                            765,
+                            842,
+                            767
+                        ],
+                        "text": "Lentini"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    3,
+                    825,
+                    86,
+                    828,
+                    85,
+                    843,
+                    2,
+                    840
+                ],
+                "text": "ALGUARNERA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            8,
+                            827,
+                            87,
+                            828,
+                            86,
+                            843,
+                            8,
+                            840
+                        ],
+                        "text": "ALGUARNERA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    507,
+                    792,
+                    573,
+                    791,
+                    574,
+                    804,
+                    508,
+                    805
+                ],
+                "text": "Palma",
+                "words": [
+                    {
+                        "boundingBox": [
+                            511,
+                            793,
+                            547,
+                            792,
+                            547,
+                            805,
+                            512,
+                            805
+                        ],
+                        "confidence": "Low",
+                        "text": "Palma"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    501,
+                    804,
+                    589,
+                    796,
+                    591,
+                    809,
+                    503,
+                    817
+                ],
+                "text": "o Montechiano",
+                "words": [
+                    {
+                        "boundingBox": [
+                            504,
+                            804,
+                            510,
+                            804,
+                            510,
+                            816,
+                            504,
+                            816
+                        ],
+                        "text": "o"
+                    },
+                    {
+                        "boundingBox": [
+                            512,
+                            804,
+                            585,
+                            798,
+                            585,
+                            808,
+                            512,
+                            816
+                        ],
+                        "confidence": "Low",
+                        "text": "Montechiano"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    700,
+                    776,
+                    820,
+                    774,
+                    821,
+                    790,
+                    701,
+                    792
+                ],
+                "text": "Caltagirone 4 2",
+                "words": [
+                    {
+                        "boundingBox": [
+                            702,
+                            778,
+                            777,
+                            776,
+                            776,
+                            789,
+                            702,
+                            793
+                        ],
+                        "text": "Caltagirone"
+                    },
+                    {
+                        "boundingBox": [
+                            788,
+                            776,
+                            797,
+                            776,
+                            797,
+                            789,
+                            787,
+                            789
+                        ],
+                        "confidence": "Low",
+                        "text": "4"
+                    },
+                    {
+                        "boundingBox": [
+                            811,
+                            777,
+                            821,
+                            777,
+                            820,
+                            790,
+                            811,
+                            790
+                        ],
+                        "confidence": "Low",
+                        "text": "2"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    897,
+                    750,
+                    962,
+                    759,
+                    959,
+                    775,
+                    894,
+                    765
+                ],
+                "text": "Augusta",
+                "words": [
+                    {
+                        "boundingBox": [
+                            918,
+                            755,
+                            961,
+                            760,
+                            960,
+                            773,
+                            916,
+                            769
+                        ],
+                        "confidence": "Low",
+                        "text": "Augusta"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    671,
+                    799,
+                    729,
+                    792,
+                    731,
+                    807,
+                    673,
+                    814
+                ],
+                "text": "ONiscemi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            677,
+                            799,
+                            730,
+                            794,
+                            731,
+                            807,
+                            677,
+                            814
+                        ],
+                        "text": "ONiscemi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    826,
+                    790,
+                    902,
+                    786,
+                    903,
+                    798,
+                    827,
+                    802
+                ],
+                "text": "Palazzolo",
+                "words": [
+                    {
+                        "boundingBox": [
+                            832,
+                            791,
+                            889,
+                            789,
+                            888,
+                            799,
+                            831,
+                            802
+                        ],
+                        "confidence": "Low",
+                        "text": "Palazzolo"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    830,
+                    803,
+                    885,
+                    800,
+                    886,
+                    811,
+                    831,
+                    814
+                ],
+                "text": "Acteide",
+                "words": [
+                    {
+                        "boundingBox": [
+                            837,
+                            803,
+                            882,
+                            801,
+                            881,
+                            812,
+                            836,
+                            814
+                        ],
+                        "confidence": "Low",
+                        "text": "Acteide"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    903,
+                    775,
+                    995,
+                    786,
+                    993,
+                    803,
+                    901,
+                    792
+                ],
+                "text": "Siracusa",
+                "words": [
+                    {
+                        "boundingBox": [
+                            929,
+                            781,
+                            992,
+                            787,
+                            990,
+                            800,
+                            927,
+                            795
+                        ],
+                        "text": "Siracusa"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    540,
+                    837,
+                    580,
+                    833,
+                    582,
+                    846,
+                    542,
+                    849
+                ],
+                "text": "Licata",
+                "words": [
+                    {
+                        "boundingBox": [
+                            545,
+                            836,
+                            581,
+                            834,
+                            581,
+                            846,
+                            546,
+                            849
+                        ],
+                        "text": "Licata"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    615,
+                    832,
+                    655,
+                    829,
+                    656,
+                    844,
+                    616,
+                    847
+                ],
+                "text": "Geld",
+                "words": [
+                    {
+                        "boundingBox": [
+                            617,
+                            831,
+                            650,
+                            829,
+                            651,
+                            844,
+                            618,
+                            846
+                        ],
+                        "confidence": "Low",
+                        "text": "Geld"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    858,
+                    807,
+                    940,
+                    806,
+                    941,
+                    820,
+                    859,
+                    821
+                ],
+                "text": "Floridig",
+                "words": [
+                    {
+                        "boundingBox": [
+                            887,
+                            807,
+                            933,
+                            808,
+                            932,
+                            821,
+                            886,
+                            820
+                        ],
+                        "confidence": "Low",
+                        "text": "Floridig"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    597,
+                    861,
+                    679,
+                    855,
+                    680,
+                    870,
+                    599,
+                    876
+                ],
+                "text": "CERASUOLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            601,
+                            862,
+                            678,
+                            855,
+                            679,
+                            870,
+                            602,
+                            876
+                        ],
+                        "text": "CERASUOLO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    699,
+                    842,
+                    815,
+                    843,
+                    814,
+                    861,
+                    698,
+                    860
+                ],
+                "text": "Vittoria Comiso",
+                "words": [
+                    {
+                        "boundingBox": [
+                            707,
+                            844,
+                            756,
+                            846,
+                            757,
+                            861,
+                            708,
+                            860
+                        ],
+                        "confidence": "Low",
+                        "text": "Vittoria"
+                    },
+                    {
+                        "boundingBox": [
+                            765,
+                            846,
+                            812,
+                            844,
+                            813,
+                            859,
+                            766,
+                            861
+                        ],
+                        "text": "Comiso"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    599,
+                    879,
+                    686,
+                    871,
+                    688,
+                    885,
+                    601,
+                    893
+                ],
+                "text": "DI VITTORIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            600,
+                            880,
+                            618,
+                            878,
+                            619,
+                            891,
+                            601,
+                            894
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            621,
+                            878,
+                            687,
+                            872,
+                            688,
+                            885,
+                            622,
+                            891
+                        ],
+                        "text": "VITTORIA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    710,
+                    862,
+                    776,
+                    853,
+                    778,
+                    868,
+                    713,
+                    878
+                ],
+                "text": "cos",
+                "words": [
+                    {
+                        "boundingBox": [
+                            716,
+                            862,
+                            741,
+                            859,
+                            742,
+                            874,
+                            717,
+                            876
+                        ],
+                        "confidence": "Low",
+                        "text": "cos"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    730,
+                    868,
+                    924,
+                    846,
+                    926,
+                    867,
+                    733,
+                    889
+                ],
+                "text": "Ragusa Nolo.",
+                "words": [
+                    {
+                        "boundingBox": [
+                            809,
+                            860,
+                            864,
+                            855,
+                            863,
+                            871,
+                            809,
+                            877
+                        ],
+                        "confidence": "Low",
+                        "text": "Ragusa"
+                    },
+                    {
+                        "boundingBox": [
+                            870,
+                            854,
+                            917,
+                            853,
+                            915,
+                            867,
+                            869,
+                            870
+                        ],
+                        "confidence": "Low",
+                        "text": "Nolo."
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    919,
+                    849,
+                    964,
+                    853,
+                    962,
+                    868,
+                    917,
+                    865
+                ],
+                "text": "Avola",
+                "words": [
+                    {
+                        "boundingBox": [
+                            932,
+                            852,
+                            964,
+                            853,
+                            963,
+                            867,
+                            931,
+                            865
+                        ],
+                        "text": "Avola"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    0,
+                    923,
+                    79,
+                    922,
+                    80,
+                    939,
+                    0,
+                    940
+                ],
+                "text": "ly serious",
+                "words": [
+                    {
+                        "boundingBox": [
+                            1,
+                            923,
+                            17,
+                            924,
+                            16,
+                            941,
+                            1,
+                            940
+                        ],
+                        "text": "ly"
+                    },
+                    {
+                        "boundingBox": [
+                            20,
+                            924,
+                            80,
+                            923,
+                            80,
+                            938,
+                            20,
+                            941
+                        ],
+                        "text": "serious"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    219,
+                    896,
+                    277,
+                    901,
+                    275,
+                    916,
+                    217,
+                    911
+                ],
+                "text": "Roma",
+                "words": [
+                    {
+                        "boundingBox": [
+                            235,
+                            900,
+                            274,
+                            901,
+                            272,
+                            915,
+                            233,
+                            913
+                        ],
+                        "text": "Roma"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    770,
+                    884,
+                    875,
+                    872,
+                    877,
+                    890,
+                    772,
+                    902
+                ],
+                "text": "Modica",
+                "words": [
+                    {
+                        "boundingBox": [
+                            777,
+                            885,
+                            831,
+                            878,
+                            832,
+                            895,
+                            778,
+                            902
+                        ],
+                        "confidence": "Low",
+                        "text": "Modica"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    863,
+                    882,
+                    927,
+                    872,
+                    929,
+                    887,
+                    866,
+                    897
+                ],
+                "text": "Resolin",
+                "words": [
+                    {
+                        "boundingBox": [
+                            884,
+                            880,
+                            928,
+                            875,
+                            928,
+                            887,
+                            884,
+                            894
+                        ],
+                        "confidence": "Low",
+                        "text": "Resolin"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    0,
+                    944,
+                    58,
+                    944,
+                    58,
+                    960,
+                    1,
+                    960
+                ],
+                "text": "stars as",
+                "words": [
+                    {
+                        "boundingBox": [
+                            1,
+                            945,
+                            37,
+                            945,
+                            37,
+                            960,
+                            1,
+                            960
+                        ],
+                        "confidence": "Low",
+                        "text": "stars"
+                    },
+                    {
+                        "boundingBox": [
+                            42,
+                            945,
+                            58,
+                            944,
+                            58,
+                            960,
+                            42,
+                            960
+                        ],
+                        "text": "as"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    876,
+                    893,
+                    990,
+                    882,
+                    992,
+                    897,
+                    878,
+                    908
+                ],
+                "text": "CANTINA SOCIALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            894,
+                            893,
+                            942,
+                            887,
+                            942,
+                            900,
+                            894,
+                            905
+                        ],
+                        "text": "CANTINA"
+                    },
+                    {
+                        "boundingBox": [
+                            944,
+                            887,
+                            990,
+                            884,
+                            990,
+                            898,
+                            944,
+                            900
+                        ],
+                        "text": "SOCIALE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    430,
+                    933,
+                    491,
+                    929,
+                    493,
+                    944,
+                    432,
+                    949
+                ],
+                "text": "MURANA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            442,
+                            933,
+                            491,
+                            930,
+                            493,
+                            944,
+                            444,
+                            948
+                        ],
+                        "text": "MURANA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    893,
+                    903,
+                    949,
+                    899,
+                    950,
+                    912,
+                    894,
+                    916
+                ],
+                "text": "ELORINA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            897,
+                            903,
+                            949,
+                            900,
+                            949,
+                            912,
+                            897,
+                            915
+                        ],
+                        "text": "ELORINA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    8,
+                    965,
+                    63,
+                    964,
+                    64,
+                    981,
+                    9,
+                    982
+                ],
+                "text": "White",
+                "words": [
+                    {
+                        "boundingBox": [
+                            14,
+                            966,
+                            63,
+                            966,
+                            62,
+                            982,
+                            14,
+                            982
+                        ],
+                        "confidence": "Low",
+                        "text": "White"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    469,
+                    952,
+                    513,
+                    947,
+                    515,
+                    963,
+                    470,
+                    967
+                ],
+                "text": "Isola di",
+                "words": [
+                    {
+                        "boundingBox": [
+                            471,
+                            950,
+                            499,
+                            947,
+                            500,
+                            963,
+                            473,
+                            966
+                        ],
+                        "confidence": "Low",
+                        "text": "Isola"
+                    },
+                    {
+                        "boundingBox": [
+                            502,
+                            947,
+                            512,
+                            946,
+                            514,
+                            962,
+                            503,
+                            963
+                        ],
+                        "text": "di"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    876,
+                    936,
+                    934,
+                    931,
+                    936,
+                    944,
+                    878,
+                    950
+                ],
+                "text": "ELORO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            878,
+                            937,
+                            923,
+                            933,
+                            924,
+                            946,
+                            878,
+                            950
+                        ],
+                        "text": "ELORO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    920,
+                    918,
+                    993,
+                    913,
+                    994,
+                    929,
+                    921,
+                    933
+                ],
+                "text": "ORaching",
+                "words": [
+                    {
+                        "boundingBox": [
+                            932,
+                            918,
+                            991,
+                            914,
+                            991,
+                            930,
+                            933,
+                            933
+                        ],
+                        "confidence": "Low",
+                        "text": "ORaching"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    4,
+                    987,
+                    70,
+                    987,
+                    70,
+                    1003,
+                    5,
+                    1004
+                ],
+                "text": "a new",
+                "words": [
+                    {
+                        "boundingBox": [
+                            16,
+                            988,
+                            27,
+                            988,
+                            26,
+                            1004,
+                            16,
+                            1004
+                        ],
+                        "confidence": "Low",
+                        "text": "a"
+                    },
+                    {
+                        "boundingBox": [
+                            32,
+                            988,
+                            65,
+                            987,
+                            65,
+                            1004,
+                            32,
+                            1004
+                        ],
+                        "text": "new"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    467,
+                    959,
+                    529,
+                    956,
+                    530,
+                    972,
+                    468,
+                    976
+                ],
+                "text": "Pantelleria",
+                "words": [
+                    {
+                        "boundingBox": [
+                            472,
+                            960,
+                            528,
+                            956,
+                            529,
+                            972,
+                            472,
+                            975
+                        ],
+                        "text": "Pantelleria"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    391,
+                    990,
+                    572,
+                    981,
+                    573,
+                    1001,
+                    392,
+                    1009
+                ],
+                "text": "Moscato di Pantelleria",
+                "words": [
+                    {
+                        "boundingBox": [
+                            392,
+                            992,
+                            458,
+                            988,
+                            458,
+                            1006,
+                            392,
+                            1009
+                        ],
+                        "text": "Moscato"
+                    },
+                    {
+                        "boundingBox": [
+                            466,
+                            988,
+                            479,
+                            987,
+                            480,
+                            1005,
+                            466,
+                            1006
+                        ],
+                        "text": "di"
+                    },
+                    {
+                        "boundingBox": [
+                            483,
+                            987,
+                            572,
+                            982,
+                            572,
+                            1001,
+                            483,
+                            1005
+                        ],
+                        "text": "Pantelleria"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    964,
+                    1020,
+                    993,
+                    1019,
+                    993,
+                    1032,
+                    964,
+                    1032
+                ],
+                "text": "515",
+                "words": [
+                    {
+                        "boundingBox": [
+                            966,
+                            1018,
+                            992,
+                            1018,
+                            992,
+                            1031,
+                            966,
+                            1031
+                        ],
+                        "confidence": "Low",
+                        "text": "515"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

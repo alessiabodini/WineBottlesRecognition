@@ -1,0 +1,64 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    175,
+                    302,
+                    196,
+                    301,
+                    194,
+                    319,
+                    173,
+                    321
+                ],
+                "text": "6",
+                "words": [
+                    {
+                        "boundingBox": [
+                            178,
+                            301,
+                            190,
+                            300,
+                            191,
+                            318,
+                            180,
+                            319
+                        ],
+                        "text": "6"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    374,
+                    796,
+                    422,
+                    804,
+                    419,
+                    824,
+                    370,
+                    817
+                ],
+                "text": "Bina",
+                "words": [
+                    {
+                        "boundingBox": [
+                            375,
+                            795,
+                            421,
+                            802,
+                            418,
+                            823,
+                            372,
+                            816
+                        ],
+                        "confidence": "Low",
+                        "text": "Bina"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

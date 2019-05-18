@@ -1,0 +1,162 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    152,
+                    150,
+                    237,
+                    150,
+                    237,
+                    191,
+                    152,
+                    191
+                ],
+                "text": "Lilla",
+                "words": [
+                    {
+                        "boundingBox": [
+                            165,
+                            150,
+                            236,
+                            150,
+                            236,
+                            191,
+                            165,
+                            191
+                        ],
+                        "confidence": "Low",
+                        "text": "Lilla"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    143,
+                    182,
+                    254,
+                    182,
+                    254,
+                    212,
+                    144,
+                    213
+                ],
+                "text": "Grinaldi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            146,
+                            184,
+                            254,
+                            182,
+                            254,
+                            214,
+                            147,
+                            212
+                        ],
+                        "confidence": "Low",
+                        "text": "Grinaldi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    105,
+                    229,
+                    286,
+                    230,
+                    285,
+                    261,
+                    104,
+                    260
+                ],
+                "text": "IMPERIALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            109,
+                            230,
+                            286,
+                            231,
+                            286,
+                            258,
+                            108,
+                            257
+                        ],
+                        "text": "IMPERIALE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    112,
+                    258,
+                    283,
+                    259,
+                    282,
+                    281,
+                    111,
+                    280
+                ],
+                "text": "METODO CLASSICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            114,
+                            261,
+                            192,
+                            263,
+                            191,
+                            282,
+                            113,
+                            278
+                        ],
+                        "text": "METODO"
+                    },
+                    {
+                        "boundingBox": [
+                            199,
+                            263,
+                            282,
+                            259,
+                            282,
+                            280,
+                            199,
+                            282
+                        ],
+                        "text": "CLASSICO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    176,
+                    283,
+                    220,
+                    284,
+                    219,
+                    298,
+                    175,
+                    297
+                ],
+                "text": "BRUT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            178,
+                            284,
+                            219,
+                            284,
+                            218,
+                            298,
+                            177,
+                            297
+                        ],
+                        "text": "BRUT"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

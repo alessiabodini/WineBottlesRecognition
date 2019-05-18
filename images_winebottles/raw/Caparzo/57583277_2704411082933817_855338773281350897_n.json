@@ -1,0 +1,282 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    372,
+                    137,
+                    528,
+                    136,
+                    529,
+                    188,
+                    373,
+                    189
+                ],
+                "text": "2011",
+                "words": [
+                    {
+                        "boundingBox": [
+                            383,
+                            138,
+                            528,
+                            137,
+                            529,
+                            188,
+                            383,
+                            190
+                        ],
+                        "text": "2011"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    202,
+                    305,
+                    718,
+                    296,
+                    721,
+                    450,
+                    205,
+                    460
+                ],
+                "text": "CAPARZO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            213,
+                            313,
+                            715,
+                            308,
+                            706,
+                            451,
+                            221,
+                            462
+                        ],
+                        "text": "CAPARZO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    131,
+                    490,
+                    792,
+                    471,
+                    795,
+                    581,
+                    134,
+                    601
+                ],
+                "text": "hello Dreeed Aug",
+                "words": [
+                    {
+                        "boundingBox": [
+                            195,
+                            499,
+                            353,
+                            486,
+                            356,
+                            590,
+                            199,
+                            598
+                        ],
+                        "confidence": "Low",
+                        "text": "hello"
+                    },
+                    {
+                        "boundingBox": [
+                            371,
+                            485,
+                            624,
+                            480,
+                            626,
+                            583,
+                            375,
+                            589
+                        ],
+                        "confidence": "Low",
+                        "text": "Dreeed"
+                    },
+                    {
+                        "boundingBox": [
+                            643,
+                            480,
+                            789,
+                            486,
+                            790,
+                            583,
+                            645,
+                            583
+                        ],
+                        "confidence": "Low",
+                        "text": "Aug"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    231,
+                    916,
+                    716,
+                    928,
+                    714,
+                    1029,
+                    228,
+                    1018
+                ],
+                "text": "BRUNELLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            241,
+                            917,
+                            706,
+                            945,
+                            711,
+                            1010,
+                            236,
+                            1018
+                        ],
+                        "text": "BRUNELLO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    159,
+                    1033,
+                    796,
+                    1025,
+                    797,
+                    1139,
+                    160,
+                    1146
+                ],
+                "text": "DI MONTALCINO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            175,
+                            1033,
+                            228,
+                            1035,
+                            221,
+                            1131,
+                            166,
+                            1124
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            246,
+                            1035,
+                            789,
+                            1039,
+                            797,
+                            1103,
+                            239,
+                            1134
+                        ],
+                        "text": "MONTALCINO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    155,
+                    1126,
+                    800,
+                    1103,
+                    803,
+                    1183,
+                    158,
+                    1205
+                ],
+                "text": "DENOMINAZIONE DI ORIGINE CONTROLLATA E GARANTITA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            168,
+                            1130,
+                            321,
+                            1154,
+                            318,
+                            1188,
+                            161,
+                            1160
+                        ],
+                        "text": "DENOMINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            327,
+                            1155,
+                            354,
+                            1157,
+                            352,
+                            1192,
+                            324,
+                            1189
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            360,
+                            1157,
+                            471,
+                            1158,
+                            472,
+                            1196,
+                            358,
+                            1193
+                        ],
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            477,
+                            1158,
+                            663,
+                            1136,
+                            668,
+                            1174,
+                            478,
+                            1195
+                        ],
+                        "text": "CONTROLLATA"
+                    },
+                    {
+                        "boundingBox": [
+                            668,
+                            1135,
+                            682,
+                            1133,
+                            688,
+                            1170,
+                            674,
+                            1173
+                        ],
+                        "text": "E"
+                    },
+                    {
+                        "boundingBox": [
+                            688,
+                            1131,
+                            794,
+                            1104,
+                            803,
+                            1140,
+                            694,
+                            1169
+                        ],
+                        "text": "GARANTITA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

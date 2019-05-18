@@ -1,0 +1,206 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    47,
+                    316,
+                    123,
+                    314,
+                    124,
+                    335,
+                    48,
+                    337
+                ],
+                "text": "ALIANO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            54,
+                            317,
+                            124,
+                            317,
+                            124,
+                            335,
+                            54,
+                            337
+                        ],
+                        "confidence": "Low",
+                        "text": "ALIANO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    52,
+                    333,
+                    110,
+                    332,
+                    111,
+                    342,
+                    53,
+                    343
+                ],
+                "text": "SILSTONO BEMADE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            54,
+                            334,
+                            83,
+                            334,
+                            83,
+                            343,
+                            54,
+                            343
+                        ],
+                        "confidence": "Low",
+                        "text": "SILSTONO"
+                    },
+                    {
+                        "boundingBox": [
+                            85,
+                            334,
+                            111,
+                            333,
+                            111,
+                            343,
+                            85,
+                            343
+                        ],
+                        "confidence": "Low",
+                        "text": "BEMADE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    29,
+                    414,
+                    134,
+                    413,
+                    135,
+                    426,
+                    30,
+                    427
+                ],
+                "text": "CHIANTI CLASSICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            31,
+                            415,
+                            81,
+                            415,
+                            81,
+                            427,
+                            31,
+                            427
+                        ],
+                        "text": "CHIANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            83,
+                            415,
+                            135,
+                            414,
+                            135,
+                            427,
+                            83,
+                            427
+                        ],
+                        "text": "CLASSICO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    67,
+                    426,
+                    98,
+                    425,
+                    99,
+                    433,
+                    68,
+                    434
+                ],
+                "text": "DOCG",
+                "words": [
+                    {
+                        "boundingBox": [
+                            69,
+                            427,
+                            96,
+                            426,
+                            96,
+                            434,
+                            70,
+                            434
+                        ],
+                        "confidence": "Low",
+                        "text": "DOCG"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    48,
+                    442,
+                    117,
+                    443,
+                    117,
+                    455,
+                    47,
+                    454
+                ],
+                "text": "RISERVA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            50,
+                            443,
+                            116,
+                            443,
+                            115,
+                            455,
+                            50,
+                            454
+                        ],
+                        "text": "RISERVA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    59,
+                    568,
+                    101,
+                    567,
+                    102,
+                    579,
+                    60,
+                    580
+                ],
+                "text": "vivIno",
+                "words": [
+                    {
+                        "boundingBox": [
+                            70,
+                            568,
+                            102,
+                            568,
+                            101,
+                            579,
+                            70,
+                            580
+                        ],
+                        "confidence": "Low",
+                        "text": "vivIno"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

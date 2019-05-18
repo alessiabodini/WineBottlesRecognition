@@ -1,0 +1,135 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    76,
+                    94,
+                    117,
+                    99,
+                    113,
+                    121,
+                    71,
+                    116
+                ],
+                "text": "Villa",
+                "words": [
+                    {
+                        "boundingBox": [
+                            83,
+                            94,
+                            115,
+                            98,
+                            112,
+                            120,
+                            80,
+                            116
+                        ],
+                        "confidence": "Low",
+                        "text": "Villa"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    93,
+                    609,
+                    149,
+                    605,
+                    151,
+                    624,
+                    95,
+                    628
+                ],
+                "text": "Bonald",
+                "words": [
+                    {
+                        "boundingBox": [
+                            99,
+                            611,
+                            148,
+                            606,
+                            151,
+                            624,
+                            103,
+                            627
+                        ],
+                        "confidence": "Low",
+                        "text": "Bonald"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    86,
+                    635,
+                    153,
+                    627,
+                    155,
+                    642,
+                    88,
+                    650
+                ],
+                "text": "IMPERIALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            89,
+                            636,
+                            152,
+                            628,
+                            154,
+                            642,
+                            92,
+                            650
+                        ],
+                        "text": "IMPERIALE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    75,
+                    653,
+                    161,
+                    641,
+                    163,
+                    653,
+                    77,
+                    665
+                ],
+                "text": "METODO CLASSICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            77,
+                            654,
+                            121,
+                            649,
+                            122,
+                            659,
+                            78,
+                            664
+                        ],
+                        "text": "METODO"
+                    },
+                    {
+                        "boundingBox": [
+                            124,
+                            649,
+                            161,
+                            642,
+                            163,
+                            652,
+                            126,
+                            659
+                        ],
+                        "confidence": "Low",
+                        "text": "CLASSICO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

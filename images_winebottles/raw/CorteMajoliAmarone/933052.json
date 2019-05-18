@@ -1,0 +1,147 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    201,
+                    460,
+                    263,
+                    459,
+                    264,
+                    470,
+                    202,
+                    470
+                ],
+                "text": "CORTE MAJOLI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            203,
+                            460,
+                            230,
+                            461,
+                            230,
+                            470,
+                            203,
+                            470
+                        ],
+                        "confidence": "Low",
+                        "text": "CORTE"
+                    },
+                    {
+                        "boundingBox": [
+                            232,
+                            461,
+                            264,
+                            460,
+                            264,
+                            470,
+                            232,
+                            470
+                        ],
+                        "text": "MAJOLI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    224,
+                    475,
+                    244,
+                    474,
+                    244,
+                    484,
+                    224,
+                    484
+                ],
+                "text": "2011",
+                "words": [
+                    {
+                        "boundingBox": [
+                            226,
+                            473,
+                            243,
+                            473,
+                            243,
+                            483,
+                            226,
+                            483
+                        ],
+                        "text": "2011"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    203,
+                    489,
+                    265,
+                    490,
+                    264,
+                    502,
+                    202,
+                    501
+                ],
+                "text": "AMARONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            206,
+                            490,
+                            263,
+                            490,
+                            263,
+                            502,
+                            206,
+                            502
+                        ],
+                        "text": "AMARONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    184,
+                    500,
+                    283,
+                    501,
+                    282,
+                    514,
+                    183,
+                    513
+                ],
+                "text": "della VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            186,
+                            501,
+                            204,
+                            501,
+                            203,
+                            514,
+                            185,
+                            513
+                        ],
+                        "text": "della"
+                    },
+                    {
+                        "boundingBox": [
+                            206,
+                            501,
+                            282,
+                            502,
+                            283,
+                            513,
+                            206,
+                            514
+                        ],
+                        "confidence": "Low",
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}
