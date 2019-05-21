@@ -17,4 +17,4 @@ Inside *__images_winebottles__*:
 ## How accurate is the result?
 
 Run __validation.py__ to find out:
--`python validation.py`
+- `python validation.py`
