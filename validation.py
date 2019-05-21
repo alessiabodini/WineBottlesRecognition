@@ -40,7 +40,6 @@ for i in range(0,len(bottlesImages)):
             jsonBottle = json.load(file)
         # Copy all words found
         wordsBottles = []
-        if
         for words in jsonBottle['recognitionResult']['lines']:
             for word in words['words']:
                 if word['text'] not in wordsBottles:
@@ -70,11 +69,11 @@ for i in range(0,len(bottlesImages)):
     list = [None] * len(gtImages)
     indexes = np.argsort(-(scores[i])) # negate array to have descending order
     #matches = gtImages[indexes] # error
-    j = 0
-    for i in indexes:
-        match = bottlesNames[i]
-        list[j] = match
-        j += 1
+    k = 0
+    for j in indexes:
+        match = bottlesNames[j]
+        list[k] = match
+        k += 1
 
     # Save gtImages sorted for score
     index = filename.find('.')
@@ -84,29 +83,29 @@ for i in range(0,len(bottlesImages)):
         results = json.dump(list, file, indent = 4)
     print(filename + ' ready.')
 
-    # Search for perfect match
+    # Search for correct matches
     folderName = extractFileName(image, -2)
-    firstMatch = indexes[0]
-    nameFirstMatch = bottlesNames[firstMatch]
-    if folderName == nameFirstMatch:
-        ranks[firstMatch] += 1
+    for idx in range(len(indexes)):
+        if folderName == bottlesNames[indexes[idx]]:
+            ranks[idx] += 1
 
-#print(ranks)
 
-# Create plot given ranks
-plt.plot(bottlesNames, ranks, 'o')
-plt.xlabel('Bottles names')
-plt.ylabel('Number of match')
-plt.axis([-1, len(bottlesNames), 0, 8])
+# Show plot given ranks
+plt.plot(range(len(bottlesNames)), ranks, 'o')
+plt.xlabel('Bottles')
+plt.ylabel('Matches max at position')
+plt.axis([0, len(bottlesNames), -1, len(bottlesNames)+1])
+plt.grid()
 plt.title('Matches plot')
 plt.show()
 
 # Show plot CMC
+ranks = ranks / len(bottlesImages) # calculate frequency instead of the absolute value
 cmc = np.cumsum(ranks)
 plt.plot(cmc)
 plt.title('CMC plot')
 plt.show()
 
 # Calculate AUC
-auc = np.trapz(cmc)
+auc = np.trapz(cmc, dx=1/len(gtImages))
 print('Accurancy: {}'.format(auc))
