@@ -9,12 +9,12 @@ Inside *__images_winebottles__*:
 
 ## How to recognize a chosen bottle?
 
-- Run *recognition.py*:
-  `python recognition.py`
+- Run __recognition.py__:
+  - `python recognition.py`
 
 - Look for the results (in the same directory of the image) in the __*image_name*.json__ file. The first result is the name of the bottle. 
 
 ## How accurate is the result?
 
-Run *validation.py* to find out:
-`python validation.py`
+Run __validation.py__ to find out:
+-`python validation.py`
