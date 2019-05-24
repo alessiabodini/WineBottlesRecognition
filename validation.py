@@ -89,12 +89,13 @@ for i in range(0,len(bottlesImages)):
         if folderName == bottlesNames[indexes[idx]]:
             ranks[idx] += 1
 
-
 # Show plot given ranks
-plt.plot(range(len(bottlesNames)), ranks, 'o')
-plt.xlabel('Bottles')
-plt.ylabel('Matches max at position')
-plt.axis([0, len(bottlesNames), -1, len(bottlesNames)+1])
+x = np.array(range(len(bottlesNames)))
+x += 1
+plt.plot(x, ranks, 'o')
+plt.xlabel('Position')
+plt.ylabel('Matches')
+#plt.axis([0, len(bottlesNames)+1, -1, len(bottlesImages)])
 plt.grid()
 plt.title('Matches plot')
 plt.show()
