@@ -8,9 +8,10 @@ from util import extractFileName
 # Images' directories
 gtDir = 'images_winebottles\\gt\\'
 bottlesDir = 'images_winebottles\\bottles\\'
+rawDir = 'images_winebottles\\raw\\'
 
 # Import dataset
-bottlesImages = importDataset('bottles')
+bottlesImages = importDataset('raw') # or 'raw'
 gtImages = importDataset('gt')
 
 # List of bottles names
@@ -81,13 +82,15 @@ for i in range(0,len(bottlesImages)):
     filename = filename + '_results.json'
     with open(filename, 'w') as file:
         results = json.dump(list, file, indent = 4)
-    print(filename + ' ready.')
+    #print(filename + ' ready.')
 
     # Search for correct matches
     folderName = extractFileName(image, -2)
     for idx in range(len(indexes)):
         if folderName == bottlesNames[indexes[idx]]:
             ranks[idx] += 1
+            if idx != 0:
+                print(filename + "doesn't match correctly!")
 
 # Show plot given ranks
 x = np.array(range(len(bottlesNames)))
