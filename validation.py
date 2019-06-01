@@ -11,7 +11,7 @@ bottlesDir = 'images_winebottles\\bottles\\'
 rawDir = 'images_winebottles\\raw\\'
 
 # Import dataset
-bottlesImages = importDataset('raw') # or 'raw'
+bottlesImages = importDataset('bottles') # or 'raw'
 gtImages = importDataset('gt')
 
 # List of bottles names
@@ -90,7 +90,7 @@ for i in range(0,len(bottlesImages)):
         if folderName == bottlesNames[indexes[idx]]:
             ranks[idx] += 1
             if idx != 0:
-                print(filename + "doesn't match correctly!")
+                print(filename + " doesn't match correctly!")
 
 # Show plot given ranks
 x = np.array(range(len(bottlesNames)))
