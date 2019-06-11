@@ -1,0 +1,134 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    71,
+                    410,
+                    38,
+                    410,
+                    38,
+                    399,
+                    71,
+                    400
+                ],
+                "text": "CAPARZU",
+                "words": [
+                    {
+                        "boundingBox": [
+                            68,
+                            409,
+                            37,
+                            409,
+                            38,
+                            398,
+                            68,
+                            398
+                        ],
+                        "confidence": "Low",
+                        "text": "CAPARZU"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    94,
+                    221,
+                    22,
+                    221,
+                    21,
+                    201,
+                    93,
+                    200
+                ],
+                "text": "CAPARZO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            90,
+                            221,
+                            22,
+                            222,
+                            22,
+                            202,
+                            89,
+                            201
+                        ],
+                        "text": "CAPARZO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    90,
+                    143,
+                    23,
+                    140,
+                    24,
+                    126,
+                    91,
+                    128
+                ],
+                "text": "BRUNELLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            85,
+                            143,
+                            24,
+                            141,
+                            24,
+                            127,
+                            86,
+                            129
+                        ],
+                        "text": "BRUNELLO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    100,
+                    129,
+                    11,
+                    129,
+                    10,
+                    114,
+                    99,
+                    113
+                ],
+                "text": "DI MONTALCINO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            99,
+                            129,
+                            89,
+                            129,
+                            89,
+                            114,
+                            99,
+                            115
+                        ],
+                        "confidence": "Low",
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            85,
+                            128,
+                            11,
+                            129,
+                            12,
+                            115,
+                            86,
+                            114
+                        ],
+                        "text": "MONTALCINO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

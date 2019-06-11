@@ -1,0 +1,107 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    18,
+                    114,
+                    105,
+                    113,
+                    106,
+                    127,
+                    19,
+                    129
+                ],
+                "text": "DI WONLVICINO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            19,
+                            115,
+                            29,
+                            115,
+                            29,
+                            128,
+                            19,
+                            129
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            31,
+                            115,
+                            106,
+                            114,
+                            105,
+                            128,
+                            32,
+                            128
+                        ],
+                        "confidence": "Low",
+                        "text": "WONLVICINO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    29,
+                    128,
+                    95,
+                    126,
+                    96,
+                    141,
+                    30,
+                    143
+                ],
+                "text": "BEONErTO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            31,
+                            129,
+                            96,
+                            127,
+                            96,
+                            142,
+                            31,
+                            143
+                        ],
+                        "confidence": "Low",
+                        "text": "BEONErTO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    99,
+                    220,
+                    25,
+                    221,
+                    24,
+                    201,
+                    99,
+                    201
+                ],
+                "text": "OSAAqAJ",
+                "words": [
+                    {
+                        "boundingBox": [
+                            95,
+                            221,
+                            25,
+                            221,
+                            25,
+                            202,
+                            95,
+                            201
+                        ],
+                        "confidence": "Low",
+                        "text": "OSAAqAJ"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

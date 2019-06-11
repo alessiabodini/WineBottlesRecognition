@@ -1,4 +1,6 @@
 import os
+import json
+from numpy import *
 
 def importDataset(dataset):
     # Images' directories
@@ -72,3 +74,20 @@ def extractFileName(path, part):
         index = name.find('.')
         return name[:index]
     return name
+
+
+# Import information about bottles
+def importBottles():
+    with open('bottles.json', 'r') as file:
+        bottles = json.load(file)
+
+    wordsInBottles = []
+    for bottle in bottles['bottles']:
+        words = []
+        words.append(bottle['name'])
+        for word in bottle['words']:
+            words.append(word)
+        wordsInBottles.append(words)
+
+    #print(wordsInBottles)
+    return wordsInBottles
