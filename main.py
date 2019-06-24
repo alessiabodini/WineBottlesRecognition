@@ -3,8 +3,8 @@ import os
 import numpy as np
 import matplotlib.pyplot as plt
 from util import *
+from get_scores import getScores
 from recognition import *
-from pyxdameraulevenshtein import *
 
 # Image directory
 dir = 'images_winebottles\\text\\'
@@ -12,6 +12,12 @@ dir = 'images_winebottles\\text\\'
 # Import information from bottles
 wordsInBottles = importBottles()
 wordsInBottles = np.array(wordsInBottles)
+
+# List of bottles names
+gtImages = importDataset('gt')
+bottlesNames = []
+for i in range(0, len(gtImages)):
+    bottlesNames.append(extractFileName(gtImages[i], -1))
 
 command = ''
 while command != 'quit':
@@ -47,10 +53,9 @@ while command != 'quit':
                 if word['text'] not in wordsBottle:
                     wordsBottle.append(word['text'])
 
-        #print(wordsBottle)
+        print(wordsBottle)
 
-    # SCORES PART TO COMPLETE
-    scores = np.zeros([len(wordsInBottles)])
-    print(scores)
-    #for word in wordsBottle:
-    #    damerau_levenshtein_distance_ndarray(word,)
+    scores = getScores(wordsBottle)
+    indexRank = np.argsort(scores)
+    rank = gtImages(indexRank)
+    print(rank)
