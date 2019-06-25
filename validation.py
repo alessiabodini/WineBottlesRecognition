@@ -16,7 +16,7 @@ gtImages = importDataset('gt')
 
 # List of bottles names
 bottlesNames = []
-for i in range(0, len(gtImages)):
+for i in range(len(gtImages)):
     bottlesNames.append(extractFileName(gtImages[i], -1))
 
 # Creat array with score for every gtImage

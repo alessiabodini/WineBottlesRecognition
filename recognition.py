@@ -25,38 +25,40 @@ def recognition(images):
     for name in images:
         index = name.find('.')
         filename = name[:index] + '.json'
-        exists = os.path.isfile(filename)
-        if not exists:
-            with open(name, 'rb') as image:
-                img = image.read()
-                print(name)
+        #exists = os.path.isfile(filename)
+        with open(name, 'rb') as image:
+            img = image.read()
+            print(name)
 
-                try:
-                    conn = http.client.HTTPSConnection('westeurope.api.cognitive.microsoft.com')
-                    conn.request('POST', '/vision/v2.0/recognizeText?%s' % params,
-                        img, headersPost)
-                    response = conn.getresponse()
-                    print(response.status, response.reason)
-                    location = response.getheader('Operation-Location')
-                    #print(location)
-                    conn.close()
+            try:
+                conn = http.client.HTTPSConnection('westeurope.api.cognitive.microsoft.com')
+                conn.request('POST', '/vision/v2.0/recognizeText?%s' % params,
+                    img, headersPost)
+                response = conn.getresponse()
+                print(response.status, response.reason)
+                location = response.getheader('Operation-Location')
+                #print(location)
+                conn.close()
 
-                    time.sleep(3)
-                    conn = http.client.HTTPSConnection('westeurope.api.cognitive.microsoft.com')
-                    conn.request('GET', location, '', headersGet)
-                    response = conn.getresponse()
-                    print(response.status, response.reason)
-                    data = response.read()
-                    #print(data)
-                    conn.close()
+                time.sleep(3)
+                conn = http.client.HTTPSConnection('westeurope.api.cognitive.microsoft.com')
+                conn.request('GET', location, '', headersGet)
+                response = conn.getresponse()
+                print(response.status, response.reason)
+                if response.status >= 400 and response.status < 500:
+                    print('Something went wrong, try again.')
+                    return 0
+                data = response.read()
+                #print(data)
+                conn.close()
 
-                    data = json.loads(data.decode('utf8'))
-                    #print(data)
-                    with open(filename, 'w') as file:
-                        json.dump(data, file, sort_keys = True, indent = 4)
+                data = json.loads(data.decode('utf8'))
+                #print(data)
+                with open(filename, 'w') as file:
+                    json.dump(data, file, sort_keys = True, indent = 4)
 
 
-                except Exception as e:
-                    print("[Errno {0}] {1}".format(e.errno, e.strerror))
+            except Exception as e:
+                print("[Errno {0}] {1}".format(e.errno, e.strerror))
 
     print('Recognition ended.')

@@ -16,7 +16,7 @@ wordsInBottles = np.array(wordsInBottles)
 # List of bottles names
 gtImages = importDataset('gt')
 bottlesNames = []
-for i in range(0, len(gtImages)):
+for i in range(len(gtImages)):
     bottlesNames.append(extractFileName(gtImages[i], -1))
 
 command = ''
@@ -31,7 +31,9 @@ while command != 'quit':
 
     # Call recognition process
     image = dir + command
-    recognition([image])
+    response = recognition([image])
+    if response == 0:
+        break
 
     # Create .json file if it doesn't exist
     index = image.find('.')
@@ -55,7 +57,9 @@ while command != 'quit':
 
         print(wordsBottle)
 
+    # Print the name of the bottle
     scores = getScores(wordsBottle)
-    indexRank = np.argsort(scores)
-    rank = gtImages(indexRank)
+    indexRank = np.argmax(scores)
+    bottlesNames = np.asarray(bottlesNames)
+    rank = bottlesNames[indexRank]
     print(rank)

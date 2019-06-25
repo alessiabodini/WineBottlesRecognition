@@ -17,7 +17,6 @@ def getScores(wordsImage):
     # e relative score with given image
     gtImages = importDataset('gt')
     recognition(gtImages)
-    distance = np.zeros(len(wordsImage))
     for i in range(len(gtImages)):
         gtImage = gtImages[i]
         index = gtImage.find('.')
@@ -33,11 +32,9 @@ def getScores(wordsImage):
                     wordsGt.append(word['text'])
 
         print(wordsGt)
-        wordsGt = np.array(['CAPARZO', 'MONTALCINO'])
-        for j in range(len(wordsImage)):
-            print(wordsImage[j])
-            print(wordsGt)
-            distance[j] = damerau_levenshtein_distance_ndarray('caparzo', wordsGt)
-        scores[i] = sum(distance)
+        scores = np.zeros(len(gtImages))
+        for wordImage in range(len(wordsImage)):
+            for wordGt in range(len(wordsGt)):
+                scores[i] += damerau_levenshtein_distance(wordImage, wordGt)
 
     return scores
