@@ -7,7 +7,7 @@ from get_scores import getScores
 from recognition import *
 
 # Image directory
-dir = 'images_winebottles\\text\\'
+dir = 'images_winebottles\\test\\'
 
 # Import information from bottles
 wordsInBottles = importBottles()
@@ -22,7 +22,7 @@ for i in range(len(gtImages)):
 command = ''
 while command != 'quit':
     # Ask for image name
-    command = input('Enter the name of an image in \'images_winebottles\\text\': ')
+    command = input('Enter the name of an image in \'images_winebottles\\test\': ')
     if command == 'quit':
         break
     if '.' not in command:
@@ -55,11 +55,13 @@ while command != 'quit':
                 if word['text'] not in wordsBottle:
                     wordsBottle.append(word['text'])
 
-        print(wordsBottle)
-
     # Print the name of the bottle
     scores = getScores(wordsBottle)
-    indexRank = np.argmax(scores)
+    #print(np.sort(scores))
+    #indexSort = np.argsort(scores)
+    indexRank = np.argmin(scores)
     bottlesNames = np.asarray(bottlesNames)
     rank = bottlesNames[indexRank]
-    print(rank)
+    #sort = bottlesNames[indexSort]
+    #print(sort)
+    print('La bottiglia indicata corrisponde a: ', rank)
