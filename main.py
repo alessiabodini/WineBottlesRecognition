@@ -1,5 +1,7 @@
 import json
 import os
+import win32print
+import win32api
 import numpy as np
 import matplotlib.pyplot as plt
 from util import *
@@ -8,6 +10,10 @@ from recognition import *
 
 # Image directory
 dir = 'images_winebottles\\test\\'
+
+# Paths for pdf printing
+GHOSTSCRIPT_PATH = "GHOSTSCRIPT\\bin\\gswin32.exe"
+GSPRINT_PATH = "GSPRINT\\gsprint.exe"
 
 # Import information from bottles
 wordsInBottles = importBottles()
@@ -57,11 +63,17 @@ while command != 'quit':
 
     # Print the name of the bottle
     scores = getScores(wordsBottle)
-    #print(np.sort(scores))
-    #indexSort = np.argsort(scores)
+    print(scores)
+    indexSort = np.argsort(scores)
     indexRank = np.argmin(scores)
     bottlesNames = np.asarray(bottlesNames)
     rank = bottlesNames[indexRank]
     #sort = bottlesNames[indexSort]
     #print(sort)
     print('La bottiglia indicata corrisponde a: ', rank)
+
+    # Print pdf with all the info about the chosen bottle???
+    # YOU CAN PUT HERE THE NAME OF YOUR SPECIFIC PRINTER INSTEAD OF DEFAULT
+    currentprinter = win32print.GetDefaultPrinter()
+    pdfName = 'images_winebottles\\pdf\\CadelBosco.pdf'
+    win32api.ShellExecute(0, 'open', GSPRINT_PATH, '-ghostscript "'+GHOSTSCRIPT_PATH+'" -printer "'+currentprinter+'" pdfName', '.', 0)

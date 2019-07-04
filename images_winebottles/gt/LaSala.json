@@ -1,0 +1,258 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    30,
+                    349,
+                    127,
+                    350,
+                    126,
+                    369,
+                    30,
+                    369
+                ],
+                "text": "LA SALA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            31,
+                            350,
+                            59,
+                            350,
+                            58,
+                            369,
+                            30,
+                            369
+                        ],
+                        "text": "LA"
+                    },
+                    {
+                        "boundingBox": [
+                            66,
+                            350,
+                            127,
+                            351,
+                            126,
+                            370,
+                            65,
+                            369
+                        ],
+                        "text": "SALA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    22,
+                    390,
+                    136,
+                    389,
+                    136,
+                    402,
+                    23,
+                    402
+                ],
+                "text": "CHIANTI CLASSICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            23,
+                            390,
+                            74,
+                            390,
+                            74,
+                            403,
+                            23,
+                            402
+                        ],
+                        "text": "CHIANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            77,
+                            390,
+                            135,
+                            390,
+                            135,
+                            402,
+                            76,
+                            403
+                        ],
+                        "text": "CLASSICO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    23,
+                    403,
+                    135,
+                    404,
+                    134,
+                    413,
+                    22,
+                    412
+                ],
+                "text": "DENOMINADONE IN ORIGINE CONTROLLATE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            24,
+                            404,
+                            64,
+                            406,
+                            64,
+                            413,
+                            23,
+                            412
+                        ],
+                        "confidence": "Low",
+                        "text": "DENOMINADONE"
+                    },
+                    {
+                        "boundingBox": [
+                            66,
+                            406,
+                            72,
+                            406,
+                            71,
+                            413,
+                            66,
+                            413
+                        ],
+                        "text": "IN"
+                    },
+                    {
+                        "boundingBox": [
+                            73,
+                            406,
+                            97,
+                            406,
+                            97,
+                            413,
+                            73,
+                            413
+                        ],
+                        "confidence": "Low",
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            99,
+                            406,
+                            135,
+                            405,
+                            135,
+                            412,
+                            98,
+                            413
+                        ],
+                        "confidence": "Low",
+                        "text": "CONTROLLATE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    57,
+                    413,
+                    99,
+                    414,
+                    98,
+                    420,
+                    56,
+                    420
+                ],
+                "text": "EGARANTITA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            59,
+                            414,
+                            99,
+                            414,
+                            98,
+                            420,
+                            59,
+                            420
+                        ],
+                        "text": "EGARANTITA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    46,
+                    431,
+                    111,
+                    434,
+                    110,
+                    449,
+                    45,
+                    447
+                ],
+                "text": "Vendemania",
+                "words": [
+                    {
+                        "boundingBox": [
+                            50,
+                            432,
+                            111,
+                            434,
+                            111,
+                            449,
+                            50,
+                            447
+                        ],
+                        "confidence": "Low",
+                        "text": "Vendemania"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    56,
+                    568,
+                    98,
+                    567,
+                    99,
+                    579,
+                    56,
+                    580
+                ],
+                "text": "+ vivino",
+                "words": [
+                    {
+                        "boundingBox": [
+                            58,
+                            568,
+                            64,
+                            568,
+                            65,
+                            580,
+                            59,
+                            580
+                        ],
+                        "confidence": "Low",
+                        "text": "+"
+                    },
+                    {
+                        "boundingBox": [
+                            67,
+                            568,
+                            98,
+                            568,
+                            98,
+                            579,
+                            67,
+                            580
+                        ],
+                        "text": "vivino"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}
