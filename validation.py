@@ -2,8 +2,9 @@ import json
 import os
 import numpy as np
 import matplotlib.pyplot as plt
-from util import importDataset
-from util import extractFileName
+from util import *
+from get_scores import getScores
+from recognition import *
 
 # Images' directories
 gtDir = 'images_winebottles\\gt\\'
@@ -19,8 +20,6 @@ bottlesNames = []
 for i in range(len(gtImages)):
     bottlesNames.append(extractFileName(gtImages[i], -1))
 
-# Creat array with score for every gtImage
-scores = np.zeros([len(bottlesImages),len(gtImages)])
 ranks = np.zeros(len(gtImages))
 
 for i in range(0,len(bottlesImages)):
@@ -40,57 +39,28 @@ for i in range(0,len(bottlesImages)):
         with open(filename, 'r') as file:
             jsonBottle = json.load(file)
         # Copy all words found
-        wordsBottles = []
+        wordsBottle = []
         for words in jsonBottle['recognitionResult']['lines']:
             for word in words['words']:
-                if word['text'] not in wordsBottles:
-                    wordsBottles.append(word['text'])
+                if word['text'] not in wordsBottle:
+                    wordsBottle.append(word['text'])
 
         # Get recognition results for every image in gt
-        # and count matching words with image from bottles
-        for j in range(0,len(gtImages)):
-            gtImage = gtImages[j]
-            index = gtImage.find('.')
-            filenameGt = gtImage[:index] + '.json'
-            # Open file with results of gtImage
-            with open(filenameGt, 'r') as file:
-                jsonGt = json.load(file)
-            # Copy all words found
-            wordsGt = []
-            for words in jsonGt['recognitionResult']['lines']:
-                for word in words['words']:
-                    if word['text'] not in wordsGt:
-                        wordsGt.append(word['text'])
-
-            for word in wordsBottles:
-                if word in wordsGt:
-                    scores[i][j] += 1
+        # and calculate score with image from bottles
+        scores = getScores(wordsBottle)
 
     # Sort scores and corresponding gtImages
-    list = [None] * len(gtImages)
-    indexes = np.argsort(-(scores[i])) # negate array to have descending order
-    #matches = gtImages[indexes] # error
-    k = 0
-    for j in indexes:
-        match = bottlesNames[j]
-        list[k] = match
-        k += 1
-
-    # Save gtImages sorted for score
-    index = filename.find('.')
-    filename = filename[:index]
-    filename = filename + '_results.json'
-    with open(filename, 'w') as file:
-        results = json.dump(list, file, indent = 4)
-    #print(filename + ' ready.')
+    indexSort = np.argsort(scores)
+    indexRank = np.argmin(scores)
+    bottlesNames = np.asarray(bottlesNames)
+    rank = bottlesNames[indexRank]
+    sort = bottlesNames[indexSort]
 
     # Search for correct matches
     folderName = extractFileName(image, -2)
-    for idx in range(len(indexes)):
-        if folderName == bottlesNames[indexes[idx]]:
+    for idx in range(len(indexSort)):
+        if bottlesNames[indexSort[idx]] == folderName:
             ranks[idx] += 1
-            if idx != 0:
-                print(filename + " doesn't match correctly!")
 
 # Show plot given ranks
 x = np.array(range(len(bottlesNames)))

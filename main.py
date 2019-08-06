@@ -12,8 +12,8 @@ from recognition import *
 dir = 'images_winebottles\\test\\'
 
 # Paths for pdf printing
-GHOSTSCRIPT_PATH = "GHOSTSCRIPT\\bin\\gswin32.exe"
-GSPRINT_PATH = "GSPRINT\\gsprint.exe"
+#GHOSTSCRIPT_PATH = "GHOSTSCRIPT\\bin\\gswin32.exe"
+#GSPRINT_PATH = "GSPRINT\\gsprint.exe"
 
 # Import information from bottles
 wordsInBottles = importBottles()
@@ -28,7 +28,8 @@ for i in range(len(gtImages)):
 command = ''
 while command != 'quit':
     # Ask for image name
-    command = input('Enter the name of an image in \'images_winebottles\\test\': ')
+    command = input('\nEnter the name of an image in \'images_winebottles\\test\': ')
+    print()
     if command == 'quit':
         break
     if '.' not in command:
@@ -63,17 +64,18 @@ while command != 'quit':
 
     # Print the name of the bottle
     scores = getScores(wordsBottle)
-    print(scores)
+    #print(scores)
     indexSort = np.argsort(scores)
     indexRank = np.argmin(scores)
     bottlesNames = np.asarray(bottlesNames)
     rank = bottlesNames[indexRank]
-    #sort = bottlesNames[indexSort]
-    #print(sort)
-    print('La bottiglia indicata corrisponde a: ', rank)
+    sort = bottlesNames[indexSort]
+    print('\nSorting bottles for similarities with the chosen one:\n', sort)
+    print('\nThe name of the bottle is: ', rank)
+    print()
 
     # Print pdf with all the info about the chosen bottle???
     # YOU CAN PUT HERE THE NAME OF YOUR SPECIFIC PRINTER INSTEAD OF DEFAULT
-    currentprinter = win32print.GetDefaultPrinter()
-    pdfName = 'images_winebottles\\pdf\\CadelBosco.pdf'
-    win32api.ShellExecute(0, 'open', GSPRINT_PATH, '-ghostscript "'+GHOSTSCRIPT_PATH+'" -printer "'+currentprinter+'" pdfName', '.', 0)
+    #currentprinter = win32print.GetDefaultPrinter()
+    #pdfName = 'images_winebottles\\pdf\\CadelBosco.pdf'
+    #win32api.ShellExecute(0, 'open', GSPRINT_PATH, '-ghostscript "'+GHOSTSCRIPT_PATH+'" -printer "'+currentprinter+'" pdfName', '.', 0)

@@ -33,6 +33,8 @@ def getScores(wordsImage):
                 if word['text'] not in wordsGt:
                     wordsGt.append(word['text'])
 
+        # For every word in the selected bottle find the distance with every
+        # word of the selected gt image
         for j in range(len(wordsImage)):
             for wordGt in wordsGt:
                 new = normalized_damerau_levenshtein_distance(wordsImage[j], wordGt)

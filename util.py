@@ -22,7 +22,7 @@ def importDataset(dataset):
     #print(len(gtImages))
 
     if dataset == 'gt':
-        print('Images names loaded.')
+        #print('Images names loaded.')
         return gtImages
 
     if 'bottles' in dataset or 'all' in dataset:
@@ -38,7 +38,7 @@ def importDataset(dataset):
                     name = os.path.join(root, name)
                     bottlesImages.append(name)
         #print(len(bottlesImages))
-        print('Images names loaded.')
+        #print('Images names loaded.')
         if dataset == 'bottles':
             return bottlesImages
         elif dataset == 'bottles+gt':
@@ -57,7 +57,7 @@ def importDataset(dataset):
                     name = os.path.join(root, name)
                     rawImages.append(name)
         #print(len(rawImages))
-        print('Images names loaded.')
+        #print('Images names loaded.')
         if dataset == 'raw':
             return rawImages
         elif dataset == 'raw+gt':
