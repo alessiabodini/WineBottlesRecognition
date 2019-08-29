@@ -1,0 +1,78 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    82,
+                    220,
+                    83,
+                    139,
+                    98,
+                    140,
+                    96,
+                    221
+                ],
+                "text": "DONNA WALDA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            83,
+                            212,
+                            83,
+                            180,
+                            97,
+                            180,
+                            96,
+                            213
+                        ],
+                        "confidence": "Low",
+                        "text": "DONNA"
+                    },
+                    {
+                        "boundingBox": [
+                            83,
+                            177,
+                            84,
+                            140,
+                            98,
+                            141,
+                            97,
+                            178
+                        ],
+                        "text": "WALDA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    89,
+                    10,
+                    124,
+                    13,
+                    122,
+                    33,
+                    87,
+                    29
+                ],
+                "text": "UCCI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            90,
+                            9,
+                            123,
+                            12,
+                            121,
+                            32,
+                            88,
+                            29
+                        ],
+                        "confidence": "Low",
+                        "text": "UCCI"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,192 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    173,
+                    64,
+                    202,
+                    28,
+                    210,
+                    35,
+                    181,
+                    71
+                ],
+                "text": "CAVALLER",
+                "words": [
+                    {
+                        "boundingBox": [
+                            175,
+                            64,
+                            202,
+                            29,
+                            210,
+                            35,
+                            182,
+                            70
+                        ],
+                        "confidence": "Low",
+                        "text": "CAVALLER"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    169,
+                    132,
+                    206,
+                    87,
+                    215,
+                    95,
+                    178,
+                    140
+                ],
+                "text": "CAVALLERI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            175,
+                            127,
+                            206,
+                            89,
+                            215,
+                            96,
+                            183,
+                            134
+                        ],
+                        "confidence": "Low",
+                        "text": "CAVALLERI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    174,
+                    173,
+                    207,
+                    172,
+                    207,
+                    182,
+                    175,
+                    184
+                ],
+                "text": "puts dose",
+                "words": [
+                    {
+                        "boundingBox": [
+                            176,
+                            174,
+                            190,
+                            174,
+                            189,
+                            184,
+                            176,
+                            184
+                        ],
+                        "confidence": "Low",
+                        "text": "puts"
+                    },
+                    {
+                        "boundingBox": [
+                            192,
+                            173,
+                            207,
+                            172,
+                            207,
+                            183,
+                            191,
+                            184
+                        ],
+                        "confidence": "Low",
+                        "text": "dose"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    176,
+                    182,
+                    204,
+                    182,
+                    204,
+                    194,
+                    175,
+                    193
+                ],
+                "text": "2013",
+                "words": [
+                    {
+                        "boundingBox": [
+                            180,
+                            181,
+                            203,
+                            181,
+                            203,
+                            193,
+                            180,
+                            193
+                        ],
+                        "text": "2013"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    148,
+                    449,
+                    231,
+                    442,
+                    233,
+                    459,
+                    150,
+                    466
+                ],
+                "text": "CAVALLERI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            151,
+                            450,
+                            231,
+                            443,
+                            233,
+                            457,
+                            151,
+                            464
+                        ],
+                        "text": "CAVALLERI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    157,
+                    467,
+                    221,
+                    463,
+                    222,
+                    476,
+                    158,
+                    479
+                ],
+                "text": "Franciacorta",
+                "words": [
+                    {
+                        "boundingBox": [
+                            159,
+                            467,
+                            222,
+                            464,
+                            222,
+                            476,
+                            159,
+                            479
+                        ],
+                        "text": "Franciacorta"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

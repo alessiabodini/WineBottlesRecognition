@@ -1,0 +1,148 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    111,
+                    1274,
+                    156,
+                    837,
+                    205,
+                    842,
+                    160,
+                    1280
+                ],
+                "text": "DONNA WALDA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            112,
+                            1275,
+                            137,
+                            1044,
+                            181,
+                            1048,
+                            162,
+                            1280
+                        ],
+                        "text": "DONNA"
+                    },
+                    {
+                        "boundingBox": [
+                            139,
+                            1021,
+                            158,
+                            838,
+                            205,
+                            843,
+                            183,
+                            1025
+                        ],
+                        "confidence": "Low",
+                        "text": "WALDA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    235,
+                    889,
+                    238,
+                    838,
+                    253,
+                    838,
+                    250,
+                    890
+                ],
+                "text": "LADORI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            236,
+                            884,
+                            238,
+                            839,
+                            253,
+                            840,
+                            251,
+                            885
+                        ],
+                        "confidence": "Low",
+                        "text": "LADORI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    247,
+                    942,
+                    256,
+                    837,
+                    272,
+                    839,
+                    263,
+                    944
+                ],
+                "text": "Biologico 2018",
+                "words": [
+                    {
+                        "boundingBox": [
+                            249,
+                            935,
+                            255,
+                            871,
+                            270,
+                            872,
+                            264,
+                            936
+                        ],
+                        "confidence": "Low",
+                        "text": "Biologico"
+                    },
+                    {
+                        "boundingBox": [
+                            255,
+                            868,
+                            256,
+                            838,
+                            272,
+                            839,
+                            270,
+                            869
+                        ],
+                        "text": "2018"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    256,
+                    522,
+                    291,
+                    523,
+                    288,
+                    557,
+                    253,
+                    556
+                ],
+                "text": "CI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            262,
+                            522,
+                            289,
+                            522,
+                            288,
+                            556,
+                            261,
+                            556
+                        ],
+                        "text": "CI"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

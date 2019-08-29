@@ -1,0 +1,117 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    345,
+                    359,
+                    699,
+                    360,
+                    698,
+                    424,
+                    344,
+                    423
+                ],
+                "text": "GIANCARLO CECI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            345,
+                            363,
+                            594,
+                            360,
+                            594,
+                            424,
+                            345,
+                            420
+                        ],
+                        "text": "GIANCARLO"
+                    },
+                    {
+                        "boundingBox": [
+                            605,
+                            360,
+                            696,
+                            361,
+                            697,
+                            422,
+                            606,
+                            424
+                        ],
+                        "text": "CECI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    264,
+                    733,
+                    770,
+                    723,
+                    772,
+                    828,
+                    266,
+                    837
+                ],
+                "text": "PANASCIO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            274,
+                            735,
+                            759,
+                            725,
+                            763,
+                            823,
+                            266,
+                            826
+                        ],
+                        "text": "PANASCIO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    264,
+                    829,
+                    767,
+                    818,
+                    769,
+                    890,
+                    266,
+                    901
+                ],
+                "text": "BOMBINO BIANCO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            274,
+                            831,
+                            526,
+                            838,
+                            528,
+                            896,
+                            269,
+                            879
+                        ],
+                        "text": "BOMBINO"
+                    },
+                    {
+                        "boundingBox": [
+                            564,
+                            836,
+                            759,
+                            819,
+                            766,
+                            870,
+                            567,
+                            895
+                        ],
+                        "text": "BIANCO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

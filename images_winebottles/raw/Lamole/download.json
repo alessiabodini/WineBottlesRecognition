@@ -1,0 +1,230 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    2,
+                    74,
+                    117,
+                    7,
+                    127,
+                    25,
+                    12,
+                    92
+                ],
+                "text": "VINETO DI CAMPOLUNGA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            6,
+                            81,
+                            41,
+                            53,
+                            48,
+                            65,
+                            14,
+                            91
+                        ],
+                        "confidence": "Low",
+                        "text": "VINETO"
+                    },
+                    {
+                        "boundingBox": [
+                            43,
+                            52,
+                            56,
+                            43,
+                            63,
+                            56,
+                            50,
+                            64
+                        ],
+                        "confidence": "Low",
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            59,
+                            42,
+                            121,
+                            14,
+                            126,
+                            27,
+                            65,
+                            55
+                        ],
+                        "confidence": "Low",
+                        "text": "CAMPOLUNGA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    69,
+                    106,
+                    121,
+                    74,
+                    129,
+                    88,
+                    78,
+                    120
+                ],
+                "text": "Lamole",
+                "words": [
+                    {
+                        "boundingBox": [
+                            72,
+                            106,
+                            120,
+                            78,
+                            126,
+                            91,
+                            80,
+                            119
+                        ],
+                        "text": "Lamole"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    78,
+                    118,
+                    125,
+                    90,
+                    132,
+                    102,
+                    86,
+                    130
+                ],
+                "text": "Lamole",
+                "words": [
+                    {
+                        "boundingBox": [
+                            80,
+                            118,
+                            125,
+                            90,
+                            132,
+                            104,
+                            87,
+                            130
+                        ],
+                        "text": "Lamole"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    68,
+                    193,
+                    187,
+                    120,
+                    196,
+                    135,
+                    78,
+                    209
+                ],
+                "text": "CHIANTI CLASSICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            73,
+                            191,
+                            129,
+                            158,
+                            136,
+                            173,
+                            80,
+                            205
+                        ],
+                        "text": "CHIANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            132,
+                            156,
+                            187,
+                            120,
+                            195,
+                            133,
+                            140,
+                            171
+                        ],
+                        "text": "CLASSICO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    99,
+                    203,
+                    188,
+                    149,
+                    195,
+                    160,
+                    107,
+                    215
+                ],
+                "text": "GRAN SELEZIONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            101,
+                            204,
+                            128,
+                            189,
+                            133,
+                            199,
+                            106,
+                            212
+                        ],
+                        "text": "GRAN"
+                    },
+                    {
+                        "boundingBox": [
+                            136,
+                            184,
+                            188,
+                            149,
+                            194,
+                            158,
+                            141,
+                            194
+                        ],
+                        "text": "SELEZIONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    134,
+                    199,
+                    169,
+                    176,
+                    176,
+                    187,
+                    141,
+                    209
+                ],
+                "text": "2010",
+                "words": [
+                    {
+                        "boundingBox": [
+                            137,
+                            198,
+                            170,
+                            178,
+                            175,
+                            187,
+                            143,
+                            208
+                        ],
+                        "text": "2010"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

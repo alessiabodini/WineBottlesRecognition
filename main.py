@@ -25,6 +25,12 @@ bottlesNames = []
 for i in range(len(gtImages)):
     bottlesNames.append(extractFileName(gtImages[i], -1))
 
+#rawImages = importDataset('raw')
+#bottlesImages = importDataset('bottles')
+#print(len(rawImages))
+#print(len(bottlesImages))
+#print(len(gtImages))
+
 command = ''
 while command != 'quit':
     # Ask for image name
@@ -65,8 +71,7 @@ while command != 'quit':
     # Print the name of the bottle
     scores = getScores(wordsBottle)
     indexSort = np.argsort(scores)
-    print(scores)
-    print(bottlesNames)
+    #print(scores)
     indexRank = np.argmin(scores)
     bottlesNames = np.asarray(bottlesNames)
     rank = bottlesNames[indexRank]

@@ -1,0 +1,108 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    132,
+                    102,
+                    189,
+                    106,
+                    188,
+                    117,
+                    131,
+                    112
+                ],
+                "text": "HIANTI CLASSIT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            134,
+                            104,
+                            160,
+                            105,
+                            158,
+                            114,
+                            132,
+                            112
+                        ],
+                        "confidence": "Low",
+                        "text": "HIANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            161,
+                            105,
+                            189,
+                            108,
+                            187,
+                            117,
+                            160,
+                            114
+                        ],
+                        "confidence": "Low",
+                        "text": "CLASSIT"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    149,
+                    120,
+                    170,
+                    126,
+                    168,
+                    133,
+                    147,
+                    127
+                ],
+                "text": "2012",
+                "words": [
+                    {
+                        "boundingBox": [
+                            153,
+                            122,
+                            170,
+                            126,
+                            169,
+                            133,
+                            151,
+                            129
+                        ],
+                        "confidence": "Low",
+                        "text": "2012"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    22,
+                    164,
+                    53,
+                    163,
+                    54,
+                    173,
+                    23,
+                    175
+                ],
+                "text": "ROUGE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            25,
+                            166,
+                            54,
+                            164,
+                            54,
+                            174,
+                            26,
+                            175
+                        ],
+                        "confidence": "Low",
+                        "text": "ROUGE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

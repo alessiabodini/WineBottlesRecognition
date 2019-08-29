@@ -1,0 +1,983 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    177,
+                    69,
+                    200,
+                    62,
+                    202,
+                    69,
+                    179,
+                    76
+                ],
+                "text": "SESI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            178,
+                            69,
+                            199,
+                            63,
+                            202,
+                            69,
+                            181,
+                            76
+                        ],
+                        "confidence": "Low",
+                        "text": "SESI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    48,
+                    160,
+                    111,
+                    83,
+                    123,
+                    93,
+                    60,
+                    170
+                ],
+                "text": "STELLO DEI RAMA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            51,
+                            158,
+                            78,
+                            125,
+                            89,
+                            133,
+                            63,
+                            166
+                        ],
+                        "text": "STELLO"
+                    },
+                    {
+                        "boundingBox": [
+                            81,
+                            122,
+                            90,
+                            111,
+                            100,
+                            120,
+                            92,
+                            130
+                        ],
+                        "confidence": "Low",
+                        "text": "DEI"
+                    },
+                    {
+                        "boundingBox": [
+                            91,
+                            109,
+                            112,
+                            84,
+                            123,
+                            93,
+                            102,
+                            118
+                        ],
+                        "confidence": "Low",
+                        "text": "RAMA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    312,
+                    105,
+                    222,
+                    62,
+                    228,
+                    48,
+                    319,
+                    91
+                ],
+                "text": "HELLO DA RAMPOLLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            313,
+                            104,
+                            294,
+                            93,
+                            298,
+                            83,
+                            317,
+                            95
+                        ],
+                        "confidence": "Low",
+                        "text": "HELLO"
+                    },
+                    {
+                        "boundingBox": [
+                            291,
+                            91,
+                            281,
+                            86,
+                            285,
+                            76,
+                            296,
+                            81
+                        ],
+                        "confidence": "Low",
+                        "text": "DA"
+                    },
+                    {
+                        "boundingBox": [
+                            279,
+                            85,
+                            223,
+                            63,
+                            228,
+                            52,
+                            283,
+                            74
+                        ],
+                        "confidence": "Low",
+                        "text": "RAMPOLLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    102,
+                    193,
+                    147,
+                    139,
+                    158,
+                    147,
+                    113,
+                    202
+                ],
+                "text": "SAMMARTITY",
+                "words": [
+                    {
+                        "boundingBox": [
+                            112,
+                            187,
+                            145,
+                            142,
+                            156,
+                            149,
+                            120,
+                            192
+                        ],
+                        "confidence": "Low",
+                        "text": "SAMMARTITY"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    475,
+                    61,
+                    509,
+                    50,
+                    513,
+                    61,
+                    478,
+                    71
+                ],
+                "text": "CAST",
+                "words": [
+                    {
+                        "boundingBox": [
+                            481,
+                            59,
+                            510,
+                            51,
+                            512,
+                            62,
+                            483,
+                            70
+                        ],
+                        "confidence": "Low",
+                        "text": "CAST"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    4,
+                    278,
+                    63,
+                    179,
+                    77,
+                    187,
+                    18,
+                    286
+                ],
+                "text": "CASTELLO DE RAMP",
+                "words": [
+                    {
+                        "boundingBox": [
+                            6,
+                            277,
+                            39,
+                            225,
+                            51,
+                            231,
+                            17,
+                            284
+                        ],
+                        "text": "CASTELLO"
+                    },
+                    {
+                        "boundingBox": [
+                            42,
+                            220,
+                            49,
+                            208,
+                            61,
+                            214,
+                            54,
+                            226
+                        ],
+                        "text": "DE"
+                    },
+                    {
+                        "boundingBox": [
+                            50,
+                            205,
+                            63,
+                            180,
+                            75,
+                            186,
+                            62,
+                            212
+                        ],
+                        "confidence": "Low",
+                        "text": "RAMP"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    584,
+                    40,
+                    624,
+                    53,
+                    620,
+                    66,
+                    580,
+                    53
+                ],
+                "text": "APOLLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            585,
+                            42,
+                            624,
+                            54,
+                            621,
+                            66,
+                            582,
+                            54
+                        ],
+                        "text": "APOLLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    113,
+                    225,
+                    134,
+                    212,
+                    139,
+                    220,
+                    118,
+                    232
+                ],
+                "text": "Sde",
+                "words": [
+                    {
+                        "boundingBox": [
+                            112,
+                            223,
+                            127,
+                            214,
+                            132,
+                            223,
+                            117,
+                            232
+                        ],
+                        "text": "Sde"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    69,
+                    294,
+                    105,
+                    236,
+                    116,
+                    243,
+                    80,
+                    301
+                ],
+                "text": "SAMMA ROAD",
+                "words": [
+                    {
+                        "boundingBox": [
+                            79,
+                            284,
+                            97,
+                            257,
+                            105,
+                            262,
+                            87,
+                            289
+                        ],
+                        "confidence": "Low",
+                        "text": "SAMMA"
+                    },
+                    {
+                        "boundingBox": [
+                            98,
+                            255,
+                            106,
+                            238,
+                            114,
+                            243,
+                            106,
+                            260
+                        ],
+                        "confidence": "Low",
+                        "text": "ROAD"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    339,
+                    177,
+                    384,
+                    174,
+                    385,
+                    185,
+                    340,
+                    187
+                ],
+                "text": "MARENG",
+                "words": [
+                    {
+                        "boundingBox": [
+                            342,
+                            177,
+                            384,
+                            176,
+                            385,
+                            185,
+                            341,
+                            187
+                        ],
+                        "confidence": "Low",
+                        "text": "MARENG"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    346,
+                    183,
+                    384,
+                    184,
+                    383,
+                    194,
+                    345,
+                    193
+                ],
+                "text": "MARIO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            349,
+                            184,
+                            382,
+                            185,
+                            381,
+                            193,
+                            349,
+                            193
+                        ],
+                        "text": "MARIO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    399,
+                    234,
+                    378,
+                    205,
+                    387,
+                    198,
+                    408,
+                    228
+                ],
+                "text": "ATTEMS",
+                "words": [
+                    {
+                        "boundingBox": [
+                            400,
+                            232,
+                            380,
+                            205,
+                            387,
+                            199,
+                            407,
+                            226
+                        ],
+                        "text": "ATTEMS"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    649,
+                    167,
+                    629,
+                    124,
+                    638,
+                    120,
+                    658,
+                    163
+                ],
+                "text": "CASTELL",
+                "words": [
+                    {
+                        "boundingBox": [
+                            649,
+                            165,
+                            630,
+                            124,
+                            639,
+                            121,
+                            657,
+                            161
+                        ],
+                        "confidence": "Low",
+                        "text": "CASTELL"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    10,
+                    408,
+                    40,
+                    343,
+                    52,
+                    348,
+                    21,
+                    413
+                ],
+                "text": "SAMMARCE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            18,
+                            397,
+                            40,
+                            347,
+                            48,
+                            350,
+                            27,
+                            401
+                        ],
+                        "confidence": "Low",
+                        "text": "SAMMARCE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    474,
+                    230,
+                    496,
+                    229,
+                    496,
+                    242,
+                    474,
+                    243
+                ],
+                "text": "ENE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            475,
+                            229,
+                            494,
+                            229,
+                            495,
+                            242,
+                            475,
+                            242
+                        ],
+                        "text": "ENE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    33,
+                    393,
+                    45,
+                    367,
+                    53,
+                    371,
+                    41,
+                    397
+                ],
+                "text": "2012",
+                "words": [
+                    {
+                        "boundingBox": [
+                            38,
+                            386,
+                            44,
+                            370,
+                            52,
+                            373,
+                            45,
+                            389
+                        ],
+                        "text": "2012"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    569,
+                    203,
+                    562,
+                    241,
+                    548,
+                    238,
+                    555,
+                    200
+                ],
+                "text": "Nostre",
+                "words": [
+                    {
+                        "boundingBox": [
+                            568,
+                            204,
+                            562,
+                            238,
+                            550,
+                            235,
+                            555,
+                            202
+                        ],
+                        "confidence": "Low",
+                        "text": "Nostre"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    239,
+                    309,
+                    281,
+                    327,
+                    277,
+                    338,
+                    234,
+                    320
+                ],
+                "text": "LAMPOON",
+                "words": [
+                    {
+                        "boundingBox": [
+                            237,
+                            315,
+                            277,
+                            329,
+                            274,
+                            337,
+                            236,
+                            322
+                        ],
+                        "confidence": "Low",
+                        "text": "LAMPOON"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    471,
+                    247,
+                    510,
+                    247,
+                    510,
+                    260,
+                    472,
+                    261
+                ],
+                "text": "7941",
+                "words": [
+                    {
+                        "boundingBox": [
+                            473,
+                            248,
+                            497,
+                            247,
+                            496,
+                            261,
+                            472,
+                            260
+                        ],
+                        "confidence": "Low",
+                        "text": "7941"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    168,
+                    408,
+                    218,
+                    364,
+                    225,
+                    372,
+                    175,
+                    416
+                ],
+                "text": "NELLE CANTING",
+                "words": [
+                    {
+                        "boundingBox": [
+                            177,
+                            402,
+                            191,
+                            389,
+                            197,
+                            396,
+                            183,
+                            409
+                        ],
+                        "confidence": "Low",
+                        "text": "NELLE"
+                    },
+                    {
+                        "boundingBox": [
+                            192,
+                            388,
+                            215,
+                            368,
+                            221,
+                            375,
+                            199,
+                            394
+                        ],
+                        "confidence": "Low",
+                        "text": "CANTING"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    174,
+                    432,
+                    222,
+                    392,
+                    229,
+                    400,
+                    181,
+                    440
+                ],
+                "text": "BRUCHKCELLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            177,
+                            430,
+                            221,
+                            395,
+                            228,
+                            401,
+                            183,
+                            439
+                        ],
+                        "confidence": "Low",
+                        "text": "BRUCHKCELLO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    560,
+                    256,
+                    539,
+                    358,
+                    516,
+                    353,
+                    537,
+                    251
+                ],
+                "text": "DE RAMPOLLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            554,
+                            273,
+                            553,
+                            284,
+                            537,
+                            280,
+                            538,
+                            270
+                        ],
+                        "confidence": "Low",
+                        "text": "DE"
+                    },
+                    {
+                        "boundingBox": [
+                            553,
+                            288,
+                            535,
+                            357,
+                            518,
+                            351,
+                            536,
+                            284
+                        ],
+                        "text": "RAMPOLLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    256,
+                    422,
+                    291,
+                    409,
+                    296,
+                    423,
+                    263,
+                    436
+                ],
+                "text": "DES",
+                "words": [
+                    {
+                        "boundingBox": [
+                            258,
+                            420,
+                            289,
+                            408,
+                            295,
+                            422,
+                            263,
+                            434
+                        ],
+                        "text": "DES"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    593,
+                    391,
+                    627,
+                    344,
+                    637,
+                    351,
+                    602,
+                    398
+                ],
+                "text": "LE TENUTE DI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            597,
+                            388,
+                            602,
+                            380,
+                            612,
+                            386,
+                            607,
+                            393
+                        ],
+                        "text": "LE"
+                    },
+                    {
+                        "boundingBox": [
+                            604,
+                            378,
+                            621,
+                            354,
+                            631,
+                            359,
+                            613,
+                            384
+                        ],
+                        "text": "TENUTE"
+                    },
+                    {
+                        "boundingBox": [
+                            623,
+                            352,
+                            628,
+                            346,
+                            636,
+                            351,
+                            632,
+                            358
+                        ],
+                        "text": "DI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    293,
+                    607,
+                    134,
+                    585,
+                    140,
+                    544,
+                    299,
+                    566
+                ],
+                "text": "CASTELLO DE RAMPOLLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            294,
+                            590,
+                            225,
+                            598,
+                            228,
+                            576,
+                            293,
+                            568
+                        ],
+                        "text": "CASTELLO"
+                    },
+                    {
+                        "boundingBox": [
+                            218,
+                            598,
+                            208,
+                            596,
+                            212,
+                            574,
+                            222,
+                            576
+                        ],
+                        "text": "DE"
+                    },
+                    {
+                        "boundingBox": [
+                            202,
+                            595,
+                            138,
+                            572,
+                            146,
+                            546,
+                            206,
+                            572
+                        ],
+                        "text": "RAMPOLLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    581,
+                    434,
+                    575,
+                    464,
+                    565,
+                    461,
+                    571,
+                    432
+                ],
+                "text": "TAMA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            580,
+                            439,
+                            575,
+                            462,
+                            566,
+                            461,
+                            571,
+                            437
+                        ],
+                        "confidence": "Low",
+                        "text": "TAMA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    412,
+                    516,
+                    459,
+                    469,
+                    466,
+                    476,
+                    418,
+                    523
+                ],
+                "text": "SAMMARCO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            413,
+                            516,
+                            459,
+                            471,
+                            465,
+                            478,
+                            419,
+                            522
+                        ],
+                        "text": "SAMMARCO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    707,
+                    418,
+                    760,
+                    387,
+                    766,
+                    397,
+                    713,
+                    429
+                ],
+                "text": "CASTELLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            710,
+                            417,
+                            760,
+                            388,
+                            766,
+                            397,
+                            715,
+                            427
+                        ],
+                        "confidence": "Low",
+                        "text": "CASTELLO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

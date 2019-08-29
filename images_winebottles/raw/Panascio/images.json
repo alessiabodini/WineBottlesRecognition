@@ -1,0 +1,36 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    183,
+                    89,
+                    228,
+                    98,
+                    225,
+                    110,
+                    181,
+                    101
+                ],
+                "text": "ANASCTO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            185,
+                            91,
+                            224,
+                            98,
+                            222,
+                            110,
+                            184,
+                            103
+                        ],
+                        "confidence": "Low",
+                        "text": "ANASCTO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

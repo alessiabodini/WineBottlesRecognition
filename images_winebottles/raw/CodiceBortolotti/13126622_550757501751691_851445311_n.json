@@ -1,0 +1,76 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    224,
+                    453,
+                    855,
+                    474,
+                    852,
+                    562,
+                    221,
+                    542
+                ],
+                "text": "CODICE BORTOLOTTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            232,
+                            454,
+                            469,
+                            468,
+                            466,
+                            551,
+                            227,
+                            528
+                        ],
+                        "text": "CODICE"
+                    },
+                    {
+                        "boundingBox": [
+                            483,
+                            469,
+                            852,
+                            477,
+                            853,
+                            544,
+                            481,
+                            552
+                        ],
+                        "text": "BORTOLOTTI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    362,
+                    818,
+                    824,
+                    804,
+                    824,
+                    974,
+                    362,
+                    984
+                ],
+                "text": "10-94",
+                "words": [
+                    {
+                        "boundingBox": [
+                            380,
+                            815,
+                            819,
+                            804,
+                            823,
+                            973,
+                            384,
+                            984
+                        ],
+                        "text": "10-94"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

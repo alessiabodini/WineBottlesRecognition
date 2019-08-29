@@ -1,0 +1,106 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    26,
+                    288,
+                    118,
+                    290,
+                    117,
+                    305,
+                    25,
+                    304
+                ],
+                "text": "INOT GRIGIO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            28,
+                            289,
+                            62,
+                            292,
+                            61,
+                            305,
+                            27,
+                            302
+                        ],
+                        "text": "INOT"
+                    },
+                    {
+                        "boundingBox": [
+                            68,
+                            292,
+                            116,
+                            291,
+                            115,
+                            305,
+                            67,
+                            305
+                        ],
+                        "text": "GRIGIO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    29,
+                    303,
+                    87,
+                    310,
+                    85,
+                    326,
+                    27,
+                    319
+                ],
+                "text": "ato",
+                "words": [
+                    {
+                        "boundingBox": [
+                            31,
+                            304,
+                            80,
+                            310,
+                            78,
+                            325,
+                            30,
+                            320
+                        ],
+                        "confidence": "Low",
+                        "text": "ato"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    26,
+                    350,
+                    73,
+                    361,
+                    70,
+                    371,
+                    23,
+                    360
+                ],
+                "text": "HOLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            33,
+                            352,
+                            70,
+                            362,
+                            69,
+                            370,
+                            31,
+                            362
+                        ],
+                        "confidence": "Low",
+                        "text": "HOLO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

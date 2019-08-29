@@ -1,0 +1,134 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    803,
+                    148,
+                    810,
+                    12,
+                    834,
+                    14,
+                    827,
+                    150
+                ],
+                "text": "BORTOLOI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            804,
+                            145,
+                            810,
+                            13,
+                            835,
+                            14,
+                            826,
+                            147
+                        ],
+                        "confidence": "Low",
+                        "text": "BORTOLOI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    677,
+                    906,
+                    901,
+                    918,
+                    899,
+                    960,
+                    675,
+                    949
+                ],
+                "text": "CODICE BORTOLOTTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            680,
+                            910,
+                            763,
+                            921,
+                            763,
+                            953,
+                            678,
+                            941
+                        ],
+                        "text": "CODICE"
+                    },
+                    {
+                        "boundingBox": [
+                            769,
+                            921,
+                            896,
+                            918,
+                            899,
+                            954,
+                            769,
+                            954
+                        ],
+                        "text": "BORTOLOTTI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    830,
+                    958,
+                    884,
+                    958,
+                    882,
+                    1017,
+                    828,
+                    1017
+                ],
+                "text": "BB",
+                "words": [
+                    {
+                        "boundingBox": [
+                            831,
+                            958,
+                            883,
+                            958,
+                            883,
+                            1017,
+                            831,
+                            1017
+                        ],
+                        "confidence": "Low",
+                        "text": "BB"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    723,
+                    1039,
+                    884,
+                    1039,
+                    881,
+                    1100,
+                    723,
+                    1099
+                ],
+                "text": "10-94",
+                "words": [
+                    {
+                        "boundingBox": [
+                            727,
+                            1038,
+                            881,
+                            1038,
+                            881,
+                            1099,
+                            726,
+                            1099
+                        ],
+                        "text": "10-94"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

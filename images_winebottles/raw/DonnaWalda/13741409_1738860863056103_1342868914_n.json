@@ -1,0 +1,263 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    35,
+                    29,
+                    135,
+                    27,
+                    136,
+                    46,
+                    36,
+                    49
+                ],
+                "text": "Confagricoltura",
+                "words": [
+                    {
+                        "boundingBox": [
+                            56,
+                            29,
+                            136,
+                            28,
+                            136,
+                            46,
+                            56,
+                            49
+                        ],
+                        "confidence": "Low",
+                        "text": "Confagricoltura"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    44,
+                    77,
+                    128,
+                    76,
+                    128,
+                    84,
+                    45,
+                    86
+                ],
+                "text": "STASERA DEGUSTERETE:",
+                "words": [
+                    {
+                        "boundingBox": [
+                            46,
+                            78,
+                            76,
+                            78,
+                            76,
+                            86,
+                            46,
+                            86
+                        ],
+                        "text": "STASERA"
+                    },
+                    {
+                        "boundingBox": [
+                            77,
+                            78,
+                            128,
+                            76,
+                            128,
+                            85,
+                            77,
+                            85
+                        ],
+                        "text": "DEGUSTERETE:"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    64,
+                    115,
+                    110,
+                    115,
+                    110,
+                    126,
+                    65,
+                    127
+                ],
+                "text": "ATLANTIS",
+                "words": [
+                    {
+                        "boundingBox": [
+                            65,
+                            116,
+                            110,
+                            115,
+                            110,
+                            127,
+                            65,
+                            127
+                        ],
+                        "confidence": "Low",
+                        "text": "ATLANTIS"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    68,
+                    187,
+                    109,
+                    187,
+                    108,
+                    200,
+                    67,
+                    199
+                ],
+                "text": "CIUCCI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            68,
+                            187,
+                            109,
+                            188,
+                            108,
+                            200,
+                            68,
+                            200
+                        ],
+                        "confidence": "Low",
+                        "text": "CIUCCI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    51,
+                    226,
+                    127,
+                    229,
+                    126,
+                    239,
+                    50,
+                    236
+                ],
+                "text": "FEUDOMACEARLY",
+                "words": [
+                    {
+                        "boundingBox": [
+                            53,
+                            227,
+                            127,
+                            230,
+                            127,
+                            239,
+                            52,
+                            236
+                        ],
+                        "confidence": "Low",
+                        "text": "FEUDOMACEARLY"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    65,
+                    255,
+                    113,
+                    259,
+                    112,
+                    270,
+                    64,
+                    267
+                ],
+                "text": "Gottod'oro",
+                "words": [
+                    {
+                        "boundingBox": [
+                            67,
+                            256,
+                            112,
+                            259,
+                            111,
+                            270,
+                            66,
+                            267
+                        ],
+                        "confidence": "Low",
+                        "text": "Gottod'oro"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    149,
+                    310,
+                    148,
+                    239,
+                    159,
+                    238,
+                    160,
+                    309
+                ],
+                "text": "DONNA WALDA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            150,
+                            304,
+                            150,
+                            270,
+                            160,
+                            270,
+                            161,
+                            304
+                        ],
+                        "text": "DONNA"
+                    },
+                    {
+                        "boundingBox": [
+                            150,
+                            268,
+                            149,
+                            239,
+                            159,
+                            239,
+                            160,
+                            267
+                        ],
+                        "text": "WALDA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    63,
+                    392,
+                    97,
+                    395,
+                    96,
+                    403,
+                    62,
+                    400
+                ],
+                "text": "THPUTASEE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            64,
+                            393,
+                            97,
+                            396,
+                            96,
+                            403,
+                            63,
+                            400
+                        ],
+                        "confidence": "Low",
+                        "text": "THPUTASEE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

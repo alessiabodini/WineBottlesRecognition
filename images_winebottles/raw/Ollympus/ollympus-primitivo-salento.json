@@ -1,0 +1,64 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    247,
+                    18,
+                    305,
+                    40,
+                    298,
+                    59,
+                    240,
+                    36
+                ],
+                "text": "LYMPU",
+                "words": [
+                    {
+                        "boundingBox": [
+                            253,
+                            24,
+                            304,
+                            44,
+                            298,
+                            60,
+                            248,
+                            39
+                        ],
+                        "confidence": "Low",
+                        "text": "LYMPU"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    193,
+                    148,
+                    262,
+                    172,
+                    256,
+                    187,
+                    188,
+                    164
+                ],
+                "text": "PRIMITIVO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            195,
+                            149,
+                            261,
+                            172,
+                            256,
+                            187,
+                            189,
+                            164
+                        ],
+                        "text": "PRIMITIVO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,850 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    0,
+                    194,
+                    24,
+                    100,
+                    39,
+                    104,
+                    13,
+                    198
+                ],
+                "text": "ENTHALT SULFITE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            0,
+                            193,
+                            12,
+                            146,
+                            27,
+                            150,
+                            15,
+                            196
+                        ],
+                        "text": "ENTHALT"
+                    },
+                    {
+                        "boundingBox": [
+                            13,
+                            143,
+                            25,
+                            101,
+                            40,
+                            105,
+                            28,
+                            147
+                        ],
+                        "text": "SULFITE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    48,
+                    55,
+                    520,
+                    99,
+                    510,
+                    202,
+                    39,
+                    159
+                ],
+                "text": "CASTELLO DEI RAMP",
+                "words": [
+                    {
+                        "boundingBox": [
+                            48,
+                            108,
+                            324,
+                            83,
+                            311,
+                            139,
+                            60,
+                            161
+                        ],
+                        "text": "CASTELLO"
+                    },
+                    {
+                        "boundingBox": [
+                            352,
+                            90,
+                            406,
+                            106,
+                            386,
+                            156,
+                            336,
+                            144
+                        ],
+                        "text": "DEI"
+                    },
+                    {
+                        "boundingBox": [
+                            416,
+                            110,
+                            513,
+                            156,
+                            482,
+                            195,
+                            395,
+                            159
+                        ],
+                        "confidence": "Low",
+                        "text": "RAMP"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    550,
+                    160,
+                    637,
+                    216,
+                    615,
+                    247,
+                    531,
+                    189
+                ],
+                "text": "RAM",
+                "words": [
+                    {
+                        "boundingBox": [
+                            555,
+                            160,
+                            629,
+                            209,
+                            608,
+                            241,
+                            534,
+                            192
+                        ],
+                        "text": "RAM"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    448,
+                    374,
+                    512,
+                    400,
+                    504,
+                    419,
+                    441,
+                    393
+                ],
+                "text": "RCO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            456,
+                            378,
+                            505,
+                            398,
+                            498,
+                            417,
+                            447,
+                            396
+                        ],
+                        "text": "RCO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    425,
+                    427,
+                    476,
+                    449,
+                    471,
+                    460,
+                    420,
+                    438
+                ],
+                "text": "POGONE DA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            429,
+                            430,
+                            459,
+                            442,
+                            455,
+                            452,
+                            425,
+                            441
+                        ],
+                        "confidence": "Low",
+                        "text": "POGONE"
+                    },
+                    {
+                        "boundingBox": [
+                            462,
+                            443,
+                            476,
+                            449,
+                            471,
+                            459,
+                            457,
+                            453
+                        ],
+                        "text": "DA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    216,
+                    424,
+                    351,
+                    441,
+                    347,
+                    473,
+                    212,
+                    456
+                ],
+                "text": "d'ALCEO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            224,
+                            428,
+                            351,
+                            443,
+                            345,
+                            473,
+                            220,
+                            457
+                        ],
+                        "text": "d'ALCEO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    422,
+                    435,
+                    471,
+                    457,
+                    465,
+                    469,
+                    416,
+                    447
+                ],
+                "text": "POLLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            422,
+                            436,
+                            456,
+                            451,
+                            451,
+                            462,
+                            419,
+                            448
+                        ],
+                        "text": "POLLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    418,
+                    445,
+                    526,
+                    483,
+                    521,
+                    497,
+                    413,
+                    458
+                ],
+                "text": "DOAS LUCIA IN FALLLE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            421,
+                            447,
+                            452,
+                            459,
+                            449,
+                            471,
+                            417,
+                            458
+                        ],
+                        "confidence": "Low",
+                        "text": "DOAS"
+                    },
+                    {
+                        "boundingBox": [
+                            456,
+                            461,
+                            482,
+                            470,
+                            478,
+                            481,
+                            453,
+                            472
+                        ],
+                        "confidence": "Low",
+                        "text": "LUCIA"
+                    },
+                    {
+                        "boundingBox": [
+                            484,
+                            471,
+                            493,
+                            474,
+                            489,
+                            485,
+                            480,
+                            482
+                        ],
+                        "confidence": "Low",
+                        "text": "IN"
+                    },
+                    {
+                        "boundingBox": [
+                            495,
+                            475,
+                            526,
+                            484,
+                            522,
+                            495,
+                            492,
+                            486
+                        ],
+                        "confidence": "Low",
+                        "text": "FALLLE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    417,
+                    455,
+                    455,
+                    470,
+                    450,
+                    481,
+                    412,
+                    466
+                ],
+                "text": "R. ITALIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            417,
+                            456,
+                            425,
+                            459,
+                            422,
+                            470,
+                            413,
+                            467
+                        ],
+                        "confidence": "Low",
+                        "text": "R."
+                    },
+                    {
+                        "boundingBox": [
+                            427,
+                            460,
+                            455,
+                            471,
+                            451,
+                            481,
+                            424,
+                            471
+                        ],
+                        "confidence": "Low",
+                        "text": "ITALIA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    478,
+                    500,
+                    537,
+                    513,
+                    533,
+                    531,
+                    474,
+                    518
+                ],
+                "text": "14% vol",
+                "words": [
+                    {
+                        "boundingBox": [
+                            483,
+                            502,
+                            511,
+                            508,
+                            506,
+                            526,
+                            478,
+                            519
+                        ],
+                        "text": "14%"
+                    },
+                    {
+                        "boundingBox": [
+                            514,
+                            509,
+                            536,
+                            514,
+                            531,
+                            531,
+                            510,
+                            526
+                        ],
+                        "text": "vol"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    159,
+                    497,
+                    348,
+                    515,
+                    346,
+                    537,
+                    157,
+                    520
+                ],
+                "text": "IMBOTTIGLIATO ALL'ORIGINE DA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            161,
+                            498,
+                            262,
+                            511,
+                            261,
+                            530,
+                            160,
+                            517
+                        ],
+                        "text": "IMBOTTIGLIATO"
+                    },
+                    {
+                        "boundingBox": [
+                            266,
+                            511,
+                            330,
+                            515,
+                            328,
+                            533,
+                            264,
+                            531
+                        ],
+                        "text": "ALL'ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            334,
+                            516,
+                            347,
+                            516,
+                            345,
+                            533,
+                            332,
+                            533
+                        ],
+                        "text": "DA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    201,
+                    519,
+                    333,
+                    530,
+                    332,
+                    553,
+                    199,
+                    542
+                ],
+                "text": "NAPOLI RAMPOLLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            201,
+                            521,
+                            254,
+                            524,
+                            252,
+                            546,
+                            200,
+                            543
+                        ],
+                        "confidence": "Low",
+                        "text": "NAPOLI"
+                    },
+                    {
+                        "boundingBox": [
+                            258,
+                            524,
+                            333,
+                            531,
+                            332,
+                            553,
+                            257,
+                            546
+                        ],
+                        "text": "RAMPOLLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    52,
+                    497,
+                    388,
+                    532,
+                    383,
+                    574,
+                    48,
+                    539
+                ],
+                "text": "PROPRIETARI VITICOLTORI DELL'AZIENDA S. LUCIAN FACE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            57,
+                            499,
+                            148,
+                            527,
+                            146,
+                            545,
+                            52,
+                            512
+                        ],
+                        "text": "PROPRIETARI"
+                    },
+                    {
+                        "boundingBox": [
+                            151,
+                            528,
+                            234,
+                            540,
+                            234,
+                            560,
+                            149,
+                            546
+                        ],
+                        "text": "VITICOLTORI"
+                    },
+                    {
+                        "boundingBox": [
+                            236,
+                            540,
+                            315,
+                            540,
+                            318,
+                            558,
+                            237,
+                            560
+                        ],
+                        "text": "DELL'AZIENDA"
+                    },
+                    {
+                        "boundingBox": [
+                            318,
+                            540,
+                            325,
+                            539,
+                            328,
+                            557,
+                            320,
+                            558
+                        ],
+                        "text": "S."
+                    },
+                    {
+                        "boundingBox": [
+                            328,
+                            539,
+                            359,
+                            535,
+                            362,
+                            551,
+                            330,
+                            557
+                        ],
+                        "confidence": "Low",
+                        "text": "LUCIAN"
+                    },
+                    {
+                        "boundingBox": [
+                            361,
+                            535,
+                            383,
+                            532,
+                            387,
+                            546,
+                            365,
+                            551
+                        ],
+                        "confidence": "Low",
+                        "text": "FACE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    9,
+                    526,
+                    95,
+                    557,
+                    82,
+                    588,
+                    0,
+                    557
+                ],
+                "text": "75 le",
+                "words": [
+                    {
+                        "boundingBox": [
+                            13,
+                            526,
+                            47,
+                            538,
+                            35,
+                            570,
+                            1,
+                            558
+                        ],
+                        "text": "75"
+                    },
+                    {
+                        "boundingBox": [
+                            53,
+                            541,
+                            89,
+                            554,
+                            77,
+                            586,
+                            41,
+                            572
+                        ],
+                        "confidence": "Low",
+                        "text": "le"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    156,
+                    542,
+                    224,
+                    544,
+                    223,
+                    569,
+                    155,
+                    567
+                ],
+                "text": "PANZANO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            160,
+                            546,
+                            224,
+                            544,
+                            223,
+                            569,
+                            157,
+                            563
+                        ],
+                        "text": "PANZANO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    193,
+                    549,
+                    329,
+                    555,
+                    328,
+                    578,
+                    192,
+                    572
+                ],
+                "text": "ANO IN CHIANTI - ITALIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            196,
+                            551,
+                            223,
+                            553,
+                            221,
+                            574,
+                            194,
+                            572
+                        ],
+                        "text": "ANO"
+                    },
+                    {
+                        "boundingBox": [
+                            227,
+                            553,
+                            241,
+                            554,
+                            239,
+                            575,
+                            225,
+                            574
+                        ],
+                        "text": "IN"
+                    },
+                    {
+                        "boundingBox": [
+                            245,
+                            555,
+                            288,
+                            557,
+                            285,
+                            576,
+                            243,
+                            575
+                        ],
+                        "text": "CHIANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            292,
+                            557,
+                            295,
+                            557,
+                            292,
+                            576,
+                            290,
+                            576
+                        ],
+                        "text": "-"
+                    },
+                    {
+                        "boundingBox": [
+                            299,
+                            557,
+                            329,
+                            558,
+                            326,
+                            576,
+                            297,
+                            576
+                        ],
+                        "text": "ITALIA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    182,
+                    570,
+                    302,
+                    576,
+                    300,
+                    604,
+                    180,
+                    597
+                ],
+                "text": "TOSCANA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            184,
+                            570,
+                            301,
+                            578,
+                            301,
+                            600,
+                            182,
+                            597
+                        ],
+                        "text": "TOSCANA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    108,
+                    574,
+                    379,
+                    570,
+                    380,
+                    613,
+                    109,
+                    616
+                ],
+                "text": "INDICAZIONE GEOGRAFICA TIPICA 14571",
+                "words": [
+                    {
+                        "boundingBox": [
+                            117,
+                            579,
+                            214,
+                            597,
+                            215,
+                            615,
+                            114,
+                            596
+                        ],
+                        "text": "INDICAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            217,
+                            597,
+                            298,
+                            592,
+                            303,
+                            612,
+                            219,
+                            615
+                        ],
+                        "confidence": "Low",
+                        "text": "GEOGRAFICA"
+                    },
+                    {
+                        "boundingBox": [
+                            302,
+                            592,
+                            335,
+                            584,
+                            341,
+                            604,
+                            306,
+                            611
+                        ],
+                        "text": "TIPICA"
+                    },
+                    {
+                        "boundingBox": [
+                            338,
+                            583,
+                            372,
+                            571,
+                            379,
+                            593,
+                            345,
+                            603
+                        ],
+                        "confidence": "Low",
+                        "text": "14571"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

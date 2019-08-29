@@ -1,0 +1,79 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    38,
+                    116,
+                    90,
+                    114,
+                    90,
+                    123,
+                    39,
+                    126
+                ],
+                "text": "HEANTI CLASS",
+                "words": [
+                    {
+                        "boundingBox": [
+                            39,
+                            117,
+                            65,
+                            117,
+                            64,
+                            125,
+                            39,
+                            125
+                        ],
+                        "confidence": "Low",
+                        "text": "HEANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            66,
+                            117,
+                            88,
+                            115,
+                            88,
+                            123,
+                            66,
+                            125
+                        ],
+                        "confidence": "Low",
+                        "text": "CLASS"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    58,
+                    135,
+                    78,
+                    135,
+                    78,
+                    142,
+                    58,
+                    142
+                ],
+                "text": "3015",
+                "words": [
+                    {
+                        "boundingBox": [
+                            60,
+                            135,
+                            77,
+                            135,
+                            77,
+                            142,
+                            60,
+                            142
+                        ],
+                        "confidence": "Low",
+                        "text": "3015"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

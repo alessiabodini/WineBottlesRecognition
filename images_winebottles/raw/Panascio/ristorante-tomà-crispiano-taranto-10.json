@@ -1,0 +1,215 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    11,
+                    17,
+                    93,
+                    16,
+                    94,
+                    26,
+                    12,
+                    27
+                ],
+                "text": "A tavola coi delfini",
+                "words": [
+                    {
+                        "boundingBox": [
+                            13,
+                            18,
+                            19,
+                            18,
+                            19,
+                            27,
+                            13,
+                            27
+                        ],
+                        "text": "A"
+                    },
+                    {
+                        "boundingBox": [
+                            23,
+                            17,
+                            49,
+                            17,
+                            49,
+                            27,
+                            23,
+                            27
+                        ],
+                        "text": "tavola"
+                    },
+                    {
+                        "boundingBox": [
+                            51,
+                            17,
+                            65,
+                            17,
+                            65,
+                            27,
+                            51,
+                            27
+                        ],
+                        "text": "coi"
+                    },
+                    {
+                        "boundingBox": [
+                            67,
+                            17,
+                            94,
+                            17,
+                            94,
+                            27,
+                            67,
+                            27
+                        ],
+                        "text": "delfini"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    357,
+                    129,
+                    427,
+                    129,
+                    427,
+                    142,
+                    358,
+                    142
+                ],
+                "text": "atavolacoldelfint",
+                "words": [
+                    {
+                        "boundingBox": [
+                            358,
+                            130,
+                            427,
+                            129,
+                            427,
+                            142,
+                            358,
+                            141
+                        ],
+                        "confidence": "Low",
+                        "text": "atavolacoldelfint"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    352,
+                    218,
+                    439,
+                    220,
+                    438,
+                    236,
+                    351,
+                    234
+                ],
+                "text": "GIANCARLO CECI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            354,
+                            219,
+                            410,
+                            220,
+                            409,
+                            236,
+                            354,
+                            235
+                        ],
+                        "confidence": "Low",
+                        "text": "GIANCARLO"
+                    },
+                    {
+                        "boundingBox": [
+                            413,
+                            220,
+                            438,
+                            220,
+                            438,
+                            236,
+                            412,
+                            236
+                        ],
+                        "confidence": "Low",
+                        "text": "CECI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    328,
+                    307,
+                    455,
+                    308,
+                    454,
+                    334,
+                    327,
+                    333
+                ],
+                "text": "PANASCIO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            330,
+                            308,
+                            452,
+                            308,
+                            451,
+                            335,
+                            330,
+                            333
+                        ],
+                        "text": "PANASCIO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    329,
+                    331,
+                    453,
+                    332,
+                    452,
+                    348,
+                    328,
+                    347
+                ],
+                "text": "BOMBINO BIANCO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            331,
+                            333,
+                            394,
+                            332,
+                            393,
+                            348,
+                            330,
+                            348
+                        ],
+                        "text": "BOMBINO"
+                    },
+                    {
+                        "boundingBox": [
+                            401,
+                            332,
+                            452,
+                            333,
+                            452,
+                            348,
+                            401,
+                            348
+                        ],
+                        "text": "BIANCO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

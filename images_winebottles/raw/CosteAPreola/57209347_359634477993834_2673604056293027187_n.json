@@ -1,0 +1,171 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    189,
+                    235,
+                    430,
+                    238,
+                    429,
+                    273,
+                    188,
+                    270
+                ],
+                "text": "CORGHI TONDI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            192,
+                            236,
+                            324,
+                            240,
+                            323,
+                            272,
+                            191,
+                            263
+                        ],
+                        "confidence": "Low",
+                        "text": "CORGHI"
+                    },
+                    {
+                        "boundingBox": [
+                            329,
+                            240,
+                            429,
+                            239,
+                            429,
+                            267,
+                            328,
+                            272
+                        ],
+                        "text": "TONDI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    170,
+                    443,
+                    446,
+                    452,
+                    445,
+                    507,
+                    169,
+                    498
+                ],
+                "text": "COSTE A PREOLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            178,
+                            445,
+                            273,
+                            466,
+                            270,
+                            500,
+                            172,
+                            472
+                        ],
+                        "text": "COSTE"
+                    },
+                    {
+                        "boundingBox": [
+                            285,
+                            468,
+                            303,
+                            468,
+                            302,
+                            503,
+                            283,
+                            502
+                        ],
+                        "text": "A"
+                    },
+                    {
+                        "boundingBox": [
+                            318,
+                            469,
+                            441,
+                            452,
+                            445,
+                            482,
+                            317,
+                            504
+                        ],
+                        "text": "PREOLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    186,
+                    484,
+                    436,
+                    490,
+                    435,
+                    533,
+                    185,
+                    527
+                ],
+                "text": "NERO D'AVOLA | BIOLOGICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            192,
+                            487,
+                            235,
+                            499,
+                            233,
+                            520,
+                            189,
+                            506
+                        ],
+                        "text": "NERO"
+                    },
+                    {
+                        "boundingBox": [
+                            238,
+                            499,
+                            320,
+                            508,
+                            321,
+                            531,
+                            237,
+                            521
+                        ],
+                        "text": "D'AVOLA"
+                    },
+                    {
+                        "boundingBox": [
+                            324,
+                            508,
+                            330,
+                            507,
+                            332,
+                            531,
+                            325,
+                            531
+                        ],
+                        "text": "|"
+                    },
+                    {
+                        "boundingBox": [
+                            334,
+                            507,
+                            429,
+                            491,
+                            433,
+                            513,
+                            335,
+                            531
+                        ],
+                        "confidence": "Low",
+                        "text": "BIOLOGICO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

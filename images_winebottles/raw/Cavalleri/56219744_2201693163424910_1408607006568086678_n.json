@@ -1,0 +1,120 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    509,
+                    968,
+                    671,
+                    965,
+                    672,
+                    998,
+                    510,
+                    1000
+                ],
+                "text": "CAVALLERI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            516,
+                            969,
+                            670,
+                            966,
+                            670,
+                            997,
+                            518,
+                            1000
+                        ],
+                        "confidence": "Low",
+                        "text": "CAVALLERI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    877,
+                    1135,
+                    1013,
+                    1134,
+                    1014,
+                    1159,
+                    878,
+                    1160
+                ],
+                "text": "#IOBEVOROSA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            878,
+                            1135,
+                            1014,
+                            1135,
+                            1012,
+                            1161,
+                            878,
+                            1161
+                        ],
+                        "text": "#IOBEVOROSA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    13,
+                    1248,
+                    342,
+                    1250,
+                    341,
+                    1290,
+                    12,
+                    1288
+                ],
+                "text": "t1 . iobevorosa",
+                "words": [
+                    {
+                        "boundingBox": [
+                            18,
+                            1249,
+                            69,
+                            1249,
+                            70,
+                            1289,
+                            19,
+                            1290
+                        ],
+                        "confidence": "Low",
+                        "text": "t1"
+                    },
+                    {
+                        "boundingBox": [
+                            85,
+                            1249,
+                            112,
+                            1250,
+                            113,
+                            1289,
+                            86,
+                            1289
+                        ],
+                        "confidence": "Low",
+                        "text": "."
+                    },
+                    {
+                        "boundingBox": [
+                            144,
+                            1250,
+                            342,
+                            1253,
+                            341,
+                            1288,
+                            145,
+                            1289
+                        ],
+                        "text": "iobevorosa"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

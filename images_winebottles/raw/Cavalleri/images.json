@@ -1,0 +1,36 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    88,
+                    209,
+                    130,
+                    216,
+                    128,
+                    225,
+                    86,
+                    218
+                ],
+                "text": "CAVALLER",
+                "words": [
+                    {
+                        "boundingBox": [
+                            89,
+                            210,
+                            126,
+                            215,
+                            124,
+                            224,
+                            88,
+                            218
+                        ],
+                        "confidence": "Low",
+                        "text": "CAVALLER"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

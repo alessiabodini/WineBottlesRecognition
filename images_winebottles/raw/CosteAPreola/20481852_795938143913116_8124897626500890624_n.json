@@ -1,0 +1,215 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    427,
+                    207,
+                    480,
+                    210,
+                    479,
+                    223,
+                    426,
+                    221
+                ],
+                "text": "TENUTA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            430,
+                            208,
+                            479,
+                            210,
+                            478,
+                            223,
+                            429,
+                            220
+                        ],
+                        "text": "TENUTA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    368,
+                    214,
+                    543,
+                    224,
+                    541,
+                    247,
+                    366,
+                    237
+                ],
+                "text": "GORGHI TONDI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            369,
+                            215,
+                            466,
+                            222,
+                            465,
+                            243,
+                            368,
+                            237
+                        ],
+                        "text": "GORGHI"
+                    },
+                    {
+                        "boundingBox": [
+                            470,
+                            222,
+                            542,
+                            224,
+                            541,
+                            247,
+                            469,
+                            244
+                        ],
+                        "text": "TONDI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    324,
+                    270,
+                    584,
+                    288,
+                    581,
+                    328,
+                    321,
+                    310
+                ],
+                "text": "COSTE A PREOLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            329,
+                            272,
+                            423,
+                            282,
+                            421,
+                            318,
+                            325,
+                            305
+                        ],
+                        "text": "COSTE"
+                    },
+                    {
+                        "boundingBox": [
+                            430,
+                            283,
+                            452,
+                            284,
+                            450,
+                            320,
+                            428,
+                            318
+                        ],
+                        "text": "A"
+                    },
+                    {
+                        "boundingBox": [
+                            463,
+                            285,
+                            581,
+                            288,
+                            581,
+                            324,
+                            461,
+                            321
+                        ],
+                        "text": "PREOLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    375,
+                    327,
+                    525,
+                    341,
+                    522,
+                    373,
+                    373,
+                    360
+                ],
+                "text": "Nero d' Sula",
+                "words": [
+                    {
+                        "boundingBox": [
+                            392,
+                            330,
+                            436,
+                            335,
+                            432,
+                            365,
+                            388,
+                            362
+                        ],
+                        "confidence": "Low",
+                        "text": "Nero"
+                    },
+                    {
+                        "boundingBox": [
+                            442,
+                            335,
+                            472,
+                            338,
+                            468,
+                            368,
+                            438,
+                            366
+                        ],
+                        "confidence": "Low",
+                        "text": "d'"
+                    },
+                    {
+                        "boundingBox": [
+                            478,
+                            338,
+                            524,
+                            342,
+                            521,
+                            373,
+                            474,
+                            369
+                        ],
+                        "confidence": "Low",
+                        "text": "Sula"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    403,
+                    369,
+                    489,
+                    378,
+                    487,
+                    395,
+                    401,
+                    386
+                ],
+                "text": "SICILIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            407,
+                            370,
+                            488,
+                            378,
+                            487,
+                            395,
+                            405,
+                            387
+                        ],
+                        "text": "SICILIA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

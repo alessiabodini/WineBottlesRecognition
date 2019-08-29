@@ -1,0 +1,147 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    745,
+                    223,
+                    892,
+                    222,
+                    894,
+                    316,
+                    747,
+                    318
+                ],
+                "text": "ABQ",
+                "words": [
+                    {
+                        "boundingBox": [
+                            769,
+                            222,
+                            889,
+                            221,
+                            890,
+                            316,
+                            770,
+                            317
+                        ],
+                        "confidence": "Low",
+                        "text": "ABQ"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    319,
+                    550,
+                    453,
+                    556,
+                    452,
+                    581,
+                    318,
+                    576
+                ],
+                "text": "GIANCARLO CECI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            324,
+                            552,
+                            410,
+                            556,
+                            409,
+                            580,
+                            322,
+                            577
+                        ],
+                        "text": "GIANCARLO"
+                    },
+                    {
+                        "boundingBox": [
+                            415,
+                            556,
+                            453,
+                            557,
+                            453,
+                            581,
+                            414,
+                            580
+                        ],
+                        "confidence": "Low",
+                        "text": "CECI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    285,
+                    686,
+                    482,
+                    692,
+                    480,
+                    732,
+                    283,
+                    726
+                ],
+                "text": "PANASCIO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            290,
+                            688,
+                            476,
+                            692,
+                            474,
+                            732,
+                            289,
+                            726
+                        ],
+                        "text": "PANASCIO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    286,
+                    724,
+                    477,
+                    730,
+                    476,
+                    756,
+                    285,
+                    751
+                ],
+                "text": "BOMBINO BIANCO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            290,
+                            725,
+                            385,
+                            729,
+                            385,
+                            754,
+                            288,
+                            748
+                        ],
+                        "text": "BOMBINO"
+                    },
+                    {
+                        "boundingBox": [
+                            395,
+                            729,
+                            477,
+                            730,
+                            477,
+                            753,
+                            394,
+                            754
+                        ],
+                        "text": "BIANCO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

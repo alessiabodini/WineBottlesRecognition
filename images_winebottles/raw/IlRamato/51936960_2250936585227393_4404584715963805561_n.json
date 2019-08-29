@@ -1,0 +1,118 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    736,
+                    482,
+                    1008,
+                    492,
+                    1006,
+                    547,
+                    733,
+                    536
+                ],
+                "text": "ilr PINOT GRIGIO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            736,
+                            482,
+                            816,
+                            493,
+                            815,
+                            539,
+                            735,
+                            537
+                        ],
+                        "confidence": "Low",
+                        "text": "ilr"
+                    },
+                    {
+                        "boundingBox": [
+                            827,
+                            495,
+                            922,
+                            503,
+                            922,
+                            539,
+                            826,
+                            539
+                        ],
+                        "text": "PINOT"
+                    },
+                    {
+                        "boundingBox": [
+                            933,
+                            503,
+                            1007,
+                            504,
+                            1007,
+                            537,
+                            933,
+                            539
+                        ],
+                        "text": "GRIGIO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    735,
+                    543,
+                    958,
+                    544,
+                    957,
+                    590,
+                    734,
+                    589
+                ],
+                "text": "amato",
+                "words": [
+                    {
+                        "boundingBox": [
+                            740,
+                            545,
+                            957,
+                            544,
+                            957,
+                            591,
+                            741,
+                            589
+                        ],
+                        "text": "amato"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    745,
+                    679,
+                    929,
+                    689,
+                    927,
+                    713,
+                    743,
+                    704
+                ],
+                "text": "SCARBOLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            747,
+                            680,
+                            926,
+                            689,
+                            925,
+                            711,
+                            746,
+                            701
+                        ],
+                        "text": "SCARBOLO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

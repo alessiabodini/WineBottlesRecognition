@@ -1,0 +1,120 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    194,
+                    387,
+                    246,
+                    386,
+                    247,
+                    397,
+                    195,
+                    398
+                ],
+                "text": "GIANCARLO CEO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            196,
+                            387,
+                            230,
+                            387,
+                            230,
+                            398,
+                            196,
+                            398
+                        ],
+                        "confidence": "Low",
+                        "text": "GIANCARLO"
+                    },
+                    {
+                        "boundingBox": [
+                            232,
+                            387,
+                            247,
+                            387,
+                            247,
+                            397,
+                            232,
+                            398
+                        ],
+                        "confidence": "Low",
+                        "text": "CEO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    179,
+                    433,
+                    258,
+                    432,
+                    259,
+                    448,
+                    180,
+                    449
+                ],
+                "text": "PANASCIO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            182,
+                            433,
+                            257,
+                            433,
+                            257,
+                            449,
+                            181,
+                            449
+                        ],
+                        "text": "PANASCIO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    182,
+                    445,
+                    256,
+                    445,
+                    255,
+                    458,
+                    181,
+                    457
+                ],
+                "text": "BOMBING BIANCO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            183,
+                            445,
+                            221,
+                            449,
+                            221,
+                            459,
+                            183,
+                            456
+                        ],
+                        "confidence": "Low",
+                        "text": "BOMBING"
+                    },
+                    {
+                        "boundingBox": [
+                            225,
+                            449,
+                            256,
+                            446,
+                            256,
+                            456,
+                            225,
+                            459
+                        ],
+                        "text": "BIANCO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

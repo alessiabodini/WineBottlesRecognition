@@ -1,0 +1,90 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    375,
+                    481,
+                    507,
+                    484,
+                    506,
+                    502,
+                    374,
+                    500
+                ],
+                "text": "GORCHI TONDI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            377,
+                            482,
+                            446,
+                            485,
+                            446,
+                            502,
+                            376,
+                            499
+                        ],
+                        "text": "GORCHI"
+                    },
+                    {
+                        "boundingBox": [
+                            450,
+                            485,
+                            507,
+                            485,
+                            507,
+                            502,
+                            449,
+                            502
+                        ],
+                        "text": "TONDI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    349,
+                    617,
+                    447,
+                    623,
+                    446,
+                    640,
+                    347,
+                    635
+                ],
+                "text": "COSTE AT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            351,
+                            617,
+                            412,
+                            623,
+                            411,
+                            639,
+                            350,
+                            634
+                        ],
+                        "text": "COSTE"
+                    },
+                    {
+                        "boundingBox": [
+                            422,
+                            624,
+                            447,
+                            625,
+                            447,
+                            639,
+                            422,
+                            639
+                        ],
+                        "confidence": "Low",
+                        "text": "AT"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,316 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    252,
+                    633,
+                    506,
+                    631,
+                    507,
+                    686,
+                    253,
+                    687
+                ],
+                "text": "BARBARESCO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            261,
+                            635,
+                            500,
+                            632,
+                            507,
+                            674,
+                            259,
+                            677
+                        ],
+                        "text": "BARBARESCO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    816,
+                    650,
+                    1067,
+                    666,
+                    1063,
+                    720,
+                    812,
+                    704
+                ],
+                "text": "BARBARES",
+                "words": [
+                    {
+                        "boundingBox": [
+                            823,
+                            651,
+                            1065,
+                            667,
+                            1063,
+                            719,
+                            820,
+                            704
+                        ],
+                        "text": "BARBARES"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    47,
+                    854,
+                    160,
+                    846,
+                    162,
+                    867,
+                    49,
+                    874
+                ],
+                "text": "BACK BONTOLOTTE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            52,
+                            854,
+                            85,
+                            853,
+                            86,
+                            872,
+                            52,
+                            873
+                        ],
+                        "confidence": "Low",
+                        "text": "BACK"
+                    },
+                    {
+                        "boundingBox": [
+                            89,
+                            853,
+                            161,
+                            847,
+                            162,
+                            867,
+                            89,
+                            872
+                        ],
+                        "confidence": "Low",
+                        "text": "BONTOLOTTE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    73,
+                    914,
+                    165,
+                    908,
+                    167,
+                    937,
+                    76,
+                    944
+                ],
+                "text": "10-94",
+                "words": [
+                    {
+                        "boundingBox": [
+                            78,
+                            913,
+                            164,
+                            907,
+                            166,
+                            937,
+                            80,
+                            943
+                        ],
+                        "text": "10-94"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    288,
+                    902,
+                    498,
+                    896,
+                    499,
+                    935,
+                    289,
+                    941
+                ],
+                "text": "OUTTORI del BARRARAND",
+                "words": [
+                    {
+                        "boundingBox": [
+                            301,
+                            905,
+                            378,
+                            918,
+                            377,
+                            939,
+                            299,
+                            927
+                        ],
+                        "confidence": "Low",
+                        "text": "OUTTORI"
+                    },
+                    {
+                        "boundingBox": [
+                            382,
+                            918,
+                            401,
+                            918,
+                            401,
+                            938,
+                            382,
+                            939
+                        ],
+                        "text": "del"
+                    },
+                    {
+                        "boundingBox": [
+                            406,
+                            918,
+                            498,
+                            898,
+                            499,
+                            919,
+                            406,
+                            938
+                        ],
+                        "confidence": "Low",
+                        "text": "BARRARAND"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    598,
+                    891,
+                    720,
+                    888,
+                    720,
+                    911,
+                    599,
+                    914
+                ],
+                "text": "CODICE BORTONUTT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            603,
+                            892,
+                            648,
+                            892,
+                            647,
+                            913,
+                            602,
+                            911
+                        ],
+                        "text": "CODICE"
+                    },
+                    {
+                        "boundingBox": [
+                            651,
+                            892,
+                            719,
+                            888,
+                            718,
+                            910,
+                            650,
+                            913
+                        ],
+                        "confidence": "Low",
+                        "text": "BORTONUTT"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    629,
+                    957,
+                    716,
+                    951,
+                    718,
+                    981,
+                    631,
+                    989
+                ],
+                "text": "10-94",
+                "words": [
+                    {
+                        "boundingBox": [
+                            630,
+                            956,
+                            713,
+                            950,
+                            715,
+                            982,
+                            633,
+                            988
+                        ],
+                        "text": "10-94"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    818,
+                    924,
+                    1044,
+                    937,
+                    1041,
+                    979,
+                    815,
+                    966
+                ],
+                "text": "PRODUITORI del BARBIES",
+                "words": [
+                    {
+                        "boundingBox": [
+                            826,
+                            929,
+                            931,
+                            952,
+                            929,
+                            973,
+                            822,
+                            947
+                        ],
+                        "confidence": "Low",
+                        "text": "PRODUITORI"
+                    },
+                    {
+                        "boundingBox": [
+                            935,
+                            953,
+                            958,
+                            953,
+                            957,
+                            974,
+                            933,
+                            973
+                        ],
+                        "text": "del"
+                    },
+                    {
+                        "boundingBox": [
+                            962,
+                            952,
+                            1034,
+                            940,
+                            1035,
+                            963,
+                            961,
+                            974
+                        ],
+                        "confidence": "Low",
+                        "text": "BARBIES"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

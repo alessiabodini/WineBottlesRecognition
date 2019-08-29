@@ -1,0 +1,48 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    425,
+                    278,
+                    450,
+                    76,
+                    479,
+                    80,
+                    454,
+                    282
+                ],
+                "text": "DONNA WALDA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            427,
+                            277,
+                            439,
+                            182,
+                            465,
+                            185,
+                            455,
+                            280
+                        ],
+                        "text": "DONNA"
+                    },
+                    {
+                        "boundingBox": [
+                            440,
+                            175,
+                            450,
+                            77,
+                            479,
+                            80,
+                            466,
+                            178
+                        ],
+                        "text": "WALDA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

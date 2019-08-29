@@ -1,0 +1,92 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    107,
+                    0,
+                    195,
+                    21,
+                    188,
+                    49,
+                    100,
+                    29
+                ],
+                "text": "OLLYMPU",
+                "words": [
+                    {
+                        "boundingBox": [
+                            106,
+                            11,
+                            192,
+                            30,
+                            185,
+                            47,
+                            106,
+                            30
+                        ],
+                        "text": "OLLYMPU"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    67,
+                    143,
+                    136,
+                    167,
+                    130,
+                    181,
+                    62,
+                    158
+                ],
+                "text": "PRIMITIVO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            69,
+                            144,
+                            135,
+                            167,
+                            130,
+                            181,
+                            64,
+                            158
+                        ],
+                        "text": "PRIMITIVO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    80,
+                    195,
+                    125,
+                    198,
+                    124,
+                    212,
+                    78,
+                    211
+                ],
+                "text": "ALL",
+                "words": [
+                    {
+                        "boundingBox": [
+                            91,
+                            195,
+                            124,
+                            196,
+                            124,
+                            212,
+                            91,
+                            211
+                        ],
+                        "confidence": "Low",
+                        "text": "ALL"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

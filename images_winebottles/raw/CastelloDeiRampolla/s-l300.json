@@ -1,0 +1,131 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    28,
+                    63,
+                    178,
+                    68,
+                    177,
+                    107,
+                    27,
+                    101
+                ],
+                "text": "STELLO DEI RAMPOLL",
+                "words": [
+                    {
+                        "boundingBox": [
+                            29,
+                            82,
+                            77,
+                            68,
+                            78,
+                            88,
+                            34,
+                            101
+                        ],
+                        "text": "STELLO"
+                    },
+                    {
+                        "boundingBox": [
+                            85,
+                            67,
+                            106,
+                            66,
+                            105,
+                            87,
+                            85,
+                            88
+                        ],
+                        "text": "DEI"
+                    },
+                    {
+                        "boundingBox": [
+                            110,
+                            67,
+                            178,
+                            87,
+                            171,
+                            107,
+                            108,
+                            88
+                        ],
+                        "confidence": "Low",
+                        "text": "RAMPOLL"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    89,
+                    178,
+                    111,
+                    177,
+                    110,
+                    188,
+                    89,
+                    188
+                ],
+                "text": "2011",
+                "words": [
+                    {
+                        "boundingBox": [
+                            90,
+                            176,
+                            109,
+                            176,
+                            110,
+                            187,
+                            91,
+                            187
+                        ],
+                        "text": "2011"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    45,
+                    186,
+                    154,
+                    185,
+                    155,
+                    202,
+                    46,
+                    203
+                ],
+                "text": "CHIANTI CLASSICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            48,
+                            187,
+                            97,
+                            190,
+                            98,
+                            203,
+                            46,
+                            199
+                        ],
+                        "text": "CHIANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            102,
+                            190,
+                            153,
+                            186,
+                            155,
+                            198,
+                            102,
+                            203
+                        ],
+                        "text": "CLASSICO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

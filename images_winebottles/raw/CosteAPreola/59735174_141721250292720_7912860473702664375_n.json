@@ -1,0 +1,35 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    146,
+                    248,
+                    172,
+                    247,
+                    174,
+                    276,
+                    148,
+                    277
+                ],
+                "text": "E",
+                "words": [
+                    {
+                        "boundingBox": [
+                            155,
+                            247,
+                            170,
+                            247,
+                            172,
+                            276,
+                            156,
+                            276
+                        ],
+                        "text": "E"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

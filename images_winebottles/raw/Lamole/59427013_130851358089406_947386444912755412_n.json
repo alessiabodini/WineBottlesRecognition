@@ -1,0 +1,301 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    280,
+                    143,
+                    351,
+                    141,
+                    352,
+                    166,
+                    280,
+                    167
+                ],
+                "text": "Lamole",
+                "words": [
+                    {
+                        "boundingBox": [
+                            286,
+                            141,
+                            351,
+                            140,
+                            351,
+                            165,
+                            286,
+                            166
+                        ],
+                        "confidence": "Low",
+                        "text": "Lamole"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    282,
+                    165,
+                    349,
+                    165,
+                    349,
+                    183,
+                    283,
+                    184
+                ],
+                "text": "Lamole",
+                "words": [
+                    {
+                        "boundingBox": [
+                            285,
+                            166,
+                            349,
+                            165,
+                            349,
+                            184,
+                            286,
+                            184
+                        ],
+                        "confidence": "Low",
+                        "text": "Lamole"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    219,
+                    233,
+                    395,
+                    236,
+                    394,
+                    261,
+                    218,
+                    258
+                ],
+                "text": "CHIANTI CLASSICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            223,
+                            234,
+                            306,
+                            236,
+                            306,
+                            260,
+                            221,
+                            253
+                        ],
+                        "text": "CHIANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            313,
+                            237,
+                            394,
+                            236,
+                            396,
+                            256,
+                            313,
+                            261
+                        ],
+                        "text": "CLASSICO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    233,
+                    257,
+                    388,
+                    258,
+                    387,
+                    273,
+                    232,
+                    272
+                ],
+                "text": "DENOMINAZIONE DI ORIGINE CONTROLLITI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            234,
+                            258,
+                            294,
+                            261,
+                            294,
+                            272,
+                            233,
+                            267
+                        ],
+                        "confidence": "Low",
+                        "text": "DENOMINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            296,
+                            261,
+                            307,
+                            262,
+                            306,
+                            273,
+                            296,
+                            272
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            308,
+                            262,
+                            343,
+                            261,
+                            343,
+                            272,
+                            308,
+                            273
+                        ],
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            345,
+                            261,
+                            388,
+                            258,
+                            388,
+                            268,
+                            345,
+                            272
+                        ],
+                        "confidence": "Low",
+                        "text": "CONTROLLITI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    283,
+                    271,
+                    340,
+                    270,
+                    341,
+                    280,
+                    284,
+                    281
+                ],
+                "text": "E GARANTITA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            286,
+                            271,
+                            292,
+                            271,
+                            292,
+                            281,
+                            286,
+                            281
+                        ],
+                        "text": "E"
+                    },
+                    {
+                        "boundingBox": [
+                            294,
+                            271,
+                            341,
+                            271,
+                            341,
+                            280,
+                            294,
+                            281
+                        ],
+                        "text": "GARANTITA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    233,
+                    288,
+                    253,
+                    291,
+                    251,
+                    304,
+                    231,
+                    301
+                ],
+                "text": "750",
+                "words": [
+                    {
+                        "boundingBox": [
+                            233,
+                            287,
+                            249,
+                            290,
+                            247,
+                            303,
+                            231,
+                            300
+                        ],
+                        "confidence": "Low",
+                        "text": "750"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    288,
+                    285,
+                    338,
+                    286,
+                    337,
+                    296,
+                    287,
+                    295
+                ],
+                "text": "RACCOLTO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            288,
+                            286,
+                            338,
+                            286,
+                            338,
+                            296,
+                            288,
+                            296
+                        ],
+                        "text": "RACCOLTO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    288,
+                    296,
+                    336,
+                    295,
+                    337,
+                    309,
+                    289,
+                    311
+                ],
+                "text": "2016",
+                "words": [
+                    {
+                        "boundingBox": [
+                            292,
+                            297,
+                            336,
+                            296,
+                            336,
+                            310,
+                            292,
+                            311
+                        ],
+                        "text": "2016"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

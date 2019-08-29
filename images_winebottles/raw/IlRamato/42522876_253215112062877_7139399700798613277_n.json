@@ -1,0 +1,77 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    706,
+                    897,
+                    775,
+                    898,
+                    774,
+                    910,
+                    705,
+                    909
+                ],
+                "text": "PINOT GRIGIO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            709,
+                            898,
+                            739,
+                            898,
+                            739,
+                            910,
+                            709,
+                            911
+                        ],
+                        "text": "PINOT"
+                    },
+                    {
+                        "boundingBox": [
+                            741,
+                            898,
+                            775,
+                            899,
+                            775,
+                            911,
+                            741,
+                            910
+                        ],
+                        "text": "GRIGIO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    690,
+                    953,
+                    744,
+                    955,
+                    743,
+                    968,
+                    689,
+                    966
+                ],
+                "text": "SCARBOLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            691,
+                            955,
+                            743,
+                            957,
+                            742,
+                            968,
+                            690,
+                            966
+                        ],
+                        "confidence": "Low",
+                        "text": "SCARBOLO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

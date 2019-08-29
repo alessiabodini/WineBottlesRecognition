@@ -1,0 +1,147 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    76,
+                    14,
+                    205,
+                    23,
+                    204,
+                    96,
+                    71,
+                    94
+                ],
+                "text": "ilr",
+                "words": [
+                    {
+                        "boundingBox": [
+                            74,
+                            13,
+                            201,
+                            18,
+                            198,
+                            98,
+                            70,
+                            93
+                        ],
+                        "text": "ilr"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    212,
+                    70,
+                    293,
+                    64,
+                    295,
+                    93,
+                    215,
+                    100
+                ],
+                "text": "PINOT G",
+                "words": [
+                    {
+                        "boundingBox": [
+                            213,
+                            72,
+                            281,
+                            65,
+                            282,
+                            95,
+                            215,
+                            99
+                        ],
+                        "text": "PINOT"
+                    },
+                    {
+                        "boundingBox": [
+                            286,
+                            65,
+                            293,
+                            64,
+                            293,
+                            94,
+                            287,
+                            95
+                        ],
+                        "text": "G"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    67,
+                    111,
+                    291,
+                    97,
+                    295,
+                    159,
+                    71,
+                    174
+                ],
+                "text": "a mate",
+                "words": [
+                    {
+                        "boundingBox": [
+                            80,
+                            112,
+                            118,
+                            110,
+                            121,
+                            170,
+                            83,
+                            170
+                        ],
+                        "text": "a"
+                    },
+                    {
+                        "boundingBox": [
+                            141,
+                            109,
+                            289,
+                            97,
+                            292,
+                            159,
+                            144,
+                            169
+                        ],
+                        "confidence": "Low",
+                        "text": "mate"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    83,
+                    305,
+                    265,
+                    257,
+                    272,
+                    287,
+                    91,
+                    334
+                ],
+                "text": "SCARBOLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            89,
+                            305,
+                            262,
+                            260,
+                            270,
+                            277,
+                            93,
+                            325
+                        ],
+                        "confidence": "Low",
+                        "text": "SCARBOLO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

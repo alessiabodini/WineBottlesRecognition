@@ -1,0 +1,204 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    103,
+                    289,
+                    93,
+                    192,
+                    106,
+                    190,
+                    116,
+                    287
+                ],
+                "text": "DONNA WALDA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            103,
+                            282,
+                            98,
+                            234,
+                            111,
+                            233,
+                            116,
+                            280
+                        ],
+                        "text": "DONNA"
+                    },
+                    {
+                        "boundingBox": [
+                            98,
+                            231,
+                            94,
+                            193,
+                            106,
+                            192,
+                            110,
+                            230
+                        ],
+                        "text": "WALDA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    201,
+                    285,
+                    204,
+                    188,
+                    221,
+                    189,
+                    218,
+                    286
+                ],
+                "text": "DONNA WAR",
+                "words": [
+                    {
+                        "boundingBox": [
+                            203,
+                            278,
+                            204,
+                            232,
+                            219,
+                            232,
+                            218,
+                            278
+                        ],
+                        "text": "DONNA"
+                    },
+                    {
+                        "boundingBox": [
+                            204,
+                            229,
+                            204,
+                            195,
+                            221,
+                            196,
+                            219,
+                            229
+                        ],
+                        "confidence": "Low",
+                        "text": "WAR"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    272,
+                    40,
+                    352,
+                    44,
+                    351,
+                    75,
+                    271,
+                    71
+                ],
+                "text": "di Patate",
+                "words": [
+                    {
+                        "boundingBox": [
+                            276,
+                            40,
+                            286,
+                            40,
+                            284,
+                            71,
+                            274,
+                            71
+                        ],
+                        "text": "di"
+                    },
+                    {
+                        "boundingBox": [
+                            292,
+                            40,
+                            350,
+                            43,
+                            348,
+                            74,
+                            291,
+                            71
+                        ],
+                        "confidence": "Low",
+                        "text": "Patate"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    449,
+                    271,
+                    451,
+                    190,
+                    469,
+                    191,
+                    466,
+                    271
+                ],
+                "text": "MECAN",
+                "words": [
+                    {
+                        "boundingBox": [
+                            449,
+                            269,
+                            451,
+                            207,
+                            469,
+                            208,
+                            468,
+                            269
+                        ],
+                        "confidence": "Low",
+                        "text": "MECAN"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    277,
+                    0,
+                    473,
+                    0,
+                    474,
+                    37,
+                    278,
+                    41
+                ],
+                "text": "Scamor20, Zucchini",
+                "words": [
+                    {
+                        "boundingBox": [
+                            287,
+                            0,
+                            380,
+                            1,
+                            380,
+                            40,
+                            286,
+                            39
+                        ],
+                        "confidence": "Low",
+                        "text": "Scamor20,"
+                    },
+                    {
+                        "boundingBox": [
+                            388,
+                            1,
+                            474,
+                            0,
+                            475,
+                            34,
+                            388,
+                            40
+                        ],
+                        "confidence": "Low",
+                        "text": "Zucchini"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}
