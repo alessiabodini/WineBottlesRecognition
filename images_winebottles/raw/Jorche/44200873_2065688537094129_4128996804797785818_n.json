@@ -1,0 +1,317 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    250,
+                    242,
+                    305,
+                    245,
+                    305,
+                    266,
+                    250,
+                    264
+                ],
+                "text": "RCHE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            255,
+                            241,
+                            305,
+                            243,
+                            304,
+                            265,
+                            254,
+                            263
+                        ],
+                        "confidence": "Low",
+                        "text": "RCHE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    259,
+                    646,
+                    347,
+                    641,
+                    349,
+                    665,
+                    261,
+                    670
+                ],
+                "text": "JORCHE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            260,
+                            647,
+                            347,
+                            642,
+                            348,
+                            666,
+                            261,
+                            671
+                        ],
+                        "text": "JORCHE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    215,
+                    680,
+                    394,
+                    675,
+                    395,
+                    707,
+                    216,
+                    712
+                ],
+                "text": "PRIMITIVODI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            218,
+                            683,
+                            394,
+                            677,
+                            395,
+                            706,
+                            218,
+                            708
+                        ],
+                        "confidence": "Low",
+                        "text": "PRIMITIVODI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    221,
+                    706,
+                    340,
+                    707,
+                    339,
+                    731,
+                    220,
+                    729
+                ],
+                "text": "MANDU",
+                "words": [
+                    {
+                        "boundingBox": [
+                            228,
+                            706,
+                            334,
+                            708,
+                            334,
+                            730,
+                            228,
+                            730
+                        ],
+                        "text": "MANDU"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    220,
+                    724,
+                    394,
+                    718,
+                    395,
+                    744,
+                    221,
+                    750
+                ],
+                "text": "HINOMINAZIONI DEORIGINE PROTETTA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            221,
+                            724,
+                            294,
+                            730,
+                            294,
+                            748,
+                            221,
+                            743
+                        ],
+                        "confidence": "Low",
+                        "text": "HINOMINAZIONI"
+                    },
+                    {
+                        "boundingBox": [
+                            298,
+                            730,
+                            349,
+                            726,
+                            348,
+                            745,
+                            298,
+                            748
+                        ],
+                        "confidence": "Low",
+                        "text": "DEORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            352,
+                            726,
+                            395,
+                            719,
+                            394,
+                            738,
+                            352,
+                            744
+                        ],
+                        "confidence": "Low",
+                        "text": "PROTETTA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    231,
+                    898,
+                    396,
+                    887,
+                    397,
+                    909,
+                    232,
+                    919
+                ],
+                "text": "FINDTO DA LIVE DELL ANNATA 201",
+                "words": [
+                    {
+                        "boundingBox": [
+                            236,
+                            899,
+                            271,
+                            901,
+                            271,
+                            916,
+                            235,
+                            913
+                        ],
+                        "confidence": "Low",
+                        "text": "FINDTO"
+                    },
+                    {
+                        "boundingBox": [
+                            274,
+                            901,
+                            288,
+                            901,
+                            289,
+                            916,
+                            274,
+                            916
+                        ],
+                        "text": "DA"
+                    },
+                    {
+                        "boundingBox": [
+                            291,
+                            901,
+                            312,
+                            901,
+                            312,
+                            915,
+                            292,
+                            916
+                        ],
+                        "confidence": "Low",
+                        "text": "LIVE"
+                    },
+                    {
+                        "boundingBox": [
+                            315,
+                            900,
+                            338,
+                            898,
+                            339,
+                            912,
+                            315,
+                            915
+                        ],
+                        "confidence": "Low",
+                        "text": "DELL"
+                    },
+                    {
+                        "boundingBox": [
+                            341,
+                            898,
+                            373,
+                            893,
+                            375,
+                            907,
+                            342,
+                            912
+                        ],
+                        "confidence": "Low",
+                        "text": "ANNATA"
+                    },
+                    {
+                        "boundingBox": [
+                            376,
+                            892,
+                            394,
+                            889,
+                            397,
+                            902,
+                            378,
+                            906
+                        ],
+                        "confidence": "Low",
+                        "text": "201"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    386,
+                    1049,
+                    475,
+                    1017,
+                    480,
+                    1031,
+                    391,
+                    1064
+                ],
+                "text": "ACHAVAL FERRER",
+                "words": [
+                    {
+                        "boundingBox": [
+                            391,
+                            1049,
+                            434,
+                            1033,
+                            437,
+                            1045,
+                            396,
+                            1062
+                        ],
+                        "text": "ACHAVAL"
+                    },
+                    {
+                        "boundingBox": [
+                            436,
+                            1032,
+                            474,
+                            1020,
+                            477,
+                            1033,
+                            440,
+                            1044
+                        ],
+                        "text": "FERRER"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

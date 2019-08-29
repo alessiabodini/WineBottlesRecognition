@@ -1,0 +1,77 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    105,
+                    118,
+                    132,
+                    118,
+                    132,
+                    125,
+                    105,
+                    125
+                ],
+                "text": "NICCOLo Y",
+                "words": [
+                    {
+                        "boundingBox": [
+                            105,
+                            118,
+                            128,
+                            118,
+                            128,
+                            125,
+                            105,
+                            125
+                        ],
+                        "confidence": "Low",
+                        "text": "NICCOLo"
+                    },
+                    {
+                        "boundingBox": [
+                            130,
+                            118,
+                            132,
+                            118,
+                            132,
+                            125,
+                            129,
+                            125
+                        ],
+                        "text": "Y"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    103,
+                    190,
+                    134,
+                    189,
+                    134,
+                    199,
+                    104,
+                    200
+                ],
+                "text": "LVNAL",
+                "words": [
+                    {
+                        "boundingBox": [
+                            105,
+                            191,
+                            134,
+                            189,
+                            134,
+                            199,
+                            105,
+                            200
+                        ],
+                        "text": "LVNAL"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

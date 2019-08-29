@@ -28,7 +28,7 @@ for i in range(len(gtImages)):
 command = ''
 while command != 'quit':
     # Ask for image name
-    command = input('\nEnter the name of an image in \'images_winebottles\\test\': ')
+    command = input('\nEnter the name of an image in \'images_winebottles\\test\' or \'quit\': ')
     print()
     if command == 'quit':
         break
@@ -64,8 +64,9 @@ while command != 'quit':
 
     # Print the name of the bottle
     scores = getScores(wordsBottle)
-    #print(scores)
     indexSort = np.argsort(scores)
+    print(scores)
+    print(bottlesNames)
     indexRank = np.argmin(scores)
     bottlesNames = np.asarray(bottlesNames)
     rank = bottlesNames[indexRank]

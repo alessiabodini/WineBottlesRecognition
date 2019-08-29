@@ -1,0 +1,148 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    248,
+                    354,
+                    331,
+                    326,
+                    337,
+                    346,
+                    255,
+                    374
+                ],
+                "text": "JORCHE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            250,
+                            354,
+                            331,
+                            326,
+                            337,
+                            346,
+                            257,
+                            373
+                        ],
+                        "text": "JORCHE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    267,
+                    506,
+                    392,
+                    463,
+                    400,
+                    487,
+                    275,
+                    530
+                ],
+                "text": "KIMIINNO PI MANYEN",
+                "words": [
+                    {
+                        "boundingBox": [
+                            278,
+                            506,
+                            325,
+                            497,
+                            329,
+                            513,
+                            279,
+                            521
+                        ],
+                        "confidence": "Low",
+                        "text": "KIMIINNO"
+                    },
+                    {
+                        "boundingBox": [
+                            328,
+                            497,
+                            338,
+                            493,
+                            341,
+                            509,
+                            331,
+                            512
+                        ],
+                        "confidence": "Low",
+                        "text": "PI"
+                    },
+                    {
+                        "boundingBox": [
+                            340,
+                            492,
+                            391,
+                            465,
+                            397,
+                            481,
+                            344,
+                            508
+                        ],
+                        "confidence": "Low",
+                        "text": "MANYEN"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    313,
+                    517,
+                    364,
+                    499,
+                    369,
+                    511,
+                    318,
+                    529
+                ],
+                "text": "RISERVA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            319,
+                            516,
+                            362,
+                            501,
+                            365,
+                            514,
+                            322,
+                            528
+                        ],
+                        "text": "RISERVA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    553,
+                    1031,
+                    611,
+                    1018,
+                    632,
+                    1107,
+                    574,
+                    1120
+                ],
+                "text": "e",
+                "words": [
+                    {
+                        "boundingBox": [
+                            564,
+                            1027,
+                            605,
+                            1018,
+                            626,
+                            1108,
+                            584,
+                            1117
+                        ],
+                        "text": "e"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

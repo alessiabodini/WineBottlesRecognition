@@ -1,0 +1,1196 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    27,
+                    167,
+                    173,
+                    177,
+                    168,
+                    244,
+                    21,
+                    229
+                ],
+                "text": "CAR",
+                "words": [
+                    {
+                        "boundingBox": [
+                            35,
+                            165,
+                            173,
+                            176,
+                            167,
+                            243,
+                            29,
+                            231
+                        ],
+                        "confidence": "Low",
+                        "text": "CAR"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    35,
+                    224,
+                    172,
+                    242,
+                    169,
+                    266,
+                    32,
+                    248
+                ],
+                "text": "todo Classic",
+                "words": [
+                    {
+                        "boundingBox": [
+                            58,
+                            229,
+                            106,
+                            234,
+                            103,
+                            253,
+                            54,
+                            248
+                        ],
+                        "confidence": "Low",
+                        "text": "todo"
+                    },
+                    {
+                        "boundingBox": [
+                            110,
+                            235,
+                            172,
+                            242,
+                            168,
+                            266,
+                            107,
+                            254
+                        ],
+                        "confidence": "Low",
+                        "text": "Classic"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    220,
+                    179,
+                    440,
+                    210,
+                    432,
+                    265,
+                    212,
+                    235
+                ],
+                "text": "ONGARO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            234,
+                            185,
+                            415,
+                            214,
+                            419,
+                            241,
+                            221,
+                            208
+                        ],
+                        "text": "ONGARO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    259,
+                    237,
+                    353,
+                    258,
+                    349,
+                    277,
+                    254,
+                    256
+                ],
+                "text": "PAS DOSE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            261,
+                            238,
+                            295,
+                            247,
+                            293,
+                            265,
+                            258,
+                            254
+                        ],
+                        "text": "PAS"
+                    },
+                    {
+                        "boundingBox": [
+                            302,
+                            249,
+                            353,
+                            258,
+                            350,
+                            274,
+                            299,
+                            267
+                        ],
+                        "text": "DOSE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    262,
+                    255,
+                    342,
+                    274,
+                    339,
+                    287,
+                    258,
+                    268
+                ],
+                "text": "METODO CLASSICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            263,
+                            255,
+                            299,
+                            267,
+                            296,
+                            277,
+                            261,
+                            267
+                        ],
+                        "confidence": "Low",
+                        "text": "METODO"
+                    },
+                    {
+                        "boundingBox": [
+                            301,
+                            268,
+                            342,
+                            275,
+                            340,
+                            285,
+                            299,
+                            278
+                        ],
+                        "confidence": "Low",
+                        "text": "CLASSICO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    290,
+                    318,
+                    377,
+                    307,
+                    378,
+                    317,
+                    292,
+                    328
+                ],
+                "text": "METODO CLASSICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            293,
+                            319,
+                            331,
+                            314,
+                            332,
+                            323,
+                            294,
+                            327
+                        ],
+                        "confidence": "Low",
+                        "text": "METODO"
+                    },
+                    {
+                        "boundingBox": [
+                            334,
+                            313,
+                            375,
+                            308,
+                            376,
+                            318,
+                            334,
+                            322
+                        ],
+                        "text": "CLASSICO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    437,
+                    290,
+                    449,
+                    287,
+                    452,
+                    297,
+                    439,
+                    300
+                ],
+                "text": "6",
+                "words": [
+                    {
+                        "boundingBox": [
+                            440,
+                            288,
+                            448,
+                            286,
+                            450,
+                            296,
+                            442,
+                            298
+                        ],
+                        "text": "6"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    275,
+                    339,
+                    403,
+                    323,
+                    404,
+                    332,
+                    277,
+                    348
+                ],
+                "text": "Reststo da vie Durella 100% Mend",
+                "words": [
+                    {
+                        "boundingBox": [
+                            277,
+                            340,
+                            308,
+                            336,
+                            309,
+                            344,
+                            278,
+                            348
+                        ],
+                        "confidence": "Low",
+                        "text": "Reststo"
+                    },
+                    {
+                        "boundingBox": [
+                            310,
+                            336,
+                            317,
+                            335,
+                            318,
+                            343,
+                            310,
+                            344
+                        ],
+                        "text": "da"
+                    },
+                    {
+                        "boundingBox": [
+                            319,
+                            335,
+                            332,
+                            333,
+                            333,
+                            341,
+                            319,
+                            343
+                        ],
+                        "confidence": "Low",
+                        "text": "vie"
+                    },
+                    {
+                        "boundingBox": [
+                            333,
+                            333,
+                            360,
+                            329,
+                            361,
+                            338,
+                            334,
+                            341
+                        ],
+                        "confidence": "Low",
+                        "text": "Durella"
+                    },
+                    {
+                        "boundingBox": [
+                            362,
+                            329,
+                            380,
+                            326,
+                            381,
+                            335,
+                            363,
+                            338
+                        ],
+                        "confidence": "Low",
+                        "text": "100%"
+                    },
+                    {
+                        "boundingBox": [
+                            382,
+                            326,
+                            403,
+                            323,
+                            404,
+                            332,
+                            383,
+                            335
+                        ],
+                        "confidence": "Low",
+                        "text": "Mend"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    197,
+                    363,
+                    236,
+                    361,
+                    237,
+                    370,
+                    198,
+                    372
+                ],
+                "text": "keli pane",
+                "words": [
+                    {
+                        "boundingBox": [
+                            205,
+                            364,
+                            217,
+                            363,
+                            218,
+                            371,
+                            205,
+                            372
+                        ],
+                        "confidence": "Low",
+                        "text": "keli"
+                    },
+                    {
+                        "boundingBox": [
+                            219,
+                            362,
+                            237,
+                            362,
+                            237,
+                            370,
+                            219,
+                            371
+                        ],
+                        "text": "pane"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    264,
+                    350,
+                    418,
+                    330,
+                    420,
+                    339,
+                    266,
+                    359
+                ],
+                "text": "unionsite in tone differentis, dal colyuen sopor",
+                "words": [
+                    {
+                        "boundingBox": [
+                            266,
+                            351,
+                            295,
+                            347,
+                            296,
+                            355,
+                            266,
+                            359
+                        ],
+                        "confidence": "Low",
+                        "text": "unionsite"
+                    },
+                    {
+                        "boundingBox": [
+                            297,
+                            347,
+                            305,
+                            346,
+                            305,
+                            354,
+                            298,
+                            355
+                        ],
+                        "text": "in"
+                    },
+                    {
+                        "boundingBox": [
+                            307,
+                            346,
+                            324,
+                            343,
+                            325,
+                            351,
+                            308,
+                            353
+                        ],
+                        "confidence": "Low",
+                        "text": "tone"
+                    },
+                    {
+                        "boundingBox": [
+                            325,
+                            343,
+                            363,
+                            338,
+                            364,
+                            346,
+                            326,
+                            351
+                        ],
+                        "confidence": "Low",
+                        "text": "differentis,"
+                    },
+                    {
+                        "boundingBox": [
+                            365,
+                            338,
+                            374,
+                            337,
+                            376,
+                            345,
+                            366,
+                            346
+                        ],
+                        "confidence": "Low",
+                        "text": "dal"
+                    },
+                    {
+                        "boundingBox": [
+                            376,
+                            336,
+                            398,
+                            334,
+                            400,
+                            342,
+                            377,
+                            345
+                        ],
+                        "confidence": "Low",
+                        "text": "colyuen"
+                    },
+                    {
+                        "boundingBox": [
+                            400,
+                            333,
+                            419,
+                            331,
+                            420,
+                            340,
+                            401,
+                            342
+                        ],
+                        "confidence": "Low",
+                        "text": "sopor"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    272,
+                    358,
+                    414,
+                    339,
+                    416,
+                    348,
+                    274,
+                    367
+                ],
+                "text": "dorato, minerale e con probumno de funk",
+                "words": [
+                    {
+                        "boundingBox": [
+                            276,
+                            359,
+                            302,
+                            355,
+                            302,
+                            364,
+                            276,
+                            367
+                        ],
+                        "confidence": "Low",
+                        "text": "dorato,"
+                    },
+                    {
+                        "boundingBox": [
+                            303,
+                            355,
+                            335,
+                            351,
+                            336,
+                            359,
+                            304,
+                            363
+                        ],
+                        "confidence": "Low",
+                        "text": "minerale"
+                    },
+                    {
+                        "boundingBox": [
+                            336,
+                            351,
+                            341,
+                            350,
+                            342,
+                            359,
+                            337,
+                            359
+                        ],
+                        "text": "e"
+                    },
+                    {
+                        "boundingBox": [
+                            342,
+                            350,
+                            355,
+                            348,
+                            356,
+                            357,
+                            343,
+                            358
+                        ],
+                        "text": "con"
+                    },
+                    {
+                        "boundingBox": [
+                            357,
+                            348,
+                            388,
+                            344,
+                            389,
+                            352,
+                            357,
+                            356
+                        ],
+                        "confidence": "Low",
+                        "text": "probumno"
+                    },
+                    {
+                        "boundingBox": [
+                            390,
+                            343,
+                            396,
+                            343,
+                            397,
+                            351,
+                            391,
+                            352
+                        ],
+                        "confidence": "Low",
+                        "text": "de"
+                    },
+                    {
+                        "boundingBox": [
+                            398,
+                            342,
+                            415,
+                            340,
+                            416,
+                            348,
+                            399,
+                            351
+                        ],
+                        "confidence": "Low",
+                        "text": "funk"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    449,
+                    328,
+                    476,
+                    323,
+                    478,
+                    331,
+                    451,
+                    336
+                ],
+                "text": "valo &",
+                "words": [
+                    {
+                        "boundingBox": [
+                            450,
+                            329,
+                            468,
+                            325,
+                            470,
+                            332,
+                            452,
+                            336
+                        ],
+                        "confidence": "Low",
+                        "text": "valo"
+                    },
+                    {
+                        "boundingBox": [
+                            470,
+                            325,
+                            475,
+                            324,
+                            477,
+                            331,
+                            472,
+                            332
+                        ],
+                        "confidence": "Low",
+                        "text": "&"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    187,
+                    384,
+                    236,
+                    379,
+                    237,
+                    389,
+                    187,
+                    393
+                ],
+                "text": "odi 48 pira",
+                "words": [
+                    {
+                        "boundingBox": [
+                            190,
+                            384,
+                            205,
+                            383,
+                            206,
+                            392,
+                            191,
+                            393
+                        ],
+                        "confidence": "Low",
+                        "text": "odi"
+                    },
+                    {
+                        "boundingBox": [
+                            207,
+                            382,
+                            217,
+                            382,
+                            218,
+                            391,
+                            207,
+                            392
+                        ],
+                        "text": "48"
+                    },
+                    {
+                        "boundingBox": [
+                            219,
+                            381,
+                            236,
+                            380,
+                            236,
+                            390,
+                            219,
+                            391
+                        ],
+                        "confidence": "Low",
+                        "text": "pira"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    276,
+                    366,
+                    417,
+                    349,
+                    418,
+                    358,
+                    278,
+                    376
+                ],
+                "text": "timehi e giall, sestore di Inits a pasta",
+                "words": [
+                    {
+                        "boundingBox": [
+                            277,
+                            367,
+                            303,
+                            364,
+                            304,
+                            373,
+                            278,
+                            376
+                        ],
+                        "confidence": "Low",
+                        "text": "timehi"
+                    },
+                    {
+                        "boundingBox": [
+                            305,
+                            364,
+                            309,
+                            363,
+                            310,
+                            372,
+                            306,
+                            372
+                        ],
+                        "text": "e"
+                    },
+                    {
+                        "boundingBox": [
+                            311,
+                            363,
+                            331,
+                            361,
+                            332,
+                            369,
+                            312,
+                            372
+                        ],
+                        "confidence": "Low",
+                        "text": "giall,"
+                    },
+                    {
+                        "boundingBox": [
+                            333,
+                            360,
+                            360,
+                            357,
+                            361,
+                            366,
+                            334,
+                            369
+                        ],
+                        "confidence": "Low",
+                        "text": "sestore"
+                    },
+                    {
+                        "boundingBox": [
+                            362,
+                            357,
+                            368,
+                            356,
+                            369,
+                            365,
+                            363,
+                            365
+                        ],
+                        "confidence": "Low",
+                        "text": "di"
+                    },
+                    {
+                        "boundingBox": [
+                            370,
+                            356,
+                            390,
+                            353,
+                            391,
+                            362,
+                            371,
+                            364
+                        ],
+                        "confidence": "Low",
+                        "text": "Inits"
+                    },
+                    {
+                        "boundingBox": [
+                            392,
+                            353,
+                            396,
+                            352,
+                            397,
+                            361,
+                            393,
+                            362
+                        ],
+                        "text": "a"
+                    },
+                    {
+                        "boundingBox": [
+                            398,
+                            352,
+                            417,
+                            349,
+                            418,
+                            358,
+                            399,
+                            361
+                        ],
+                        "confidence": "Low",
+                        "text": "pasta"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    276,
+                    376,
+                    419,
+                    356,
+                    421,
+                    366,
+                    278,
+                    386
+                ],
+                "text": "gialla matura , intense aroma di lievdi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            279,
+                            377,
+                            299,
+                            374,
+                            300,
+                            383,
+                            280,
+                            386
+                        ],
+                        "text": "gialla"
+                    },
+                    {
+                        "boundingBox": [
+                            301,
+                            374,
+                            327,
+                            370,
+                            328,
+                            379,
+                            302,
+                            383
+                        ],
+                        "text": "matura"
+                    },
+                    {
+                        "boundingBox": [
+                            329,
+                            370,
+                            333,
+                            370,
+                            334,
+                            379,
+                            330,
+                            379
+                        ],
+                        "confidence": "Low",
+                        "text": ","
+                    },
+                    {
+                        "boundingBox": [
+                            334,
+                            369,
+                            362,
+                            366,
+                            363,
+                            375,
+                            335,
+                            378
+                        ],
+                        "confidence": "Low",
+                        "text": "intense"
+                    },
+                    {
+                        "boundingBox": [
+                            364,
+                            365,
+                            387,
+                            362,
+                            388,
+                            371,
+                            364,
+                            374
+                        ],
+                        "text": "aroma"
+                    },
+                    {
+                        "boundingBox": [
+                            389,
+                            362,
+                            395,
+                            361,
+                            396,
+                            370,
+                            390,
+                            371
+                        ],
+                        "text": "di"
+                    },
+                    {
+                        "boundingBox": [
+                            397,
+                            361,
+                            419,
+                            357,
+                            420,
+                            366,
+                            398,
+                            370
+                        ],
+                        "confidence": "Low",
+                        "text": "lievdi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    177,
+                    399,
+                    234,
+                    393,
+                    235,
+                    403,
+                    178,
+                    409
+                ],
+                "text": "2so fra.6-82/1",
+                "words": [
+                    {
+                        "boundingBox": [
+                            179,
+                            400,
+                            192,
+                            398,
+                            192,
+                            407,
+                            180,
+                            408
+                        ],
+                        "confidence": "Low",
+                        "text": "2so"
+                    },
+                    {
+                        "boundingBox": [
+                            194,
+                            398,
+                            235,
+                            394,
+                            235,
+                            404,
+                            194,
+                            407
+                        ],
+                        "confidence": "Low",
+                        "text": "fra.6-82/1"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    270,
+                    387,
+                    431,
+                    365,
+                    433,
+                    374,
+                    272,
+                    396
+                ],
+                "text": "Rifermenta in bottiglia non meno 41 36 men",
+                "words": [
+                    {
+                        "boundingBox": [
+                            272,
+                            388,
+                            313,
+                            382,
+                            314,
+                            391,
+                            272,
+                            396
+                        ],
+                        "confidence": "Low",
+                        "text": "Rifermenta"
+                    },
+                    {
+                        "boundingBox": [
+                            315,
+                            382,
+                            322,
+                            381,
+                            323,
+                            390,
+                            316,
+                            391
+                        ],
+                        "text": "in"
+                    },
+                    {
+                        "boundingBox": [
+                            324,
+                            381,
+                            354,
+                            376,
+                            355,
+                            385,
+                            325,
+                            389
+                        ],
+                        "confidence": "Low",
+                        "text": "bottiglia"
+                    },
+                    {
+                        "boundingBox": [
+                            355,
+                            376,
+                            369,
+                            374,
+                            371,
+                            383,
+                            357,
+                            385
+                        ],
+                        "text": "non"
+                    },
+                    {
+                        "boundingBox": [
+                            371,
+                            374,
+                            392,
+                            371,
+                            394,
+                            380,
+                            372,
+                            383
+                        ],
+                        "confidence": "Low",
+                        "text": "meno"
+                    },
+                    {
+                        "boundingBox": [
+                            394,
+                            371,
+                            401,
+                            370,
+                            402,
+                            379,
+                            395,
+                            380
+                        ],
+                        "confidence": "Low",
+                        "text": "41"
+                    },
+                    {
+                        "boundingBox": [
+                            402,
+                            370,
+                            411,
+                            369,
+                            413,
+                            378,
+                            404,
+                            379
+                        ],
+                        "confidence": "Low",
+                        "text": "36"
+                    },
+                    {
+                        "boundingBox": [
+                            413,
+                            368,
+                            430,
+                            366,
+                            432,
+                            375,
+                            414,
+                            378
+                        ],
+                        "confidence": "Low",
+                        "text": "men"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    299,
+                    396,
+                    410,
+                    381,
+                    412,
+                    391,
+                    301,
+                    406
+                ],
+                "text": "Residua zuccherino circa 1",
+                "words": [
+                    {
+                        "boundingBox": [
+                            301,
+                            396,
+                            332,
+                            393,
+                            333,
+                            402,
+                            302,
+                            406
+                        ],
+                        "confidence": "Low",
+                        "text": "Residua"
+                    },
+                    {
+                        "boundingBox": [
+                            333,
+                            393,
+                            374,
+                            387,
+                            375,
+                            396,
+                            334,
+                            402
+                        ],
+                        "confidence": "Low",
+                        "text": "zuccherino"
+                    },
+                    {
+                        "boundingBox": [
+                            376,
+                            387,
+                            394,
+                            385,
+                            395,
+                            394,
+                            377,
+                            396
+                        ],
+                        "confidence": "Low",
+                        "text": "circa"
+                    },
+                    {
+                        "boundingBox": [
+                            396,
+                            384,
+                            402,
+                            383,
+                            403,
+                            393,
+                            397,
+                            394
+                        ],
+                        "confidence": "Low",
+                        "text": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,148 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    269,
+                    483,
+                    376,
+                    475,
+                    378,
+                    499,
+                    271,
+                    507
+                ],
+                "text": "NICCOLO' V",
+                "words": [
+                    {
+                        "boundingBox": [
+                            272,
+                            484,
+                            358,
+                            478,
+                            359,
+                            500,
+                            274,
+                            507
+                        ],
+                        "text": "NICCOLO'"
+                    },
+                    {
+                        "boundingBox": [
+                            363,
+                            477,
+                            376,
+                            477,
+                            377,
+                            499,
+                            364,
+                            500
+                        ],
+                        "text": "V"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    285,
+                    527,
+                    366,
+                    522,
+                    368,
+                    546,
+                    287,
+                    552
+                ],
+                "text": "PLATENO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            286,
+                            530,
+                            367,
+                            524,
+                            367,
+                            547,
+                            289,
+                            552
+                        ],
+                        "confidence": "Low",
+                        "text": "PLATENO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    267,
+                    732,
+                    377,
+                    726,
+                    379,
+                    758,
+                    268,
+                    764
+                ],
+                "text": "LVNAE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            269,
+                            732,
+                            376,
+                            727,
+                            378,
+                            758,
+                            272,
+                            764
+                        ],
+                        "text": "LVNAE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    277,
+                    778,
+                    362,
+                    773,
+                    363,
+                    789,
+                    277,
+                    794
+                ],
+                "text": "Paolo Hasant",
+                "words": [
+                    {
+                        "boundingBox": [
+                            282,
+                            778,
+                            316,
+                            776,
+                            317,
+                            792,
+                            283,
+                            794
+                        ],
+                        "confidence": "Low",
+                        "text": "Paolo"
+                    },
+                    {
+                        "boundingBox": [
+                            319,
+                            776,
+                            361,
+                            774,
+                            362,
+                            789,
+                            320,
+                            792
+                        ],
+                        "confidence": "Low",
+                        "text": "Hasant"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,1102 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    781,
+                    784,
+                    865,
+                    781,
+                    865,
+                    798,
+                    782,
+                    802
+                ],
+                "text": "ANTINORI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            782,
+                            785,
+                            864,
+                            781,
+                            865,
+                            799,
+                            783,
+                            801
+                        ],
+                        "confidence": "Low",
+                        "text": "ANTINORI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    781,
+                    709,
+                    853,
+                    705,
+                    854,
+                    721,
+                    781,
+                    725
+                ],
+                "text": "SUPERIORE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            784,
+                            709,
+                            854,
+                            706,
+                            854,
+                            721,
+                            785,
+                            725
+                        ],
+                        "text": "SUPERIORE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    810,
+                    710,
+                    785,
+                    711,
+                    783,
+                    695,
+                    809,
+                    695
+                ],
+                "text": "a",
+                "words": [
+                    {
+                        "boundingBox": [
+                            790,
+                            710,
+                            783,
+                            710,
+                            782,
+                            694,
+                            790,
+                            694
+                        ],
+                        "text": "a"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    779,
+                    681,
+                    850,
+                    679,
+                    851,
+                    695,
+                    780,
+                    697
+                ],
+                "text": "BOLGHERI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            782,
+                            682,
+                            850,
+                            680,
+                            851,
+                            695,
+                            783,
+                            697
+                        ],
+                        "text": "BOLGHERI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    306,
+                    693,
+                    341,
+                    692,
+                    342,
+                    704,
+                    307,
+                    705
+                ],
+                "text": "2015",
+                "words": [
+                    {
+                        "boundingBox": [
+                            311,
+                            694,
+                            341,
+                            693,
+                            341,
+                            705,
+                            311,
+                            705
+                        ],
+                        "text": "2015"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    715,
+                    623,
+                    902,
+                    617,
+                    903,
+                    641,
+                    716,
+                    648
+                ],
+                "text": "GUADO AL TASSO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            718,
+                            625,
+                            794,
+                            622,
+                            794,
+                            645,
+                            718,
+                            648
+                        ],
+                        "text": "GUADO"
+                    },
+                    {
+                        "boundingBox": [
+                            803,
+                            621,
+                            830,
+                            620,
+                            830,
+                            643,
+                            803,
+                            644
+                        ],
+                        "text": "AL"
+                    },
+                    {
+                        "boundingBox": [
+                            834,
+                            620,
+                            902,
+                            619,
+                            902,
+                            642,
+                            835,
+                            643
+                        ],
+                        "text": "TASSO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    429,
+                    688,
+                    220,
+                    687,
+                    221,
+                    665,
+                    429,
+                    666
+                ],
+                "text": "INVENTIV OLDOdd",
+                "words": [
+                    {
+                        "boundingBox": [
+                            424,
+                            688,
+                            308,
+                            685,
+                            308,
+                            667,
+                            424,
+                            666
+                        ],
+                        "confidence": "Low",
+                        "text": "INVENTIV"
+                    },
+                    {
+                        "boundingBox": [
+                            296,
+                            685,
+                            222,
+                            686,
+                            222,
+                            668,
+                            296,
+                            667
+                        ],
+                        "confidence": "Low",
+                        "text": "OLDOdd"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    281,
+                    633,
+                    371,
+                    632,
+                    372,
+                    646,
+                    282,
+                    647
+                ],
+                "text": "LE MORTELLE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            283,
+                            633,
+                            300,
+                            633,
+                            300,
+                            647,
+                            283,
+                            647
+                        ],
+                        "text": "LE"
+                    },
+                    {
+                        "boundingBox": [
+                            304,
+                            633,
+                            371,
+                            633,
+                            370,
+                            648,
+                            303,
+                            647
+                        ],
+                        "text": "MORTELLE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    619,
+                    618,
+                    554,
+                    618,
+                    553,
+                    554,
+                    617,
+                    554
+                ],
+                "text": "TIGN",
+                "words": [
+                    {
+                        "boundingBox": [
+                            612,
+                            618,
+                            554,
+                            618,
+                            554,
+                            554,
+                            612,
+                            554
+                        ],
+                        "confidence": "Low",
+                        "text": "TIGN"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    551,
+                    547,
+                    511,
+                    549,
+                    510,
+                    534,
+                    551,
+                    532
+                ],
+                "text": "2014",
+                "words": [
+                    {
+                        "boundingBox": [
+                            547,
+                            547,
+                            511,
+                            548,
+                            511,
+                            533,
+                            546,
+                            532
+                        ],
+                        "text": "2014"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    652,
+                    435,
+                    553,
+                    435,
+                    553,
+                    421,
+                    653,
+                    422
+                ],
+                "text": "He glovese e. in piccoli",
+                "words": [
+                    {
+                        "boundingBox": [
+                            638,
+                            434,
+                            631,
+                            434,
+                            633,
+                            423,
+                            640,
+                            424
+                        ],
+                        "confidence": "Low",
+                        "text": "He"
+                    },
+                    {
+                        "boundingBox": [
+                            629,
+                            434,
+                            607,
+                            433,
+                            609,
+                            422,
+                            630,
+                            423
+                        ],
+                        "confidence": "Low",
+                        "text": "glovese"
+                    },
+                    {
+                        "boundingBox": [
+                            605,
+                            433,
+                            600,
+                            433,
+                            601,
+                            422,
+                            606,
+                            422
+                        ],
+                        "confidence": "Low",
+                        "text": "e."
+                    },
+                    {
+                        "boundingBox": [
+                            597,
+                            433,
+                            590,
+                            433,
+                            591,
+                            422,
+                            598,
+                            422
+                        ],
+                        "text": "in"
+                    },
+                    {
+                        "boundingBox": [
+                            587,
+                            433,
+                            556,
+                            435,
+                            557,
+                            423,
+                            588,
+                            422
+                        ],
+                        "confidence": "Low",
+                        "text": "piccoli"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    651,
+                    416,
+                    446,
+                    432,
+                    445,
+                    416,
+                    650,
+                    401
+                ],
+                "text": "Bis sel tumors nell'antico podere va dai 350 1 0danger",
+                "words": [
+                    {
+                        "boundingBox": [
+                            647,
+                            417,
+                            638,
+                            417,
+                            639,
+                            407,
+                            648,
+                            407
+                        ],
+                        "confidence": "Low",
+                        "text": "Bis"
+                    },
+                    {
+                        "boundingBox": [
+                            636,
+                            417,
+                            627,
+                            417,
+                            628,
+                            406,
+                            637,
+                            407
+                        ],
+                        "confidence": "Low",
+                        "text": "sel"
+                    },
+                    {
+                        "boundingBox": [
+                            625,
+                            417,
+                            604,
+                            417,
+                            605,
+                            406,
+                            626,
+                            406
+                        ],
+                        "confidence": "Low",
+                        "text": "tumors"
+                    },
+                    {
+                        "boundingBox": [
+                            602,
+                            417,
+                            563,
+                            419,
+                            563,
+                            408,
+                            603,
+                            406
+                        ],
+                        "confidence": "Low",
+                        "text": "nell'antico"
+                    },
+                    {
+                        "boundingBox": [
+                            561,
+                            419,
+                            533,
+                            421,
+                            533,
+                            410,
+                            561,
+                            408
+                        ],
+                        "text": "podere"
+                    },
+                    {
+                        "boundingBox": [
+                            522,
+                            422,
+                            514,
+                            423,
+                            514,
+                            412,
+                            522,
+                            411
+                        ],
+                        "confidence": "Low",
+                        "text": "va"
+                    },
+                    {
+                        "boundingBox": [
+                            512,
+                            423,
+                            503,
+                            424,
+                            503,
+                            413,
+                            512,
+                            412
+                        ],
+                        "confidence": "Low",
+                        "text": "dai"
+                    },
+                    {
+                        "boundingBox": [
+                            501,
+                            424,
+                            490,
+                            426,
+                            489,
+                            415,
+                            501,
+                            414
+                        ],
+                        "text": "350"
+                    },
+                    {
+                        "boundingBox": [
+                            488,
+                            426,
+                            482,
+                            427,
+                            481,
+                            416,
+                            487,
+                            416
+                        ],
+                        "confidence": "Low",
+                        "text": "1"
+                    },
+                    {
+                        "boundingBox": [
+                            477,
+                            427,
+                            448,
+                            432,
+                            447,
+                            422,
+                            477,
+                            417
+                        ],
+                        "confidence": "Low",
+                        "text": "0danger"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    614,
+                    410,
+                    542,
+                    414,
+                    541,
+                    401,
+                    613,
+                    398
+                ],
+                "text": "te della Torcana",
+                "words": [
+                    {
+                        "boundingBox": [
+                            613,
+                            411,
+                            605,
+                            411,
+                            607,
+                            400,
+                            614,
+                            400
+                        ],
+                        "confidence": "Low",
+                        "text": "te"
+                    },
+                    {
+                        "boundingBox": [
+                            603,
+                            411,
+                            583,
+                            411,
+                            584,
+                            400,
+                            604,
+                            400
+                        ],
+                        "confidence": "Low",
+                        "text": "della"
+                    },
+                    {
+                        "boundingBox": [
+                            581,
+                            411,
+                            545,
+                            414,
+                            546,
+                            402,
+                            582,
+                            400
+                        ],
+                        "confidence": "Low",
+                        "text": "Torcana"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    535,
+                    410,
+                    447,
+                    420,
+                    445,
+                    408,
+                    533,
+                    398
+                ],
+                "text": "mare, II vingtogery",
+                "words": [
+                    {
+                        "boundingBox": [
+                            523,
+                            412,
+                            505,
+                            413,
+                            504,
+                            402,
+                            523,
+                            401
+                        ],
+                        "confidence": "Low",
+                        "text": "mare,"
+                    },
+                    {
+                        "boundingBox": [
+                            502,
+                            413,
+                            497,
+                            414,
+                            497,
+                            403,
+                            502,
+                            403
+                        ],
+                        "confidence": "Low",
+                        "text": "II"
+                    },
+                    {
+                        "boundingBox": [
+                            495,
+                            414,
+                            447,
+                            420,
+                            446,
+                            409,
+                            494,
+                            403
+                        ],
+                        "confidence": "Low",
+                        "text": "vingtogery"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    652,
+                    400,
+                    455,
+                    410,
+                    454,
+                    394,
+                    651,
+                    384
+                ],
+                "text": "dallas dei Marchesi Antinori mente in piccoke",
+                "words": [
+                    {
+                        "boundingBox": [
+                            645,
+                            401,
+                            621,
+                            401,
+                            622,
+                            389,
+                            647,
+                            390
+                        ],
+                        "confidence": "Low",
+                        "text": "dallas"
+                    },
+                    {
+                        "boundingBox": [
+                            619,
+                            401,
+                            610,
+                            401,
+                            611,
+                            389,
+                            620,
+                            389
+                        ],
+                        "text": "dei"
+                    },
+                    {
+                        "boundingBox": [
+                            607,
+                            401,
+                            571,
+                            401,
+                            571,
+                            389,
+                            608,
+                            389
+                        ],
+                        "confidence": "Low",
+                        "text": "Marchesi"
+                    },
+                    {
+                        "boundingBox": [
+                            569,
+                            401,
+                            532,
+                            403,
+                            531,
+                            391,
+                            569,
+                            389
+                        ],
+                        "text": "Antinori"
+                    },
+                    {
+                        "boundingBox": [
+                            523,
+                            404,
+                            504,
+                            405,
+                            503,
+                            394,
+                            522,
+                            392
+                        ],
+                        "text": "mente"
+                    },
+                    {
+                        "boundingBox": [
+                            501,
+                            406,
+                            496,
+                            406,
+                            495,
+                            395,
+                            501,
+                            394
+                        ],
+                        "confidence": "Low",
+                        "text": "in"
+                    },
+                    {
+                        "boundingBox": [
+                            494,
+                            406,
+                            467,
+                            409,
+                            466,
+                            398,
+                            493,
+                            395
+                        ],
+                        "confidence": "Low",
+                        "text": "piccoke"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    651,
+                    390,
+                    544,
+                    392,
+                    543,
+                    378,
+                    650,
+                    376
+                ],
+                "text": "Retires iticolor dal 1385.",
+                "words": [
+                    {
+                        "boundingBox": [
+                            647,
+                            390,
+                            617,
+                            390,
+                            618,
+                            377,
+                            648,
+                            379
+                        ],
+                        "confidence": "Low",
+                        "text": "Retires"
+                    },
+                    {
+                        "boundingBox": [
+                            614,
+                            390,
+                            584,
+                            391,
+                            585,
+                            378,
+                            615,
+                            377
+                        ],
+                        "confidence": "Low",
+                        "text": "iticolor"
+                    },
+                    {
+                        "boundingBox": [
+                            581,
+                            391,
+                            571,
+                            391,
+                            572,
+                            378,
+                            582,
+                            378
+                        ],
+                        "text": "dal"
+                    },
+                    {
+                        "boundingBox": [
+                            569,
+                            391,
+                            545,
+                            393,
+                            545,
+                            380,
+                            569,
+                            378
+                        ],
+                        "confidence": "Low",
+                        "text": "1385."
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    648,
+                    380,
+                    567,
+                    382,
+                    566,
+                    367,
+                    647,
+                    365
+                ],
+                "text": "Sports an collina, a",
+                "words": [
+                    {
+                        "boundingBox": [
+                            640,
+                            379,
+                            619,
+                            379,
+                            620,
+                            367,
+                            641,
+                            368
+                        ],
+                        "confidence": "Low",
+                        "text": "Sports"
+                    },
+                    {
+                        "boundingBox": [
+                            616,
+                            379,
+                            607,
+                            379,
+                            609,
+                            367,
+                            617,
+                            367
+                        ],
+                        "confidence": "Low",
+                        "text": "an"
+                    },
+                    {
+                        "boundingBox": [
+                            604,
+                            379,
+                            574,
+                            381,
+                            576,
+                            369,
+                            606,
+                            367
+                        ],
+                        "confidence": "Low",
+                        "text": "collina,"
+                    },
+                    {
+                        "boundingBox": [
+                            571,
+                            381,
+                            567,
+                            382,
+                            568,
+                            369,
+                            573,
+                            369
+                        ],
+                        "confidence": "Low",
+                        "text": "a"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    644,
+                    370,
+                    572,
+                    362,
+                    574,
+                    348,
+                    645,
+                    356
+                ],
+                "text": "Culture's \"Alberese\"",
+                "words": [
+                    {
+                        "boundingBox": [
+                            642,
+                            369,
+                            614,
+                            365,
+                            615,
+                            354,
+                            643,
+                            359
+                        ],
+                        "confidence": "Low",
+                        "text": "Culture's"
+                    },
+                    {
+                        "boundingBox": [
+                            612,
+                            365,
+                            574,
+                            363,
+                            575,
+                            351,
+                            613,
+                            354
+                        ],
+                        "confidence": "Low",
+                        "text": "\"Alberese\""
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    815,
+                    292,
+                    744,
+                    301,
+                    742,
+                    287,
+                    813,
+                    278
+                ],
+                "text": "VnOVInNi",
+                "words": [
+                    {
+                        "boundingBox": [
+                            805,
+                            294,
+                            746,
+                            300,
+                            745,
+                            288,
+                            804,
+                            281
+                        ],
+                        "confidence": "Low",
+                        "text": "VnOVInNi"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    554,
+                    317,
+                    503,
+                    324,
+                    501,
+                    311,
+                    552,
+                    304
+                ],
+                "text": "TOSCANA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            546,
+                            319,
+                            503,
+                            324,
+                            502,
+                            311,
+                            545,
+                            306
+                        ],
+                        "text": "TOSCANA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    569,
+                    268,
+                    488,
+                    278,
+                    486,
+                    262,
+                    567,
+                    253
+                ],
+                "text": "ANTINORI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            563,
+                            270,
+                            488,
+                            278,
+                            487,
+                            263,
+                            563,
+                            255
+                        ],
+                        "text": "ANTINORI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    128,
+                    159,
+                    76,
+                    152,
+                    79,
+                    133,
+                    130,
+                    141
+                ],
+                "text": "Laid",
+                "words": [
+                    {
+                        "boundingBox": [
+                            123,
+                            158,
+                            76,
+                            151,
+                            78,
+                            132,
+                            126,
+                            139
+                        ],
+                        "confidence": "Low",
+                        "text": "Laid"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

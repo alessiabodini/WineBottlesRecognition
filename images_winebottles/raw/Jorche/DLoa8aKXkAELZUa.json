@@ -1,0 +1,399 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    214,
+                    459,
+                    406,
+                    470,
+                    403,
+                    520,
+                    211,
+                    509
+                ],
+                "text": "JORCHE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            214,
+                            463,
+                            402,
+                            472,
+                            402,
+                            521,
+                            212,
+                            511
+                        ],
+                        "text": "JORCHE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    242,
+                    515,
+                    380,
+                    523,
+                    379,
+                    541,
+                    241,
+                    534
+                ],
+                "text": "ANTICA MASSERIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            243,
+                            516,
+                            301,
+                            520,
+                            300,
+                            537,
+                            242,
+                            533
+                        ],
+                        "text": "ANTICA"
+                    },
+                    {
+                        "boundingBox": [
+                            305,
+                            520,
+                            377,
+                            523,
+                            375,
+                            541,
+                            304,
+                            538
+                        ],
+                        "text": "MASSERIA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    204,
+                    822,
+                    478,
+                    775,
+                    487,
+                    825,
+                    212,
+                    872
+                ],
+                "text": "Lu Primatia sens'amore no si Ad Say",
+                "words": [
+                    {
+                        "boundingBox": [
+                            211,
+                            822,
+                            230,
+                            826,
+                            230,
+                            849,
+                            210,
+                            845
+                        ],
+                        "confidence": "Low",
+                        "text": "Lu"
+                    },
+                    {
+                        "boundingBox": [
+                            235,
+                            827,
+                            298,
+                            833,
+                            299,
+                            855,
+                            234,
+                            850
+                        ],
+                        "confidence": "Low",
+                        "text": "Primatia"
+                    },
+                    {
+                        "boundingBox": [
+                            303,
+                            833,
+                            382,
+                            821,
+                            386,
+                            840,
+                            304,
+                            855
+                        ],
+                        "confidence": "Low",
+                        "text": "sens'amore"
+                    },
+                    {
+                        "boundingBox": [
+                            387,
+                            819,
+                            405,
+                            813,
+                            409,
+                            832,
+                            390,
+                            838
+                        ],
+                        "confidence": "Low",
+                        "text": "no"
+                    },
+                    {
+                        "boundingBox": [
+                            410,
+                            812,
+                            421,
+                            807,
+                            425,
+                            825,
+                            414,
+                            830
+                        ],
+                        "confidence": "Low",
+                        "text": "si"
+                    },
+                    {
+                        "boundingBox": [
+                            425,
+                            805,
+                            442,
+                            798,
+                            447,
+                            814,
+                            430,
+                            823
+                        ],
+                        "confidence": "Low",
+                        "text": "Ad"
+                    },
+                    {
+                        "boundingBox": [
+                            446,
+                            796,
+                            474,
+                            781,
+                            480,
+                            795,
+                            451,
+                            812
+                        ],
+                        "confidence": "Low",
+                        "text": "Say"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    185,
+                    858,
+                    446,
+                    872,
+                    443,
+                    927,
+                    182,
+                    913
+                ],
+                "text": "PRIMITIVO DI MANDURIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            191,
+                            860,
+                            287,
+                            891,
+                            285,
+                            918,
+                            186,
+                            893
+                        ],
+                        "text": "PRIMITIVO"
+                    },
+                    {
+                        "boundingBox": [
+                            294,
+                            892,
+                            314,
+                            894,
+                            313,
+                            921,
+                            292,
+                            919
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            320,
+                            895,
+                            442,
+                            876,
+                            445,
+                            902,
+                            320,
+                            921
+                        ],
+                        "text": "MANDURIA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    255,
+                    908,
+                    286,
+                    911,
+                    285,
+                    932,
+                    253,
+                    929
+                ],
+                "text": "NAZIO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            254,
+                            907,
+                            285,
+                            910,
+                            283,
+                            931,
+                            252,
+                            928
+                        ],
+                        "confidence": "Low",
+                        "text": "NAZIO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    274,
+                    916,
+                    383,
+                    912,
+                    384,
+                    932,
+                    275,
+                    936
+                ],
+                "text": "JONE DI ORIGINE PROT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            275,
+                            916,
+                            297,
+                            916,
+                            296,
+                            935,
+                            275,
+                            936
+                        ],
+                        "confidence": "Low",
+                        "text": "JONE"
+                    },
+                    {
+                        "boundingBox": [
+                            301,
+                            917,
+                            312,
+                            917,
+                            311,
+                            934,
+                            300,
+                            935
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            316,
+                            917,
+                            355,
+                            916,
+                            354,
+                            933,
+                            315,
+                            934
+                        ],
+                        "confidence": "Low",
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            359,
+                            916,
+                            384,
+                            915,
+                            383,
+                            932,
+                            358,
+                            933
+                        ],
+                        "confidence": "Low",
+                        "text": "PROT"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    263,
+                    927,
+                    356,
+                    932,
+                    354,
+                    957,
+                    261,
+                    951
+                ],
+                "text": "RISERVA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            264,
+                            929,
+                            354,
+                            935,
+                            352,
+                            956,
+                            265,
+                            953
+                        ],
+                        "text": "RISERVA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    164,
+                    1059,
+                    78,
+                    1093,
+                    67,
+                    1068,
+                    154,
+                    1034
+                ],
+                "text": "MASSERIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            162,
+                            1061,
+                            80,
+                            1093,
+                            70,
+                            1071,
+                            153,
+                            1036
+                        ],
+                        "confidence": "Low",
+                        "text": "MASSERIA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,77 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    49,
+                    381,
+                    86,
+                    381,
+                    86,
+                    394,
+                    49,
+                    395
+                ],
+                "text": "CLUCCI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            50,
+                            380,
+                            85,
+                            380,
+                            85,
+                            394,
+                            50,
+                            394
+                        ],
+                        "confidence": "Low",
+                        "text": "CLUCCI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    42,
+                    372,
+                    41,
+                    212,
+                    63,
+                    211,
+                    64,
+                    371
+                ],
+                "text": "DONNA WALDA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            42,
+                            368,
+                            43,
+                            288,
+                            63,
+                            289,
+                            64,
+                            369
+                        ],
+                        "text": "DONNA"
+                    },
+                    {
+                        "boundingBox": [
+                            43,
+                            282,
+                            42,
+                            212,
+                            63,
+                            213,
+                            63,
+                            283
+                        ],
+                        "text": "WALDA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,93 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    672,
+                    604,
+                    779,
+                    603,
+                    780,
+                    627,
+                    673,
+                    628
+                ],
+                "text": "TORALCO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            677,
+                            605,
+                            780,
+                            605,
+                            780,
+                            627,
+                            676,
+                            628
+                        ],
+                        "text": "TORALCO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    707,
+                    671,
+                    744,
+                    670,
+                    743,
+                    685,
+                    707,
+                    686
+                ],
+                "text": "200%",
+                "words": [
+                    {
+                        "boundingBox": [
+                            712,
+                            670,
+                            743,
+                            669,
+                            743,
+                            684,
+                            712,
+                            685
+                        ],
+                        "confidence": "Low",
+                        "text": "200%"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    675,
+                    725,
+                    772,
+                    725,
+                    772,
+                    741,
+                    676,
+                    742
+                ],
+                "text": "LUNGAROTTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            677,
+                            726,
+                            772,
+                            725,
+                            770,
+                            741,
+                            676,
+                            741
+                        ],
+                        "confidence": "Low",
+                        "text": "LUNGAROTTI"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

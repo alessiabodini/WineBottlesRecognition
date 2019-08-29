@@ -1,0 +1,176 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    38,
+                    80,
+                    72,
+                    61,
+                    77,
+                    70,
+                    43,
+                    89
+                ],
+                "text": "OLYMPUS",
+                "words": [
+                    {
+                        "boundingBox": [
+                            41,
+                            80,
+                            72,
+                            62,
+                            77,
+                            71,
+                            45,
+                            88
+                        ],
+                        "confidence": "Low",
+                        "text": "OLYMPUS"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    31,
+                    228,
+                    61,
+                    220,
+                    62,
+                    234,
+                    33,
+                    241
+                ],
+                "text": "OLLY",
+                "words": [
+                    {
+                        "boundingBox": [
+                            31,
+                            226,
+                            60,
+                            219,
+                            63,
+                            233,
+                            35,
+                            240
+                        ],
+                        "text": "OLLY"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    50,
+                    213,
+                    98,
+                    222,
+                    95,
+                    241,
+                    47,
+                    232
+                ],
+                "text": "LYMPUS",
+                "words": [
+                    {
+                        "boundingBox": [
+                            50,
+                            218,
+                            98,
+                            225,
+                            95,
+                            241,
+                            50,
+                            233
+                        ],
+                        "confidence": "Low",
+                        "text": "LYMPUS"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    34,
+                    328,
+                    97,
+                    326,
+                    98,
+                    340,
+                    35,
+                    341
+                ],
+                "text": "PRIMITIVO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            37,
+                            328,
+                            97,
+                            327,
+                            97,
+                            341,
+                            37,
+                            341
+                        ],
+                        "text": "PRIMITIVO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    33,
+                    382,
+                    94,
+                    366,
+                    97,
+                    377,
+                    36,
+                    392
+                ],
+                "text": "PRODOTTO IN ITALIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            35,
+                            382,
+                            67,
+                            375,
+                            69,
+                            384,
+                            36,
+                            391
+                        ],
+                        "confidence": "Low",
+                        "text": "PRODOTTO"
+                    },
+                    {
+                        "boundingBox": [
+                            69,
+                            375,
+                            76,
+                            373,
+                            78,
+                            382,
+                            71,
+                            384
+                        ],
+                        "text": "IN"
+                    },
+                    {
+                        "boundingBox": [
+                            77,
+                            372,
+                            95,
+                            367,
+                            97,
+                            376,
+                            79,
+                            382
+                        ],
+                        "text": "ITALIA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

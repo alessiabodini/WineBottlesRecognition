@@ -1,0 +1,64 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    133,
+                    389,
+                    205,
+                    388,
+                    206,
+                    402,
+                    134,
+                    403
+                ],
+                "text": "CAVALLERI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            134,
+                            390,
+                            205,
+                            389,
+                            205,
+                            402,
+                            134,
+                            403
+                        ],
+                        "text": "CAVALLERI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    150,
+                    404,
+                    188,
+                    403,
+                    189,
+                    411,
+                    151,
+                    412
+                ],
+                "text": "Francincorta",
+                "words": [
+                    {
+                        "boundingBox": [
+                            152,
+                            404,
+                            189,
+                            404,
+                            189,
+                            411,
+                            151,
+                            411
+                        ],
+                        "confidence": "Low",
+                        "text": "Francincorta"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

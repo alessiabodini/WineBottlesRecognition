@@ -1,0 +1,275 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    53,
+                    43,
+                    84,
+                    42,
+                    85,
+                    53,
+                    54,
+                    54
+                ],
+                "text": "ELEVA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            55,
+                            44,
+                            85,
+                            43,
+                            85,
+                            53,
+                            55,
+                            54
+                        ],
+                        "text": "ELEVA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    55,
+                    53,
+                    70,
+                    53,
+                    70,
+                    62,
+                    55,
+                    61
+                ],
+                "text": "CHAN",
+                "words": [
+                    {
+                        "boundingBox": [
+                            56,
+                            52,
+                            69,
+                            52,
+                            69,
+                            61,
+                            56,
+                            61
+                        ],
+                        "confidence": "Low",
+                        "text": "CHAN"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    36,
+                    265,
+                    98,
+                    266,
+                    97,
+                    285,
+                    35,
+                    284
+                ],
+                "text": "Jenzone",
+                "words": [
+                    {
+                        "boundingBox": [
+                            48,
+                            266,
+                            97,
+                            267,
+                            97,
+                            286,
+                            48,
+                            285
+                        ],
+                        "confidence": "Low",
+                        "text": "Jenzone"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    23,
+                    301,
+                    110,
+                    300,
+                    111,
+                    315,
+                    24,
+                    316
+                ],
+                "text": "VALPOLICELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            25,
+                            302,
+                            110,
+                            301,
+                            110,
+                            316,
+                            24,
+                            316
+                        ],
+                        "text": "VALPOLICELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    41,
+                    319,
+                    92,
+                    318,
+                    93,
+                    332,
+                    42,
+                    333
+                ],
+                "text": "RIPASSO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            43,
+                            320,
+                            92,
+                            319,
+                            92,
+                            333,
+                            43,
+                            333
+                        ],
+                        "text": "RIPASSO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    24,
+                    344,
+                    111,
+                    343,
+                    111,
+                    354,
+                    25,
+                    355
+                ],
+                "text": "CLASSICO SUPERIORE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            26,
+                            344,
+                            64,
+                            345,
+                            64,
+                            355,
+                            26,
+                            354
+                        ],
+                        "text": "CLASSICO"
+                    },
+                    {
+                        "boundingBox": [
+                            66,
+                            345,
+                            110,
+                            344,
+                            111,
+                            355,
+                            66,
+                            355
+                        ],
+                        "text": "SUPERIORE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    60,
+                    370,
+                    76,
+                    370,
+                    76,
+                    378,
+                    60,
+                    378
+                ],
+                "text": "2017",
+                "words": [
+                    {
+                        "boundingBox": [
+                            61,
+                            370,
+                            76,
+                            370,
+                            76,
+                            378,
+                            61,
+                            378
+                        ],
+                        "confidence": "Low",
+                        "text": "2017"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    20,
+                    383,
+                    113,
+                    382,
+                    114,
+                    391,
+                    21,
+                    392
+                ],
+                "text": "SOCIETA AGRICOLA ELEVA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            22,
+                            384,
+                            50,
+                            384,
+                            50,
+                            392,
+                            22,
+                            391
+                        ],
+                        "confidence": "Low",
+                        "text": "SOCIETA"
+                    },
+                    {
+                        "boundingBox": [
+                            53,
+                            384,
+                            93,
+                            384,
+                            92,
+                            392,
+                            53,
+                            392
+                        ],
+                        "text": "AGRICOLA"
+                    },
+                    {
+                        "boundingBox": [
+                            94,
+                            384,
+                            114,
+                            383,
+                            114,
+                            391,
+                            94,
+                            392
+                        ],
+                        "confidence": "Low",
+                        "text": "ELEVA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

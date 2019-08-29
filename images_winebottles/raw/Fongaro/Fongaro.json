@@ -1,0 +1,119 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    98,
+                    713,
+                    283,
+                    696,
+                    287,
+                    740,
+                    102,
+                    757
+                ],
+                "text": "FONGARO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            105,
+                            715,
+                            280,
+                            698,
+                            286,
+                            735,
+                            107,
+                            751
+                        ],
+                        "text": "FONGARO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    155,
+                    756,
+                    238,
+                    746,
+                    241,
+                    766,
+                    158,
+                    776
+                ],
+                "text": "PAS DOSE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            159,
+                            757,
+                            192,
+                            752,
+                            193,
+                            772,
+                            161,
+                            776
+                        ],
+                        "text": "PAS"
+                    },
+                    {
+                        "boundingBox": [
+                            195,
+                            752,
+                            238,
+                            747,
+                            238,
+                            768,
+                            196,
+                            772
+                        ],
+                        "text": "DOSE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    161,
+                    777,
+                    234,
+                    768,
+                    236,
+                    782,
+                    163,
+                    791
+                ],
+                "text": "METODO CLASICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            165,
+                            777,
+                            197,
+                            774,
+                            197,
+                            787,
+                            165,
+                            791
+                        ],
+                        "confidence": "Low",
+                        "text": "METODO"
+                    },
+                    {
+                        "boundingBox": [
+                            199,
+                            773,
+                            235,
+                            769,
+                            236,
+                            782,
+                            200,
+                            787
+                        ],
+                        "confidence": "Low",
+                        "text": "CLASICO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

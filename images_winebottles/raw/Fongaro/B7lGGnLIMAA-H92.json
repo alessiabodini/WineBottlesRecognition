@@ -1,0 +1,121 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    423,
+                    701,
+                    576,
+                    707,
+                    574,
+                    744,
+                    421,
+                    739
+                ],
+                "text": "FONGA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            430,
+                            704,
+                            564,
+                            707,
+                            567,
+                            743,
+                            429,
+                            737
+                        ],
+                        "text": "FONGA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    479,
+                    747,
+                    568,
+                    742,
+                    570,
+                    765,
+                    481,
+                    771
+                ],
+                "text": "PAS-BOSE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            486,
+                            749,
+                            569,
+                            743,
+                            569,
+                            766,
+                            486,
+                            769
+                        ],
+                        "confidence": "Low",
+                        "text": "PAS-BOSE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    749,
+                    751,
+                    895,
+                    744,
+                    896,
+                    771,
+                    751,
+                    778
+                ],
+                "text": "FONGARO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            756,
+                            752,
+                            892,
+                            744,
+                            893,
+                            771,
+                            756,
+                            777
+                        ],
+                        "text": "FONGARO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    804,
+                    782,
+                    848,
+                    781,
+                    847,
+                    797,
+                    804,
+                    798
+                ],
+                "text": "BRUT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            808,
+                            781,
+                            847,
+                            780,
+                            847,
+                            796,
+                            809,
+                            797
+                        ],
+                        "confidence": "Low",
+                        "text": "BRUT"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

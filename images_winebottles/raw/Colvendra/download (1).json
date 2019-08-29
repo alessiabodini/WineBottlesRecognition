@@ -1,0 +1,36 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    23,
+                    106,
+                    80,
+                    103,
+                    81,
+                    119,
+                    23,
+                    122
+                ],
+                "text": "Omineral",
+                "words": [
+                    {
+                        "boundingBox": [
+                            28,
+                            107,
+                            79,
+                            105,
+                            81,
+                            115,
+                            31,
+                            121
+                        ],
+                        "confidence": "Low",
+                        "text": "Omineral"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

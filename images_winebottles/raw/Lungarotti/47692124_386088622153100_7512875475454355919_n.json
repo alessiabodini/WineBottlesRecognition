@@ -1,0 +1,204 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    108,
+                    243,
+                    250,
+                    228,
+                    253,
+                    258,
+                    111,
+                    273
+                ],
+                "text": "TORALCO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            113,
+                            243,
+                            247,
+                            229,
+                            251,
+                            255,
+                            114,
+                            269
+                        ],
+                        "text": "TORALCO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    157,
+                    283,
+                    210,
+                    275,
+                    212,
+                    286,
+                    159,
+                    294
+                ],
+                "text": "UMBRIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            161,
+                            283,
+                            210,
+                            277,
+                            210,
+                            287,
+                            161,
+                            294
+                        ],
+                        "text": "UMBRIA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    130,
+                    293,
+                    237,
+                    279,
+                    239,
+                    293,
+                    132,
+                    306
+                ],
+                "text": "THENCALIONE GEOGMARCA TIPCA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            131,
+                            293,
+                            172,
+                            292,
+                            173,
+                            301,
+                            132,
+                            303
+                        ],
+                        "confidence": "Low",
+                        "text": "THENCALIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            174,
+                            292,
+                            216,
+                            285,
+                            218,
+                            295,
+                            175,
+                            301
+                        ],
+                        "confidence": "Low",
+                        "text": "GEOGMARCA"
+                    },
+                    {
+                        "boundingBox": [
+                            218,
+                            285,
+                            237,
+                            280,
+                            239,
+                            290,
+                            220,
+                            294
+                        ],
+                        "confidence": "Low",
+                        "text": "TIPCA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    163,
+                    302,
+                    209,
+                    297,
+                    210,
+                    307,
+                    165,
+                    313
+                ],
+                "text": "ROSSO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            164,
+                            303,
+                            206,
+                            298,
+                            207,
+                            308,
+                            165,
+                            313
+                        ],
+                        "text": "ROSSO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    166,
+                    317,
+                    207,
+                    311,
+                    209,
+                    323,
+                    168,
+                    330
+                ],
+                "text": "2009",
+                "words": [
+                    {
+                        "boundingBox": [
+                            168,
+                            318,
+                            207,
+                            312,
+                            208,
+                            325,
+                            170,
+                            330
+                        ],
+                        "text": "2009"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    129,
+                    376,
+                    239,
+                    365,
+                    241,
+                    383,
+                    131,
+                    394
+                ],
+                "text": "LUNGAROT\"",
+                "words": [
+                    {
+                        "boundingBox": [
+                            132,
+                            378,
+                            238,
+                            366,
+                            241,
+                            381,
+                            132,
+                            391
+                        ],
+                        "text": "LUNGAROT\""
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

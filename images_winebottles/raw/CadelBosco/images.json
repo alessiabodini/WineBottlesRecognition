@@ -1,0 +1,50 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    100,
+                    84,
+                    155,
+                    81,
+                    156,
+                    92,
+                    101,
+                    95
+                ],
+                "text": "Cade Bean",
+                "words": [
+                    {
+                        "boundingBox": [
+                            110,
+                            84,
+                            129,
+                            83,
+                            129,
+                            94,
+                            110,
+                            94
+                        ],
+                        "confidence": "Low",
+                        "text": "Cade"
+                    },
+                    {
+                        "boundingBox": [
+                            132,
+                            83,
+                            154,
+                            82,
+                            154,
+                            92,
+                            132,
+                            94
+                        ],
+                        "confidence": "Low",
+                        "text": "Bean"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

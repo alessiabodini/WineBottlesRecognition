@@ -1,0 +1,76 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    63,
+                    334,
+                    64,
+                    314,
+                    86,
+                    314,
+                    85,
+                    334
+                ],
+                "text": "C",
+                "words": [
+                    {
+                        "boundingBox": [
+                            63,
+                            331,
+                            63,
+                            317,
+                            84,
+                            318,
+                            84,
+                            332
+                        ],
+                        "text": "C"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    40,
+                    375,
+                    108,
+                    375,
+                    108,
+                    386,
+                    40,
+                    386
+                ],
+                "text": "VILLA CAPLET",
+                "words": [
+                    {
+                        "boundingBox": [
+                            42,
+                            375,
+                            70,
+                            375,
+                            70,
+                            386,
+                            42,
+                            386
+                        ],
+                        "text": "VILLA"
+                    },
+                    {
+                        "boundingBox": [
+                            72,
+                            375,
+                            108,
+                            375,
+                            108,
+                            385,
+                            72,
+                            386
+                        ],
+                        "text": "CAPLET"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

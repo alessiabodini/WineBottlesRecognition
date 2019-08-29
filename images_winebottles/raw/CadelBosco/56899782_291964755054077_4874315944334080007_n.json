@@ -1,0 +1,148 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    349,
+                    115,
+                    393,
+                    116,
+                    393,
+                    131,
+                    348,
+                    130
+                ],
+                "text": "BRUT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            351,
+                            117,
+                            392,
+                            117,
+                            392,
+                            131,
+                            351,
+                            130
+                        ],
+                        "text": "BRUT"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    295,
+                    488,
+                    436,
+                    494,
+                    434,
+                    523,
+                    293,
+                    518
+                ],
+                "text": "Ca'del Bosco",
+                "words": [
+                    {
+                        "boundingBox": [
+                            299,
+                            489,
+                            362,
+                            494,
+                            360,
+                            521,
+                            296,
+                            516
+                        ],
+                        "text": "Ca'del"
+                    },
+                    {
+                        "boundingBox": [
+                            367,
+                            494,
+                            436,
+                            496,
+                            435,
+                            521,
+                            365,
+                            522
+                        ],
+                        "text": "Bosco"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    333,
+                    520,
+                    410,
+                    519,
+                    411,
+                    534,
+                    334,
+                    535
+                ],
+                "text": "NCIACORT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            337,
+                            520,
+                            410,
+                            520,
+                            409,
+                            536,
+                            336,
+                            535
+                        ],
+                        "confidence": "Low",
+                        "text": "NCIACORT"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    320,
+                    543,
+                    405,
+                    548,
+                    404,
+                    561,
+                    319,
+                    557
+                ],
+                "text": "CUVEE PRESTIGE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            323,
+                            544,
+                            355,
+                            547,
+                            354,
+                            559,
+                            322,
+                            556
+                        ],
+                        "confidence": "Low",
+                        "text": "CUVEE"
+                    },
+                    {
+                        "boundingBox": [
+                            357,
+                            547,
+                            405,
+                            548,
+                            404,
+                            560,
+                            356,
+                            559
+                        ],
+                        "confidence": "Low",
+                        "text": "PRESTIGE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

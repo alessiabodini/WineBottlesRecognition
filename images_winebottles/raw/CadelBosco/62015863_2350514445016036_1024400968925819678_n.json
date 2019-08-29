@@ -1,0 +1,371 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    294,
+                    394,
+                    331,
+                    375,
+                    338,
+                    388,
+                    302,
+                    407
+                ],
+                "text": "BRUT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            296,
+                            392,
+                            330,
+                            374,
+                            337,
+                            388,
+                            303,
+                            405
+                        ],
+                        "text": "BRUT"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    677,
+                    506,
+                    745,
+                    513,
+                    743,
+                    526,
+                    675,
+                    518
+                ],
+                "text": "Ca'del Bosco",
+                "words": [
+                    {
+                        "boundingBox": [
+                            677,
+                            506,
+                            706,
+                            509,
+                            705,
+                            521,
+                            676,
+                            519
+                        ],
+                        "text": "Ca'del"
+                    },
+                    {
+                        "boundingBox": [
+                            709,
+                            510,
+                            744,
+                            515,
+                            742,
+                            526,
+                            707,
+                            521
+                        ],
+                        "text": "Bosco"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    769,
+                    671,
+                    900,
+                    737,
+                    891,
+                    755,
+                    760,
+                    689
+                ],
+                "text": "PERIGNON. MILLESIME",
+                "words": [
+                    {
+                        "boundingBox": [
+                            783,
+                            679,
+                            833,
+                            705,
+                            825,
+                            722,
+                            776,
+                            697
+                        ],
+                        "confidence": "Low",
+                        "text": "PERIGNON."
+                    },
+                    {
+                        "boundingBox": [
+                            837,
+                            706,
+                            899,
+                            737,
+                            891,
+                            755,
+                            829,
+                            724
+                        ],
+                        "confidence": "Low",
+                        "text": "MILLESIME"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    407,
+                    759,
+                    574,
+                    668,
+                    590,
+                    698,
+                    424,
+                    790
+                ],
+                "text": "Ca'del Bosco :",
+                "words": [
+                    {
+                        "boundingBox": [
+                            418,
+                            754,
+                            481,
+                            720,
+                            498,
+                            748,
+                            434,
+                            784
+                        ],
+                        "text": "Ca'del"
+                    },
+                    {
+                        "boundingBox": [
+                            487,
+                            717,
+                            558,
+                            677,
+                            575,
+                            706,
+                            504,
+                            745
+                        ],
+                        "text": "Bosco"
+                    },
+                    {
+                        "boundingBox": [
+                            564,
+                            674,
+                            574,
+                            668,
+                            591,
+                            698,
+                            581,
+                            703
+                        ],
+                        "text": ":"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    780,
+                    717,
+                    848,
+                    756,
+                    839,
+                    772,
+                    771,
+                    733
+                ],
+                "text": "Champagne",
+                "words": [
+                    {
+                        "boundingBox": [
+                            783,
+                            721,
+                            846,
+                            757,
+                            838,
+                            772,
+                            776,
+                            736
+                        ],
+                        "confidence": "Low",
+                        "text": "Champagne"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    766,
+                    727,
+                    848,
+                    775,
+                    838,
+                    793,
+                    756,
+                    745
+                ],
+                "text": "Dom Perignon",
+                "words": [
+                    {
+                        "boundingBox": [
+                            770,
+                            731,
+                            794,
+                            744,
+                            786,
+                            762,
+                            762,
+                            748
+                        ],
+                        "text": "Dom"
+                    },
+                    {
+                        "boundingBox": [
+                            799,
+                            747,
+                            847,
+                            776,
+                            838,
+                            792,
+                            790,
+                            764
+                        ],
+                        "confidence": "Low",
+                        "text": "Perignon"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    763,
+                    751,
+                    830,
+                    786,
+                    822,
+                    802,
+                    754,
+                    768
+                ],
+                "text": "Vintage 2009",
+                "words": [
+                    {
+                        "boundingBox": [
+                            768,
+                            755,
+                            799,
+                            770,
+                            792,
+                            787,
+                            761,
+                            771
+                        ],
+                        "confidence": "Low",
+                        "text": "Vintage"
+                    },
+                    {
+                        "boundingBox": [
+                            802,
+                            772,
+                            829,
+                            786,
+                            823,
+                            801,
+                            795,
+                            788
+                        ],
+                        "text": "2009"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    441,
+                    774,
+                    477,
+                    754,
+                    486,
+                    770,
+                    450,
+                    789
+                ],
+                "text": "FR A",
+                "words": [
+                    {
+                        "boundingBox": [
+                            448,
+                            769,
+                            463,
+                            761,
+                            471,
+                            776,
+                            456,
+                            784
+                        ],
+                        "confidence": "Low",
+                        "text": "FR"
+                    },
+                    {
+                        "boundingBox": [
+                            466,
+                            759,
+                            476,
+                            753,
+                            485,
+                            769,
+                            474,
+                            775
+                        ],
+                        "text": "A"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    465,
+                    797,
+                    562,
+                    744,
+                    569,
+                    758,
+                    472,
+                    811
+                ],
+                "text": "CUVITT ELLIGE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            475,
+                            793,
+                            519,
+                            770,
+                            525,
+                            783,
+                            481,
+                            806
+                        ],
+                        "confidence": "Low",
+                        "text": "CUVITT"
+                    },
+                    {
+                        "boundingBox": [
+                            525,
+                            766,
+                            562,
+                            746,
+                            569,
+                            758,
+                            531,
+                            780
+                        ],
+                        "confidence": "Low",
+                        "text": "ELLIGE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

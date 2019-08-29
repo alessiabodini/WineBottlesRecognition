@@ -1,0 +1,310 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    190,
+                    220,
+                    342,
+                    213,
+                    344,
+                    262,
+                    192,
+                    268
+                ],
+                "text": "PRA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            194,
+                            221,
+                            328,
+                            215,
+                            329,
+                            263,
+                            196,
+                            268
+                        ],
+                        "text": "PRA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    210,
+                    314,
+                    330,
+                    310,
+                    331,
+                    340,
+                    211,
+                    344
+                ],
+                "text": "soave",
+                "words": [
+                    {
+                        "boundingBox": [
+                            217,
+                            315,
+                            325,
+                            312,
+                            326,
+                            341,
+                            217,
+                            344
+                        ],
+                        "text": "soave"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    113,
+                    338,
+                    448,
+                    330,
+                    449,
+                    368,
+                    114,
+                    376
+                ],
+                "text": "denominazione di origine controllata",
+                "words": [
+                    {
+                        "boundingBox": [
+                            120,
+                            339,
+                            252,
+                            348,
+                            252,
+                            373,
+                            117,
+                            363
+                        ],
+                        "text": "denominazione"
+                    },
+                    {
+                        "boundingBox": [
+                            257,
+                            348,
+                            273,
+                            348,
+                            273,
+                            373,
+                            257,
+                            373
+                        ],
+                        "text": "di"
+                    },
+                    {
+                        "boundingBox": [
+                            277,
+                            348,
+                            347,
+                            344,
+                            348,
+                            370,
+                            277,
+                            373
+                        ],
+                        "text": "origine"
+                    },
+                    {
+                        "boundingBox": [
+                            351,
+                            344,
+                            447,
+                            330,
+                            450,
+                            357,
+                            353,
+                            370
+                        ],
+                        "text": "controllata"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    179,
+                    390,
+                    380,
+                    385,
+                    382,
+                    439,
+                    181,
+                    445
+                ],
+                "text": "OTTO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            184,
+                            393,
+                            372,
+                            388,
+                            371,
+                            440,
+                            187,
+                            445
+                        ],
+                        "text": "OTTO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    314,
+                    631,
+                    514,
+                    570,
+                    524,
+                    602,
+                    323,
+                    663
+                ],
+                "text": "Monteforte d'Alpone - nalia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            320,
+                            632,
+                            409,
+                            610,
+                            415,
+                            635,
+                            324,
+                            654
+                        ],
+                        "confidence": "Low",
+                        "text": "Monteforte"
+                    },
+                    {
+                        "boundingBox": [
+                            413,
+                            609,
+                            471,
+                            589,
+                            478,
+                            614,
+                            420,
+                            634
+                        ],
+                        "text": "d'Alpone"
+                    },
+                    {
+                        "boundingBox": [
+                            475,
+                            588,
+                            479,
+                            586,
+                            486,
+                            611,
+                            482,
+                            612
+                        ],
+                        "text": "-"
+                    },
+                    {
+                        "boundingBox": [
+                            483,
+                            585,
+                            514,
+                            571,
+                            523,
+                            595,
+                            491,
+                            609
+                        ],
+                        "confidence": "Low",
+                        "text": "nalia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    370,
+                    672,
+                    539,
+                    595,
+                    553,
+                    624,
+                    383,
+                    701
+                ],
+                "text": "ITALIA 12% vol",
+                "words": [
+                    {
+                        "boundingBox": [
+                            375,
+                            674,
+                            466,
+                            636,
+                            479,
+                            659,
+                            385,
+                            696
+                        ],
+                        "text": "ITALIA"
+                    },
+                    {
+                        "boundingBox": [
+                            479,
+                            630,
+                            510,
+                            613,
+                            524,
+                            638,
+                            492,
+                            653
+                        ],
+                        "text": "12%"
+                    },
+                    {
+                        "boundingBox": [
+                            514,
+                            610,
+                            537,
+                            596,
+                            552,
+                            622,
+                            528,
+                            636
+                        ],
+                        "confidence": "Low",
+                        "text": "vol"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    121,
+                    730,
+                    327,
+                    720,
+                    330,
+                    807,
+                    124,
+                    810
+                ],
+                "text": "PRA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            131,
+                            725,
+                            323,
+                            719,
+                            325,
+                            806,
+                            134,
+                            812
+                        ],
+                        "text": "PRA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

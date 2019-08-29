@@ -1,0 +1,147 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    72,
+                    57,
+                    106,
+                    58,
+                    105,
+                    65,
+                    71,
+                    65
+                ],
+                "text": "AMELA DIL",
+                "words": [
+                    {
+                        "boundingBox": [
+                            73,
+                            58,
+                            92,
+                            58,
+                            92,
+                            65,
+                            73,
+                            65
+                        ],
+                        "confidence": "Low",
+                        "text": "AMELA"
+                    },
+                    {
+                        "boundingBox": [
+                            94,
+                            58,
+                            106,
+                            59,
+                            106,
+                            65,
+                            94,
+                            65
+                        ],
+                        "confidence": "Low",
+                        "text": "DIL"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    71,
+                    243,
+                    105,
+                    242,
+                    106,
+                    253,
+                    71,
+                    254
+                ],
+                "text": "Lamole",
+                "words": [
+                    {
+                        "boundingBox": [
+                            72,
+                            243,
+                            105,
+                            243,
+                            106,
+                            253,
+                            72,
+                            254
+                        ],
+                        "text": "Lamole"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    70,
+                    252,
+                    108,
+                    252,
+                    108,
+                    262,
+                    71,
+                    263
+                ],
+                "text": "Lamole",
+                "words": [
+                    {
+                        "boundingBox": [
+                            72,
+                            253,
+                            107,
+                            253,
+                            107,
+                            263,
+                            72,
+                            263
+                        ],
+                        "text": "Lamole"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    38,
+                    291,
+                    140,
+                    290,
+                    141,
+                    303,
+                    39,
+                    303
+                ],
+                "text": "CHIANTI CLASSICO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            39,
+                            291,
+                            84,
+                            291,
+                            84,
+                            302,
+                            39,
+                            303
+                        ],
+                        "text": "CHIANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            87,
+                            291,
+                            140,
+                            291,
+                            140,
+                            303,
+                            87,
+                            302
+                        ],
+                        "text": "CLASSICO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

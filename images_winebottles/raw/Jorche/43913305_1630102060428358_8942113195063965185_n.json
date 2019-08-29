@@ -1,0 +1,336 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    509,
+                    232,
+                    765,
+                    256,
+                    758,
+                    325,
+                    502,
+                    302
+                ],
+                "text": "JORCHE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            509,
+                            235,
+                            765,
+                            256,
+                            758,
+                            326,
+                            504,
+                            300
+                        ],
+                        "text": "JORCHE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    549,
+                    304,
+                    726,
+                    320,
+                    723,
+                    348,
+                    546,
+                    332
+                ],
+                "text": "ANTICA MASSERIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            549,
+                            308,
+                            630,
+                            312,
+                            627,
+                            337,
+                            547,
+                            334
+                        ],
+                        "text": "ANTICA"
+                    },
+                    {
+                        "boundingBox": [
+                            635,
+                            312,
+                            725,
+                            325,
+                            722,
+                            349,
+                            632,
+                            338
+                        ],
+                        "text": "MASSERIA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    552,
+                    732,
+                    583,
+                    737,
+                    578,
+                    758,
+                    547,
+                    753
+                ],
+                "text": "BID",
+                "words": [
+                    {
+                        "boundingBox": [
+                            552,
+                            731,
+                            581,
+                            736,
+                            578,
+                            757,
+                            549,
+                            752
+                        ],
+                        "confidence": "Low",
+                        "text": "BID"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    493,
+                    810,
+                    768,
+                    823,
+                    763,
+                    917,
+                    488,
+                    903
+                ],
+                "text": "To anu",
+                "words": [
+                    {
+                        "boundingBox": [
+                            535,
+                            815,
+                            625,
+                            817,
+                            624,
+                            908,
+                            535,
+                            907
+                        ],
+                        "confidence": "Low",
+                        "text": "To"
+                    },
+                    {
+                        "boundingBox": [
+                            643,
+                            818,
+                            764,
+                            824,
+                            760,
+                            918,
+                            642,
+                            909
+                        ],
+                        "confidence": "Low",
+                        "text": "anu"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    394,
+                    979,
+                    816,
+                    999,
+                    814,
+                    1047,
+                    391,
+                    1026
+                ],
+                "text": "PRIMITIVO DI MANDURIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            394,
+                            983,
+                            575,
+                            989,
+                            573,
+                            1034,
+                            392,
+                            1027
+                        ],
+                        "text": "PRIMITIVO"
+                    },
+                    {
+                        "boundingBox": [
+                            586,
+                            989,
+                            626,
+                            991,
+                            624,
+                            1037,
+                            584,
+                            1035
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            635,
+                            991,
+                            816,
+                            1003,
+                            813,
+                            1048,
+                            633,
+                            1037
+                        ],
+                        "text": "MANDURIA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    374,
+                    1026,
+                    822,
+                    1045,
+                    820,
+                    1071,
+                    372,
+                    1051
+                ],
+                "text": "DENOMINAZIONE DI ORIGINE CONTROLLATA E GARANTITA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            376,
+                            1029,
+                            510,
+                            1033,
+                            509,
+                            1056,
+                            374,
+                            1052
+                        ],
+                        "text": "DENOMINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            515,
+                            1033,
+                            532,
+                            1034,
+                            530,
+                            1057,
+                            513,
+                            1056
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            537,
+                            1034,
+                            607,
+                            1037,
+                            605,
+                            1060,
+                            535,
+                            1057
+                        ],
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            611,
+                            1037,
+                            735,
+                            1043,
+                            733,
+                            1067,
+                            609,
+                            1060
+                        ],
+                        "text": "CONTROLLATA"
+                    },
+                    {
+                        "boundingBox": [
+                            740,
+                            1043,
+                            746,
+                            1043,
+                            744,
+                            1067,
+                            738,
+                            1067
+                        ],
+                        "text": "E"
+                    },
+                    {
+                        "boundingBox": [
+                            750,
+                            1043,
+                            822,
+                            1047,
+                            820,
+                            1072,
+                            748,
+                            1068
+                        ],
+                        "text": "GARANTITA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    429,
+                    1059,
+                    780,
+                    1071,
+                    778,
+                    1117,
+                    427,
+                    1105
+                ],
+                "text": "DOLCE NATURALE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            433,
+                            1061,
+                            572,
+                            1066,
+                            570,
+                            1111,
+                            431,
+                            1104
+                        ],
+                        "text": "DOLCE"
+                    },
+                    {
+                        "boundingBox": [
+                            580,
+                            1066,
+                            779,
+                            1071,
+                            777,
+                            1118,
+                            579,
+                            1111
+                        ],
+                        "text": "NATURALE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

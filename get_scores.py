@@ -37,9 +37,12 @@ def getScores(wordsImage):
         # word of the selected gt image
         for j in range(len(wordsImage)):
             for wordGt in wordsGt:
+                # Find distance with the closest word in the input image
+                # and add it to the total score for that gt image
                 new = normalized_damerau_levenshtein_distance(wordsImage[j], wordGt)
                 if new < scores[i][j]:
                     scores[i][j] = new
             final[i] += scores[i][j]
+        final[i] /= len(wordsImage)
 
     return final

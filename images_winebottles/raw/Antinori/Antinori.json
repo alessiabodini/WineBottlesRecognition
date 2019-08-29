@@ -1,0 +1,94 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    602,
+                    612,
+                    746,
+                    615,
+                    745,
+                    674,
+                    603,
+                    672
+                ],
+                "text": "LIGNANELLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            606,
+                            611,
+                            745,
+                            613,
+                            744,
+                            673,
+                            604,
+                            671
+                        ],
+                        "confidence": "Low",
+                        "text": "LIGNANELLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    658,
+                    679,
+                    690,
+                    676,
+                    690,
+                    692,
+                    658,
+                    694
+                ],
+                "text": "2015",
+                "words": [
+                    {
+                        "boundingBox": [
+                            658,
+                            677,
+                            688,
+                            675,
+                            689,
+                            691,
+                            660,
+                            693
+                        ],
+                        "confidence": "Low",
+                        "text": "2015"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    633,
+                    902,
+                    704,
+                    900,
+                    705,
+                    916,
+                    634,
+                    917
+                ],
+                "text": "ANTINORI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            635,
+                            902,
+                            705,
+                            901,
+                            705,
+                            916,
+                            635,
+                            917
+                        ],
+                        "confidence": "Low",
+                        "text": "ANTINORI"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

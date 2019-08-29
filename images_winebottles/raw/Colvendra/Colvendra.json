@@ -1,0 +1,572 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    590,
+                    590,
+                    657,
+                    590,
+                    656,
+                    604,
+                    589,
+                    603
+                ],
+                "text": "colv. adro",
+                "words": [
+                    {
+                        "boundingBox": [
+                            593,
+                            590,
+                            624,
+                            591,
+                            624,
+                            603,
+                            592,
+                            603
+                        ],
+                        "confidence": "Low",
+                        "text": "colv."
+                    },
+                    {
+                        "boundingBox": [
+                            626,
+                            591,
+                            657,
+                            591,
+                            656,
+                            604,
+                            626,
+                            603
+                        ],
+                        "confidence": "Low",
+                        "text": "adro"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    578,
+                    604,
+                    676,
+                    605,
+                    675,
+                    619,
+                    578,
+                    618
+                ],
+                "text": "az. agricolo colvendra",
+                "words": [
+                    {
+                        "boundingBox": [
+                            581,
+                            606,
+                            594,
+                            605,
+                            593,
+                            617,
+                            580,
+                            618
+                        ],
+                        "confidence": "Low",
+                        "text": "az."
+                    },
+                    {
+                        "boundingBox": [
+                            596,
+                            605,
+                            631,
+                            605,
+                            630,
+                            617,
+                            595,
+                            617
+                        ],
+                        "confidence": "Low",
+                        "text": "agricolo"
+                    },
+                    {
+                        "boundingBox": [
+                            633,
+                            605,
+                            674,
+                            608,
+                            673,
+                            618,
+                            633,
+                            617
+                        ],
+                        "confidence": "Low",
+                        "text": "colvendra"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    571,
+                    615,
+                    677,
+                    617,
+                    676,
+                    630,
+                    570,
+                    628
+                ],
+                "text": "della collette narciso e tight",
+                "words": [
+                    {
+                        "boundingBox": [
+                            575,
+                            616,
+                            592,
+                            617,
+                            591,
+                            628,
+                            573,
+                            628
+                        ],
+                        "confidence": "Low",
+                        "text": "della"
+                    },
+                    {
+                        "boundingBox": [
+                            594,
+                            617,
+                            624,
+                            618,
+                            622,
+                            629,
+                            593,
+                            629
+                        ],
+                        "confidence": "Low",
+                        "text": "collette"
+                    },
+                    {
+                        "boundingBox": [
+                            626,
+                            618,
+                            656,
+                            619,
+                            655,
+                            629,
+                            625,
+                            629
+                        ],
+                        "confidence": "Low",
+                        "text": "narciso"
+                    },
+                    {
+                        "boundingBox": [
+                            659,
+                            619,
+                            663,
+                            619,
+                            661,
+                            629,
+                            657,
+                            629
+                        ],
+                        "text": "e"
+                    },
+                    {
+                        "boundingBox": [
+                            665,
+                            619,
+                            677,
+                            619,
+                            676,
+                            629,
+                            664,
+                            629
+                        ],
+                        "confidence": "Low",
+                        "text": "tight"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    586,
+                    625,
+                    666,
+                    628,
+                    665,
+                    640,
+                    585,
+                    638
+                ],
+                "text": "refrontalo . italia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            592,
+                            627,
+                            633,
+                            628,
+                            631,
+                            640,
+                            591,
+                            638
+                        ],
+                        "confidence": "Low",
+                        "text": "refrontalo"
+                    },
+                    {
+                        "boundingBox": [
+                            635,
+                            628,
+                            638,
+                            628,
+                            636,
+                            640,
+                            633,
+                            640
+                        ],
+                        "confidence": "Low",
+                        "text": "."
+                    },
+                    {
+                        "boundingBox": [
+                            640,
+                            628,
+                            662,
+                            629,
+                            661,
+                            641,
+                            639,
+                            640
+                        ],
+                        "confidence": "Low",
+                        "text": "italia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    566,
+                    805,
+                    680,
+                    813,
+                    678,
+                    843,
+                    565,
+                    836
+                ],
+                "text": "minenza",
+                "words": [
+                    {
+                        "boundingBox": [
+                            599,
+                            811,
+                            680,
+                            817,
+                            679,
+                            840,
+                            598,
+                            838
+                        ],
+                        "confidence": "Low",
+                        "text": "minenza"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    575,
+                    845,
+                    671,
+                    846,
+                    670,
+                    861,
+                    574,
+                    860
+                ],
+                "text": "BIANCO PASSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            578,
+                            846,
+                            622,
+                            848,
+                            622,
+                            861,
+                            577,
+                            860
+                        ],
+                        "text": "BIANCO"
+                    },
+                    {
+                        "boundingBox": [
+                            627,
+                            848,
+                            669,
+                            846,
+                            669,
+                            861,
+                            626,
+                            861
+                        ],
+                        "text": "PASSITO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    575,
+                    864,
+                    675,
+                    865,
+                    674,
+                    878,
+                    574,
+                    877
+                ],
+                "text": "the vino oftenuto secondo",
+                "words": [
+                    {
+                        "boundingBox": [
+                            576,
+                            865,
+                            587,
+                            866,
+                            586,
+                            877,
+                            575,
+                            877
+                        ],
+                        "confidence": "Low",
+                        "text": "the"
+                    },
+                    {
+                        "boundingBox": [
+                            589,
+                            866,
+                            605,
+                            867,
+                            604,
+                            877,
+                            588,
+                            877
+                        ],
+                        "text": "vino"
+                    },
+                    {
+                        "boundingBox": [
+                            607,
+                            867,
+                            639,
+                            868,
+                            637,
+                            878,
+                            606,
+                            878
+                        ],
+                        "confidence": "Low",
+                        "text": "oftenuto"
+                    },
+                    {
+                        "boundingBox": [
+                            641,
+                            868,
+                            674,
+                            867,
+                            672,
+                            877,
+                            640,
+                            878
+                        ],
+                        "confidence": "Low",
+                        "text": "secondo"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    585,
+                    884,
+                    656,
+                    886,
+                    655,
+                    895,
+                    584,
+                    894
+                ],
+                "text": "a Glera di coling",
+                "words": [
+                    {
+                        "boundingBox": [
+                            592,
+                            885,
+                            598,
+                            885,
+                            597,
+                            895,
+                            591,
+                            895
+                        ],
+                        "confidence": "Low",
+                        "text": "a"
+                    },
+                    {
+                        "boundingBox": [
+                            601,
+                            885,
+                            622,
+                            886,
+                            621,
+                            895,
+                            600,
+                            895
+                        ],
+                        "confidence": "Low",
+                        "text": "Glera"
+                    },
+                    {
+                        "boundingBox": [
+                            624,
+                            886,
+                            631,
+                            886,
+                            630,
+                            895,
+                            623,
+                            895
+                        ],
+                        "confidence": "Low",
+                        "text": "di"
+                    },
+                    {
+                        "boundingBox": [
+                            632,
+                            886,
+                            656,
+                            887,
+                            655,
+                            895,
+                            631,
+                            895
+                        ],
+                        "confidence": "Low",
+                        "text": "coling"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    584,
+                    892,
+                    657,
+                    891,
+                    658,
+                    901,
+                    585,
+                    902
+                ],
+                "text": "opposte sul pratice",
+                "words": [
+                    {
+                        "boundingBox": [
+                            587,
+                            892,
+                            619,
+                            892,
+                            617,
+                            901,
+                            586,
+                            902
+                        ],
+                        "confidence": "Low",
+                        "text": "opposte"
+                    },
+                    {
+                        "boundingBox": [
+                            621,
+                            892,
+                            630,
+                            892,
+                            629,
+                            901,
+                            620,
+                            901
+                        ],
+                        "confidence": "Low",
+                        "text": "sul"
+                    },
+                    {
+                        "boundingBox": [
+                            632,
+                            892,
+                            658,
+                            893,
+                            657,
+                            901,
+                            631,
+                            901
+                        ],
+                        "confidence": "Low",
+                        "text": "pratice"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    584,
+                    900,
+                    664,
+                    901,
+                    663,
+                    914,
+                    584,
+                    914
+                ],
+                "text": "vinificate a genndio",
+                "words": [
+                    {
+                        "boundingBox": [
+                            590,
+                            901,
+                            624,
+                            902,
+                            623,
+                            914,
+                            589,
+                            914
+                        ],
+                        "confidence": "Low",
+                        "text": "vinificate"
+                    },
+                    {
+                        "boundingBox": [
+                            626,
+                            902,
+                            631,
+                            902,
+                            630,
+                            914,
+                            625,
+                            914
+                        ],
+                        "text": "a"
+                    },
+                    {
+                        "boundingBox": [
+                            634,
+                            902,
+                            664,
+                            903,
+                            663,
+                            914,
+                            632,
+                            914
+                        ],
+                        "confidence": "Low",
+                        "text": "genndio"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

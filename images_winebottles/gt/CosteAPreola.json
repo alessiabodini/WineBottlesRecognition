@@ -1,0 +1,191 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    154,
+                    79,
+                    186,
+                    80,
+                    185,
+                    87,
+                    153,
+                    86
+                ],
+                "text": "DOSTO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            155,
+                            80,
+                            184,
+                            81,
+                            183,
+                            87,
+                            155,
+                            87
+                        ],
+                        "confidence": "Low",
+                        "text": "DOSTO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    148,
+                    353,
+                    195,
+                    352,
+                    196,
+                    362,
+                    149,
+                    363
+                ],
+                "text": "CORCHI TONDI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            150,
+                            353,
+                            174,
+                            353,
+                            173,
+                            363,
+                            150,
+                            363
+                        ],
+                        "confidence": "Low",
+                        "text": "CORCHI"
+                    },
+                    {
+                        "boundingBox": [
+                            175,
+                            353,
+                            197,
+                            353,
+                            197,
+                            363,
+                            175,
+                            363
+                        ],
+                        "confidence": "Low",
+                        "text": "TONDI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    159,
+                    420,
+                    189,
+                    422,
+                    188,
+                    431,
+                    158,
+                    430
+                ],
+                "text": "COSTE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            159,
+                            421,
+                            187,
+                            422,
+                            187,
+                            431,
+                            159,
+                            430
+                        ],
+                        "text": "COSTE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    149,
+                    431,
+                    192,
+                    430,
+                    193,
+                    439,
+                    150,
+                    440
+                ],
+                "text": "A PREOLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            152,
+                            432,
+                            157,
+                            432,
+                            157,
+                            440,
+                            152,
+                            440
+                        ],
+                        "text": "A"
+                    },
+                    {
+                        "boundingBox": [
+                            159,
+                            432,
+                            193,
+                            431,
+                            193,
+                            440,
+                            159,
+                            440
+                        ],
+                        "text": "PREOLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    149,
+                    441,
+                    195,
+                    441,
+                    194,
+                    449,
+                    148,
+                    448
+                ],
+                "text": "HERO D'AVOLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            149,
+                            441,
+                            167,
+                            442,
+                            167,
+                            449,
+                            149,
+                            449
+                        ],
+                        "confidence": "Low",
+                        "text": "HERO"
+                    },
+                    {
+                        "boundingBox": [
+                            169,
+                            442,
+                            195,
+                            442,
+                            194,
+                            449,
+                            168,
+                            449
+                        ],
+                        "confidence": "Low",
+                        "text": "D'AVOLA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

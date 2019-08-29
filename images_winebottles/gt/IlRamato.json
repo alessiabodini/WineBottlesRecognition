@@ -1,0 +1,92 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    20,
+                    313,
+                    108,
+                    315,
+                    107,
+                    329,
+                    19,
+                    327
+                ],
+                "text": "IF PINOT GRIGIO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            23,
+                            314,
+                            39,
+                            314,
+                            39,
+                            328,
+                            23,
+                            328
+                        ],
+                        "confidence": "Low",
+                        "text": "IF"
+                    },
+                    {
+                        "boundingBox": [
+                            42,
+                            314,
+                            71,
+                            315,
+                            70,
+                            328,
+                            41,
+                            328
+                        ],
+                        "confidence": "Low",
+                        "text": "PINOT"
+                    },
+                    {
+                        "boundingBox": [
+                            74,
+                            315,
+                            108,
+                            316,
+                            108,
+                            329,
+                            73,
+                            328
+                        ],
+                        "text": "GRIGIO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    19,
+                    330,
+                    87,
+                    329,
+                    87,
+                    343,
+                    20,
+                    343
+                ],
+                "text": "mate",
+                "words": [
+                    {
+                        "boundingBox": [
+                            28,
+                            330,
+                            86,
+                            330,
+                            85,
+                            343,
+                            28,
+                            343
+                        ],
+                        "confidence": "Low",
+                        "text": "mate"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

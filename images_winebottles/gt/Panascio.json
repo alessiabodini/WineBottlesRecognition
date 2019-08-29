@@ -1,0 +1,78 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    63,
+                    372,
+                    131,
+                    372,
+                    130,
+                    386,
+                    62,
+                    385
+                ],
+                "text": "PANASCIO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            64,
+                            372,
+                            129,
+                            373,
+                            129,
+                            387,
+                            64,
+                            386
+                        ],
+                        "text": "PANASCIO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    64,
+                    384,
+                    130,
+                    385,
+                    129,
+                    395,
+                    63,
+                    394
+                ],
+                "text": "BOMBING BANCO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            64,
+                            385,
+                            98,
+                            386,
+                            98,
+                            395,
+                            64,
+                            394
+                        ],
+                        "confidence": "Low",
+                        "text": "BOMBING"
+                    },
+                    {
+                        "boundingBox": [
+                            101,
+                            386,
+                            129,
+                            385,
+                            129,
+                            394,
+                            101,
+                            395
+                        ],
+                        "confidence": "Low",
+                        "text": "BANCO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,1414 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    331,
+                    622,
+                    522,
+                    621,
+                    523,
+                    701,
+                    331,
+                    702
+                ],
+                "text": "IIGNANBALLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            330,
+                            620,
+                            519,
+                            620,
+                            519,
+                            701,
+                            330,
+                            701
+                        ],
+                        "confidence": "Low",
+                        "text": "IIGNANBALLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    407,
+                    711,
+                    450,
+                    711,
+                    451,
+                    726,
+                    407,
+                    727
+                ],
+                "text": "2006",
+                "words": [
+                    {
+                        "boundingBox": [
+                            408,
+                            710,
+                            450,
+                            710,
+                            450,
+                            726,
+                            409,
+                            726
+                        ],
+                        "text": "2006"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    293,
+                    834,
+                    362,
+                    841,
+                    361,
+                    856,
+                    291,
+                    849
+                ],
+                "text": "Vita prodotto con",
+                "words": [
+                    {
+                        "boundingBox": [
+                            295,
+                            836,
+                            306,
+                            837,
+                            305,
+                            850,
+                            294,
+                            850
+                        ],
+                        "confidence": "Low",
+                        "text": "Vita"
+                    },
+                    {
+                        "boundingBox": [
+                            309,
+                            837,
+                            338,
+                            839,
+                            337,
+                            853,
+                            307,
+                            850
+                        ],
+                        "text": "prodotto"
+                    },
+                    {
+                        "boundingBox": [
+                            341,
+                            840,
+                            358,
+                            842,
+                            358,
+                            856,
+                            340,
+                            853
+                        ],
+                        "text": "con"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    385,
+                    829,
+                    469,
+                    827,
+                    470,
+                    850,
+                    386,
+                    852
+                ],
+                "text": "DUCE PROFICIS",
+                "words": [
+                    {
+                        "boundingBox": [
+                            402,
+                            834,
+                            425,
+                            835,
+                            425,
+                            851,
+                            402,
+                            849
+                        ],
+                        "confidence": "Low",
+                        "text": "DUCE"
+                    },
+                    {
+                        "boundingBox": [
+                            428,
+                            835,
+                            467,
+                            829,
+                            468,
+                            846,
+                            428,
+                            851
+                        ],
+                        "confidence": "Low",
+                        "text": "PROFICIS"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    295,
+                    849,
+                    393,
+                    856,
+                    391,
+                    870,
+                    294,
+                    862
+                ],
+                "text": "De Sangiovese e, in piccola",
+                "words": [
+                    {
+                        "boundingBox": [
+                            296,
+                            850,
+                            301,
+                            850,
+                            301,
+                            862,
+                            295,
+                            862
+                        ],
+                        "confidence": "Low",
+                        "text": "De"
+                    },
+                    {
+                        "boundingBox": [
+                            304,
+                            851,
+                            335,
+                            852,
+                            334,
+                            865,
+                            303,
+                            863
+                        ],
+                        "confidence": "Low",
+                        "text": "Sangiovese"
+                    },
+                    {
+                        "boundingBox": [
+                            337,
+                            852,
+                            344,
+                            853,
+                            343,
+                            866,
+                            337,
+                            865
+                        ],
+                        "confidence": "Low",
+                        "text": "e,"
+                    },
+                    {
+                        "boundingBox": [
+                            346,
+                            853,
+                            355,
+                            853,
+                            354,
+                            867,
+                            345,
+                            866
+                        ],
+                        "text": "in"
+                    },
+                    {
+                        "boundingBox": [
+                            357,
+                            853,
+                            390,
+                            856,
+                            389,
+                            870,
+                            356,
+                            867
+                        ],
+                        "text": "piccola"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    485,
+                    839,
+                    555,
+                    836,
+                    556,
+                    851,
+                    486,
+                    854
+                ],
+                "text": "ha un' esporitiett:",
+                "words": [
+                    {
+                        "boundingBox": [
+                            496,
+                            839,
+                            506,
+                            839,
+                            506,
+                            853,
+                            496,
+                            854
+                        ],
+                        "text": "ha"
+                    },
+                    {
+                        "boundingBox": [
+                            509,
+                            839,
+                            520,
+                            839,
+                            520,
+                            853,
+                            509,
+                            853
+                        ],
+                        "confidence": "Low",
+                        "text": "un'"
+                    },
+                    {
+                        "boundingBox": [
+                            523,
+                            839,
+                            556,
+                            838,
+                            556,
+                            851,
+                            523,
+                            853
+                        ],
+                        "confidence": "Low",
+                        "text": "esporitiett:"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    463,
+                    853,
+                    557,
+                    847,
+                    558,
+                    862,
+                    464,
+                    867
+                ],
+                "text": "solatio ed un' altitudier de",
+                "words": [
+                    {
+                        "boundingBox": [
+                            470,
+                            853,
+                            497,
+                            853,
+                            497,
+                            866,
+                            470,
+                            867
+                        ],
+                        "confidence": "Low",
+                        "text": "solatio"
+                    },
+                    {
+                        "boundingBox": [
+                            499,
+                            853,
+                            507,
+                            853,
+                            507,
+                            865,
+                            499,
+                            866
+                        ],
+                        "text": "ed"
+                    },
+                    {
+                        "boundingBox": [
+                            510,
+                            852,
+                            521,
+                            852,
+                            521,
+                            864,
+                            510,
+                            865
+                        ],
+                        "confidence": "Low",
+                        "text": "un'"
+                    },
+                    {
+                        "boundingBox": [
+                            523,
+                            852,
+                            547,
+                            850,
+                            547,
+                            862,
+                            523,
+                            864
+                        ],
+                        "confidence": "Low",
+                        "text": "altitudier"
+                    },
+                    {
+                        "boundingBox": [
+                            550,
+                            850,
+                            557,
+                            849,
+                            558,
+                            860,
+                            550,
+                            861
+                        ],
+                        "confidence": "Low",
+                        "text": "de"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    293,
+                    862,
+                    557,
+                    861,
+                    558,
+                    879,
+                    294,
+                    880
+                ],
+                "text": "port, Cabernet nell'antico podere va dai 350 ai 400 metri sul livelo de",
+                "words": [
+                    {
+                        "boundingBox": [
+                            295,
+                            862,
+                            307,
+                            862,
+                            306,
+                            876,
+                            294,
+                            875
+                        ],
+                        "confidence": "Low",
+                        "text": "port,"
+                    },
+                    {
+                        "boundingBox": [
+                            310,
+                            862,
+                            338,
+                            864,
+                            337,
+                            878,
+                            309,
+                            876
+                        ],
+                        "confidence": "Low",
+                        "text": "Cabernet"
+                    },
+                    {
+                        "boundingBox": [
+                            340,
+                            864,
+                            384,
+                            866,
+                            384,
+                            880,
+                            339,
+                            878
+                        ],
+                        "text": "nell'antico"
+                    },
+                    {
+                        "boundingBox": [
+                            387,
+                            866,
+                            422,
+                            866,
+                            421,
+                            881,
+                            386,
+                            880
+                        ],
+                        "text": "podere"
+                    },
+                    {
+                        "boundingBox": [
+                            434,
+                            866,
+                            446,
+                            866,
+                            445,
+                            880,
+                            433,
+                            881
+                        ],
+                        "text": "va"
+                    },
+                    {
+                        "boundingBox": [
+                            448,
+                            866,
+                            460,
+                            866,
+                            459,
+                            880,
+                            448,
+                            880
+                        ],
+                        "text": "dai"
+                    },
+                    {
+                        "boundingBox": [
+                            463,
+                            866,
+                            478,
+                            865,
+                            477,
+                            879,
+                            462,
+                            880
+                        ],
+                        "text": "350"
+                    },
+                    {
+                        "boundingBox": [
+                            481,
+                            865,
+                            488,
+                            865,
+                            488,
+                            879,
+                            480,
+                            879
+                        ],
+                        "text": "ai"
+                    },
+                    {
+                        "boundingBox": [
+                            491,
+                            865,
+                            504,
+                            864,
+                            504,
+                            878,
+                            490,
+                            879
+                        ],
+                        "text": "400"
+                    },
+                    {
+                        "boundingBox": [
+                            507,
+                            864,
+                            524,
+                            864,
+                            523,
+                            876,
+                            506,
+                            878
+                        ],
+                        "confidence": "Low",
+                        "text": "metri"
+                    },
+                    {
+                        "boundingBox": [
+                            526,
+                            863,
+                            533,
+                            863,
+                            533,
+                            876,
+                            526,
+                            876
+                        ],
+                        "confidence": "Low",
+                        "text": "sul"
+                    },
+                    {
+                        "boundingBox": [
+                            536,
+                            863,
+                            548,
+                            862,
+                            548,
+                            874,
+                            535,
+                            875
+                        ],
+                        "confidence": "Low",
+                        "text": "livelo"
+                    },
+                    {
+                        "boundingBox": [
+                            551,
+                            862,
+                            558,
+                            862,
+                            557,
+                            873,
+                            550,
+                            874
+                        ],
+                        "confidence": "Low",
+                        "text": "de"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    293,
+                    874,
+                    421,
+                    879,
+                    420,
+                    893,
+                    292,
+                    888
+                ],
+                "text": "the sel cuore della Toscana, di",
+                "words": [
+                    {
+                        "boundingBox": [
+                            295,
+                            874,
+                            302,
+                            875,
+                            302,
+                            888,
+                            295,
+                            888
+                        ],
+                        "confidence": "Low",
+                        "text": "the"
+                    },
+                    {
+                        "boundingBox": [
+                            305,
+                            875,
+                            313,
+                            875,
+                            313,
+                            889,
+                            305,
+                            888
+                        ],
+                        "text": "sel"
+                    },
+                    {
+                        "boundingBox": [
+                            316,
+                            875,
+                            336,
+                            877,
+                            336,
+                            890,
+                            316,
+                            889
+                        ],
+                        "text": "cuore"
+                    },
+                    {
+                        "boundingBox": [
+                            339,
+                            877,
+                            360,
+                            878,
+                            359,
+                            891,
+                            338,
+                            890
+                        ],
+                        "text": "della"
+                    },
+                    {
+                        "boundingBox": [
+                            362,
+                            878,
+                            406,
+                            880,
+                            406,
+                            892,
+                            362,
+                            891
+                        ],
+                        "text": "Toscana,"
+                    },
+                    {
+                        "boundingBox": [
+                            409,
+                            880,
+                            421,
+                            880,
+                            420,
+                            893,
+                            408,
+                            893
+                        ],
+                        "text": "di"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    293,
+                    887,
+                    424,
+                    893,
+                    423,
+                    906,
+                    292,
+                    901
+                ],
+                "text": "Iprieta dei Marchesi Antinori",
+                "words": [
+                    {
+                        "boundingBox": [
+                            295,
+                            889,
+                            320,
+                            889,
+                            319,
+                            902,
+                            295,
+                            901
+                        ],
+                        "confidence": "Low",
+                        "text": "Iprieta"
+                    },
+                    {
+                        "boundingBox": [
+                            322,
+                            889,
+                            332,
+                            890,
+                            331,
+                            902,
+                            322,
+                            902
+                        ],
+                        "text": "dei"
+                    },
+                    {
+                        "boundingBox": [
+                            334,
+                            890,
+                            374,
+                            891,
+                            374,
+                            904,
+                            334,
+                            903
+                        ],
+                        "text": "Marchesi"
+                    },
+                    {
+                        "boundingBox": [
+                            377,
+                            892,
+                            422,
+                            895,
+                            421,
+                            907,
+                            376,
+                            905
+                        ],
+                        "text": "Antinori"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    424,
+                    880,
+                    555,
+                    873,
+                    556,
+                    888,
+                    425,
+                    894
+                ],
+                "text": "mare. II vino e invecchiano exline",
+                "words": [
+                    {
+                        "boundingBox": [
+                            433,
+                            880,
+                            458,
+                            880,
+                            457,
+                            893,
+                            432,
+                            894
+                        ],
+                        "confidence": "Low",
+                        "text": "mare."
+                    },
+                    {
+                        "boundingBox": [
+                            460,
+                            880,
+                            468,
+                            880,
+                            467,
+                            893,
+                            460,
+                            893
+                        ],
+                        "confidence": "Low",
+                        "text": "II"
+                    },
+                    {
+                        "boundingBox": [
+                            470,
+                            880,
+                            488,
+                            880,
+                            487,
+                            892,
+                            470,
+                            893
+                        ],
+                        "text": "vino"
+                    },
+                    {
+                        "boundingBox": [
+                            490,
+                            879,
+                            494,
+                            879,
+                            494,
+                            892,
+                            490,
+                            892
+                        ],
+                        "text": "e"
+                    },
+                    {
+                        "boundingBox": [
+                            497,
+                            879,
+                            533,
+                            877,
+                            533,
+                            889,
+                            497,
+                            891
+                        ],
+                        "confidence": "Low",
+                        "text": "invecchiano"
+                    },
+                    {
+                        "boundingBox": [
+                            536,
+                            877,
+                            555,
+                            875,
+                            555,
+                            886,
+                            536,
+                            888
+                        ],
+                        "confidence": "Low",
+                        "text": "exline"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    293,
+                    899,
+                    401,
+                    905,
+                    400,
+                    919,
+                    292,
+                    913
+                ],
+                "text": "Firthre, viticoltori dal 1385.",
+                "words": [
+                    {
+                        "boundingBox": [
+                            301,
+                            901,
+                            321,
+                            902,
+                            320,
+                            914,
+                            300,
+                            913
+                        ],
+                        "confidence": "Low",
+                        "text": "Firthre,"
+                    },
+                    {
+                        "boundingBox": [
+                            324,
+                            902,
+                            360,
+                            904,
+                            359,
+                            916,
+                            323,
+                            914
+                        ],
+                        "text": "viticoltori"
+                    },
+                    {
+                        "boundingBox": [
+                            362,
+                            904,
+                            374,
+                            904,
+                            374,
+                            917,
+                            361,
+                            916
+                        ],
+                        "text": "dal"
+                    },
+                    {
+                        "boundingBox": [
+                            377,
+                            905,
+                            400,
+                            906,
+                            400,
+                            919,
+                            376,
+                            917
+                        ],
+                        "text": "1385."
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    428,
+                    895,
+                    555,
+                    888,
+                    556,
+                    901,
+                    429,
+                    907
+                ],
+                "text": "mente in piccole botti di rover pop",
+                "words": [
+                    {
+                        "boundingBox": [
+                            434,
+                            895,
+                            460,
+                            895,
+                            459,
+                            906,
+                            433,
+                            906
+                        ],
+                        "text": "mente"
+                    },
+                    {
+                        "boundingBox": [
+                            462,
+                            895,
+                            471,
+                            895,
+                            470,
+                            905,
+                            461,
+                            906
+                        ],
+                        "text": "in"
+                    },
+                    {
+                        "boundingBox": [
+                            473,
+                            895,
+                            498,
+                            893,
+                            498,
+                            904,
+                            473,
+                            905
+                        ],
+                        "text": "piccole"
+                    },
+                    {
+                        "boundingBox": [
+                            500,
+                            893,
+                            517,
+                            892,
+                            517,
+                            903,
+                            500,
+                            904
+                        ],
+                        "confidence": "Low",
+                        "text": "botti"
+                    },
+                    {
+                        "boundingBox": [
+                            519,
+                            892,
+                            524,
+                            892,
+                            524,
+                            903,
+                            519,
+                            903
+                        ],
+                        "text": "di"
+                    },
+                    {
+                        "boundingBox": [
+                            526,
+                            891,
+                            541,
+                            890,
+                            541,
+                            901,
+                            526,
+                            902
+                        ],
+                        "confidence": "Low",
+                        "text": "rover"
+                    },
+                    {
+                        "boundingBox": [
+                            543,
+                            890,
+                            555,
+                            889,
+                            556,
+                            900,
+                            543,
+                            901
+                        ],
+                        "confidence": "Low",
+                        "text": "pop"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    293,
+                    911,
+                    378,
+                    918,
+                    377,
+                    930,
+                    293,
+                    924
+                ],
+                "text": "lizreno, in collina, e",
+                "words": [
+                    {
+                        "boundingBox": [
+                            296,
+                            913,
+                            324,
+                            915,
+                            323,
+                            926,
+                            295,
+                            924
+                        ],
+                        "confidence": "Low",
+                        "text": "lizreno,"
+                    },
+                    {
+                        "boundingBox": [
+                            326,
+                            915,
+                            334,
+                            915,
+                            333,
+                            927,
+                            325,
+                            926
+                        ],
+                        "text": "in"
+                    },
+                    {
+                        "boundingBox": [
+                            337,
+                            916,
+                            370,
+                            918,
+                            369,
+                            930,
+                            336,
+                            927
+                        ],
+                        "text": "collina,"
+                    },
+                    {
+                        "boundingBox": [
+                            372,
+                            918,
+                            378,
+                            919,
+                            377,
+                            931,
+                            371,
+                            930
+                        ],
+                        "text": "e"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    456,
+                    907,
+                    557,
+                    900,
+                    557,
+                    911,
+                    457,
+                    919
+                ],
+                "text": "to e successivamente alam a",
+                "words": [
+                    {
+                        "boundingBox": [
+                            459,
+                            908,
+                            468,
+                            907,
+                            469,
+                            918,
+                            460,
+                            918
+                        ],
+                        "text": "to"
+                    },
+                    {
+                        "boundingBox": [
+                            471,
+                            907,
+                            475,
+                            907,
+                            475,
+                            918,
+                            471,
+                            918
+                        ],
+                        "text": "e"
+                    },
+                    {
+                        "boundingBox": [
+                            477,
+                            907,
+                            531,
+                            903,
+                            532,
+                            914,
+                            477,
+                            917
+                        ],
+                        "text": "successivamente"
+                    },
+                    {
+                        "boundingBox": [
+                            533,
+                            903,
+                            550,
+                            901,
+                            551,
+                            912,
+                            534,
+                            913
+                        ],
+                        "confidence": "Low",
+                        "text": "alam"
+                    },
+                    {
+                        "boundingBox": [
+                            552,
+                            901,
+                            557,
+                            900,
+                            558,
+                            911,
+                            553,
+                            911
+                        ],
+                        "confidence": "Low",
+                        "text": "a"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    294,
+                    925,
+                    372,
+                    932,
+                    371,
+                    942,
+                    293,
+                    935
+                ],
+                "text": "Faporto da roccia di",
+                "words": [
+                    {
+                        "boundingBox": [
+                            296,
+                            926,
+                            322,
+                            928,
+                            321,
+                            938,
+                            295,
+                            936
+                        ],
+                        "confidence": "Low",
+                        "text": "Faporto"
+                    },
+                    {
+                        "boundingBox": [
+                            324,
+                            928,
+                            332,
+                            929,
+                            331,
+                            939,
+                            323,
+                            939
+                        ],
+                        "text": "da"
+                    },
+                    {
+                        "boundingBox": [
+                            334,
+                            929,
+                            361,
+                            931,
+                            360,
+                            941,
+                            333,
+                            939
+                        ],
+                        "text": "roccia"
+                    },
+                    {
+                        "boundingBox": [
+                            363,
+                            931,
+                            372,
+                            932,
+                            371,
+                            942,
+                            362,
+                            942
+                        ],
+                        "text": "di"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    473,
+                    919,
+                    509,
+                    917,
+                    510,
+                    927,
+                    474,
+                    929
+                ],
+                "text": "bottiglia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            476,
+                            920,
+                            509,
+                            918,
+                            509,
+                            928,
+                            477,
+                            929
+                        ],
+                        "confidence": "Low",
+                        "text": "bottiglia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    292,
+                    936,
+                    368,
+                    943,
+                    367,
+                    954,
+                    291,
+                    947
+                ],
+                "text": "\"Gelastro's \"Alberese\"",
+                "words": [
+                    {
+                        "boundingBox": [
+                            295,
+                            937,
+                            326,
+                            940,
+                            325,
+                            950,
+                            294,
+                            948
+                        ],
+                        "confidence": "Low",
+                        "text": "\"Gelastro's"
+                    },
+                    {
+                        "boundingBox": [
+                            328,
+                            940,
+                            368,
+                            944,
+                            366,
+                            954,
+                            327,
+                            950
+                        ],
+                        "confidence": "Low",
+                        "text": "\"Alberese\""
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    400,
+                    1005,
+                    454,
+                    1004,
+                    455,
+                    1017,
+                    401,
+                    1018
+                ],
+                "text": "TOSCANA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            402,
+                            1006,
+                            454,
+                            1005,
+                            454,
+                            1018,
+                            402,
+                            1018
+                        ],
+                        "text": "TOSCANA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    369,
+                    1017,
+                    484,
+                    1016,
+                    485,
+                    1027,
+                    370,
+                    1028
+                ],
+                "text": "INDICAZIONE GEOGRAFICA TINCA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            370,
+                            1017,
+                            415,
+                            1018,
+                            415,
+                            1028,
+                            370,
+                            1027
+                        ],
+                        "confidence": "Low",
+                        "text": "INDICAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            417,
+                            1018,
+                            460,
+                            1017,
+                            460,
+                            1028,
+                            417,
+                            1028
+                        ],
+                        "confidence": "Low",
+                        "text": "GEOGRAFICA"
+                    },
+                    {
+                        "boundingBox": [
+                            462,
+                            1017,
+                            485,
+                            1017,
+                            484,
+                            1027,
+                            462,
+                            1028
+                        ],
+                        "confidence": "Low",
+                        "text": "TINCA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    372,
+                    1059,
+                    480,
+                    1058,
+                    481,
+                    1075,
+                    373,
+                    1076
+                ],
+                "text": "ANTINORI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            374,
+                            1060,
+                            480,
+                            1059,
+                            480,
+                            1075,
+                            374,
+                            1076
+                        ],
+                        "text": "ANTINORI"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

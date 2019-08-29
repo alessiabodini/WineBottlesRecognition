@@ -1,0 +1,134 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    242,
+                    112,
+                    238,
+                    51,
+                    249,
+                    51,
+                    252,
+                    111
+                ],
+                "text": "FERRARI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            242,
+                            109,
+                            239,
+                            52,
+                            249,
+                            51,
+                            252,
+                            108
+                        ],
+                        "text": "FERRARI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    240,
+                    279,
+                    263,
+                    276,
+                    264,
+                    284,
+                    240,
+                    287
+                ],
+                "text": "2009",
+                "words": [
+                    {
+                        "boundingBox": [
+                            243,
+                            279,
+                            262,
+                            277,
+                            262,
+                            285,
+                            244,
+                            286
+                        ],
+                        "text": "2009"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    224,
+                    327,
+                    283,
+                    322,
+                    284,
+                    335,
+                    225,
+                    339
+                ],
+                "text": "FERRARI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            226,
+                            328,
+                            283,
+                            323,
+                            283,
+                            335,
+                            226,
+                            338
+                        ],
+                        "text": "FERRARI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    231,
+                    337,
+                    275,
+                    333,
+                    276,
+                    342,
+                    231,
+                    345
+                ],
+                "text": "PEALE PANGO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            234,
+                            337,
+                            252,
+                            336,
+                            252,
+                            344,
+                            234,
+                            345
+                        ],
+                        "confidence": "Low",
+                        "text": "PEALE"
+                    },
+                    {
+                        "boundingBox": [
+                            253,
+                            336,
+                            275,
+                            334,
+                            276,
+                            342,
+                            254,
+                            344
+                        ],
+                        "confidence": "Low",
+                        "text": "PANGO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

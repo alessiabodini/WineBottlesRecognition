@@ -1,0 +1,192 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    684,
+                    500,
+                    813,
+                    492,
+                    816,
+                    533,
+                    687,
+                    542
+                ],
+                "text": "2007-",
+                "words": [
+                    {
+                        "boundingBox": [
+                            691,
+                            500,
+                            789,
+                            494,
+                            793,
+                            534,
+                            694,
+                            540
+                        ],
+                        "confidence": "Low",
+                        "text": "2007-"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    543,
+                    776,
+                    935,
+                    759,
+                    938,
+                    835,
+                    546,
+                    852
+                ],
+                "text": "FERRARI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            558,
+                            778,
+                            924,
+                            761,
+                            932,
+                            819,
+                            553,
+                            833
+                        ],
+                        "text": "FERRARI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    642,
+                    845,
+                    821,
+                    844,
+                    821,
+                    881,
+                    643,
+                    883
+                ],
+                "text": "PERLE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            648,
+                            846,
+                            806,
+                            844,
+                            807,
+                            881,
+                            649,
+                            883
+                        ],
+                        "text": "PERLE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    603,
+                    885,
+                    847,
+                    880,
+                    848,
+                    909,
+                    604,
+                    914
+                ],
+                "text": "HETODO CLASSICO DAL 1202",
+                "words": [
+                    {
+                        "boundingBox": [
+                            609,
+                            885,
+                            676,
+                            890,
+                            676,
+                            912,
+                            609,
+                            908
+                        ],
+                        "confidence": "Low",
+                        "text": "HETODO"
+                    },
+                    {
+                        "boundingBox": [
+                            680,
+                            890,
+                            764,
+                            889,
+                            765,
+                            911,
+                            680,
+                            912
+                        ],
+                        "confidence": "Low",
+                        "text": "CLASSICO"
+                    },
+                    {
+                        "boundingBox": [
+                            769,
+                            889,
+                            803,
+                            886,
+                            804,
+                            908,
+                            770,
+                            910
+                        ],
+                        "confidence": "Low",
+                        "text": "DAL"
+                    },
+                    {
+                        "boundingBox": [
+                            807,
+                            886,
+                            845,
+                            882,
+                            847,
+                            903,
+                            809,
+                            907
+                        ],
+                        "confidence": "Low",
+                        "text": "1202"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    650,
+                    914,
+                    799,
+                    912,
+                    800,
+                    934,
+                    651,
+                    936
+                ],
+                "text": "TRENTODOC",
+                "words": [
+                    {
+                        "boundingBox": [
+                            665,
+                            915,
+                            798,
+                            914,
+                            798,
+                            934,
+                            665,
+                            936
+                        ],
+                        "confidence": "Low",
+                        "text": "TRENTODOC"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

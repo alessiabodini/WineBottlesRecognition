@@ -1,0 +1,76 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    87,
+                    140,
+                    168,
+                    144,
+                    167,
+                    163,
+                    86,
+                    160
+                ],
+                "text": "FONGARO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            90,
+                            142,
+                            167,
+                            144,
+                            167,
+                            162,
+                            89,
+                            157
+                        ],
+                        "text": "FONGARO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    112,
+                    163,
+                    150,
+                    164,
+                    149,
+                    174,
+                    111,
+                    173
+                ],
+                "text": "PAS DOSE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            113,
+                            164,
+                            127,
+                            164,
+                            127,
+                            174,
+                            113,
+                            173
+                        ],
+                        "text": "PAS"
+                    },
+                    {
+                        "boundingBox": [
+                            129,
+                            164,
+                            150,
+                            164,
+                            149,
+                            174,
+                            129,
+                            174
+                        ],
+                        "text": "DOSE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

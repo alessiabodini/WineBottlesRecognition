@@ -1,0 +1,135 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    104,
+                    229,
+                    199,
+                    226,
+                    200,
+                    250,
+                    105,
+                    253
+                ],
+                "text": "CASTELLO DU RAMPOLL",
+                "words": [
+                    {
+                        "boundingBox": [
+                            109,
+                            239,
+                            143,
+                            229,
+                            143,
+                            242,
+                            111,
+                            251
+                        ],
+                        "confidence": "Low",
+                        "text": "CASTELLO"
+                    },
+                    {
+                        "boundingBox": [
+                            145,
+                            229,
+                            155,
+                            229,
+                            155,
+                            241,
+                            145,
+                            241
+                        ],
+                        "text": "DU"
+                    },
+                    {
+                        "boundingBox": [
+                            157,
+                            229,
+                            199,
+                            239,
+                            197,
+                            251,
+                            157,
+                            241
+                        ],
+                        "confidence": "Low",
+                        "text": "RAMPOLL"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    144,
+                    284,
+                    163,
+                    284,
+                    163,
+                    291,
+                    144,
+                    291
+                ],
+                "text": "3713",
+                "words": [
+                    {
+                        "boundingBox": [
+                            149,
+                            284,
+                            161,
+                            284,
+                            161,
+                            291,
+                            149,
+                            291
+                        ],
+                        "confidence": "Low",
+                        "text": "3713"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    122,
+                    290,
+                    183,
+                    289,
+                    184,
+                    297,
+                    123,
+                    299
+                ],
+                "text": "CHIANTI CLASSICD",
+                "words": [
+                    {
+                        "boundingBox": [
+                            123,
+                            291,
+                            152,
+                            291,
+                            152,
+                            299,
+                            123,
+                            299
+                        ],
+                        "confidence": "Low",
+                        "text": "CHIANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            154,
+                            290,
+                            184,
+                            290,
+                            183,
+                            298,
+                            154,
+                            298
+                        ],
+                        "confidence": "Low",
+                        "text": "CLASSICD"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

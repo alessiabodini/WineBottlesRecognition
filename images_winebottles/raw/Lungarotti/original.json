@@ -1,0 +1,176 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    265,
+                    369,
+                    411,
+                    364,
+                    412,
+                    393,
+                    266,
+                    398
+                ],
+                "text": "TORALCO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            271,
+                            369,
+                            412,
+                            365,
+                            411,
+                            395,
+                            270,
+                            398
+                        ],
+                        "text": "TORALCO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    314,
+                    415,
+                    367,
+                    414,
+                    367,
+                    426,
+                    315,
+                    428
+                ],
+                "text": "UMBRIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            316,
+                            416,
+                            367,
+                            414,
+                            368,
+                            426,
+                            316,
+                            428
+                        ],
+                        "text": "UMBRIA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    299,
+                    430,
+                    394,
+                    426,
+                    395,
+                    438,
+                    300,
+                    442
+                ],
+                "text": "AZIONE GROGRAFICA TIMICA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            303,
+                            431,
+                            328,
+                            430,
+                            328,
+                            441,
+                            304,
+                            441
+                        ],
+                        "confidence": "Low",
+                        "text": "AZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            330,
+                            430,
+                            373,
+                            428,
+                            374,
+                            439,
+                            330,
+                            441
+                        ],
+                        "confidence": "Low",
+                        "text": "GROGRAFICA"
+                    },
+                    {
+                        "boundingBox": [
+                            375,
+                            428,
+                            394,
+                            427,
+                            395,
+                            437,
+                            376,
+                            439
+                        ],
+                        "confidence": "Low",
+                        "text": "TIMICA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    321,
+                    445,
+                    364,
+                    443,
+                    364,
+                    458,
+                    321,
+                    459
+                ],
+                "text": "2008",
+                "words": [
+                    {
+                        "boundingBox": [
+                            323,
+                            443,
+                            363,
+                            442,
+                            363,
+                            457,
+                            323,
+                            458
+                        ],
+                        "text": "2008"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    279,
+                    532,
+                    403,
+                    529,
+                    404,
+                    545,
+                    280,
+                    548
+                ],
+                "text": "LUNGAROTTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            281,
+                            533,
+                            403,
+                            530,
+                            403,
+                            545,
+                            281,
+                            548
+                        ],
+                        "text": "LUNGAROTTI"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

@@ -1,0 +1,135 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    39,
+                    71,
+                    75,
+                    71,
+                    75,
+                    84,
+                    39,
+                    84
+                ],
+                "text": "VIDUSSI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            43,
+                            71,
+                            74,
+                            71,
+                            74,
+                            84,
+                            43,
+                            84
+                        ],
+                        "text": "VIDUSSI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    43,
+                    265,
+                    88,
+                    266,
+                    88,
+                    280,
+                    42,
+                    279
+                ],
+                "text": "VIDUSSI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            44,
+                            266,
+                            88,
+                            267,
+                            87,
+                            280,
+                            44,
+                            279
+                        ],
+                        "text": "VIDUSSI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    24,
+                    341,
+                    76,
+                    341,
+                    76,
+                    348,
+                    24,
+                    348
+                ],
+                "text": "REBOLLA GIALLA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            24,
+                            341,
+                            51,
+                            342,
+                            51,
+                            349,
+                            24,
+                            348
+                        ],
+                        "confidence": "Low",
+                        "text": "REBOLLA"
+                    },
+                    {
+                        "boundingBox": [
+                            52,
+                            342,
+                            76,
+                            341,
+                            76,
+                            348,
+                            52,
+                            349
+                        ],
+                        "confidence": "Low",
+                        "text": "GIALLA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    50,
+                    350,
+                    76,
+                    349,
+                    77,
+                    356,
+                    51,
+                    357
+                ],
+                "text": "COLETO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            53,
+                            351,
+                            75,
+                            350,
+                            75,
+                            356,
+                            54,
+                            357
+                        ],
+                        "confidence": "Low",
+                        "text": "COLETO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

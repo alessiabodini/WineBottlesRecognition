@@ -1,0 +1,106 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    43,
+                    389,
+                    115,
+                    389,
+                    115,
+                    400,
+                    43,
+                    400
+                ],
+                "text": "CODICE BORTOLOTTI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            44,
+                            389,
+                            71,
+                            389,
+                            71,
+                            400,
+                            44,
+                            400
+                        ],
+                        "text": "CODICE"
+                    },
+                    {
+                        "boundingBox": [
+                            73,
+                            390,
+                            115,
+                            389,
+                            115,
+                            400,
+                            73,
+                            400
+                        ],
+                        "confidence": "Low",
+                        "text": "BORTOLOTTI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    89,
+                    402,
+                    113,
+                    402,
+                    113,
+                    417,
+                    89,
+                    418
+                ],
+                "text": "BR",
+                "words": [
+                    {
+                        "boundingBox": [
+                            93,
+                            401,
+                            112,
+                            401,
+                            112,
+                            417,
+                            94,
+                            417
+                        ],
+                        "confidence": "Low",
+                        "text": "BR"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    64,
+                    429,
+                    115,
+                    429,
+                    116,
+                    450,
+                    63,
+                    451
+                ],
+                "text": "10-94",
+                "words": [
+                    {
+                        "boundingBox": [
+                            64,
+                            428,
+                            115,
+                            428,
+                            115,
+                            450,
+                            64,
+                            450
+                        ],
+                        "text": "10-94"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

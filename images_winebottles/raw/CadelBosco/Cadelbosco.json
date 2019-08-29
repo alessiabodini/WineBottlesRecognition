@@ -1,0 +1,120 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    508,
+                    768,
+                    549,
+                    766,
+                    550,
+                    776,
+                    509,
+                    778
+                ],
+                "text": "BRUT",
+                "words": [
+                    {
+                        "boundingBox": [
+                            512,
+                            768,
+                            546,
+                            767,
+                            545,
+                            777,
+                            511,
+                            778
+                        ],
+                        "text": "BRUT"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    446,
+                    1174,
+                    610,
+                    1183,
+                    608,
+                    1216,
+                    444,
+                    1206
+                ],
+                "text": "Ca'ddel Bosco.",
+                "words": [
+                    {
+                        "boundingBox": [
+                            450,
+                            1174,
+                            518,
+                            1180,
+                            517,
+                            1212,
+                            449,
+                            1207
+                        ],
+                        "confidence": "Low",
+                        "text": "Ca'ddel"
+                    },
+                    {
+                        "boundingBox": [
+                            524,
+                            1181,
+                            610,
+                            1184,
+                            609,
+                            1214,
+                            524,
+                            1212
+                        ],
+                        "confidence": "Low",
+                        "text": "Bosco."
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    465,
+                    1233,
+                    569,
+                    1242,
+                    567,
+                    1262,
+                    463,
+                    1253
+                ],
+                "text": "CUVEE PRESTIGE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            476,
+                            1236,
+                            512,
+                            1239,
+                            511,
+                            1258,
+                            476,
+                            1254
+                        ],
+                        "text": "CUVEE"
+                    },
+                    {
+                        "boundingBox": [
+                            515,
+                            1239,
+                            569,
+                            1242,
+                            568,
+                            1262,
+                            514,
+                            1258
+                        ],
+                        "confidence": "Low",
+                        "text": "PRESTIGE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}
