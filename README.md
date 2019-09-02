@@ -9,10 +9,14 @@ Inside *__images_winebottles__*:
 
 ## How to recognize a chosen bottle?
 
-- Run __recognition.py__ followed by the name of the image:
-  - `python recognition.py`
+- Add the image to recognize in the *__test__* directory
 
-- Look for the results (in the same directory of the image) in the __*image_name*.json__ file. The first result is the name of the bottle. 
+- Run __main.py__:
+  - `python main.py`
+  
+- When asked type in the new image name (extension included)
+
+- The program will return the name of the bottle in your image 
 
 ## How accurate is the result?
 
