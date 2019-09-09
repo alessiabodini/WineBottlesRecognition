@@ -1,0 +1,118 @@
+{
+    "boxes": [
+        {
+            "endX": 563,
+            "endY": 271,
+            "startX": 486,
+            "startY": 251
+        },
+        {
+            "endX": 803,
+            "endY": 639,
+            "startX": 712,
+            "startY": 617
+        },
+        {
+            "endX": 322,
+            "endY": 732,
+            "startX": 264,
+            "startY": 708
+        },
+        {
+            "endX": 850,
+            "endY": 695,
+            "startX": 781,
+            "startY": 673
+        },
+        {
+            "endX": 911,
+            "endY": 636,
+            "startX": 831,
+            "startY": 612
+        },
+        {
+            "endX": 383,
+            "endY": 734,
+            "startX": 320,
+            "startY": 712
+        },
+        {
+            "endX": 864,
+            "endY": 718,
+            "startX": 779,
+            "startY": 698
+        },
+        {
+            "endX": 303,
+            "endY": 683,
+            "startX": 217,
+            "startY": 658
+        },
+        {
+            "endX": 425,
+            "endY": 690,
+            "startX": 376,
+            "startY": 668
+        },
+        {
+            "endX": 345,
+            "endY": 627,
+            "startX": 313,
+            "startY": 605
+        },
+        {
+            "endX": 128,
+            "endY": 160,
+            "startX": 70,
+            "startY": 136
+        },
+        {
+            "endX": 867,
+            "endY": 798,
+            "startX": 777,
+            "startY": 777
+        },
+        {
+            "endX": 619,
+            "endY": 619,
+            "startX": 477,
+            "startY": 541
+        },
+        {
+            "endX": 344,
+            "endY": 653,
+            "startX": 303,
+            "startY": 629
+        },
+        {
+            "endX": 831,
+            "endY": 663,
+            "startX": 771,
+            "startY": 641
+        },
+        {
+            "endX": 798,
+            "endY": 293,
+            "startX": 742,
+            "startY": 275
+        },
+        {
+            "endX": 337,
+            "endY": 75,
+            "startX": 302,
+            "startY": 8
+        },
+        {
+            "endX": 351,
+            "endY": 686,
+            "startX": 308,
+            "startY": 659
+        },
+        {
+            "endX": 281,
+            "endY": 38,
+            "startX": 234,
+            "startY": 15
+        }
+    ]
+}

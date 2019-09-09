@@ -1,0 +1,34 @@
+{
+    "boxes": [
+        {
+            "endX": 282,
+            "endY": 275,
+            "startX": 192,
+            "startY": 259
+        },
+        {
+            "endX": 196,
+            "endY": 279,
+            "startX": 112,
+            "startY": 261
+        },
+        {
+            "endX": 222,
+            "endY": 296,
+            "startX": 169,
+            "startY": 281
+        },
+        {
+            "endX": 287,
+            "endY": 257,
+            "startX": 137,
+            "startY": 228
+        },
+        {
+            "endX": 256,
+            "endY": 213,
+            "startX": 144,
+            "startY": 175
+        }
+    ]
+}

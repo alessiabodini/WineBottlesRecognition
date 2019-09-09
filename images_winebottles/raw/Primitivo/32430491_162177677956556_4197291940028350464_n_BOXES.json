@@ -1,0 +1,100 @@
+{
+    "boxes": [
+        {
+            "endX": 351,
+            "endY": 1029,
+            "startX": 239,
+            "startY": 1004
+        },
+        {
+            "endX": 376,
+            "endY": 831,
+            "startX": 335,
+            "startY": 810
+        },
+        {
+            "endX": 756,
+            "endY": 997,
+            "startX": 531,
+            "startY": 946
+        },
+        {
+            "endX": 668,
+            "endY": 918,
+            "startX": 565,
+            "startY": 885
+        },
+        {
+            "endX": 325,
+            "endY": 843,
+            "startX": 99,
+            "startY": 813
+        },
+        {
+            "endX": 162,
+            "endY": 1056,
+            "startX": 48,
+            "startY": 1027
+        },
+        {
+            "endX": 669,
+            "endY": 1029,
+            "startX": 612,
+            "startY": 1012
+        },
+        {
+            "endX": 784,
+            "endY": 1074,
+            "startX": 725,
+            "startY": 1051
+        },
+        {
+            "endX": 725,
+            "endY": 939,
+            "startX": 604,
+            "startY": 906
+        },
+        {
+            "endX": 713,
+            "endY": 1047,
+            "startX": 669,
+            "startY": 1029
+        },
+        {
+            "endX": 614,
+            "endY": 1014,
+            "startX": 570,
+            "startY": 995
+        },
+        {
+            "endX": 561,
+            "endY": 1024,
+            "startX": 506,
+            "startY": 1002
+        },
+        {
+            "endX": 610,
+            "endY": 1041,
+            "startX": 555,
+            "startY": 1019
+        },
+        {
+            "endX": 789,
+            "endY": 1103,
+            "startX": 693,
+            "startY": 1056
+        },
+        {
+            "endX": 673,
+            "endY": 1064,
+            "startX": 624,
+            "startY": 1042
+        },
+        {
+            "endX": 713,
+            "endY": 1095,
+            "startX": 639,
+            "startY": 1058
+        }
+    ]
+}

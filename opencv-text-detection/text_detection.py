@@ -24,6 +24,7 @@ ap.add_argument("-e", "--height", type=int, default=640,
 args = vars(ap.parse_args())
 
 # load the input image and grab the image dimensions
+name = args["image"] # new
 image = cv2.imread(args["image"])
 orig = image.copy()
 (H, W) = image.shape[:2]
@@ -117,6 +118,13 @@ for y in range(0, numRows):
 # boxes
 boxes = non_max_suppression(np.array(rects), probs=confidences)
 
+# START NEW PART
+index = name.find('.')
+filename = name[:index] + '_BOXES.json'
+data = {}
+data['boxes'] = []
+# END NEW PART
+
 # loop over the bounding boxes
 for (startX, startY, endX, endY) in boxes:
 	# scale the bounding box coordinates based on the respective
@@ -130,15 +138,22 @@ for (startX, startY, endX, endY) in boxes:
 	cv2.rectangle(orig, (startX, startY), (endX, endY), (0, 255, 0), 2)
 
 	# START NEW PART: add box's coordinates to boxes.json
-	index = name.find('.')
-	filename = "image-boxes\\" + name[:index] + '.json'
-	data = {}
-	data['boxes'] = []
 	data['boxes'].append({
 	    'startX': startX,
 	    'startY': startY,
 	    'endX': endX,
-		'endy': endY
+		'endY': endY
+	})
+
+	with open(filename, 'w') as file:
+		json.dump(data, file, sort_keys = True, indent = 4)
+
+if len(boxes) == 0:
+	data['boxes'].append({
+	    'startX': 0,
+	    'startY': 0,
+	    'endX': 0,
+		'endY': 0
 	})
 	with open(filename, 'w') as file:
 		json.dump(data, file, sort_keys = True, indent = 4)
@@ -146,5 +161,5 @@ for (startX, startY, endX, endY) in boxes:
 	# END NEW PART
 
 # show the output image
-cv2.imshow("Text Detection", orig)
-cv2.waitKey(0)
+#cv2.imshow("Text Detection", orig)
+#cv2.waitKey(0)
