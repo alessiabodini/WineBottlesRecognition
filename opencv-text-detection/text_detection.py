@@ -7,6 +7,7 @@ import numpy as np
 import argparse
 import time
 import cv2
+import json # new
 
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()
@@ -127,6 +128,22 @@ for (startX, startY, endX, endY) in boxes:
 
 	# draw the bounding box on the image
 	cv2.rectangle(orig, (startX, startY), (endX, endY), (0, 255, 0), 2)
+
+	# START NEW PART: add box's coordinates to boxes.json
+	index = name.find('.')
+	filename = "image-boxes\\" + name[:index] + '.json'
+	data = {}
+	data['boxes'] = []
+	data['boxes'].append({
+	    'startX': startX,
+	    'startY': startY,
+	    'endX': endX,
+		'endy': endY
+	})
+	with open(filename, 'w') as file:
+		json.dump(data, file, sort_keys = True, indent = 4)
+
+	# END NEW PART
 
 # show the output image
 cv2.imshow("Text Detection", orig)
