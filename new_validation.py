@@ -12,7 +12,7 @@ bottlesDir = 'images_winebottles\\bottles\\'
 rawDir = 'images_winebottles\\raw\\'
 
 # Import dataset
-dataset = 'bottles' # or 'bottles'
+dataset = 'raw' # or 'bottles'
 bottlesImages = importDataset(dataset)
 gtImages = importDataset('gt')
 
@@ -79,3 +79,7 @@ plt.show()
 # Calculate AUC
 auc = np.trapz(cmc, dx=1/len(gtImages))
 print('\nAccurancy: {}'.format(auc))
+
+# RESULTS:
+# - raw: 0.5288
+# - bottles: 0.5981
