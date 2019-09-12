@@ -16,6 +16,9 @@ dataset = 'raw' # or 'bottles'
 bottlesImages = importDataset(dataset)
 gtImages = importDataset('gt')
 
+#print(len(gtImages))
+#print(len(bottlesImages))
+
 # List of bottles names
 bottlesNames = []
 for i in range(len(gtImages)):
