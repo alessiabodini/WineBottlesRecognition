@@ -15,9 +15,9 @@ dir = 'images_winebottles\\test\\'
 #GHOSTSCRIPT_PATH = "GHOSTSCRIPT\\bin\\gswin32.exe"
 #GSPRINT_PATH = "GSPRINT\\gsprint.exe"
 
-# Import information from bottles
-wordsInBottles = importBottles()
-wordsInBottles = np.array(wordsInBottles)
+# Import information from bottles: not used
+#wordsInBottles = importBottles()
+#wordsInBottles = np.array(wordsInBottles)
 
 # List of bottles names
 gtImages = importDataset('gt')

@@ -76,7 +76,7 @@ def extractFileName(path, part):
     return name
 
 
-# Import information about bottles
+# Import information about bottles: not used 
 def importBottles():
     with open('bottles.json', 'r') as file:
         bottles = json.load(file)
