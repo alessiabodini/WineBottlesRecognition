@@ -1,0 +1,676 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    642,
+                    27,
+                    663,
+                    27,
+                    663,
+                    40,
+                    642,
+                    40
+                ],
+                "text": "M",
+                "words": [
+                    {
+                        "boundingBox": [
+                            646,
+                            27,
+                            655,
+                            27,
+                            655,
+                            40,
+                            646,
+                            40
+                        ],
+                        "text": "M"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    131,
+                    100,
+                    226,
+                    100,
+                    226,
+                    117,
+                    131,
+                    117
+                ],
+                "text": "ENOTECA B89.",
+                "words": [
+                    {
+                        "boundingBox": [
+                            134,
+                            100,
+                            194,
+                            100,
+                            194,
+                            117,
+                            134,
+                            118
+                        ],
+                        "text": "ENOTECA"
+                    },
+                    {
+                        "boundingBox": [
+                            198,
+                            100,
+                            226,
+                            100,
+                            226,
+                            117,
+                            198,
+                            117
+                        ],
+                        "text": "B89."
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    319,
+                    78,
+                    414,
+                    74,
+                    415,
+                    83,
+                    320,
+                    87
+                ],
+                "text": "DISTILLERIN MARZADOR",
+                "words": [
+                    {
+                        "boundingBox": [
+                            320,
+                            79,
+                            369,
+                            77,
+                            369,
+                            86,
+                            320,
+                            87
+                        ],
+                        "confidence": "Low",
+                        "text": "DISTILLERIN"
+                    },
+                    {
+                        "boundingBox": [
+                            372,
+                            77,
+                            411,
+                            75,
+                            412,
+                            83,
+                            372,
+                            86
+                        ],
+                        "confidence": "Low",
+                        "text": "MARZADOR"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    655,
+                    52,
+                    700,
+                    51,
+                    701,
+                    60,
+                    656,
+                    61
+                ],
+                "text": "MARTAGEO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            656,
+                            52,
+                            699,
+                            52,
+                            699,
+                            60,
+                            656,
+                            61
+                        ],
+                        "confidence": "Low",
+                        "text": "MARTAGEO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    132,
+                    118,
+                    228,
+                    117,
+                    229,
+                    129,
+                    133,
+                    129
+                ],
+                "text": "VIA QUINTINO SELLA N.53",
+                "words": [
+                    {
+                        "boundingBox": [
+                            134,
+                            119,
+                            146,
+                            119,
+                            147,
+                            129,
+                            134,
+                            129
+                        ],
+                        "confidence": "Low",
+                        "text": "VIA"
+                    },
+                    {
+                        "boundingBox": [
+                            148,
+                            119,
+                            185,
+                            119,
+                            186,
+                            129,
+                            149,
+                            129
+                        ],
+                        "text": "QUINTINO"
+                    },
+                    {
+                        "boundingBox": [
+                            187,
+                            119,
+                            209,
+                            119,
+                            209,
+                            129,
+                            188,
+                            129
+                        ],
+                        "text": "SELLA"
+                    },
+                    {
+                        "boundingBox": [
+                            211,
+                            119,
+                            228,
+                            118,
+                            229,
+                            129,
+                            211,
+                            129
+                        ],
+                        "text": "N.53"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    576,
+                    99,
+                    601,
+                    97,
+                    603,
+                    117,
+                    578,
+                    119
+                ],
+                "text": "bia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            579,
+                            98,
+                            600,
+                            97,
+                            602,
+                            116,
+                            580,
+                            118
+                        ],
+                        "confidence": "Low",
+                        "text": "bia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    343,
+                    226,
+                    411,
+                    219,
+                    413,
+                    231,
+                    345,
+                    239
+                ],
+                "text": "FERRARI",
+                "words": [
+                    {
+                        "boundingBox": [
+                            346,
+                            226,
+                            411,
+                            220,
+                            412,
+                            231,
+                            348,
+                            239
+                        ],
+                        "text": "FERRARI"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    55,
+                    428,
+                    175,
+                    420,
+                    176,
+                    440,
+                    56,
+                    448
+                ],
+                "text": "UBERNET SAUVIGNON Puglia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            58,
+                            430,
+                            91,
+                            432,
+                            91,
+                            445,
+                            57,
+                            442
+                        ],
+                        "confidence": "Low",
+                        "text": "UBERNET"
+                    },
+                    {
+                        "boundingBox": [
+                            93,
+                            432,
+                            149,
+                            427,
+                            151,
+                            441,
+                            94,
+                            445
+                        ],
+                        "text": "SAUVIGNON"
+                    },
+                    {
+                        "boundingBox": [
+                            151,
+                            426,
+                            174,
+                            421,
+                            176,
+                            436,
+                            153,
+                            441
+                        ],
+                        "confidence": "Low",
+                        "text": "Puglia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    258,
+                    425,
+                    351,
+                    412,
+                    353,
+                    426,
+                    260,
+                    439
+                ],
+                "text": "PRIMITIVO FA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            260,
+                            425,
+                            333,
+                            417,
+                            335,
+                            428,
+                            261,
+                            437
+                        ],
+                        "text": "PRIMITIVO"
+                    },
+                    {
+                        "boundingBox": [
+                            336,
+                            416,
+                            349,
+                            413,
+                            351,
+                            425,
+                            339,
+                            428
+                        ],
+                        "text": "FA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    460,
+                    412,
+                    537,
+                    402,
+                    539,
+                    414,
+                    462,
+                    425
+                ],
+                "text": "FLANONE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            463,
+                            413,
+                            536,
+                            403,
+                            537,
+                            414,
+                            464,
+                            423
+                        ],
+                        "confidence": "Low",
+                        "text": "FLANONE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    600,
+                    401,
+                    693,
+                    393,
+                    694,
+                    408,
+                    601,
+                    415
+                ],
+                "text": "NERO DI TROIA For",
+                "words": [
+                    {
+                        "boundingBox": [
+                            602,
+                            401,
+                            631,
+                            401,
+                            632,
+                            413,
+                            602,
+                            413
+                        ],
+                        "text": "NERO"
+                    },
+                    {
+                        "boundingBox": [
+                            634,
+                            401,
+                            645,
+                            401,
+                            646,
+                            412,
+                            634,
+                            413
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            647,
+                            401,
+                            676,
+                            397,
+                            678,
+                            409,
+                            649,
+                            412
+                        ],
+                        "text": "TROIA"
+                    },
+                    {
+                        "boundingBox": [
+                            678,
+                            397,
+                            692,
+                            394,
+                            694,
+                            405,
+                            680,
+                            408
+                        ],
+                        "confidence": "Low",
+                        "text": "For"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    62,
+                    497,
+                    90,
+                    504,
+                    88,
+                    514,
+                    60,
+                    508
+                ],
+                "text": "UNTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            62,
+                            496,
+                            89,
+                            502,
+                            87,
+                            513,
+                            60,
+                            507
+                        ],
+                        "text": "UNTINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    112,
+                    505,
+                    153,
+                    500,
+                    154,
+                    510,
+                    114,
+                    516
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            114,
+                            506,
+                            151,
+                            501,
+                            153,
+                            511,
+                            115,
+                            515
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    249,
+                    493,
+                    291,
+                    495,
+                    290,
+                    506,
+                    248,
+                    505
+                ],
+                "text": "CANTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            250,
+                            494,
+                            290,
+                            495,
+                            290,
+                            507,
+                            250,
+                            505
+                        ],
+                        "text": "CANTINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    309,
+                    494,
+                    348,
+                    483,
+                    351,
+                    494,
+                    312,
+                    504
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            315,
+                            492,
+                            347,
+                            484,
+                            350,
+                            495,
+                            317,
+                            503
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    438,
+                    479,
+                    535,
+                    470,
+                    537,
+                    489,
+                    439,
+                    497
+                ],
+                "text": "CANTINE LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            441,
+                            480,
+                            480,
+                            483,
+                            481,
+                            494,
+                            440,
+                            490
+                        ],
+                        "text": "CANTINE"
+                    },
+                    {
+                        "boundingBox": [
+                            507,
+                            479,
+                            534,
+                            471,
+                            537,
+                            482,
+                            508,
+                            491
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    590,
+                    468,
+                    628,
+                    471,
+                    627,
+                    482,
+                    588,
+                    479
+                ],
+                "text": "CANTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            590,
+                            468,
+                            628,
+                            472,
+                            627,
+                            482,
+                            589,
+                            479
+                        ],
+                        "text": "CANTINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    649,
+                    470,
+                    687,
+                    463,
+                    689,
+                    473,
+                    651,
+                    481
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            655,
+                            470,
+                            686,
+                            464,
+                            687,
+                            474,
+                            656,
+                            480
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

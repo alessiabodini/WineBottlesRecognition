@@ -1,0 +1,296 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    261,
+                    546,
+                    259,
+                    460,
+                    291,
+                    460,
+                    293,
+                    546
+                ],
+                "text": "2013",
+                "words": [
+                    {
+                        "boundingBox": [
+                            260,
+                            540,
+                            258,
+                            461,
+                            290,
+                            460,
+                            292,
+                            539
+                        ],
+                        "text": "2013"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    348,
+                    634,
+                    349,
+                    352,
+                    432,
+                    353,
+                    431,
+                    635
+                ],
+                "text": "CAPARZO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            349,
+                            630,
+                            349,
+                            353,
+                            433,
+                            353,
+                            432,
+                            629
+                        ],
+                        "text": "CAPARZO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    676,
+                    627,
+                    692,
+                    366,
+                    746,
+                    370,
+                    731,
+                    631
+                ],
+                "text": "BRUNELLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            677,
+                            620,
+                            693,
+                            368,
+                            746,
+                            370,
+                            733,
+                            623
+                        ],
+                        "text": "BRUNELLO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    732,
+                    659,
+                    750,
+                    318,
+                    810,
+                    321,
+                    791,
+                    662
+                ],
+                "text": "DI MONTALCINO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            732,
+                            659,
+                            734,
+                            633,
+                            791,
+                            634,
+                            788,
+                            660
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            735,
+                            623,
+                            751,
+                            322,
+                            804,
+                            320,
+                            792,
+                            623
+                        ],
+                        "text": "MONTALCINO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    821,
+                    1002,
+                    809,
+                    862,
+                    832,
+                    859,
+                    845,
+                    999
+                ],
+                "text": "BIBI GRAETZ",
+                "words": [
+                    {
+                        "boundingBox": [
+                            822,
+                            999,
+                            817,
+                            942,
+                            840,
+                            939,
+                            845,
+                            997
+                        ],
+                        "text": "BIBI"
+                    },
+                    {
+                        "boundingBox": [
+                            816,
+                            937,
+                            809,
+                            863,
+                            833,
+                            861,
+                            840,
+                            935
+                        ],
+                        "confidence": "Low",
+                        "text": "GRAETZ"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    784,
+                    664,
+                    796,
+                    320,
+                    832,
+                    321,
+                    820,
+                    665
+                ],
+                "text": "DENOMINAZIONE DI ORIGINE CONTROLLATA E GARANTITA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            788,
+                            660,
+                            798,
+                            585,
+                            820,
+                            586,
+                            810,
+                            662
+                        ],
+                        "confidence": "Low",
+                        "text": "DENOMINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            798,
+                            580,
+                            800,
+                            567,
+                            822,
+                            568,
+                            820,
+                            582
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            800,
+                            563,
+                            803,
+                            509,
+                            826,
+                            510,
+                            822,
+                            564
+                        ],
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            803,
+                            505,
+                            803,
+                            404,
+                            828,
+                            403,
+                            826,
+                            505
+                        ],
+                        "text": "CONTROLLATA"
+                    },
+                    {
+                        "boundingBox": [
+                            802,
+                            399,
+                            802,
+                            392,
+                            827,
+                            391,
+                            828,
+                            399
+                        ],
+                        "text": "E"
+                    },
+                    {
+                        "boundingBox": [
+                            802,
+                            387,
+                            796,
+                            322,
+                            824,
+                            321,
+                            827,
+                            387
+                        ],
+                        "text": "GARANTITA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    891,
+                    1078,
+                    888,
+                    939,
+                    940,
+                    936,
+                    945,
+                    1078
+                ],
+                "text": "ATTA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            890,
+                            1065,
+                            887,
+                            939,
+                            940,
+                            937,
+                            944,
+                            1063
+                        ],
+                        "text": "ATTA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

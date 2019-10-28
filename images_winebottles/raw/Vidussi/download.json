@@ -1,0 +1,62 @@
+{
+  "recognitionResult": {
+      "lines": [
+        {
+          "boundingBox": [
+            104,
+            97,
+            131,
+            96,
+            132,
+            104,
+            105,
+            105
+          ],
+          "text": "VIDUSSI",
+          "words": [
+            {
+              "boundingBox": [
+                105,
+                97,
+                132,
+                97,
+                131,
+                104,
+                105,
+                105
+              ],
+              "text": "VIDUSSI"
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            160,
+            95,
+            189,
+            96,
+            189,
+            105,
+            159,
+            103
+          ],
+          "text": "VIDUSSI",
+          "words": [
+            {
+              "boundingBox": [
+                160,
+                95,
+                189,
+                96,
+                189,
+                105,
+                159,
+                104
+              ],
+              "text": "VIDUSSI"
+            }
+          ]
+        }
+      ]
+    }
+}

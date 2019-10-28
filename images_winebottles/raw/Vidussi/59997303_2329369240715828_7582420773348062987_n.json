@@ -1,0 +1,198 @@
+{
+  "recognitionResult": {
+      "lines": [
+        {
+          "boundingBox": [
+            74,
+            306,
+            174,
+            299,
+            176,
+            327,
+            76,
+            334
+          ],
+          "text": "VIDUSSI",
+          "words": [
+            {
+              "boundingBox": [
+                77,
+                307,
+                175,
+                300,
+                176,
+                328,
+                79,
+                334
+              ],
+              "text": "VIDUSSI"
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            44,
+            486,
+            168,
+            471,
+            171,
+            489,
+            46,
+            503
+          ],
+          "text": "RIBOLLA GIALLA",
+          "words": [
+            {
+              "boundingBox": [
+                46,
+                486,
+                107,
+                480,
+                108,
+                496,
+                47,
+                503
+              ],
+              "text": "RIBOLLA"
+            },
+            {
+              "boundingBox": [
+                111,
+                479,
+                169,
+                472,
+                170,
+                489,
+                113,
+                496
+              ],
+              "text": "GIALLA"
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            115,
+            499,
+            171,
+            492,
+            173,
+            508,
+            118,
+            516
+          ],
+          "text": "COLLIO",
+          "words": [
+            {
+              "boundingBox": [
+                117,
+                500,
+                171,
+                492,
+                173,
+                509,
+                118,
+                515
+              ],
+              "text": "COLLIO"
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            51,
+            526,
+            172,
+            513,
+            174,
+            525,
+            53,
+            538
+          ],
+          "text": "Deniminazione di Origine Protetta",
+          "words": [
+            {
+              "boundingBox": [
+                53,
+                527,
+                103,
+                524,
+                104,
+                534,
+                54,
+                537
+              ],
+              "text": "Deniminazione"
+            },
+            {
+              "boundingBox": [
+                105,
+                523,
+                111,
+                523,
+                112,
+                533,
+                106,
+                533
+              ],
+              "text": "di"
+            },
+            {
+              "boundingBox": [
+                113,
+                522,
+                141,
+                519,
+                142,
+                529,
+                114,
+                533
+              ],
+              "text": "Origine"
+            },
+            {
+              "boundingBox": [
+                143,
+                519,
+                172,
+                514,
+                174,
+                524,
+                144,
+                529
+              ],
+              "text": "Protetta"
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            113,
+            545,
+            174,
+            530,
+            177,
+            541,
+            116,
+            556
+          ],
+          "text": "MADIANCUT",
+          "words": [
+            {
+              "boundingBox": [
+                117,
+                545,
+                170,
+                532,
+                173,
+                542,
+                118,
+                556
+              ],
+              "text": "MADIANCUT"
+            }
+          ]
+        }
+      ]
+    }
+}

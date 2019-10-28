@@ -1,0 +1,254 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    828,
+                    79,
+                    904,
+                    74,
+                    906,
+                    104,
+                    829,
+                    109
+                ],
+                "text": "2013",
+                "words": [
+                    {
+                        "boundingBox": [
+                            833,
+                            77,
+                            903,
+                            73,
+                            905,
+                            103,
+                            835,
+                            108
+                        ],
+                        "text": "2013"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    733,
+                    163,
+                    973,
+                    153,
+                    976,
+                    226,
+                    736,
+                    236
+                ],
+                "text": "CAPARZO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            744,
+                            165,
+                            974,
+                            154,
+                            976,
+                            226,
+                            749,
+                            236
+                        ],
+                        "text": "CAPARZO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    433,
+                    374,
+                    536,
+                    374,
+                    534,
+                    447,
+                    434,
+                    444
+                ],
+                "text": "A",
+                "words": [
+                    {
+                        "boundingBox": [
+                            452,
+                            372,
+                            501,
+                            373,
+                            500,
+                            446,
+                            451,
+                            445
+                        ],
+                        "text": "A"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    752,
+                    444,
+                    967,
+                    439,
+                    969,
+                    485,
+                    754,
+                    491
+                ],
+                "text": "BRUNELLO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            756,
+                            445,
+                            968,
+                            442,
+                            966,
+                            486,
+                            757,
+                            491
+                        ],
+                        "text": "BRUNELLO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    710,
+                    494,
+                    988,
+                    483,
+                    990,
+                    530,
+                    712,
+                    540
+                ],
+                "text": "DI MONTALCINO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            715,
+                            493,
+                            749,
+                            493,
+                            749,
+                            539,
+                            715,
+                            540
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            758,
+                            493,
+                            988,
+                            486,
+                            986,
+                            530,
+                            758,
+                            539
+                        ],
+                        "text": "MONTALCINO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    710,
+                    532,
+                    989,
+                    520,
+                    990,
+                    550,
+                    712,
+                    563
+                ],
+                "text": "DENOMINAZIONE DI ORIGINE CONTROLLATA E CARAMIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            713,
+                            537,
+                            796,
+                            542,
+                            794,
+                            557,
+                            712,
+                            555
+                        ],
+                        "text": "DENOMINAZIONE"
+                    },
+                    {
+                        "boundingBox": [
+                            799,
+                            542,
+                            812,
+                            541,
+                            810,
+                            557,
+                            798,
+                            557
+                        ],
+                        "text": "DI"
+                    },
+                    {
+                        "boundingBox": [
+                            815,
+                            541,
+                            862,
+                            539,
+                            860,
+                            556,
+                            814,
+                            557
+                        ],
+                        "text": "ORIGINE"
+                    },
+                    {
+                        "boundingBox": [
+                            866,
+                            539,
+                            939,
+                            530,
+                            936,
+                            553,
+                            864,
+                            556
+                        ],
+                        "text": "CONTROLLATA"
+                    },
+                    {
+                        "boundingBox": [
+                            943,
+                            529,
+                            946,
+                            529,
+                            943,
+                            552,
+                            940,
+                            552
+                        ],
+                        "text": "E"
+                    },
+                    {
+                        "boundingBox": [
+                            950,
+                            528,
+                            989,
+                            520,
+                            986,
+                            548,
+                            947,
+                            552
+                        ],
+                        "confidence": "Low",
+                        "text": "CARAMIA"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}

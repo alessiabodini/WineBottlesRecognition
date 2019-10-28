@@ -1,0 +1,280 @@
+{
+  "recognitionResult": {
+      "lines": [
+        {
+          "boundingBox": [
+            692,
+            396,
+            947,
+            399,
+            946,
+            481,
+            691,
+            478
+          ],
+          "text": "Tenzone",
+          "words": [
+            {
+              "boundingBox": [
+                746,
+                399,
+                946,
+                400,
+                947,
+                482,
+                745,
+                480
+              ],
+              "text": "Tenzone"
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            646,
+            548,
+            982,
+            549,
+            981,
+            609,
+            645,
+            608
+          ],
+          "text": "VALPOLICELLA",
+          "words": [
+            {
+              "boundingBox": [
+                646,
+                550,
+                982,
+                550,
+                980,
+                609,
+                646,
+                607
+              ],
+              "text": "VALPOLICELLA"
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            714,
+            619,
+            919,
+            620,
+            918,
+            678,
+            713,
+            677
+          ],
+          "text": "RIPASSO",
+          "words": [
+            {
+              "boundingBox": [
+                716,
+                621,
+                918,
+                621,
+                916,
+                679,
+                714,
+                676
+              ],
+              "text": "RIPASSO"
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            642,
+            674,
+            974,
+            681,
+            973,
+            724,
+            641,
+            718
+          ],
+          "text": "DENOMINAZIONE DI ORIGINE CONTROLATA",
+          "words": [
+            {
+              "boundingBox": [
+                648,
+                680,
+                780,
+                686,
+                780,
+                720,
+                644,
+                703
+              ],
+              "text": "DENOMINAZIONE"
+            },
+            {
+              "boundingBox": [
+                784,
+                686,
+                801,
+                686,
+                801,
+                721,
+                784,
+                721
+              ],
+              "text": "DI"
+            },
+            {
+              "boundingBox": [
+                806,
+                686,
+                873,
+                685,
+                875,
+                722,
+                806,
+                722
+              ],
+              "text": "ORIGINE"
+            },
+            {
+              "boundingBox": [
+                877,
+                685,
+                970,
+                681,
+                975,
+                715,
+                880,
+                722
+              ],
+              "text": "CONTROLATA"
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            637,
+            701,
+            977,
+            707,
+            976,
+            766,
+            636,
+            760
+          ],
+          "text": "CLASSICO SUPERIORE",
+          "words": [
+            {
+              "boundingBox": [
+                645,
+                704,
+                800,
+                707,
+                798,
+                764,
+                640,
+                755
+              ],
+              "text": "CLASSICO"
+            },
+            {
+              "boundingBox": [
+                811,
+                707,
+                976,
+                707,
+                975,
+                763,
+                808,
+                764
+              ],
+              "text": "SUPERIORE"
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            781,
+            832,
+            852,
+            831,
+            851,
+            859,
+            782,
+            860
+          ],
+          "text": "2015",
+          "words": [
+            {
+              "boundingBox": [
+                788,
+                831,
+                851,
+                830,
+                851,
+                858,
+                788,
+                859
+              ],
+              "text": "2015"
+            }
+          ]
+        },
+        {
+          "boundingBox": [
+            692,
+            881,
+            928,
+            888,
+            927,
+            921,
+            691,
+            915
+          ],
+          "text": "SOCIETA AGRICOLA ELEVA",
+          "words": [
+            {
+              "boundingBox": [
+                698,
+                883,
+                776,
+                890,
+                774,
+                916,
+                696,
+                907
+              ],
+              "text": "SOCIETA"
+            },
+            {
+              "boundingBox": [
+                781,
+                890,
+                873,
+                891,
+                871,
+                918,
+                779,
+                917
+              ],
+              "text": "AGRICOLA"
+            },
+            {
+              "boundingBox": [
+                877,
+                891,
+                927,
+                888,
+                926,
+                915,
+                876,
+                918
+              ],
+              "text": "ELEVA"
+            }
+          ]
+        }
+      ]
+    }
+}

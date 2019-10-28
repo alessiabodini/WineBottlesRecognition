@@ -31,6 +31,8 @@ ranks = np.zeros(len(gtImages))
 
 for i in range(0,len(bottlesImages)):
     image = bottlesImages[i]
+    index = image.find('.')
+    filename = image[:index] + '.json'
 
     # Open file with results of image
     with open(filename, 'r') as file:

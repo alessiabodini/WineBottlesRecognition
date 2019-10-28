@@ -8,12 +8,12 @@ from util import extractFileName
 headersPost = {
     # Request headers
     'Content-Type': 'application/octet-stream',
-    'Ocp-Apim-Subscription-Key': '6a6c677bae71478382a909722c645c17'
+    'Ocp-Apim-Subscription-Key': 'f0014c81fadb4e45b7b753ffd05e33d6'
 }
 
 headersGet = {
     # Request headers
-    'Ocp-Apim-Subscription-Key': '6a6c677bae71478382a909722c645c17'
+    'Ocp-Apim-Subscription-Key': 'f0014c81fadb4e45b7b753ffd05e33d6'
 }
 
 params = urllib.parse.urlencode({

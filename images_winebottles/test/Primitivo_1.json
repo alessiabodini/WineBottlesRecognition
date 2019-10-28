@@ -1,0 +1,324 @@
+{
+    "recognitionResult": {
+        "lines": [
+            {
+                "boundingBox": [
+                    580,
+                    869,
+                    719,
+                    907,
+                    710,
+                    938,
+                    571,
+                    900
+                ],
+                "text": "CANTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            580,
+                            870,
+                            719,
+                            908,
+                            710,
+                            939,
+                            572,
+                            899
+                        ],
+                        "text": "CANTINE"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    106,
+                    815,
+                    384,
+                    808,
+                    385,
+                    846,
+                    107,
+                    852
+                ],
+                "text": "PRIMITIVO Puglia",
+                "words": [
+                    {
+                        "boundingBox": [
+                            113,
+                            815,
+                            321,
+                            814,
+                            323,
+                            845,
+                            110,
+                            843
+                        ],
+                        "text": "PRIMITIVO"
+                    },
+                    {
+                        "boundingBox": [
+                            336,
+                            813,
+                            381,
+                            809,
+                            384,
+                            835,
+                            338,
+                            843
+                        ],
+                        "confidence": "Low",
+                        "text": "Puglia"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    551,
+                    897,
+                    749,
+                    958,
+                    734,
+                    1005,
+                    536,
+                    944
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            554,
+                            900,
+                            744,
+                            957,
+                            731,
+                            1003,
+                            540,
+                            945
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    498,
+                    955,
+                    792,
+                    1057,
+                    786,
+                    1076,
+                    492,
+                    973
+                ],
+                "text": "ELEGANTI VINI BIOLOGICI DALLA PUGLIA",
+                "words": [
+                    {
+                        "boundingBox": [
+                            500,
+                            957,
+                            566,
+                            980,
+                            561,
+                            996,
+                            496,
+                            975
+                        ],
+                        "text": "ELEGANTI"
+                    },
+                    {
+                        "boundingBox": [
+                            569,
+                            981,
+                            600,
+                            991,
+                            595,
+                            1008,
+                            564,
+                            997
+                        ],
+                        "text": "VINI"
+                    },
+                    {
+                        "boundingBox": [
+                            603,
+                            992,
+                            676,
+                            1018,
+                            671,
+                            1034,
+                            598,
+                            1009
+                        ],
+                        "text": "BIOLOGICI"
+                    },
+                    {
+                        "boundingBox": [
+                            679,
+                            1019,
+                            731,
+                            1037,
+                            726,
+                            1054,
+                            675,
+                            1036
+                        ],
+                        "text": "DALLA"
+                    },
+                    {
+                        "boundingBox": [
+                            734,
+                            1038,
+                            791,
+                            1058,
+                            786,
+                            1076,
+                            730,
+                            1055
+                        ],
+                        "text": "PUGLIA"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    511,
+                    986,
+                    740,
+                    1065,
+                    734,
+                    1080,
+                    505,
+                    1004
+                ],
+                "text": "Elegant organic wines from At",
+                "words": [
+                    {
+                        "boundingBox": [
+                            513,
+                            987,
+                            567,
+                            1007,
+                            562,
+                            1024,
+                            508,
+                            1005
+                        ],
+                        "confidence": "Low",
+                        "text": "Elegant"
+                    },
+                    {
+                        "boundingBox": [
+                            570,
+                            1008,
+                            628,
+                            1028,
+                            623,
+                            1045,
+                            566,
+                            1025
+                        ],
+                        "text": "organic"
+                    },
+                    {
+                        "boundingBox": [
+                            631,
+                            1029,
+                            675,
+                            1045,
+                            670,
+                            1061,
+                            626,
+                            1046
+                        ],
+                        "confidence": "Low",
+                        "text": "wines"
+                    },
+                    {
+                        "boundingBox": [
+                            678,
+                            1046,
+                            713,
+                            1058,
+                            708,
+                            1073,
+                            673,
+                            1062
+                        ],
+                        "text": "from"
+                    },
+                    {
+                        "boundingBox": [
+                            722,
+                            1061,
+                            739,
+                            1067,
+                            734,
+                            1079,
+                            717,
+                            1075
+                        ],
+                        "confidence": "Low",
+                        "text": "At"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    244,
+                    1031,
+                    341,
+                    1008,
+                    347,
+                    1034,
+                    250,
+                    1057
+                ],
+                "text": "LOSITO",
+                "words": [
+                    {
+                        "boundingBox": [
+                            246,
+                            1031,
+                            340,
+                            1009,
+                            347,
+                            1034,
+                            252,
+                            1057
+                        ],
+                        "text": "LOSITO"
+                    }
+                ]
+            },
+            {
+                "boundingBox": [
+                    63,
+                    1008,
+                    166,
+                    1033,
+                    160,
+                    1058,
+                    57,
+                    1033
+                ],
+                "text": "CANTINE",
+                "words": [
+                    {
+                        "boundingBox": [
+                            68,
+                            1010,
+                            165,
+                            1034,
+                            159,
+                            1059,
+                            63,
+                            1036
+                        ],
+                        "text": "CANTINE"
+                    }
+                ]
+            }
+        ]
+    },
+    "status": "Succeeded"
+}
