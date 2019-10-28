@@ -8,12 +8,12 @@ from util import extractFileName
 headersPost = {
     # Request headers
     'Content-Type': 'application/octet-stream',
-    'Ocp-Apim-Subscription-Key': 'f0014c81fadb4e45b7b753ffd05e33d6'
+    'Ocp-Apim-Subscription-Key': '?'
 }
 
 headersGet = {
     # Request headers
-    'Ocp-Apim-Subscription-Key': 'f0014c81fadb4e45b7b753ffd05e33d6'
+    'Ocp-Apim-Subscription-Key': '?'
 }
 
 params = urllib.parse.urlencode({
@@ -33,7 +33,7 @@ def recognition(images):
                 print(name)
 
                 try:
-                    conn = http.client.HTTPSConnection('westcentralus.api.cognitive.microsoft.com')
+                    conn = http.client.HTTPSConnection('mycognitiveservicesresourcetext.cognitiveservices.azure.com')
                     conn.request('POST', '/vision/v2.0/recognizeText?%s' % params,
                         img, headersPost)
                     response = conn.getresponse()
@@ -43,7 +43,7 @@ def recognition(images):
                     conn.close()
 
                     time.sleep(3)
-                    conn = http.client.HTTPSConnection('westcentralus.api.cognitive.microsoft.com')
+                    conn = http.client.HTTPSConnection('mycognitiveservicesresourcetext.cognitiveservices.azure.com')
                     conn.request('GET', location, '', headersGet)
                     response = conn.getresponse()
                     print(response.status, response.reason)

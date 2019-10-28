@@ -43,6 +43,10 @@ def getScores(wordsImage):
                 if new < scores[i][j]:
                     scores[i][j] = new
             final[i] += scores[i][j]
-        final[i] /= len(wordsImage)
+
+        if len(wordsImage) > 0:
+            final[i] /= len(wordsImage)
+        else:
+            final[i] = 0
 
     return final
