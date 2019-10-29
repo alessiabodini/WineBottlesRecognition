@@ -1,1 +1,0 @@
-% These pooling functions/gradients expect an im2col style data matrix
